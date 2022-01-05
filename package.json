@@ -1,5 +1,5 @@
 {
-  "name": "untitled2",
+  "name": "TaPo24",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -15,6 +15,7 @@
     "core-js": "^3.6.5",
     "register-service-worker": "^1.7.1",
     "vue": "^2.6.11",
+    "vue-pdf": "^4.3.0",
     "vue-router": "^3.2.0",
     "vuex": "^3.4.0"
   },

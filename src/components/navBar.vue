@@ -1,11 +1,11 @@
 <template>
   <div class="navbar">
-    <div class="desktop"><div class="nav_element"><div class="icon"><i class="fas fa-home"></i></div> Home</div></div>
-    <router-link :to="{name: 'Tariff'}"><div :class="[$route.name==='Tariff' ? 'nav_element_selected' : 'nav_element']"><div class="icon"><i class="fas fa-book-reader"></i></div>Taryfikator</div></router-link>
-    <div class="nav_element"><div class="icon"><i class="fas fa-road"></i></div>Droga</div>
-    <div class="nav_element"><div class="icon"><i class="fas fa-gavel"></i></div>Przepisy</div>
-    <div class="nav_element"><div class="icon"><i class="far fa-life-ring"></i></div>Pomoce</div>
-    <div class="desktop"><div class="nav_element"><div class="icon"><i class="fas fa-info"></i></div> Aplikacji</div></div>
+    <router-link :to="{name: 'Home'}"><div class="desktop"><div :class="[$route.name==='Home' ? 'nav_element_selected' : 'nav_element']"><div class="icon"><i class="fas fa-home"></i></div> Home</div></div></router-link>
+    <router-link :to="{path: '/tariff/'}"><div :class="[$route.name==='Tariff' ? 'nav_element_selected' : 'nav_element']"><div class="icon"><i class="fas fa-book-reader"></i></div>Taryfikator</div></router-link>
+    <router-link :to="{path: '/road/'}"><div :class="[$route.name==='Road' ? 'nav_element_selected' : 'nav_element']"><div class="icon"><i class="fas fa-road"></i></div>Droga</div></router-link>
+    <router-link :to="{path: '/law'}"><div :class="[$route.name==='Law' ? 'nav_element_selected' : 'nav_element']"><div class="icon"><i class="fas fa-gavel"></i></div>Przepisy</div></router-link>
+    <router-link :to="{path: '/helpers/'}"><div :class="[$route.name==='Helpers' ? 'nav_element_selected' : 'nav_element']"><div class="icon"><i class="far fa-life-ring"></i></div>Pomoce</div></router-link>
+    <router-link :to="{path: '/about/'}"><div class="desktop"><div :class="[$route.name==='About' ? 'nav_element_selected' : 'nav_element']"><div class="icon"><i class="fas fa-info"></i></div> Aplikacji</div></div></router-link>
   </div>
 </template>
 

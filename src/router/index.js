@@ -2,6 +2,10 @@ import Vue from 'vue'
 import VueRouter from 'vue-router'
 import Home from '../views/Home.vue'
 import Tariff from '@/views/Tariff'
+import Law from '@/views/Law'
+import Helpers from '@/views/Helpers'
+import Road from '@/views/Road'
+import Privacy from '@/views/Privacy'
 
 Vue.use(VueRouter)
 
@@ -15,6 +19,26 @@ const routes = [
     path: '/tariff',
     name: 'Tariff',
     component: Tariff
+  },
+  {
+    path: '/helpers',
+    name: 'Helpers',
+    component: Helpers
+  },
+  {
+    path: '/road',
+    name: 'Road',
+    component: Road
+  },
+  {
+    path: '/law',
+    name: 'Law',
+    component: Law
+  },
+  {
+    path: '/privacy',
+    name: 'Privacy',
+    component: Privacy
   },
   {
     path: '/about',

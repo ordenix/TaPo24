@@ -25,11 +25,13 @@ body {
   background-color: #293241;
   padding: 0;
   margin: 0;
+  overscroll-behavior-y: contain;
 }
 #app {
   background-color: #293241;
 }
-.view {
-  margin: 8px;
+.navbdar {
+  position: fixed;
+  top: 0;
 }
 </style>
