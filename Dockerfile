@@ -2,7 +2,7 @@ FROM node:lts-alpine AS builder
 
 RUN mkdir build_zone
 WORKDIR /build_zone
-COPY . .
+COPY src .
 RUN npm install
 RUN npm run build
 
