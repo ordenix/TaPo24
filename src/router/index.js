@@ -55,7 +55,15 @@ const router = new VueRouter({
   base: process.env.BASE_URL,
   routes
 })
-
+router.beforeEach((to, from, next) => {
+  if (from.path === '/tarrif/' && to.path !== '/tarrif/') {
+    this.$store.state.selected_tariff_data.search_text = ''
+    this.$store.state.selected_tariff_data.options_category = 'all'
+    next()
+  } else {
+    next()
+  }
+})
 const DEFAULT_TITLE = 'TaPo24'
 router.afterEach((to, from) => {
   // Use next tick to handle router history correctly

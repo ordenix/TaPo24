@@ -1,7 +1,6 @@
 <template>
   <div>
-    <div @click="genpdf">TEN MODUŁ AKTUALNIE JEST NIEDOSTĘPNY</div>
-    <div @click="genpdf2">TEN MODUŁ AKTUALNIE JEST NIEDOSTĘPNY</div>
+    <div>TEN MODUŁ AKTUALNIE JEST NIEDOSTĘPNY</div>
     <div id="adobe-dc-view"></div>
   </div>
 </template>

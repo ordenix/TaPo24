@@ -46,12 +46,17 @@
 <script>
 import tariffCard from '@/components/tariffCard'
 import tariffdata from '@/tariff_data.json'
+import { mapState } from 'vuex'
 export default {
   name: 'Tariff',
   components: {
     tariffCard
   },
   computed: {
+    ...mapState([
+      'scroll_pos_tariff',
+      'selected_tariff_data'
+    ]),
     filtered_data () {
       // TODO remove comment here and work filter
       if (this.selected_option === 'work') return this.tariff_array.filter(element => element.category === '')
@@ -60,8 +65,25 @@ export default {
       return this.tariff_array.filter(name => name.category.toLowerCase().includes(this.selected_option.toLowerCase())).filter(name => name.name.toLowerCase().includes(this.search_text.toLowerCase())).filter(visible => visible.visible !== false)
     }
   },
+  created () {
+    window.addEventListener('scroll', this.onScroll)
+    window.addEventListener('popstate', () => {
+      if (this.$store.state.ini_back && this.open_special_card) {
+        this.$store.state.ini_back = false
+        this.open_special_card = false
+        this.$store.state.selected_tariff_data.options_category = this.selected_option
+        this.$store.state.selected_tariff_data.search_text = this.search_text
+        this.$router.push({ path: '/tariff/' })
+      }
+    })
+  },
+  mounted () {
+    window.scrollTo(0, this.scroll_pos_tariff)
+    setTimeout(this.set_scroll_pos, 1)
+  },
   data () {
     return {
+      open_special_card: false,
       options_category: [
         { value: 'all', text: 'Wszystkie wykroczenia' },
         { value: 'accident', text: 'Kolizja' },
@@ -94,6 +116,12 @@ export default {
     }
   },
   methods: {
+    set_scroll_pos () {
+      window.scrollTo(0, this.scroll_pos_tariff)
+      this.$store.state.ini_back = true
+      this.selected_option = this.$store.state.selected_tariff_data.options_category
+      this.search_text = this.$store.state.selected_tariff_data.search_text
+    },
     category_filter (data) {
       if (data === null) return null
       const temp = this.options_category.filter(name => name.value.toLowerCase().includes(data.toLowerCase()))
@@ -103,6 +131,7 @@ export default {
       this.focus = false
     },
     click_on_tariff_card (data) {
+      this.open_special_card = true
       this.selected_data = data
       const form = document.getElementById('search_menu')
       form.addEventListener('focusout', (event) => {
@@ -122,8 +151,15 @@ export default {
       document.getElementById('overlay_container').style.opacity = '0%'
     },
     delay_close () {
+      this.open_special_card = false
       document.getElementById('overlay').style.visibility = 'hidden'
       document.getElementById('overlay_container').style.visibility = 'hidden'
+    },
+    onScroll (e) {
+      if (this.$store.state.ini_back) {
+        this.$store.state.scroll_pos_tariff = e.target.documentElement.scrollTop
+        console.log(e.target.documentElement.scrollTop)
+      }
     }
   }
 }
@@ -150,7 +186,7 @@ export default {
 input {
   width: 100%;
   font-size: 18px;
-  padding: 0px;
+  padding: 0;
   margin-top: 8px;
 }
 select {
@@ -173,7 +209,7 @@ hr {
   background-color: black;
   height: 100%;
   z-index: 100;
-  opacity: 0%;
+  opacity: 0;
   visibility: hidden;
   -webkit-transition: opacity 300ms;
 }
@@ -231,11 +267,8 @@ hr {
   padding: 10px 2px;
 }
 @media only screen and (min-width: 560px) {
-  .search_menu {
-    flex-direction: row;
-  }
   input {
-    margin-top: 0px;
+    margin-top: 0;
     margin-left: 10px;
     font-size: 20px;
   }
