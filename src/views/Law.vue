@@ -41,7 +41,7 @@ export default {
         { name: 'Roz. w sprawie kontroli ruchu drogowego', path: 'RWSK.pdf', icon: 'fas fa-car-crash' },
         { name: 'Ustawa o transporcie drogowym', path: 'TD.pdf', icon: 'fas fa-truck' }
       ],
-      master_path: 'localhost:8081/static/'
+      master_path: 'https://tapo24.pl/static/'
     }
   },
   methods: {
