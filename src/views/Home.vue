@@ -6,6 +6,7 @@
       <div class="whats_news">Co nowego?</div>
       <p>- Implementacja sekcji przepisy</p>
       <p>- Dodanie wyszukiwarki kodów pocztowych (tylko on-line)</p>
+      <p>- Możliwość wyszukiwania kodów w formacie XX-XXX lub XXXXX (41-100 41100)</p>
       <div class="version">wersja 1.1 [BETA]</div>
     </div>
     <div class="home">
