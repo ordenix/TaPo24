@@ -95,8 +95,10 @@ export default {
         { value: 'lights', text: 'Światła zewnętrzne' },
         { value: 'sign', text: 'Znaki i sygnały' },
         { value: 'belts', text: 'Przewóz osób/ pasy bezp.' },
-        { value: 'road', text: 'Karta Parkingowa' },
-        { value: 'stop', text: 'Postój/ Cofanie/ Zawracanie/ Holowanie' },
+        { value: 'invalid', text: 'Karta Parkingowa' },
+        { value: 'stop', text: 'Postój/Zatrzymanie/ Cofanie/ Zawracanie/ Holowanie' },
+        { value: 'allow', text: 'Dopuszczenie/ Kierowanie' },
+        { value: 'package', text: 'Przewóz ładunku/ Tablice/ Przejazd Kolejowy lub tramw.' },
         { value: 'others', text: 'Pozostałe' }
       ],
       tariff_array: tariffdata.tariff_array,
@@ -134,7 +136,7 @@ export default {
       this.open_special_card = true
       this.selected_data = data
       const form = document.getElementById('search_menu')
-      form.addEventListener('focusout', (event) => {
+      form.addEventListener('focusout', () => {
         this.focus = true
         setTimeout(this.focus_delay, 300)
       })

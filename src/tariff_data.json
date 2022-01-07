@@ -386,7 +386,7 @@
       "text": "art. 86b § 1 pkt 1 KW w zw. z art. 26 ust. 1 albo ust. 1a PRD",
       "tax": "1500/[3000]",
       "points": 10,
-      "code": "B 03!!!",
+      "code": "B 03",
       "law": "",
       "paragraph": "",
       "path": null
@@ -397,7 +397,7 @@
       "text": "art. 86b § 1 pkt 1 KW w zw. z art. 26 ust. 2 PRD",
       "tax": "1500/[3000]",
       "points": 10,
-      "code": "B 04!!!",
+      "code": "B 04",
       "law": "",
       "paragraph": "",
       "path": null
@@ -419,7 +419,7 @@
       "text": "art. 86b § 1 pkt 1 KW w zw. z art. 17 ust. 2 PRD",
       "tax": "1500/[3000]",
       "points": 5,
-      "code": "D 07!!!",
+      "code": "D 07",
       "law": "",
       "paragraph": "",
       "path": null
@@ -430,7 +430,7 @@
       "text": "art. 86b § 1 pkt 1 KW w zw. z art. 23 ust. 1 pkt 3 PRD",
       "tax": "1500/[3000]",
       "points": 6,
-      "code": "B 06!!!",
+      "code": "B 06",
       "law": "",
       "paragraph": "",
       "path": null
@@ -452,7 +452,7 @@
       "text": "art. 86b § 1 pkt 2 KW w zw. z art. 26 ust. 7 PRD",
       "tax": "1500/[3000]",
       "points": 10,
-      "code": "B 05!!!",
+      "code": "B 05",
       "law": "",
       "paragraph": "",
       "path": null
@@ -463,7 +463,7 @@
       "text": "art. 86b § 1 pkt 3 KW w zw. z art. 26 ust. 3 pkt 1 PRD",
       "tax": "1500/[3000]",
       "points": 10,
-      "code": "B 02!!!",
+      "code": "B 02",
       "law": "",
       "paragraph": "",
       "path": null
@@ -474,7 +474,7 @@
       "text": "art. 86b § 1 pkt 4 KW w zw. z art. 26 ust. 3 pkt 2 PRD",
       "tax": "1500/[3000]",
       "points": 10,
-      "code": "B 01!!!",
+      "code": "B 01",
       "law": "",
       "paragraph": "",
       "path": null
@@ -623,7 +623,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "others",
       "name": "Zajmowanie więcej niż jednego, wyznaczonego na jezdni, pasa ruchu ",
       "text": "art. 97KW w zw. z art. 16 ust. 4 PRD",
       "tax": "150",
@@ -634,7 +634,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "others",
       "name": "Naruszenie obowiązku poruszania się po poboczu przez kierującego pojazdem zaprzęgowym, rowerem, wózkiem rowerowym, motorowerem, wózkiem ręcznym albo osobę prowadzącą pojazd napędzany silnikiem",
       "text": "art. 97KW w zw. z art. 16 ust. 5 PRD",
       "tax": "100",
@@ -880,7 +880,7 @@
       "text": "art. 92a §2 KW w zw. z art. 20 lub art.31 ust. 1 pkt 1 PRD albo §27, §31 lub §81 ust. 1 i 2 ZSD",
       "tax": "800/[1600]",
       "points": 6,
-      "code": "E 03!!!",
+      "code": "E 03",
       "law": "",
       "paragraph": "",
       "path":  "1/speedlimit3140.png",
@@ -893,7 +893,7 @@
       "text": "art. 92a §2 KW w zw. z art. 20 lub art.31 ust. 1 pkt 1 PRD albo §27, §31 lub §81 ust. 1 i 2 ZSD",
       "tax": "1000/[2000]",
       "points": 8,
-      "code": "E 02!!!",
+      "code": "E 02",
       "law": "",
       "paragraph": "",
       "path": "1/speedlimit4150.png",
@@ -906,7 +906,7 @@
       "text": "art. 92a §2 KW w zw. z art. 20 lub art.31 ust. 1 pkt 1 PRD albo §27, §31 lub §81 ust. 1 i 2 ZSD",
       "tax": "1500/[3000]",
       "points": 10,
-      "code": "E 01!!!",
+      "code": "E 01",
       "law": "",
       "paragraph": "",
       "path": "1/speedlimit5160.png",
@@ -919,7 +919,7 @@
       "text": "art. 92a §2 KW w zw. z art. 20 lub art.31 ust. 1 pkt 1 PRD albo §27, §31 lub §81 ust. 1 i 2 ZSD",
       "tax": "2000/[4000]",
       "points": 10,
-      "code": "E 01!!!",
+      "code": "E 01",
       "law": "",
       "paragraph": "",
       "path": "1/speedlimit6170.png",
@@ -932,7 +932,7 @@
       "text": "art. 92a §2 KW w zw. z art. 20 lub art.31 ust. 1 pkt 1 PRD albo §27, §31 lub §81 ust. 1 i 2 ZSD",
       "tax": "2500/[5000]",
       "points": 10,
-      "code": "E 01!!!",
+      "code": "E 01",
       "law": "",
       "paragraph": "",
       "path": "1/speedlimit71.png",
@@ -940,7 +940,7 @@
       "max_speed": 1000
     },
     {
-      "category": "",
+      "category": "others",
       "name": "Niezachowanie przez kierujących pojazdami objętymi indywidualnym ograniczeniem prędkości albo pojazdami lub zespołami pojazdów o długości większej niż 7 metrów niezbędnego odstępu od pojazdów znajdujących się przed nimi ",
       "text": "",
       "tax": "200",
@@ -951,7 +951,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "others",
       "name": "Niezachowanie przez kierującego pojazdem wymaganego odstępu za poprzedzającym pojazdem poza obszarem zabudowanym w tunelu o długości przekraczającej 500 m ",
       "text": "",
       "tax": "300-500",
@@ -995,7 +995,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "others",
       "name": "Utrudnianie lub tamowanie ruchu poprzez niesygnalizowanie lub błędne sygnalizowanie manewru",
       "text": "art. 97KW w zw. z art. 22 ust. 5 PRD",
       "tax": "200",
@@ -1006,7 +1006,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "others",
       "name": "Nieodpowiednie ustawienie pojazdu na jezdni przed skręceniem",
       "text": "art. 97KW w zw. z art. 22 ust.2 PRD",
       "tax": "150",
@@ -1017,7 +1017,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "others",
       "name": "Omijanie pojazdu sygnalizującego zamiar skręcenia w lewo z jego lewej strony",
       "text": "art. 97KW w zw. z art. 23 ust. 1 pkt 2 PRD",
       "tax": "100",
@@ -1077,7 +1077,7 @@
       "text": "art. 92b KW w zw. z art. 24 ust. 7 pkt 1 PRD",
       "tax": "1000/[2000]",
       "points": 5,
-      "code": "F 04!!!",
+      "code": "F 04",
       "law": "",
       "paragraph": "",
       "path": null
@@ -1088,7 +1088,7 @@
       "text": "art. 92b KW w zw. z art. 24 ust. 7 pkt 2 PRD",
       "tax": "1000/[2000]",
       "points": 5,
-      "code": "F 04!!!",
+      "code": "F 04",
       "law": "",
       "paragraph": "",
       "path": null
@@ -1099,7 +1099,7 @@
       "text": "art. 92b KW w zw. z art. 24 ust. 7 pkt 3 PRD",
       "tax": "1000/[2000]",
       "points": 0,
-      "code": "F 06!!!",
+      "code": "F 06",
       "law": "",
       "paragraph": "",
       "path": null
@@ -1110,7 +1110,7 @@
       "text": "art. 92b KW w zw. z art. 24 ust. 11 PRD",
       "tax": "1000/[2000]",
       "points": 3,
-      "code": "F 11!!!",
+      "code": "F 11",
       "law": "",
       "paragraph": "",
       "path": null
@@ -1121,7 +1121,7 @@
       "text": "art. 92b KW w zw. z art. 24 ust. 4 PRD",
       "tax": "1000/[2000]",
       "points": 10,
-      "code": "F 03!!!",
+      "code": "F 03",
       "law": "",
       "paragraph": "",
       "path": null
@@ -1132,7 +1132,7 @@
       "text": "art. 92b KW w zw. z art. 28 ust. 3 pkt 3 PRD",
       "tax": "1000/[2000]",
       "points": 5,
-      "code": "F 07!!!",
+      "code": "F 07",
       "law": "",
       "paragraph": "",
       "path": null
@@ -1143,7 +1143,7 @@
       "text": "art. 92b KW w zw. z art. 28 ust. 6 PRD",
       "tax": "1000/[2000]",
       "points": 5,
-      "code": "F 08!!!",
+      "code": "F 08",
       "law": "",
       "paragraph": "",
       "path": null
@@ -1154,7 +1154,7 @@
       "text": "art. 92b KW w zw. z § 23 ust. 1−3 ZSD",
       "tax": "1000/[2000]",
       "points": 5,
-      "code": "F 09!!!",
+      "code": "F 09",
       "law": "",
       "paragraph": "",
       "path": null
@@ -1165,13 +1165,13 @@
       "text": "art. 92b KW w zw. z art. 28 ust. 3-5 PRD",
       "tax": "1000/[2000]",
       "points": 3,
-      "code": "F 02!!!",
+      "code": "F 02",
       "law": "",
       "paragraph": "",
       "path": null
     },
     {
-      "category": "",
+      "category": "stop",
       "name": "Naruszenie przez kierującego zakazu wjeżdżania na skrzyżowanie, jeśli na skrzyżowaniu lub za nim nie ma miejsca do kontynuowania jazdy",
       "text": "art. 97 KW w zw. z art. 25 ust. 4 pkt 1 PRD",
       "tax": "300",
@@ -1182,29 +1182,29 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "package",
       "name": "Naruszenie przez kierującego pojazdem zakazu objeżdżania opuszczonych zapór lub półzapór oraz wjeżdżania na przejazd, jeśli opuszczanie ich zostało rozpoczęte lub podnoszenie ich nie zostało zakończone",
       "text": "art. 97a pkt 1 KW w zw. z art. 28 ust. 3 pkt 1 PRD",
       "tax": "2000/[4000]",
       "points": 4,
-      "code": "H 14!!!",
+      "code": "H 14",
       "law": "",
       "paragraph": "",
       "path": null
     },
     {
-      "category": "",
+      "category": "package",
       "name": "Naruszenie przez kierującego pojazdem na przejeździe kolejowym zakazu wjazdu za sygnalizator przy sygnale czerwonym, czerwonym migającym lub dwóch na przemian migających sygnałach czerwonych, lub za inne urządzenie nadające te sygnały",
       "text": "art. 97a pkt 1 KW w zw. z § 98 ust. 5 ZSD",
       "tax": "2000/[4000]",
       "points": 6,
-      "code": "C 02!!!",
+      "code": "C 02",
       "law": "",
       "paragraph": "",
       "path": null
     },
     {
-      "category": "",
+      "category": "package",
       "name": "Naruszenie przez kierującego pojazdem zakazu wjeżdżania na przejazd kolejowy, jeśli po jego drugiej stronie nie ma miejsca do kontynuowania jazdy",
       "text": "art. 97a pkt 2 KW w zw. z art. 28 ust. 3 pkt 2 PRD",
       "tax": "2000/[4000]",
@@ -1215,7 +1215,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "package",
       "name": "Naruszenie zakazu wjeżdżania na przejazd tramwajowy, jeśli po jego drugiej stronie nie ma miejsca do kontynuowania jazdy, przez kierującego pojazdem mechanicznym ",
       "text": "art. 97 KW w zw. z art. 28 ust. 6 w zw. z ust. 3 pkt 2 PRD",
       "tax": "500",
@@ -1226,7 +1226,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "package",
       "name": "Naruszenie zakazu wjeżdżania na przejazd tramwajowy, jeśli po jego drugiej stronie nie ma miejsca do kontynuowania jazdy, przez kierującego pojazdem innym niż mechaniczny ",
       "text": "art. 97 KW w zw. z art. 28 ust. 6 w zw. z ust. 3 pkt 2 PRD",
       "tax": "100",
@@ -1237,7 +1237,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "package",
       "name": "Omijanie pojazdu oczekującego na otwarcie ruchu przez przejazd kolejowy (tramwajowy) w sytuacji, w której wymagało to wjechania na część jezdni przeznaczoną dla przeciwnego kierunku ruchu",
       "text": "art. 97 KW w zw. z art. 28 ust. 3 pkt 4 lub ust. 6 PRD",
       "tax": "250",
@@ -1248,7 +1248,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "package",
       "name": "Naruszenie obowiązku usunięcia pojazdu unieruchomionego na przejeździe kolejowym (tramwajowym) lub ostrzegania kierujących pojazdami szynowymi w sytuacji, w której usunięcie pojazdu nie było możliwe",
       "text": "art. 97 KW w zw. z art. 28 ust. 4 lub ust. 6 PRD",
       "tax": "300",
@@ -1259,7 +1259,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "lights",
       "name": "Niewłączenie przez kierującego pojazdem wymaganych świateł w czasie jazdy w warunkach zmniejszonej przejrzystości powietrza",
       "text": "art. 88 KW w zw. z art. 30 ust. 1 pkt 1 lit. a lub pkt 2 lit. a PRD",
       "tax": "200",
@@ -1281,7 +1281,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "others",
       "name": "Nadużywanie sygnałów dźwiękowych lub świetlnych",
       "text": "art. 97 KW w zw. z art. 29 ust. 2 pkt 1 PRD",
       "tax": "100",
@@ -1292,7 +1292,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "others",
       "name": "Używanie sygnałów dźwiękowych na obszarze zabudowanym",
       "text": "art. 97 KW w zw. z art. 29 ust. 2 pkt 2 PRD",
       "tax": "100",
@@ -1721,7 +1721,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "others",
       "name": "Niezachowanie przez kierującego pojazdem wymaganego minimalnego odstępu między pojazdem, którym kieruje, a pojazdem jadącym przed nim na tym samym pasie ruchu",
       "text": "art. 97 KW w zw. z art. 19 ust. 3a PRD",
       "tax": "300-500",
@@ -1732,7 +1732,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "others",
       "name": "Jazda autostradą lub drogą ekspresową w kierunku przeciwnym niż wynikający z ustawy lub znaków drogowych",
       "text": "art. 97 lub art. 92 § 1 w zw. z art. 16 ust. 2 PRD, art. 22 ust. 6 pkt 2 lub 3 PRD lub § 17 ust. 1 ZSD",
       "tax": "2000",
@@ -1754,7 +1754,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "others",
       "name": "Wjazd na autostradę lub drogę ekspresową pojazdem, dla ruchu którego drogi te nie są przeznaczone",
       "text": "art. 97 KW w zw. z art. 45 ust. 1 pkt 4 PRD",
       "tax": "250",
@@ -1776,7 +1776,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "stop",
       "name": "Nieusunięcie z jezdni pojazdu unieruchomionego z przyczyn technicznych oraz nieostrzeganie innych uczestników ruchu",
       "text": "art. 97 KW w zw. z art. 49 ust. 3 PRD",
       "tax": "300",
@@ -1809,7 +1809,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "stop",
       "name": "Naruszenie obowiązku zatrzymania pojazdu na jezdni jak najbliżej jej krawędzi i równolegle do niej ",
       "text": "art. 97 KW w zw. z art. 46 ust. 2  PRD",
       "tax": "100",
@@ -1842,7 +1842,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "others",
       "name": "Niezachowanie wymaganego odstępu za poprzedzającym pojazdem przez kierującego pojazdem w tunelu, podczas zatrzymania wynikającego z warunków lub przepisów ruchu drogowego ",
       "text": "art. 97 KW w zw. z art. 47a  PRD",
       "tax": "100",
@@ -1853,7 +1853,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "stop",
       "name": "Zatrzymywanie pojazdu na przejeździe kolejowym lub tramwajowym, na skrzyżowaniu oraz w odległości mniejszej niż 10 m od przejazdu lub skrzyżowania",
       "text": "art. 97 KW w zw. z art. 49 ust. 1 pkt 1 PRD",
       "tax": "300",
@@ -1864,7 +1864,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "stop",
       "name": "Zatrzymywanie pojazdu na przejściu dla pieszych lub na przejeździe dla rowerzystów oraz w odległości mniejszej niż 10 m przed tym przejściem lub przejazdem, a na drodze dwukierunkowej o dwóch pasach ruchu – także za nimi",
       "text": "art. 97 KW w zw. z art. 49 ust. 1 pkt 2 PRD",
       "tax": "100-300",
@@ -1875,7 +1875,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "stop",
       "name": "Zatrzymywanie pojazdu w tunelu, na moście lub na wiadukcie ",
       "text": "art. 97 KW w zw. z art. 49 ust. 1 pkt 3 PRD",
       "tax": "200",
@@ -1886,7 +1886,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "stop",
       "name": "Zatrzymywanie pojazdu na jezdni wzdłuż linii ciągłej oraz w pobliżu jej punktów krańcowych, jeżeli kierujący pojazdami wielośladowymi są zmuszeni do najeżdżania na tę linię ",
       "text": "art. 97 KW w zw. z art. 49 ust. 1 pkt 4 PRD",
       "tax": "100",
@@ -1897,7 +1897,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "stop",
       "name": "Zatrzymywanie pojazdu na jezdni obok linii przerywanej wyznaczającej krawędź jezdni oraz na jezdni lub na poboczu obok linii ciągłej wyznaczającej krawędź jezdni ",
       "text": "art. 97 KW w zw. z art. 49 ust. 1 pkt 5 PRD",
       "tax": "100",
@@ -1908,7 +1908,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "stop",
       "name": "Zatrzymywanie pojazdu w odległości mniejszej niż 10 m od przedniej strony znaku lub sygnału drogowego, jeżeli pojazd je zasłania ",
       "text": "art. 97 KW w zw. z art. 49 ust. 1 pkt 6 PRD",
       "tax": "100",
@@ -1919,7 +1919,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "stop",
       "name": "Zatrzymywanie pojazdu przy lewej krawędzi jezdni ",
       "text": "art. 97 KW w zw. z art. 49 ust. 1 pkt 7  PRD",
       "tax": "100",
@@ -1930,7 +1930,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "stop",
       "name": "Zatrzymywanie pojazdu na pasie między jezdniami",
       "text": "art. 97 KW w zw. z art. 49 ust. 1 pkt 8  PRD",
       "tax": "100",
@@ -1941,7 +1941,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "stop",
       "name": "Zatrzymywanie pojazdu w odległości mniejszej niż 15 m od słupka lub tablicy oznaczającej przystanek, a na przystanku z zatoką – na całej jej długości",
       "text": "art. 97 KW w zw. z art. 49 ust. 1 pkt 9 PRD",
       "tax": "100",
@@ -1952,7 +1952,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "stop",
       "name": "Zatrzymywanie pojazdu w odległości mniejszej niż 15 m od punktów krańcowych wysepki, jeżeli jezdnia z prawej jej strony ma tylko jeden pas ruchu",
       "text": "art. 97 KW w zw. z art. 49 ust. 1 pkt 10 PRD",
       "tax": "100",
@@ -1963,7 +1963,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "stop",
       "name": "Zatrzymywanie pojazdu na drodze dla rowerów, pasie ruchu dla rowerów lub w śluzie rowerowej, z wyjątkiem roweru",
       "text": "art. 97 KW w zw. z art. 49 ust. 1 pkt 11 PRD",
       "tax": "100",
@@ -2128,7 +2128,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "others",
       "name": "Bezpodstawne korzystanie z ułatwień w ruchu drogowym przez kierującego pojazdem uprzywilejowanym ",
       "text": "art. 97 KW w zw. z art. 53 ust. 2 PRD",
       "tax": "300",
@@ -2139,7 +2139,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "lights",
       "name": "Naruszenie przepisów o obowiązku wysyłania przez pojazdy żółtych sygnałów błyskowych ",
       "text": "art. 97 KW w zw. z art. 54 ust. 1 lub ust. 3  PRD",
       "tax": "200",
@@ -2150,7 +2150,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "lights",
       "name": "Bezpodstawne używanie żółtego sygnału błyskowego",
       "text": "art. 97 KW w zw. z art. 54 ust. 4  PRD",
       "tax": "100",
@@ -2161,7 +2161,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "package",
       "name": "Brak oznaczenia lub niewłaściwe oznaczenie pojazdów do nauki jazdy lub przeprowadzania egzaminu państwowego ",
       "text": "art. 97 KW w zw. z art. 55 ust. 1 PRD",
       "tax": "300",
@@ -2172,7 +2172,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "package",
       "name": "Nieoznaczenie pojazdu zarejestrowanego za granicą znakiem określającym państwo rejestracji",
       "text": "art. 97 KW w zw. z art. 59 ust. 2  PRD",
       "tax": "100",
@@ -2183,7 +2183,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "others",
       "name": "Używanie pojazdu w sposób zagrażający bezpieczeństwu osoby znajdującej się w pojeździe lub poza nim ",
       "text": "art. 97 KW w zw. z art. 60 ust. 1 pkt 1  PRD",
       "tax": "200",
@@ -2205,7 +2205,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "package",
       "name": "Zakrywanie tablic rejestracyjnych ",
       "text": "art. 97 KW w zw. z art. 60 ust. 1 pkt 2  PRD",
       "tax": "500",
@@ -2216,7 +2216,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "package",
       "name": "Zakrywanie innych wymaganych tablic albo znaków, które powinny być widoczne ",
       "text": "art. 97 KW w zw. z art. 60 ust. 1 pkt 2  PRD",
       "tax": "100",
@@ -2227,7 +2227,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "package",
       "name": "Ozdabianie tablic rejestracyjnych oraz umieszczanie z przodu lub z tyłu pojazdu znaków, napisów lub przedmiotów ograniczających czytelność tych tablic ",
       "text": "art. 97 KW w zw. z art. 60 ust. 1 pkt 3  PRD",
       "tax": "500",
@@ -2238,7 +2238,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "package",
       "name": "Umieszczanie na pojeździe tablic rejestracyjnych w innym miejscu niż konstrukcyjnie do tego przeznaczone ",
       "text": "art. 97 KW w zw. z art. 60 ust. 1 pkt 3a PRD",
       "tax": "500",
@@ -2249,7 +2249,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "package",
       "name": "Umieszczanie na pojeździe jednorzędowych zmniejszonych tablic rejestracyjnych, jeżeli pojazd nie posiada zmniejszonych wymiarów miejsca konstrukcyjnie przeznaczonego do umieszczania tablicy rejestracyjnej ",
       "text": "art. 97 KW w zw. z art. 60 ust. 1 pkt 3b PRD",
       "tax": "300",
@@ -2260,7 +2260,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "package",
       "name": "Umieszczenie na pojeździe znaku określającego inne państwo niż to, w którym pojazd został zarejestrowany ",
       "text": "art. 97 KW w zw. z art. 60 ust. 1 pkt 4  PRD",
       "tax": "100",
@@ -2271,7 +2271,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "package",
       "name": "Niedopełnienie przez kierującego pojazdem obowiązku utrzymywania tablic (tablicy) rejestracyjnych i innych wymaganych oznaczeń pojazdu w należytym stanie oraz zapewnienia ich czytelności",
       "text": "art. 97 KW w zw. z art. 60 ust. 1a  PRD",
       "tax": "100",
@@ -2282,7 +2282,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "others",
       "name": "Oddalenie się kierującego od pojazdu, gdy silnik jest w ruchu ",
       "text": "art. 97 KW w zw. z art. 60 ust. 2 pkt 1 PRD",
       "tax": "50",
@@ -2293,7 +2293,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "others",
       "name": "Używanie pojazdu na obszarze zabudowanym w sposób powodujący uciążliwości związane z nadmierną emisją spalin do środowiska lub nadmiernym hałasem ",
       "text": "art. 97 KW w zw. z art. 60 ust. 2 pkt 2  PRD",
       "tax": "nie wyższa niż 300",
@@ -2315,7 +2315,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "others",
       "name": "Ciągnięcie za pojazdem kierującego hulajnogą elektryczną lub urządzeniem transportu osobistego, osoby poruszającej przy użyciu urządzenia wspomagającego ruch, osoby na sankach lub innym podobnym urządzeniu, zwierzęcia lub ładunku",
       "text": "art. 97 KW w zw. z art. 60 ust. 2 pkt 4  PRD",
       "tax": "300",
@@ -2325,7 +2325,7 @@
       "paragraph": "",
       "path": null
     },    {
-      "category": "",
+      "category": "others",
       "name": "Używanie opon z umieszczonymi w nich na trwałe elementami przeciwślizgowymi ",
       "text": "art. 97 KW w zw. z art. 60 ust. 2 pkt 5  PRD",
       "tax": "100",
@@ -2336,7 +2336,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "others",
       "name": "Używanie łańcuchów przeciwślizgowych na oponach na drodze niepokrytej śniegiem",
       "text": "art. 97 KW w zw. z art. 60 ust. 3  PRD",
       "tax": "100",
@@ -2347,7 +2347,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "others",
       "name": "Wjeżdżanie między jadące w kolumnie rowery, wózki rowerowe lub hulajnogi elektryczne",
       "text": "art. 97 KW w zw. z art. 32 ust. 6  PRD",
       "tax": "200",
@@ -2358,7 +2358,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "package",
       "name": "Naruszenie przepisów przez kierującego pojazdem przewożącym zorganizowaną grupę dzieci lub młodzieży w wieku do 18 lat, w tym nieoznaczenie pojazdu tablicami informującymi, że przewożone są nim dzieci lub młodzież",
       "text": "art. 97 KW w zw. z art. 57 ust. 1  PRD",
       "tax": "200",
@@ -2380,7 +2380,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "package",
       "name": "Naruszenie przepisów przez kierującego pojazdem przewożącym zorganizowaną grupę dzieci lub młodzieży w wieku do 18 lat, w tym oznaczenie pojazdu tablicami informującymi, że przewożone są nim dzieci lub młodzież, w czasie gdy dzieci lub młodzież nie są przewożone",
       "text": "art. 97 KW w zw. z art. 57 ust. 3  PRD",
       "tax": "50",
@@ -2391,7 +2391,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "stop",
       "name": "Niezachowanie szczególnej ostrożności i niezatrzymanie pojazdu w razie potrzeby przez kierującego pojazdem, który omija pojazd przewożący zorganizowaną grupę dzieci lub młodzieży w wieku do 18 lat",
       "text": "art. 97 KW w zw. z art. 57 ust. 2  PRD",
       "tax": "200",
@@ -2413,7 +2413,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "package",
       "name": "Niedopełnienie przez kierującego autobusem szkolnym obowiązku zdjęcia, zasłonięcia lub złożenia tablicy z napisem \"autobus szkolny\", jeżeli są przewożone inne osoby lub nie przewozi się żadnych osób",
       "text": "art. 97 KW w zw. z art. 57a ust. 3  PRD",
       "tax": "50",
@@ -2424,7 +2424,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "invalid",
       "name": "Naruszenie przepisów dotyczących przewożenia osób niepełnosprawnych przez kierującego pojazdem przewożącym takie osoby",
       "text": "art. 97 KW w zw. z art. 58 ust. 1  PRD",
       "tax": "200",
@@ -2435,7 +2435,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "stop",
       "name": "Niezachowanie szczególnej ostrożności i niezatrzymanie pojazdu w razie potrzeby przez kierującego pojazdem, który omija pojazd przeznaczony do przewozu osób niepełnosprawnych",
       "text": "art. 97 KW w zw. z art. 58 ust. 2 PRD",
       "tax": "200",
@@ -2457,7 +2457,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "package",
       "name": "Umieszczenie na pojeździe ładunku w sposób zasłaniający tablice rejestracyjne lub inne tablice albo znaki, w które pojazd jest wyposażony ",
       "text": "art. 97 KW w zw. z art. 61 ust. 2 pkt 4 PRD",
       "tax": "100",
@@ -2468,7 +2468,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "package",
       "name": "Przewożenie ładunku nieoznaczonego lub oznaczonego w niewłaściwy sposób",
       "text": "art. 97 KW w zw. z art. 61 ust. 8 w zw. z ust. 9 PRD",
       "tax": "300",
@@ -2479,7 +2479,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "package",
       "name": "Niezabezpieczenie urządzeń służących do mocowania ładunku przed rozluźnieniem się, swobodnym zwisaniem lub spadnięciem podczas jazdy",
       "text": "art. 97 KW w zw. z art. 61 ust. 4  PRD",
       "tax": "200",
@@ -2490,7 +2490,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "package",
       "name": "Naruszenie przepisów o przewozie ładunków sypkich",
       "text": "art. 97 KW w zw. z art. 61 ust. 5 PRD",
       "tax": "150",
@@ -2500,7 +2500,7 @@
       "paragraph": "",
       "path": null
     },    {
-      "category": "",
+      "category": "package",
       "name": "Ciągnięcie przyczepy o rzeczywistej masie całkowitej większej niż dopuszczalna w odniesieniu do określonego rodzaju pojazdu ciągnącego",
       "text": "art. 97 KW w zw. z art. 62 ust. 1  PRD",
       "tax": "100-300",
@@ -2568,7 +2568,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "allow",
       "name": "Kierowanie pojazdem innym niż mechaniczny na drodze publicznej, w strefie zamieszkania lub strefie ruchu przez osobę niemającą do tego uprawnienia",
       "text": "art. 94 § 1a  KW w zw. z art. 3 w zw. z art. 7 ust. 1 pkt 2 lub 3  UOK",
       "tax": "200",
@@ -2579,7 +2579,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "allow",
       "name": "Kierowanie pojazdem przez osobę nieposiadającą przy sobie wymaganych dokumentów",
       "text": " art. 95  KW w zw. z art. 38 lub art. 71 ust. 5a  PRD",
       "tax": "50 za każdy dokument nie więcej niż 250",
@@ -2590,7 +2590,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "allow",
       "name": "Kierowanie na drodze publicznej, w strefie zamieszkania lub w strefie ruchu pojazdem innym niż mechaniczny przez osobę znajdującą się w stanie nietrzeźwości lub pod wpływem środka działającego podobnie do alkoholu ",
       "text": "art. 87 § 1a KW w zw. z art. 45 ust. 1 pkt 1 PRD",
       "tax": "2500",
@@ -2601,7 +2601,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "allow",
       "name": "Kierowanie na drodze publicznej, w strefie zamieszkania lub w strefie ruchu pojazdem innym niż mechaniczny przez osobę znajdującą się w stanie po użyciu alkoholu lub podobnie działającego środka ",
       "text": "art. 87 § 2 KW w zw. z art. 45 ust. 1 pkt 1 PRD",
       "tax": "1000",
@@ -2634,7 +2634,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "allow",
       "name": "Dopuszczenie przez właściciela, posiadacza, użytkownika lub prowadzącego pojazd do prowadzenia pojazdu na drodze publicznej, w strefie zamieszkania lub strefie ruchu przez osobę niemającą wymaganych uprawnień ",
       "text": "art. 96 § 1 pkt 2  KW w zw. z art. 3 w zw. z art. 7 ust. 1 pkt 2 lub 3  UOK",
       "tax": "300",
@@ -2645,7 +2645,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "allow",
       "name": "Dopuszczenie przez właściciela, posiadacza, użytkownika lub prowadzącego pojazd do jazdy na drodze publicznej, w strefie zamieszkania lub w strefie ruchu pojazdu nienależycie zaopatrzonego w wymagane urządzenia lub przyrządy albo pomimo że nie nadają się one do spełnienia swojego przeznaczenia",
       "text": "art. 96 § 1 pkt 5  KW w zw. z art. 66  PRD",
       "tax": "50-200",
@@ -2656,7 +2656,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "allow",
       "name": "Dopuszczenie przez właściciela, posiadacza, użytkownika lub prowadzącego pojazd do jazdy na drodze publicznej, w strefie zamieszkania lub w strefie ruchu pojazdu pomimo braku wymaganych dokumentów stwierdzających dopuszczenie pojazdu do ruchu ",
       "text": "art. 96 § 1 pkt 4  KW w zw. z art. 71   PRD",
       "tax": "50",
@@ -2732,7 +2732,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "others",
       "name": "Wypasanie zwierzęcia gospodarskiego w pasie drogowym",
       "text": "art. 100 pkt 4  KW w zw. z art. 39 ust. 1 pkt 10 UODP",
       "tax": "50",
@@ -2743,7 +2743,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "others",
       "name": "Uchylanie się od obowiązku utrzymania w należytym stanie zjazdów z dróg publicznych do przyległych nieruchomości ",
       "text": "art. 102  KW w zw. z art. 30 UODP",
       "tax": "200",
@@ -2754,7 +2754,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "others",
       "name": "Uchylanie się od obowiązku oczyszczania i usuwania błota, kurzu, śniegu lub lodu z odcinków dróg publicznych o twardej nawierzchni przechodzących przez obszary o zabudowie ciągłej lub skupionej poza miastami lub osiedlami",
       "text": "art. 101  KW w zw. z art. 5 ust. 1 pkt 4, ust. 3, ust. 4 pkt 2 i 3 lub ust. 5 UCiPG",
       "tax": "200",
@@ -2765,7 +2765,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "others",
       "name": "Naruszenie przepisów w sprawie okresowych ograniczeń oraz zakazu ruchu niektórych rodzajów pojazdów na drogach",
       "text": "art. 97  KW w zw. z § 2 RMT",
       "tax": "200-500",
@@ -3732,7 +3732,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "others",
       "name": "Nieustąpienie pierwszeństwa przez kierującego pojazdem zmieniającego zajmowany pas ruchu",
       "text": "art. 97 KW w zw. z art. 22 ust. 4",
       "tax": "20-3000",
@@ -3963,7 +3963,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "allow",
       "name": "Kierowanie pojazdem mechanicznym pomimo braku dopuszczenia pojazdu do ruchu na drodze publicznej, w strefie zamieszkania lub strefie ruchu",
       "text": "art. 94§2 KW w zw. z art. 71 PRD",
       "tax": "1500-5000",

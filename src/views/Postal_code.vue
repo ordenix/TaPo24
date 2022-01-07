@@ -15,14 +15,18 @@
       </div>
       <div class="response_place">
         <div id="response">
-          <div>Miejscowość:</div>
-          <div> {{data.miejscowosc}}</div>
-          <div>Gmina:</div>
-          <div>{{data.gmina}}</div>
-          <div>Powiat:</div>
-          <div>{{data.powiat}}</div>
-          <div>Województwo:</div>
-          <div>{{data.wojewodztwo}}</div>
+          <div v-for="( element, index) in array_data" :key="index">
+            <div v-if="!element.nazwa" id="response_card">
+              <div>Miejscowość:</div>
+              <div> {{element.miejscowosc}}</div>
+              <div>Gmina:</div>
+              <div>{{element.gmina}}</div>
+              <div>Powiat:</div>
+              <div>{{element.powiat}}</div>
+              <div>Województwo:</div>
+              <div>{{element.wojewodztwo}}</div>
+            </div>
+          </div>
         </div>
       </div>
     </div>
@@ -38,12 +42,6 @@ export default {
       alert_text: '',
       array_data: [],
       city: '',
-      data: {
-        gmina: '',
-        miejscowosc: '',
-        powiat: '',
-        wojewodztwo: ''
-      },
       postal: ''
     }
   },
@@ -67,15 +65,15 @@ export default {
         return
       }
       if (this.city === '') {
+        // Test code alphabet
         if (this.postal.search(/[A-zżźćńółęąśŻŹĆĄŚĘŁÓŃ]/) !== -1) {
           this.show_alert('Wprowadź prawidłowy kod pocztowy!!')
         } else {
           if (this.postal.search(/^\d{2}(-?\d{3})?$/) !== -1) {
-            console.log('postal-true')
+            // Test passed to code format xx-xxx
             if (this.postal.search(/^[0-9]{5}$/) !== -1) {
-              console.log('number to modify')
+              // Test pass to code format xxxxx and function to modify
               const convert = [this.postal.slice(0, 2), '-', this.postal.slice(2)].join('')
-              console.log(convert)
               this.send_function(convert, 'postal')
             } else {
               this.send_function(this.postal, 'postal')
@@ -90,23 +88,13 @@ export default {
     },
     onInputPostalClick () {
       this.city = ''
-      this.data = {
-        gmina: '',
-        miejscowosc: '',
-        powiat: '',
-        wojewodztwo: ''
-      }
+      this.array_data = []
       document.getElementById('response').style.fontSize = '0'
       document.getElementById('response').style.opacity = '0'
+      document.getElementById('response').style.height = '0'
     },
     onInputCityClick () {
       this.postal = ''
-      this.data = {
-        gmina: '',
-        miejscowosc: '',
-        powiat: '',
-        wojewodztwo: ''
-      }
       document.getElementById('response').style.fontSize = '0'
       document.getElementById('response').style.opacity = '0'
     },
@@ -126,21 +114,23 @@ export default {
               }
               lastElement = element.miejscowosc
             }
-            this.data = response.data[0]
-            console.log('response')
-            console.log(response.data)
+          })
+          .catch(error => {
+            if (error.response.status === 404) {
+              this.show_alert('Nie znaleziono kodu w bazie')
+            }
           })
       }
       if (type === 'city') {
         axios
           .get('http://kodpocztowy.intami.pl/city/' + code, { headers })
           .then(response => {
-            this.data = response.data[0]
             console.log(response.data)
           })
       }
       document.getElementById('response').style.fontSize = '15px'
       document.getElementById('response').style.opacity = '100'
+      document.getElementById('response').style.height = 'unset'
     },
     show_alert (text) {
       this.alert_text = text
@@ -161,8 +151,7 @@ export default {
   border-radius: 8px;
   padding: 0;
   background-color: #EE6C4D;
-  transition: opacity .5s;
-  transition: font-size .5s;
+  transition: font-size .5s, opacity .5s;
   font-family: 'Readex Pro', sans-serif;
   font-weight: bold;
 }
@@ -184,10 +173,15 @@ export default {
 #response {
   opacity: 0;
   font-size: 0;
-  transition: font-size .5s;
   font-family: 'Readex Pro', sans-serif;
   font-weight: bold;
   color: #98C1D9;
+}
+#response_card {
+  background-color: #293241;
+  border-radius: 2px;
+  padding: 5px 5px;
+  margin: 10px 5px;
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
   grid-template-rows: auto;
