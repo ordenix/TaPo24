@@ -100,12 +100,15 @@ export default {
     },
     send_function (code, type) {
       const headers = {
-        'Content-Type': 'application/json'
+        'x-traceid': 'optional_abc123',
+        accept: 'application/json',
+        'x-rapidapi-host': 'polish-zip-codes1.p.rapidapi.com',
+        'x-rapidapi-key': 'c12d626061msh43653fb2a1f88cbp1d0a56jsndebedd586ca5'
       }
       this.array_data = []
       if (type === 'postal') {
         axios
-          .get('http://kodpocztowy.intami.pl/api/' + code, { headers })
+          .get('https://polish-zip-codes1.p.rapidapi.com/' + code, { headers })
           .then(response => {
             let lastElement = null
             for (const element of response.data) {

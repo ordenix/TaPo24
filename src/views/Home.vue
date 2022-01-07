@@ -5,6 +5,7 @@
       <div class="date">2022-01-07</div>
       <div class="whats_news">Co nowego?</div>
       <p>- Implementacja sekcji przepisy</p>
+      <p>- Dodanie wyszukiwarki kodów pocztowych (tylko on-line)</p>
       <div class="version">wersja 1.1 [BETA]</div>
     </div>
     <div class="home">
