@@ -1,6 +1,6 @@
 <template>
   <div id="main">
-    <div v-if="true" class="container">
+    <div v-if="false" class="container">
       <div class="element" @click="goto('/postal_code/')">
         <div class="icon"><i class="fas fa-envelope"></i></div>
         <div class="label">Kody pocztowe</div>

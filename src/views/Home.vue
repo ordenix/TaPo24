@@ -4,7 +4,6 @@
       <div class="title"> TAryfikator POlicyjny24 </div>
       <div class="date">2022-01-07</div>
       <div class="whats_news">Co nowego?</div>
-      <p>- Dodanie modułu kody pocztowe w sekcji pomoce (aktualnie działa tylko online)</p>
       <p>- Implementacja sekcji przepisy</p>
       <div class="version">wersja 1.1 [BETA]</div>
     </div>
