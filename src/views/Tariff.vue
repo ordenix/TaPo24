@@ -59,7 +59,7 @@ export default {
     ]),
     filtered_data () {
       // TODO remove comment here and work filter
-      if (this.selected_option === 'work') return this.tariff_array.filter(element => element.category === '')
+      if (this.selected_option === 'work') return this.tariff_array.filter(element => element.category === '').filter(name => name.name.toLowerCase().includes(this.search_text.toLowerCase()))
       if (!isNaN(parseInt(this.search_text))) return this.tariff_array.filter(limit => limit.min_speed <= parseInt(this.search_text)).filter(limit => limit.max_speed >= parseInt(this.search_text)).filter(visible => visible.visible !== false)
       if (this.selected_option === 'all') return this.tariff_array.filter(name => name.name.toLowerCase().includes(this.search_text.toLowerCase())).filter(visible => visible.visible !== false)
       return this.tariff_array.filter(name => name.category.toLowerCase().includes(this.selected_option.toLowerCase())).filter(name => name.name.toLowerCase().includes(this.search_text.toLowerCase())).filter(visible => visible.visible !== false)
@@ -91,13 +91,13 @@ export default {
         { value: 'support', text: 'Wykroczenia pieszych z urz. wsp. ruch/ rowerzystów' },
         { value: 'to_pede', text: 'Wykroczenia wobec pieszych przez poj. mech.' },
         { value: 'non_mech_to_pede', text: 'Wykroczenia wobec pieszych przez poj. inny niż mech.' },
-        { value: 'speed', text: 'Prędkość pojazdu' },
+        { value: 'speed', text: 'Prędkość pojazdu/ wyprzedzanie' },
         { value: 'lights', text: 'Światła zewnętrzne' },
         { value: 'sign', text: 'Znaki i sygnały' },
         { value: 'belts', text: 'Przewóz osób/ pasy bezp.' },
         { value: 'road', text: 'Karta Parkingowa' },
-        { value: 'others', text: 'Pozostałe' },
-        { value: 'work', text: 'ROBOCZE !' }
+        { value: 'stop', text: 'Postój/ Cofanie/ Zawracanie/ Holowanie' },
+        { value: 'others', text: 'Pozostałe' }
       ],
       tariff_array: tariffdata.tariff_array,
       selected_option: 'all',
@@ -158,7 +158,6 @@ export default {
     onScroll (e) {
       if (this.$store.state.ini_back) {
         this.$store.state.scroll_pos_tariff = e.target.documentElement.scrollTop
-        console.log(e.target.documentElement.scrollTop)
       }
     }
   }

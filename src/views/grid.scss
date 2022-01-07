@@ -1,0 +1,38 @@
+#main {
+  padding: 10px 10px;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  grid-template-rows: auto;
+  grid-gap: 6px;
+}
+.element {
+  background-color: #EE6C4D;
+  height: 100px;
+  padding: 3px 3px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 2px;
+  font-family: 'Readex Pro', sans-serif;
+}
+.element:hover {
+  background-color: #98C1D9;
+}
+.icon {
+  font-size: 30px;
+  text-align: center;
+}
+.label {
+  font-size: 15px;
+  text-align: center;
+}
+
+@media only screen and (min-width: 700px) {
+  .container {
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+  }
+}

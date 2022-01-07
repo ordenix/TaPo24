@@ -30,8 +30,8 @@
       "tax": "50",
       "points": null,
       "code": null,
-      "law": "art. 97KW",
-      "paragraph": "",
+      "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
+      "paragraph": "art. 11 ust. 2 PRD Pieszy idący po poboczu lub jezdni jest obowiązany iść lewą stroną drogi.",
       "path": null
     },
     {
@@ -41,8 +41,8 @@
       "tax": "50",
       "points": null,
       "code": null,
-      "law": "art. 97KW",
-      "paragraph": "",
+      "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
+      "paragraph": "art. 11 ust. 3 PRD Piesi idący jezdnią są obowiązani iść jeden za drugim. Na drodze o małym\nruchu, w warunkach dobrej widoczności, dwóch pieszych może iść obok siebie.",
       "path": null
     },
     {
@@ -52,8 +52,8 @@
       "tax": "50",
       "points": null,
       "code": null,
-      "law": "art. 97KW",
-      "paragraph": "",
+      "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
+      "paragraph": "art. 11 ust. 4 PRD Korzystanie przez pieszego z drogi dla rowerów jest dozwolone tylko w razie\nbraku chodnika lub pobocza albo niemożności korzystania z nich. Pieszy, z wyjątkiem\nosoby niepełnosprawnej, korzystając z tej drogi, jest obowiązany ustąpić miejsca\nosobie poruszającej się przy użyciu urządzenia wspomagającego ruch, kierującemu\nrowerem, hulajnogą elektryczną lub urządzeniem transportu osobistego.",
       "path": null
     },
     {
@@ -63,8 +63,8 @@
       "tax": "100",
       "points": null,
       "code": null,
-      "law": "art. 97KW",
-      "paragraph": "",
+      "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
+      "paragraph": "art. 11 ust. 4a PRD Pieszy poruszający się po drodze po zmierzchu poza obszarem zabudowanym\njest obowiązany używać elementów odblaskowych w sposób widoczny dla innych\nuczestników ruchu, chyba że porusza się po drodze przeznaczonej wyłącznie dla\npieszych lub po chodniku.",
       "path": null
     },
     {
@@ -74,8 +74,13 @@
       "tax": "50",
       "points": null,
       "code": null,
-      "law": "art. 97KW",
+      "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
       "paragraph": "",
+      "paragraph_sub": {
+        "1": "art. 13 ust. 1. PRD Pieszy wchodzący na jezdnię lub torowisko albo przechodzący przez jezdnię lub torowisko jest obowiązany zachować szczególną ostrożność oraz, z zastrzeżeniem ust. 2 i 3, korzystać z przejścia dla pieszych.",
+        "2": "art. 13 ust. 2. PRD Przechodzenie przez jezdnię poza przejściem dla pieszych jest dozwolone, gdy\nodległość od przejścia przekracza 100 m. Jeżeli jednak skrzyżowanie znajduje się\nw odległości mniejszej niż 100 m od wyznaczonego przejścia, przechodzenie jest\ndozwolone również na tym skrzyżowaniu",
+        "3": "art. 13 ust. 3. PRD Przechodzenie przez jezdnię poza przejściem dla pieszych, o którym mowa\nw ust. 2, jest dozwolone tylko pod warunkiem, że nie spowoduje zagrożenia\nbezpieczeństwa ruchu lub utrudnienia ruchu pojazdów. Pieszy jest obowiązany ustąpić\npierwszeństwa pojazdom i do przeciwległej krawędzi jezdni iść drogą najkrótszą,\nprostopadle do osi jezdni."
+      },
       "path": null
     },
     {
@@ -85,8 +90,8 @@
       "tax": "150",
       "points": null,
       "code": null,
-      "law": "art. 97KW",
-      "paragraph": "",
+      "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
+      "paragraph": "art. 14 pkt 1 lit.a PRD Zabrania się wchodzenia na jezdnię bezpośrednio przed jadący pojazd, w tym również na przejściu dla pieszych",
       "path": null
     },
     {
@@ -96,8 +101,8 @@
       "tax": "200",
       "points": null,
       "code": null,
-      "law": "art. 97KW",
-      "paragraph": "",
+      "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
+      "paragraph": "art. 14 pkt 1 lit.a PRD Zabrania się wchodzenia na jezdnię bezpośrednio przed jadący pojazd, w tym również na przejściu dla pieszych",
       "path": null
     },
     {
@@ -107,8 +112,8 @@
       "tax": "200",
       "points": null,
       "code": null,
-      "law": "art. 97KW",
-      "paragraph": "",
+      "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
+      "paragraph": "art. 14 pkt 1 lit.b PRD Zabrania się wchodzenia na jezdnię spoza pojazdu lub innej przeszkody ograniczającej widoczność drogi",
       "path": null
     },
     {
@@ -118,8 +123,8 @@
       "tax": "50",
       "points": null,
       "code": null,
-      "law": "art. 97KW",
-      "paragraph": "",
+      "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
+      "paragraph": "art. 14 pkt 2 PRD Zabrania się przechodzenia przez jezdnię w miejscu o ograniczonej widoczności drogi",
       "path": null
     },
     {
@@ -129,8 +134,8 @@
       "tax": "100",
       "points": null,
       "code": null,
-      "law": "art. 97KW",
-      "paragraph": "",
+      "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
+      "paragraph": "art. 14 pkt 2 PRD Zabrania się przechodzenia przez jezdnię w miejscu o ograniczonej widoczności drogi",
       "path": null
     },
     {
@@ -140,8 +145,8 @@
       "tax": "50",
       "points": null,
       "code": null,
-      "law": "art. 97KW",
-      "paragraph": "",
+      "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
+      "paragraph": "art. 14 pkt 3 PRD Zabrania się zwalniania kroku lub zatrzymywania się bez uzasadnionej potrzeby podczas\nprzechodzenia przez jezdnię lub torowisko",
       "path": null
     },
     {
@@ -151,8 +156,8 @@
       "tax": "50",
       "points": null,
       "code": null,
-      "law": "art. 97KW",
-      "paragraph": "",
+      "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
+      "paragraph": "art. 14 pkt 4 PRD Zabrania się przebiegania przez jezdnię",
       "path": null
     },
     {
@@ -162,8 +167,8 @@
       "tax": "50",
       "points": null,
       "code": null,
-      "law": "art. 97KW",
-      "paragraph": "",
+      "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
+      "paragraph": "art. 14 pkt 5 PRD Zabrania się chodzenia po torowisku",
       "path": null
     },
     {
@@ -173,8 +178,8 @@
       "tax": "2000",
       "points": null,
       "code": null,
-      "law": "art. 97KW",
-      "paragraph": "",
+      "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
+      "paragraph": "art. 14 pkt 6 PRD Zabrania się  wchodzenia na torowisko, gdy zapory lub półzapory są opuszczone lub\nopuszczanie ich rozpoczęto",
       "path": null
     },
     {
@@ -968,7 +973,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "stop",
       "name": "Zawracanie w warunkach, w których mogłoby to zagrażać bezpieczeństwu ruchu lub ruch ten utrudnić",
       "text": "art. 97KW w zw. z art. 22 ust. 6 pkt 4 PRD",
       "tax": "200-400",
@@ -979,7 +984,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "stop",
       "name": "Zawracanie w tunelach, na mostach i wiaduktach oraz na drogach jednokierunkowych",
       "text": "art. 97KW w zw. z art. 22 ust. 6 pkt 1 PRD",
       "tax": "200",
@@ -1023,7 +1028,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "stop",
       "name": "Naruszenie zakazów cofania w tunelach, na mostach i wiaduktach",
       "text": "art. 97KW w zw. z art. 23 ust. 2 PRD",
       "tax": "200",
@@ -1034,7 +1039,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "speed",
       "name": "Wyprzedzanie bez zachowania bezpiecznego odstępu od wyprzedzanego pojazdu lub uczestnika ruchu",
       "text": "art. 97KW w zw. z art. 24 ust. 2 PRD",
       "tax": "300",
@@ -1056,7 +1061,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "speed",
       "name": "Niestosowanie się przez kierującego pojazdem wolnobieżnym, ciągnikiem rolniczym lub pojazdem bez silnika do obowiązku zjechania jak najbardziej na prawo w celu ułatwienia wyprzedzenia",
       "text": "art. 97KW w zw. z art. 24 ust. 6 PRD",
       "tax": "100",
@@ -1067,7 +1072,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "speed",
       "name": "Naruszenie przez kierującego pojazdem mechanicznym zakazu wyprzedzania pojazdu silnikowego przy dojeżdżaniu do wierzchołka wzniesienia",
       "text": "art. 92b KW w zw. z art. 24 ust. 7 pkt 1 PRD",
       "tax": "1000/[2000]",
@@ -1078,7 +1083,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "speed",
       "name": "Naruszenie przez kierującego pojazdem mechanicznym zakazu wyprzedzania pojazdu silnikowego na zakręcie oznaczonym znakami ostrzegawczymi",
       "text": "art. 92b KW w zw. z art. 24 ust. 7 pkt 2 PRD",
       "tax": "1000/[2000]",
@@ -1089,7 +1094,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "speed",
       "name": "Naruszenie przez kierującego pojazdem mechanicznym zakazu wyprzedzania pojazdu silnikowego na skrzyżowaniu, z wyjątkiem skrzyżowania o ruchu okrężnym lub na którym ruch jest kierowany",
       "text": "art. 92b KW w zw. z art. 24 ust. 7 pkt 3 PRD",
       "tax": "1000/[2000]",
@@ -1100,7 +1105,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "speed",
       "name": "Naruszenie przez kierującego pojazdem mechanicznym zakazu wyprzedzania pojazdu uprzywilejowanego na obszarze zabudowanym",
       "text": "art. 92b KW w zw. z art. 24 ust. 11 PRD",
       "tax": "1000/[2000]",
@@ -1111,7 +1116,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "speed",
       "name": "Naruszenie przez kierującego pojazdem mechanicznym zakazu wyprzedzania pojazdu na przejeździe dla rowerzystów i bezpośrednio przed nim, z wyjątkiem przejazdu, na którym ruch jest kierowany",
       "text": "art. 92b KW w zw. z art. 24 ust. 4 PRD",
       "tax": "1000/[2000]",
@@ -1122,7 +1127,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "speed",
       "name": "Naruszenie przez kierującego pojazdem mechanicznym zakazu wyprzedzania pojazdu na przejeździe kolejowym i bezpośrednio przed nim",
       "text": "art. 92b KW w zw. z art. 28 ust. 3 pkt 3 PRD",
       "tax": "1000/[2000]",
@@ -1133,7 +1138,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "speed",
       "name": "Naruszenie przez kierującego pojazdem mechanicznym zakazu wyprzedzania pojazdu przy przejeżdżaniu przez tory tramwajowe lub bezpośrednio przed nimi, z wyjątkiem skrzyżowania lub przejazdu tramwajowego, na którym ruch jest kierowany",
       "text": "art. 92b KW w zw. z art. 28 ust. 6 PRD",
       "tax": "1000/[2000]",
@@ -1144,7 +1149,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "speed",
       "name": "Naruszenie przez kierującego pojazdem mechanicznym zakazu wyprzedzania pojazdu określonego znakiem drogowym",
       "text": "art. 92b KW w zw. z § 23 ust. 1−3 ZSD",
       "tax": "1000/[2000]",
@@ -1155,7 +1160,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "speed",
       "name": "Wyprzedzanie pojazdu z niewłaściwej strony",
       "text": "art. 92b KW w zw. z art. 28 ust. 3-5 PRD",
       "tax": "1000/[2000]",
@@ -1265,7 +1270,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "speed",
       "name": "Naruszenie przez kierującego pojazdem innym niż silnikowy zakazu wyprzedzania innych pojazdów w czasie jazdy w warunkach zmniejszonej przejrzystości powietrza oraz obowiązku korzystania z pobocza drogi, a jeżeli nie jest to możliwe – to jazdy jak najbliżej krawędzi jezdni",
       "text": "art. 97 KW w zw. z art. 30 ust. 1 pkt 2 lit. b PRD",
       "tax": "100",
@@ -1298,7 +1303,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "lights",
       "name": "Używanie tylnych świateł przeciwmgłowych przy normalnej przejrzystości powietrza",
       "text": "art. 97 KW w zw. z art. 30 ust. 3 PRD",
       "tax": "100",
@@ -1309,7 +1314,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "stop",
       "name": "Holowanie pojazdu, w którym znajduje się kierujący niemający wymaganych uprawnień do kierowania tym pojazdem",
       "text": "art. 97 KW w zw. z art. 31 ust. 1 pkt 3 PRD",
       "tax": "250",
@@ -1320,7 +1325,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "stop",
       "name": "Holowanie pojazdu na połączeniu sztywnym, jeżeli nie jest sprawny co najmniej jeden układ hamulcowy, albo na połączeniu giętkim, jeżeli nie są sprawne dwa układy hamulcowe",
       "text": "art. 97 KW w zw. z art. 31 ust. 1 pkt 6 PRD",
       "tax": "250",
@@ -1331,7 +1336,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "stop",
       "name": "Holowanie pojazdu o niesprawnym układzie kierowniczym lub niesprawnych hamulcach",
       "text": "art. 97 KW w zw. z art. 31 ust. 2 pkt 1 PRD",
       "tax": "250",
@@ -1342,7 +1347,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "stop",
       "name": "Holowanie pojazdu na połączeniu giętkim, jeżeli w pojeździe tym działanie układu hamulcowego uzależnione jest od pracy silnika, a silnik jest unieruchomiony",
       "text": "art. 97 KW w zw. z art. 31 ust. 2 pkt 2 PRD",
       "tax": "250",
@@ -1353,7 +1358,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "stop",
       "name": "Holowanie więcej niż jednego pojazdu, z wyjątkiem pojazdu członowego",
       "text": "art. 97 KW w zw. z art. 31 ust. 2 pkt 3 PRD",
       "tax": "250",
@@ -1364,7 +1369,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "stop",
       "name": "Holowanie pojazdem z przyczepą (naczepą)",
       "text": "art. 97 KW w zw. z art. 31 ust. 2 pkt 4 PRD",
       "tax": "250",
@@ -1375,7 +1380,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "lights",
       "name": "Naruszenie przez kierującego warunków holowania poprzez niewłączenie w pojeździe holującym świateł mijania",
       "text": "art. 97 KW w zw. z art. 31 ust. 1 pkt 2 PRD",
       "tax": "100",
@@ -1386,7 +1391,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "stop",
       "name": "Naruszenie przez kierującego warunków holowania poprzez nieprawidłowe połączenie pojazdu holowanego z holującym",
       "text": "art. 97 KW w zw. z art. 31 ust. 1 pkt 4 PRD",
       "tax": "150",
@@ -1397,7 +1402,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "stop",
       "name": "Naruszenie przez kierującego warunków holowania poprzez brak oznaczenia lub niewłaściwe oznaczenie pojazdu holowanego",
       "text": "art. 97 KW w zw. z art. 31 ust. 1 pkt 5 PRD",
       "tax": "150",
@@ -1408,7 +1413,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "stop",
       "name": "Naruszenie przez kierującego warunków holowania poprzez niezachowanie właściwej odległości między pojazdami holowanym a holującym",
       "text": "art. 97 KW w zw. z art. 31 ust. 1 pkt 7 PRD",
       "tax": "100",
@@ -1419,7 +1424,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "stop",
       "name": "Naruszenie przez kierującego warunków holowania poprzez niewłaściwe oznakowanie połączenia między pojazdami (holu) albo brak takiego oznakowania",
       "text": "art. 97 KW w zw. z art. 31 ust. 1 pkt 7 PRD",
       "tax": "50",
@@ -1694,7 +1699,7 @@
       "path": null
     },
     {
-      "category": "others",
+      "category": "stop",
       "name": "Naruszenie nakazu, aby w czasie postoju na drodze poza obszarem zabudowanym pojazd zaprzęgowy znajdował się poza jezdnią",
       "text": "art. 97 KW w zw. z art. 46 ust. 3 PRD",
       "tax": "50",
@@ -1705,7 +1710,7 @@
       "path": null
     },
     {
-      "category": "others",
+      "category": "stop",
       "name": "Pozostawienie pojazdu zaprzęgowego na postoju bez zachowania środków ostrożności niezbędnych do uniknięcia wypadku",
       "text": "art. 91 KW w zw. z art. 46 ust. 5 PRD",
       "tax": "50",
@@ -1738,7 +1743,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "stop",
       "name": "Cofanie na autostradzie lub drodze ekspresowej",
       "text": "art. 97 KW w zw. z art. 23 ust. 2 PRD",
       "tax": "300",
@@ -1760,7 +1765,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "stop",
       "name": "Zatrzymanie lub postój pojazdu na autostradzie lub drodze ekspresowej w innych miejscach niż wyznaczone w tym celu",
       "text": "art. 97 KW w zw. z art. 49 ust. 3 PRD",
       "tax": "300",
@@ -1782,7 +1787,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "stop",
       "name": "Niesygnalizowanie lub niewłaściwe sygnalizowanie postoju pojazdu silnikowego z powodu uszkodzenia lub wypadku na autostradzie lub drodze ekspresowej",
       "text": "art. 97 KW w zw. z art. 50 ust. 1 pkt 1 lub ust. 2 pkt 1 PRD",
       "tax": "300",
@@ -1793,7 +1798,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "stop",
       "name": "Zatrzymanie lub postój pojazdu w warunkach, w których nie jest on z dostatecznej odległości widoczny dla innych kierujących lub powoduje utrudnienie ruchu",
       "text": "art. 97 KW w zw. z art. 46 ust. 1  PRD",
       "tax": "100-300",
@@ -1815,7 +1820,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "stop",
       "name": "Naruszenie obowiązku umieszczania pojazdu (z wyjątkiem pojazdu zaprzęgowego) poza jezdnią w czasie postoju na drodze poza obszarem zabudowanym ",
       "text": "art. 97 KW w zw. z art. 46 ust. 3 PRD",
       "tax": "100-300",
@@ -1826,7 +1831,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "stop",
       "name": "Naruszenie warunków dopuszczalności zatrzymania lub postoju pojazdu na chodniku ",
       "text": "art. 97 KW w zw. z art. 47 PRD",
       "tax": "100",
@@ -1969,7 +1974,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "stop",
       "name": "Naruszenie zakazu postoju w miejscach utrudniających wjazd lub wyjazd",
       "text": "art. 97 KW w zw. z art. 49 ust. 2 pkt 1  PRD",
       "tax": "100",
@@ -1980,7 +1985,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "stop",
       "name": "Naruszenie zakazu postoju w miejscach utrudniających dostęp do innego prawidłowo zaparkowanego pojazdu lub wyjazd tego pojazdu",
       "text": "art. 97 KW w zw. z art. 49 ust. 2 pkt 2 PRD",
       "tax": "100",
@@ -1991,7 +1996,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "stop",
       "name": "Naruszenie zakazu postoju przed lub za przejazdem kolejowym na odcinku od przejazdu do słupka wskaźnikowego z jedną kreską",
       "text": "art. 97 KW w zw. z art. 49 ust. 2 pkt 3  PRD",
       "tax": "100",
@@ -2002,7 +2007,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "stop",
       "name": "Naruszenie zakazu postoju w strefie zamieszkania w miejscach innych niż wyznaczone ",
       "text": "art. 97 KW w zw. z art. 49 ust. 2 pkt 4 PRD",
       "tax": "100",
@@ -2013,7 +2018,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "stop",
       "name": "Naruszenie zakazu postoju na obszarze zabudowanym pojazdu lub zespołu pojazdów o dopuszczalnej masie całkowitej przekraczającej 16 ton lub o długości przekraczającej 12 m ",
       "text": "art. 97 KW w zw. z art. 49 ust. 2 pkt 5 PRD",
       "tax": "200-300",
@@ -2024,7 +2029,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "stop",
       "name": "Brak sygnalizowania lub niewłaściwe sygnalizowanie postoju pojazdu z powodu uszkodzenia lub wypadku",
       "text": "art. 84 lub 91 KW w zw. z art. 50 ust. 1 pkt 2 lub ust. 2 pkt 2 PRD",
       "tax": "150",
@@ -2035,7 +2040,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "lights",
       "name": "Jazda bez wymaganych świateł od zmierzchu do świtu ",
       "text": "art. 88 KW w zw. z art. 51 ust. 1  PRD",
       "tax": "300",
@@ -2046,7 +2051,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "lights",
       "name": "Jazda bez wymaganych świateł od świtu do zmierzchu",
       "text": "art. 88 KW w zw. z art. 51 ust. 1 lub 2 PRD",
       "tax": "100",
@@ -2057,7 +2062,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "lights",
       "name": "Jazda bez wymaganych świateł pojazdami niewyposażonymi w światła mijania, drogowe lub do jazdy dziennej ",
       "text": "art. 88 KW w zw. z art. 51 ust. 6  PRD",
       "tax": "100",
@@ -2068,7 +2073,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "lights",
       "name": "Jazda bez wymaganych świateł w tunelu, niezależnie od pory doby",
       "text": "art. 88 KW w zw. z art. 51 ust. 1 lub ust. 6  PRD",
       "tax": "200",
@@ -2079,7 +2084,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "stop",
       "name": "Nieużywanie wymaganego oświetlenia podczas zatrzymania lub postoju w warunkach niedostatecznej widoczności ",
       "text": "art. 88 KW w zw. z art. 52 ust. 1 lub ust. 2 lub art. 30 ust. 2  PRD",
       "tax": "150-300",
@@ -2090,7 +2095,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "lights",
       "name": "Korzystanie ze świateł drogowych w sposób niezgodny z przepisami",
       "text": "art. 97 KW w zw. z art. 51 ust. 3  PRD",
       "tax": "200",
@@ -2101,7 +2106,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "lights",
       "name": "Naruszenie warunków dopuszczalności używania przednich świateł przeciwmgłowych ",
       "text": "art. 97 KW w zw. z art. 51 ust. 5 PRD",
       "tax": "100",
@@ -2112,7 +2117,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "lights",
       "name": "Używanie \"szperacza\" podczas jazdy ",
       "text": "art. 97 KW w zw. z art. 52 ust. 3 PRD",
       "tax": "100",
@@ -2189,7 +2194,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "lights",
       "name": "Zakrywanie świateł oraz urządzeń sygnalizacyjnych ",
       "text": "art. 97 KW w zw. z art. 60 ust. 1 pkt 2  PRD",
       "tax": "300",
@@ -2299,7 +2304,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "stop",
       "name": "Pozostawienie pracującego silnika podczas postoju na obszarze zabudowanym, z wyjątkiem pojazdu wykonującego czynności na drodze ",
       "text": "art. 97 KW w zw. z art. 60 ust. 2 pkt 3 PRD",
       "tax": "100",
@@ -2364,7 +2369,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "lights",
       "name": "Naruszenie przepisów przez kierującego pojazdem przewożącym zorganizowaną grupę dzieci lub młodzieży w wieku do 18 lat, w tym niewłączenie świateł awaryjnych podczas wsiadania lub wysiadania dzieci lub młodzieży",
       "text": "art. 97 KW w zw. z art. 57 ust. 1  PRD",
       "tax": "200",
@@ -2397,7 +2402,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "lights",
       "name": "Niedopełnienie przez kierującego autobusem szkolnym obowiązku włączenia świateł awaryjnych podczas wsiadania lub wysiadania dzieci",
       "text": "art. 97 KW w zw. z art. 57a ust. 1 PRD",
       "tax": "200",
@@ -2441,7 +2446,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "lights",
       "name": "Umieszczenie na pojeździe ładunku w sposób zasłaniający światła lub urządzenia sygnalizacyjne ",
       "text": "art. 97 KW w zw. z art. 61 ust. 2 pkt 4 PRD",
       "tax": "200",
@@ -2662,7 +2667,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "others",
       "name": "Niewskazanie wbrew obowiązkowi, na żądanie uprawnionego organu, komu pojazd został powierzony do kierowania lub używania w oznaczonym czasie w postępowaniu w sprawach o przestępstwo",
       "text": "art. 96 § 3  KW w zw. z art. 78 ust. 4 albo ust. 5  PRD",
       "tax": "od 4000",
@@ -2672,7 +2677,7 @@
       "paragraph": "",
       "path": null
     },    {
-      "category": "",
+      "category": "others",
       "name": "Niewskazanie wbrew obowiązkowi, na żądanie uprawnionego organu, komu pojazd został powierzony do kierowania lub używania w oznaczonym czasie w postępowaniu w sprawach o spowodowanie zagrożenia bezpieczeństwa w ruchu drogowym ",
       "text": "art. 96 § 3  KW w zw. z art. 78 ust. 4 albo ust. 5  PRD",
       "tax": "od 2000",
@@ -2683,7 +2688,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "others",
       "name": "Niewskazanie wbrew obowiązkowi, na żądanie uprawnionego organu, komu pojazd został powierzony do kierowania lub używania w oznaczonym czasie w sprawach dotyczących przekroczenia dopuszczalnej prędkości",
       "text": "art. 96 § 3  KW w zw. z art. 78 ust. 4 albo ust. 5  PRD",
       "tax": "2x przewidziana grzywna z wykr. nie mniej niż 800",
@@ -2694,7 +2699,7 @@
       "path": null
     },
     {
-      "category": "",
+      "category": "others",
       "name": "Niewskazanie wbrew obowiązkowi, na żądanie uprawnionego organu, komu pojazd został powierzony do kierowania lub używania w oznaczonym czasie w postępowaniu w sprawach o pozostałe wykroczenia",
       "text": "art. 96 § 3  KW w zw. z art. 78 ust. 4 albo ust. 5  PRD",
       "tax": "od 500",

@@ -6,6 +6,7 @@ import Law from '@/views/Law'
 import Helpers from '@/views/Helpers'
 import Road from '@/views/Road'
 import Privacy from '@/views/Privacy'
+import PostalCode from '@/views/Postal_code'
 
 Vue.use(VueRouter)
 
@@ -41,6 +42,11 @@ const routes = [
     component: Privacy
   },
   {
+    path: '/postal_code',
+    name: 'PostalCode',
+    component: PostalCode
+  },
+  {
     path: '/about',
     name: 'About',
     // route level code-splitting
@@ -56,9 +62,9 @@ const router = new VueRouter({
   routes
 })
 router.beforeEach((to, from, next) => {
-  if (from.path === '/tarrif/' && to.path !== '/tarrif/') {
-    this.$store.state.selected_tariff_data.search_text = ''
-    this.$store.state.selected_tariff_data.options_category = 'all'
+  if (from.path === '/tariff/' && to.path !== '/tariff/') {
+    router.app.$store.state.selected_tariff_data.search_text = ''
+    router.app.$store.state.selected_tariff_data.options_category = 'all'
     next()
   } else {
     next()

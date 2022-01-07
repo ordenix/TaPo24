@@ -38,8 +38,13 @@ export default {
       law_list: [
         { name: 'Prawo o ruchu drogowym', path: 'PRD.pdf', icon: 'fas fa-car' },
         { name: 'Kodeks Wykroczeń', path: 'KW.pdf', icon: 'fas fa-gavel' },
-        { name: 'Roz. w sprawie kontroli ruchu drogowego', path: 'RWSK.pdf', icon: 'fas fa-car-crash' },
-        { name: 'Ustawa o transporcie drogowym', path: 'TD.pdf', icon: 'fas fa-truck' }
+        { name: 'Roz. ws. kontroli ruchu drogowego', path: 'RWSK.pdf', icon: 'fas fa-car-crash' },
+        { name: 'Roz. ws. wyk. niektórych uprawnień', path: 'RWWNUP.pdf', icon: 'fas fa-book-open' },
+        { name: 'Ustawa o transporcie drogowym', path: 'TD.pdf', icon: 'fas fa-truck' },
+        { name: 'Zarządzenie KGP nr 30KGP', path: '30KGP.pgf', icon: 'fas fa-road' },
+        { name: 'Ustawa o ŚPB', path: 'SPB.pdf', icon: 'fas fa-crosshairs' },
+        { name: 'Ustawa o Policji', path: 'UOP.pdf', icon: 'fas fa-bookmark' },
+        { name: 'Kodeks Karny', path: 'KK.pdf', icon: 'fas fa-mask' }
       ],
       master_path: 'https://tapo24.pl/static/'
     }
@@ -71,9 +76,7 @@ export default {
 </script>
 
 <style scoped lang="scss">
-#main {
-  padding: 10px 10px;
-}
+@import "grid";
 #pdf_container {
   overflow: hidden;
   z-index: 10;
@@ -96,36 +99,5 @@ export default {
 }
 .close:hover {
   background-color: #98C1D9;
-}
-.container {
-  display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
-  grid-template-rows: auto;
-  grid-gap: 6px;
-}
-.element {
-  background-color: #EE6C4D;
-  height: 100px;
-  padding: 3px 3px;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  border-radius: 2px;
-  font-family: 'Readex Pro', sans-serif;
-}
-.icon {
-  font-size: 30px;
-  text-align: center;
-}
-.label {
-  font-size: 15px;
-  text-align: center;
-}
-
-@media only screen and (min-width: 700px) {
-  .container {
-    grid-template-columns: repeat(5, minmax(0, 1fr));
-  }
 }
 </style>
