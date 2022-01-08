@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="../views/main_layout.scss">
 <template>
   <div id="main">
     <div class="formatter">
