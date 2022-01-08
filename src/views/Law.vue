@@ -41,7 +41,7 @@ export default {
         { name: 'Roz. ws. kontroli ruchu drogowego', path: 'RWSK.pdf', icon: 'fas fa-car-crash' },
         { name: 'Roz. ws. wyk. niektórych uprawnień', path: 'RWWNUP.pdf', icon: 'fas fa-book-open' },
         { name: 'Ustawa o transporcie drogowym', path: 'TD.pdf', icon: 'fas fa-truck' },
-        { name: 'Zarządzenie KGP nr 30KGP', path: '30KGP.pgf', icon: 'fas fa-road' },
+        { name: 'Zarządzenie KGP nr 30KGP', path: '30KGP.pdf', icon: 'fas fa-road' },
         { name: 'Ustawa o ŚPB', path: 'SPB.pdf', icon: 'fas fa-crosshairs' },
         { name: 'Ustawa o Policji', path: 'UOP.pdf', icon: 'fas fa-bookmark' },
         { name: 'Kodeks Karny', path: 'KK.pdf', icon: 'fas fa-mask' }

@@ -2,6 +2,14 @@
   <div class="view">
     <div class="home">
       <div class="title"> TAryfikator POlicyjny24 </div>
+      <div class="date">2022-01-09</div>
+      <div class="whats_news">Co nowego?</div>
+      <p>- Implementacja sekcji droga</p>
+      <p>- Dodanie znaków zakazu</p>
+      <div class="version">wersja 1.1 [BETA]</div>
+    </div>
+    <div class="home">
+      <div class="title"> TAryfikator POlicyjny24 </div>
       <div class="date">2022-01-07</div>
       <div class="whats_news">Co nowego?</div>
       <p>- Implementacja sekcji przepisy</p>

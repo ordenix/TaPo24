@@ -1,0 +1,17 @@
+$base_color: #293241;
+$secondary_color: #3D5A80;
+$text: #98C1D9;
+$text-family: 'Readex Pro', sans-serif;
+
+#search {
+  background-color: #EE6C4D;
+  padding: 10px;
+  position: sticky;
+  position: -webkit-sticky;
+  top: 0;
+}
+input {
+  width: 100%;
+  font-size: 18px;
+  padding: 0;
+}

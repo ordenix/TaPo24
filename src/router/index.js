@@ -7,7 +7,8 @@ import Helpers from '@/views/Helpers'
 import Road from '@/views/Road'
 import Privacy from '@/views/Privacy'
 import PostalCode from '@/views/Postal_code'
-
+import Sign from '@/views/Sign/Sign'
+import FormSigns from '@/views/Sign/Form_signs'
 Vue.use(VueRouter)
 
 const routes = [
@@ -45,6 +46,16 @@ const routes = [
     path: '/postal_code',
     name: 'PostalCode',
     component: PostalCode
+  },
+  {
+    path: '/sign',
+    name: 'Sign',
+    component: Sign
+  },
+  {
+    path: '/FormSigns/:sign_category',
+    name: 'FormSigns',
+    component: FormSigns
   },
   {
     path: '/about',
