@@ -166,7 +166,7 @@ export default {
       }
       if (type === 'city') {
         this.response_status = false
-        setTimeout(this.change_state_response, 20000)
+        setTimeout(this.change_state_response, 150000)
         this.postal_array = []
         axios
           .get('https://polish-zip-codes1.p.rapidapi.com/city/' + code, { headers })
