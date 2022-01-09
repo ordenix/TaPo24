@@ -4,7 +4,15 @@
       <div class="title"> TAryfikator POlicyjny24 </div>
       <div class="date">2022-01-09</div>
       <div class="whats_news">Co nowego?</div>
-      <p>- Implementacja sekcji droga</p>
+      <p>- Dodanie znaków ostrzegawczych (A)</p>
+      <p>- Dodanie znaków nakazu (C)</p>
+      <div class="version">{{ version }}</div>
+    </div>
+    <div class="home">
+      <div class="title"> TAryfikator POlicyjny24 </div>
+      <div class="date">2022-01-09</div>
+      <div class="whats_news">Co nowego?</div>
+      <p>- Implementacja sekcji droga (dodanie znaków)</p>
       <p>- Dodanie znaków zakazu (B)</p>
       <div class="version">{{ version }}</div>
     </div>
@@ -63,7 +71,7 @@ export default {
 }
 .home {
   background-color: #3d5a80;
-  width: max-content;
+  width: 100%;
   padding: 8px;
   border-radius: 8px;
   font-family: 'Readex Pro', sans-serif;
@@ -96,5 +104,13 @@ export default {
 .button {
   background-color: #42b983;
   padding: 10px 10px;
+}
+@media only screen and (min-width: 1000px) {
+  .home {
+    width: 800px;
+  }
+  .view {
+    flex-direction: column;
+  }
 }
 </style>

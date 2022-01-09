@@ -1,9 +1,9 @@
 <template>
   <div id="main">
     <div class="formatter">
-      <img :src="require(`../assets/${sign_data.path}`)" />
+      <img :src="require(`../assets/${sign_data.path}`)" alt="Sign"/>
       <div class="name">{{ sign_data.name }}</div>
-      <div class="description">{{ sign_data.description}}</div>
+      <div class="description">{{ sign_data.description|upperCase}}</div>
     </div>
   </div>
 </template>
@@ -16,6 +16,11 @@ export default {
       name: null,
       description: null,
       path: null
+    }
+  },
+  filters: {
+    upperCase (string) {
+      return string.charAt(0).toUpperCase() + string.slice(1)
     }
   }
 }

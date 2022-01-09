@@ -12,7 +12,9 @@
 </template>
 
 <script>
+import ASignData from '@/A_sign_data.json'
 import BSignData from '@/B_sign_data.json'
+import CSignData from '@/C_sign_data.json'
 import signCard from '@/components/signCard'
 export default {
   name: 'B_sign.vue',
@@ -31,15 +33,22 @@ export default {
     }
   },
   mounted () {
+    if (this.$route.params.sign_category === 'A') {
+      this.sign_data = ASignData.sign_array
+    }
     if (this.$route.params.sign_category === 'B') {
       this.sign_data = BSignData.sign_array
+    }
+    if (this.$route.params.sign_category === 'C') {
+      this.sign_data = CSignData.sign_array
     }
   }
 }
 </script>
 
 <style scoped lang="scss">
-@import "@/views/main_layout.scss";
+@import "../main_layout.scss";
+
 .main {
   padding: 10px 10px;
   display: grid;

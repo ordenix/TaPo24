@@ -1,0 +1,219 @@
+{
+  "sign_array": [
+    {
+      "name": "A-1",
+      "description": "Niebezpieczny zakręt w prawo",
+      "path": "road_sign/A/A-1.png"
+    },
+    {
+      "name": "A-2",
+      "description": "Niebezpieczny zakręt w lewo",
+      "path": "road_sign/A/A-2.png"
+    },
+    {
+      "name": "A-3",
+      "description": "Niebezpieczne zakręty — pierwszy w prawo",
+      "path": "road_sign/A/A-3.png"
+    },
+    {
+      "name": "A-4",
+      "description": "Niebezpieczne zakręty — pierwszy w lewo",
+      "path": "road_sign/A/A-4.png"
+    },
+    {
+      "name": "A-5",
+      "description": "Skrzyżowanie dróg — skrzyżowanie równorzędne",
+      "path": "road_sign/A/A-5.png"
+    },
+    {
+      "name": "A-6a",
+      "description": "Skrzyżowanie z drogą podporządkowaną występującą po obu stronach",
+      "path": "road_sign/A/A-6a.png"
+    },
+    {
+      "name": "A-6b",
+      "description": "Skrzyżowanie z drogą podporządkowaną występującą po prawej stronie",
+      "path": "road_sign/A/A-6b.png"
+    },
+    {
+      "name": "A-6c",
+      "description": "Skrzyżowanie z drogą podporządkowaną występującą po lewej stronie",
+      "path": "road_sign/A/A-6c.png"
+    },
+    {
+      "name": "A-6d",
+      "description": "Wlot drogi jednokierunkowej z prawej strony",
+      "path": "road_sign/A/A-6d.png"
+    },
+    {
+      "name": "A-6e",
+      "description": "Wlot drogi jednokierunkowej z lewej strony",
+      "path": "road_sign/A/A-6e.png"
+    },
+    {
+      "name": "A-7",
+      "description": "Ustąp pierwszeństwa",
+      "path": "road_sign/A/A-7.png"
+    },
+    {
+      "name": "A-8",
+      "description": "Skrzyżowanie o ruchu okrężnym",
+      "path": "road_sign/A/A-8.png"
+    },
+    {
+      "name": "A-9",
+      "description": "Przejazd kolejowo-drogowy z zaporami",
+      "path": "road_sign/A/A-9.png"
+    },
+    {
+      "name": "A-10",
+      "description": "Przejazd kolejowo-drogowy bez zapór",
+      "path": "road_sign/A/A-10.png"
+    },
+    {
+      "name": "A-11",
+      "description": "Nierówna droga",
+      "path": "road_sign/A/A-11.png"
+    },
+    {
+      "name": "A-11a",
+      "description": "Próg zwalniający",
+      "path": "road_sign/A/A-11a.png"
+    },
+    {
+      "name": "A-12a",
+      "description": "Zwężenie jezdni — dwustronne",
+      "path": "road_sign/A/A-12a.png"
+    },
+    {
+      "name": "A-12b",
+      "description": "zwężenie jezdni — prawostronne",
+      "path": "road_sign/A/A-12b.png"
+    },
+    {
+      "name": "A-12c",
+      "description": "zwężenie jezdni — lewostronne",
+      "path": "road_sign/A/A-12c.png"
+    },
+    {
+      "name": "A-13",
+      "description": "ruchomy most",
+      "path": "road_sign/A/A-13.png"
+    },
+    {
+      "name": "A-14",
+      "description": "roboty na drodze",
+      "path": "road_sign/A/A-14.png"
+    },
+    {
+      "name": "A-15",
+      "description": "śliska jezdnia",
+      "path": "road_sign/A/A-15.png"
+    },
+    {
+      "name": "A-16",
+      "description": "przejście dla pieszych",
+      "path": "road_sign/A/A-16.png"
+    },
+    {
+      "name": "A-17",
+      "description": "dzieci",
+      "path": "road_sign/A/A-17.png"
+    },
+    {
+      "name": "A-18a",
+      "description": "zwierzęta gospodarskie",
+      "path": "road_sign/A/A-18a.png"
+    },
+    {
+      "name": "A-18b",
+      "description": "zwierzęta dzikie",
+      "path": "road_sign/A/A-18b.png"
+    },
+    {
+      "name": "A-19",
+      "description": "boczny wiatr",
+      "path": "road_sign/A/A-19.png"
+    },
+    {
+      "name": "A-20",
+      "description": "odcinek jezdni o ruchu dwukierunkowym",
+      "path": "road_sign/A/A-20.png"
+    },
+    {
+      "name": "A-21",
+      "description": "tramwaj",
+      "path": "road_sign/A/A-21.png"
+    },
+    {
+      "name": "A-22",
+      "description": "niebezpieczny zjazd",
+      "path": "road_sign/A/A-22.png"
+    },
+    {
+      "name": "A-23",
+      "description": "stromy podjazd",
+      "path": "road_sign/A/A-23.png"
+    },
+    {
+      "name": "A-24",
+      "description": "rowerzyści",
+      "path": "road_sign/A/A-24.png"
+    },
+    {
+      "name": "A-25",
+      "description": "spadające odłamki skalne",
+      "path": "road_sign/A/A-25.png"
+    },
+    {
+      "name": "A-26",
+      "description": "lotnisko",
+      "path": "road_sign/A/A-26.png"
+    },
+    {
+      "name": "A-27",
+      "description": "nabrzeże lub brzeg rzeki",
+      "path": "road_sign/A/A-27.png"
+    },
+    {
+      "name": "A-28",
+      "description": "sypki żwir",
+      "path": "road_sign/A/A-28.png"
+    },
+    {
+      "name": "A-29",
+      "description": "sygnały świetlne",
+      "path": "road_sign/A/A-29.png"
+    },
+    {
+      "name": "A-30",
+      "description": "inne niebezpieczeństwo",
+      "path": "road_sign/A/A-30.png"
+    },
+    {
+      "name": "A-31",
+      "description": "niebezpieczne pobocze",
+      "path": "road_sign/A/A-31.png"
+    },
+    {
+      "name": "A-31",
+      "description": "niebezpieczne pobocze (wariant)",
+      "path": "road_sign/A/A-31L.png"
+    },
+    {
+      "name": "A-32",
+      "description": "oszronienie jezdni",
+      "path": "road_sign/A/A-32.png"
+    },
+    {
+      "name": "A-33",
+      "description": "zator drogowy",
+      "path": "road_sign/A/A-33.png"
+    },
+    {
+      "name": "A-34",
+      "description": "wypadek drogowy",
+      "path": "road_sign/A/A-34.png"
+    }
+  ]
+}
