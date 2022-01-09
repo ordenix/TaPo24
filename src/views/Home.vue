@@ -5,7 +5,7 @@
       <div class="date">2022-01-09</div>
       <div class="whats_news">Co nowego?</div>
       <p>- Implementacja sekcji droga</p>
-      <p>- Dodanie znaków zakazu</p>
+      <p>- Dodanie znaków zakazu (B)</p>
       <div class="version">{{ version }}</div>
     </div>
     <div class="home">
