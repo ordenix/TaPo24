@@ -21,7 +21,7 @@ export default {
       this.$router.push({ path: path })
     },
     goto_web (path) {
-      window.location.href = path
+      window.open(path)
     }
   }
 }
