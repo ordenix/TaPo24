@@ -6,7 +6,7 @@
       <div class="whats_news">Co nowego?</div>
       <p>- Implementacja sekcji droga</p>
       <p>- Dodanie znaków zakazu</p>
-      <div class="version">wersja 1.1 [BETA]</div>
+      <div class="version">{{ version }}</div>
     </div>
     <div class="home">
       <div class="title"> TAryfikator POlicyjny24 </div>
@@ -15,7 +15,7 @@
       <p>- Implementacja sekcji przepisy</p>
       <p>- Dodanie wyszukiwarki kodów pocztowych (tylko on-line)</p>
       <p>- Możliwość wyszukiwania kodów w formacie XX-XXX lub XXXXX (41-100 41100)</p>
-      <div class="version">wersja 1.1 [BETA]</div>
+      <div class="version">{{ version }}</div>
     </div>
     <div class="home">
       <div class="title"> TAryfikator POlicyjny24 </div>
@@ -23,7 +23,7 @@
       <div class="whats_news">Co nowego?</div>
       <p>- Wydanie 1 wersji aplikacji</p>
       <p>- Zaimplementowano moduł taryfikatora</p>
-      <div class="version">wersja 1.1 [BETA]</div>
+      <div class="version">{{ version }}</div>
     </div>
   </div>
 </template>
@@ -34,6 +34,11 @@
 export default {
   name: 'Home',
   components: {
+  },
+  data () {
+    return {
+      version: '1.2 [BETA]'
+    }
   },
   methods: {
     clearCookie () {
