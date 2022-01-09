@@ -1,4 +1,3 @@
-<link rel="stylesheet" href="../views/main_layout.scss">
 <template>
   <div id="main">
     <div class="formatter">
@@ -23,7 +22,7 @@ export default {
 </script>
 
 <style scoped lang="scss">
-@import "@/views/main_layout.scss";
+@import "../views/main_layout.scss";
 img {
   width: 50px;
   height: 50px;
