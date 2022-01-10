@@ -8,10 +8,10 @@
         <img v-if="data.path!==null" :src="require(`../assets/${data.path}`)" />
         <div class="tax_container">
           <div>Kwota mandatu: {{ data.tax }} zł</div>
-          <div class="test" v-if="data.points==null">Punkty: nie dotyczy</div>
-          <div class="test" v-if="data.points!=null">Punkty: {{ data.points }}</div>
-          <div class="test" v-if="data.code!=null">Kod czynu: {{ data.code }}</div>
-          <div class="test" v-if="data.code==null">Kod czynu: nie dotyczy</div>
+          <div class="test" v-if="data.points===null">Punkty: nie dotyczy</div>
+          <div class="test" v-if="data.points!==null">Punkty: {{ data.points }}</div>
+          <div class="test" v-if="data.code!=='null'">Kod czynu: {{ data.code }}</div>
+          <div class="test" v-if="data.code==='null'">Kod czynu: nie dotyczy</div>
         </div>
       </div>
     </div>
