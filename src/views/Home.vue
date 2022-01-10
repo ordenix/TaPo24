@@ -33,6 +33,15 @@
       <div class="title"> TAryfikator POlicyjny24 </div>
       <div class="date">2022-01-09</div>
       <div class="whats_news">Co nowego?</div>
+      <p>- Dodanie znaków informacyjnych (D)</p>
+      <p>- Dodanie możliwości wyszukiwania po kodzie (np z 01)</p>
+      <p>- Korekta błędów merytorycznych</p>
+      <div class="version">{{ version }}</div>
+    </div>
+    <div class="home">
+      <div class="title"> TAryfikator POlicyjny24 </div>
+      <div class="date">2022-01-09</div>
+      <div class="whats_news">Co nowego?</div>
       <p>- Dodanie znaków ostrzegawczych (A)</p>
       <p>- Dodanie znaków nakazu (C)</p>
       <div class="version">{{ version }}</div>

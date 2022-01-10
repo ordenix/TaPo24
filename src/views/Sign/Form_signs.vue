@@ -15,6 +15,7 @@
 import ASignData from '@/A_sign_data.json'
 import BSignData from '@/B_sign_data.json'
 import CSignData from '@/C_sign_data.json'
+import DSignData from '@/D_sign_data.json'
 import signCard from '@/components/signCard'
 export default {
   name: 'B_sign.vue',
@@ -41,6 +42,9 @@ export default {
     }
     if (this.$route.params.sign_category === 'C') {
       this.sign_data = CSignData.sign_array
+    }
+    if (this.$route.params.sign_category === 'D') {
+      this.sign_data = DSignData.sign_array
     }
   }
 }

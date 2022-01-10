@@ -61,8 +61,8 @@ export default {
       // TODO remove comment here and work filter
       if (this.selected_option === 'work') return this.tariff_array.filter(element => element.category === '').filter(name => name.name.toLowerCase().includes(this.search_text.toLowerCase()))
       if (!isNaN(parseInt(this.search_text))) return this.tariff_array.filter(limit => limit.min_speed <= parseInt(this.search_text)).filter(limit => limit.max_speed >= parseInt(this.search_text)).filter(visible => visible.visible !== false)
-      if (this.selected_option === 'all') return this.tariff_array.filter(name => name.name.toLowerCase().includes(this.search_text.toLowerCase())).filter(visible => visible.visible !== false)
-      return this.tariff_array.filter(name => name.category.toLowerCase().includes(this.selected_option.toLowerCase())).filter(name => name.name.toLowerCase().includes(this.search_text.toLowerCase())).filter(visible => visible.visible !== false)
+      if (this.selected_option === 'all') return this.tariff_array.filter(name => name.name.toLowerCase().includes(this.search_text.toLowerCase()) || name.code.toLowerCase().includes(this.search_text.toLowerCase())).filter(visible => visible.visible !== false)
+      return this.tariff_array.filter(name => name.category.toLowerCase().includes(this.selected_option.toLowerCase())).filter(name => name.name.toLowerCase().includes(this.search_text.toLowerCase()) || name.code.toLowerCase().includes(this.search_text.toLowerCase())).filter(visible => visible.visible !== false)
     }
   },
   created () {

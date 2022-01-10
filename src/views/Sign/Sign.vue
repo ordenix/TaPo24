@@ -13,6 +13,10 @@
         <div class="icon"><img :src="require(`@/assets/road_sign/C/C-12.png`)" alt="Sign"/></div>
         <div class="label">Znaki nakazu (C)</div>
       </div>
+      <div class="element" @click="goto('D')">
+        <div class="icon"><img :src="require(`@/assets/road_sign/D/D-34.png`)" alt="Sign"/></div>
+        <div class="label">Znaki informacyjne (D)</div>
+      </div>
     </div>
   </div>
 </template>

@@ -4,7 +4,7 @@
       <div id="alert">{{alert_text}}</div>
       <div class="title">Wprowadź kod lub miasto:</div>
       <input id="postal_input" @click="onInputPostalClick" type="text" name="postal-code" placeholder="Wprowadź kod pocztowy" v-model="postal">
-      <input id="postal_input2" v-if="false" @click="onInputCityClick" type="text" name="city" placeholder="Wprowadź miasto" v-model="city">
+      <input id="postal_input2" v-if="true" @click="onInputCityClick" type="text" name="city" placeholder="Wprowadź miasto" v-model="city">
       <div class="place_button">
         <div class="orange_button" @click="onButtonClick">
           <div class="button_label">
@@ -52,7 +52,8 @@ import axios from 'axios'
 export default {
   computed: {
     filter_city_data () {
-      return this.postal_array.filter(name => name.miejscowosc.toLowerCase().includes(this.city.toLowerCase())).filter(name => name.wojewodztwo.includes('śląskie') || name.wojewodztwo.includes('pomorskie') || name.wojewodztwo.includes('dolnoslaskie') || name.wojewodztwo.includes('kujawsko-pomorskie') || name.wojewodztwo.includes('lubelskie') || name.wojewodztwo.includes('lubuskie') || name.wojewodztwo.includes('łódzkie') || name.wojewodztwo.includes('małopolskie') || name.wojewodztwo.includes('mazowieckie') || name.wojewodztwo.includes('opolskie') || name.wojewodztwo.includes('podkarpackie') || name.wojewodztwo.includes('podlaskie') || name.wojewodztwo.includes('świętokrzyskie') || name.wojewodztwo.includes('warmińsko-mazurskie') || name.wojewodztwo.includes('wielkopolskie') || name.wojewodztwo.includes('zachodnipomorskie'))
+      const tempData = this.postal_array.filter(name => name.miejscowosc.toLowerCase().includes(this.city.toLowerCase())).filter(name => name.wojewodztwo.includes('śląskie') || name.wojewodztwo.includes('pomorskie') || name.wojewodztwo.includes('dolnoslaskie') || name.wojewodztwo.includes('kujawsko-pomorskie') || name.wojewodztwo.includes('lubelskie') || name.wojewodztwo.includes('lubuskie') || name.wojewodztwo.includes('łódzkie') || name.wojewodztwo.includes('małopolskie') || name.wojewodztwo.includes('mazowieckie') || name.wojewodztwo.includes('opolskie') || name.wojewodztwo.includes('podkarpackie') || name.wojewodztwo.includes('podlaskie') || name.wojewodztwo.includes('świętokrzyskie') || name.wojewodztwo.includes('warmińsko-mazurskie') || name.wojewodztwo.includes('wielkopolskie') || name.wojewodztwo.includes('zachodnipomorskie'))
+      return tempData.sort((element, element2) => { return element.kod.replace('-', '') - element2.kod.replace('-', '') })
     }
   },
   name: 'Postal_code.vue',
@@ -187,7 +188,7 @@ export default {
                     }
                     for (const listElement of dataArray) {
                       if (!listElement.nazwa) {
-                        if (!this.postal_array.find(elements => elements.miejscowosc === listElement.miejscowosc && elements.gmina === listElement.gmina && elements.wojewodztwo === listElement.wojewodztwo)) {
+                        if (!this.postal_array.find(elements => elements.miejscowosc === listElement.miejscowosc && elements.gmina === listElement.gmina && elements.wojewodztwo === listElement.wojewodztwo && elements.kod === listElement.kod)) {
                           this.postal_array.push(listElement)
                         }
                       }
@@ -208,6 +209,10 @@ export default {
       document.getElementById('response').style.fontSize = '15px'
       document.getElementById('response').style.opacity = '100'
       document.getElementById('response').style.height = 'unset'
+    },
+    sort_function (a, b) {
+      a = a.replace('-', '')
+      b = b.deleteCharAt(2)
     },
     show_alert (text) {
       this.alert_text = text

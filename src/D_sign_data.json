@@ -1,0 +1,397 @@
+{
+  "sign_array": [
+    {
+      "name": "D-1",
+      "description": "droga z pierwszeństwem",
+      "path": "road_sign/D/D-1.png"
+    },
+    {
+      "name": "D-2",
+      "description": "koniec drogi z pierwszeństwem",
+      "path": "road_sign/D/D-2.png"
+    },
+    {
+      "name": "D-3",
+      "description": "droga jednokierunkowa",
+      "path": "road_sign/D/D-3.png"
+    },
+    {
+      "name": "D-4a",
+      "description": "droga bez przejazdu",
+      "path": "road_sign/D/D-4a.png"
+    },
+    {
+      "name": "D-4b",
+      "description": "wjazd na drogę bez przejazdu",
+      "path": "road_sign/D/D-4b.png"
+    },
+    {
+      "name": "D-5",
+      "description": "pierwszeństwo na zwężonym odcinku jezdni",
+      "path": "road_sign/D/D-5.png"
+    },
+    {
+      "name": "D-6",
+      "description": "przejście dla pieszych",
+      "path": "road_sign/D/D-6.png"
+    },
+    {
+      "name": "D-6a",
+      "description": "przejazd dla rowerzystów",
+      "path": "road_sign/D/D-6a.png"
+    },
+    {
+      "name": "D-6b",
+      "description": "przejście dla pieszych i przejazd dla rowerzystów",
+      "path": "road_sign/D/D-6b.png"
+    },
+    {
+      "name": "D-7",
+      "description": "droga ekspresowa",
+      "path": "road_sign/D/D-7.png"
+    },
+    {
+      "name": "D-8",
+      "description": "koniec drogi ekspresowej",
+      "path": "road_sign/D/D-8.png"
+    },
+    {
+      "name": "D-9",
+      "description": "autostrada",
+      "path": "road_sign/D/D-9.png"
+    },
+    {
+      "name": "D-10",
+      "description": "koniec autostrady",
+      "path": "road_sign/D/D-10.png"
+    },
+    {
+      "name": "D-11",
+      "description": "początek pasa ruchu dla autobusów",
+      "path": "road_sign/D/D-11.png"
+    },
+    {
+      "name": "D-12",
+      "description": "pas ruchu dla autobusów",
+      "path": "road_sign/D/D-12.png"
+    },
+    {
+      "name": "D-13",
+      "description": "początek pasa ruchu powolnego",
+      "path": "road_sign/D/D-13.png"
+    },
+    {
+      "name": "D-13a",
+      "description": "początek pasa ruchu",
+      "path": "road_sign/D/D-13a.png"
+    },
+    {
+      "name": "D-13b",
+      "description": "początek pasa ruchu na jezdni dwukierunkowej",
+      "path": "road_sign/D/D-13b.png"
+    },
+    {
+      "name": "D-14",
+      "description": "koniec pasa ruchu",
+      "path": "road_sign/D/D-14.png"
+    },
+    {
+      "name": "D-15",
+      "description": "przystanek autobusowy",
+      "path": "road_sign/D/D-15.png"
+    },
+    {
+      "name": "D-16",
+      "description": "przystanek trolejbusowy",
+      "path": "road_sign/D/D-16.png"
+    },
+    {
+      "name": "D-17",
+      "description": "przystanek tramwajowy",
+      "path": "road_sign/D/D-17.png"
+    },
+    {
+      "name": "D-18",
+      "description": "parking",
+      "path": "road_sign/D/D-18.png"
+    },
+    {
+      "name": "D-18a",
+      "description": "parking – miejsce zastrzeżone",
+      "path": "road_sign/D/D-18a.png"
+    },
+    {
+      "name": "D-18b",
+      "description": "parking zadaszony",
+      "path": "road_sign/D/D-18b.png"
+    },
+    {
+      "name": "D-19",
+      "description": "postój taksówek",
+      "path": "road_sign/D/D-19.png"
+    },
+    {
+      "name": "D-20",
+      "description": "koniec postoju taksówek",
+      "path": "road_sign/D/D-20.png"
+    },
+    {
+      "name": "D-21",
+      "description": "policja",
+      "path": "road_sign/D/D-21.png"
+    },
+    {
+      "name": "D-21a",
+      "description": "xxxxxxxxxxxxxxxxx",
+      "path": "road_sign/D/D-21a.png"
+    },
+    {
+      "name": "D-22",
+      "description": "punkt opatrunkowy",
+      "path": "road_sign/D/D-22.png"
+    },
+    {
+      "name": "D-23",
+      "description": "stacja paliwowa",
+      "path": "road_sign/D/D-23.png"
+    },
+    {
+      "name": "D-23a",
+      "description": "stacja paliwowa tylko z gazem do napędu pojazdów",
+      "path": "road_sign/D/D-23a.png"
+    },
+    {
+      "name": "D-23b",
+      "description": "stacja paliwowa z punktem ładowania pojazdów elektrycznych",
+      "path": "road_sign/D/D-23b.png"
+    },
+    {
+      "name": "D-23c",
+      "description": "punkt ładowania pojazdów elektrycznych",
+      "path": "road_sign/D/D-23c.png"
+    },
+    {
+      "name": "D-24",
+      "description": "telefon",
+      "path": "road_sign/D/D-24.png"
+    },
+    {
+      "name": "D-25",
+      "description": "poczta",
+      "path": "road_sign/D/D-25.png"
+    },
+    {
+      "name": "D-26",
+      "description": "stacja obsługi technicznej",
+      "path": "road_sign/D/D-26.png"
+    },
+    {
+      "name": "D-26a",
+      "description": "wulkanizacja",
+      "path": "road_sign/D/D-26a.png"
+    },
+    {
+      "name": "D-26b",
+      "description": "myjnia",
+      "path": "road_sign/D/D-26b.png"
+    },
+    {
+      "name": "D-26c",
+      "description": "toaleta publiczna",
+      "path": "road_sign/D/D-26c.png"
+    },
+    {
+      "name": "D-26d",
+      "description": "natrysk",
+      "path": "road_sign/D/D-26d.png"
+    },
+    {
+      "name": "D-27",
+      "description": "bufet lub kawiarnia",
+      "path": "road_sign/D/D-27.png"
+    },
+    {
+      "name": "D-28",
+      "description": "restauracja",
+      "path": "road_sign/D/D-28.png"
+    },    {
+      "name": "D-29",
+      "description": "Hotel (motel)",
+      "path": "road_sign/D/D-29.png"
+    },
+    {
+      "name": "D-30",
+      "description": "Obozowisko (camping)",
+      "path": "road_sign/D/D-30.png"
+    },
+    {
+      "name": "D-31",
+      "description": "obozowisko (camping) wyposażone w podłączenia elektryczne dla przyczep kempingowych",
+      "path": "road_sign/D/D-31.png"
+    },
+    {
+      "name": "D-32",
+      "description": "pole biwakowe",
+      "path": "road_sign/D/D-32.png"
+    },
+    {
+      "name": "D-33",
+      "description": "schronisko młodzieżowe",
+      "path": "road_sign/D/D-33.png"
+    },
+    {
+      "name": "D-34",
+      "description": "punkt informacji turystycznej",
+      "path": "road_sign/D/D-34.png"
+    },
+    {
+      "name": "D-34a",
+      "description": "informacja radiowa o ruchu drogowym",
+      "path": "road_sign/D/D-34a.png"
+    },
+    {
+      "name": "D-34b",
+      "description": "zbiorcza tablica informacyjna",
+      "path": "road_sign/D/D-34b.png"
+    },
+    {
+      "name": "D-34b",
+      "description": "zbiorcza tablica informacyjna (jednorzędowa)",
+      "path": "road_sign/D/D-34bp.png"
+    },
+    {
+      "name": "D-35",
+      "description": "przejście podziemne dla pieszych",
+      "path": "road_sign/D/D-35.png"
+    },
+    {
+      "name": "D-35a",
+      "description": "schody ruchome w dół",
+      "path": "road_sign/D/D-35a.png"
+    },
+    {
+      "name": "D-36",
+      "description": "przejście nadziemne dla pieszych",
+      "path": "road_sign/D/D-36.png"
+    },
+    {
+      "name": "D-36a",
+      "description": "schody ruchome w górę",
+      "path": "road_sign/D/D-36a.png"
+    },
+    {
+      "name": "D-37",
+      "description": "tunel",
+      "path": "road_sign/D/D-37.png"
+    },
+    {
+      "name": "D-38",
+      "description": "koniec tunelu",
+      "path": "road_sign/D/D-38.png"
+    },
+    {
+      "name": "D-39",
+      "description": "dopuszczalne prędkości",
+      "path": "road_sign/D/D-39.png"
+    },
+    {
+      "name": "D-39a",
+      "description": "opłaty drogowe",
+      "path": "road_sign/D/D-39a.png"
+    },
+    {
+      "name": "D-40",
+      "description": "strefa zamieszkania",
+      "path": "road_sign/D/D-40.png"
+    },
+    {
+      "name": "D-41",
+      "description": "koniec strefy zamieszkania",
+      "path": "road_sign/D/D-41.png"
+    },
+    {
+      "name": "D-42",
+      "description": "obszar zabudowany",
+      "path": "road_sign/D/D-42.png"
+    },
+    {
+      "name": "D-43",
+      "description": "koniec obszaru zabudowanego",
+      "path": "road_sign/D/D-43.png"
+    },
+    {
+      "name": "D-44",
+      "description": "strefa płatnego parkowania lub śródmiejska strefa płatnego parkowania[",
+      "path": "road_sign/D/D-44.png"
+    },
+    {
+      "name": "D-45",
+      "description": "koniec strefy płatnego parkowania lub śródmiejskiej strefy płatnego parkowania",
+      "path": "road_sign/D/D-45.png"
+    },
+    {
+      "name": "D-46",
+      "description": "droga wewnętrzna",
+      "path": "road_sign/D/D-46.png"
+    },
+    {
+      "name": "D-47",
+      "description": "koniec drogi wewnętrznej",
+      "path": "road_sign/D/D-47.png"
+    },
+    {
+      "name": "D-48",
+      "description": "zmiana pierwszeństwa z trójkątem wskazujący skrzyżowanie równorzędne",
+      "path": "road_sign/D/D-48a.png"
+    },
+    {
+      "name": "D-48a",
+      "description": "zmiana pierwszeństwa z trójkątem wskazujący wlot podporządkowany",
+      "path": "road_sign/D/D-48b.png"
+    },
+    {
+      "name": "D-49",
+      "description": "pobór opłat",
+      "path": "road_sign/D/D-49.png"
+    },    {
+      "name": "D-50",
+      "description": "zatoka",
+      "path": "road_sign/D/D-50.png"
+    },
+    {
+      "name": "D-51",
+      "description": "automatyczna kontrola prędkości",
+      "path": "road_sign/D/D-51.png"
+    },
+    {
+      "name": "D-51a",
+      "description": "automatyczna kontrola średniej prędkości",
+      "path": "road_sign/D/D-51aa.png"
+    },
+    {
+      "name": "D-51b",
+      "description": "koniec automatycznej kontroli średniej prędkości",
+      "path": "road_sign/D/D-51b.png"
+    },
+    {
+      "name": "D-52",
+      "description": "strefa ruchu",
+      "path": "road_sign/D/D-52.png"
+    },
+    {
+      "name": "D-53",
+      "description": "koniec strefy ruchu",
+      "path": "road_sign/D/D-53.png"
+    },
+    {
+      "name": "D-54",
+      "description": "strefa czystego transportu",
+      "path": "road_sign/D/D-54.png"
+    },
+    {
+      "name": "D-55",
+      "description": "koniec strefy czystego transportu",
+      "path": "road_sign/D/D-55.png"
+    }
+  ]
+}
