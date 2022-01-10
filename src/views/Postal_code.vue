@@ -4,7 +4,7 @@
       <div id="alert">{{alert_text}}</div>
       <div class="title">Wprowadź kod lub miasto:</div>
       <input id="postal_input" @click="onInputPostalClick" type="text" name="postal-code" placeholder="Wprowadź kod pocztowy" v-model="postal">
-      <input id="postal_input2" @click="onInputCityClick" type="text" name="city" placeholder="Wprowadź miasto" v-model="city">
+      <input id="postal_input2" v-if="false" @click="onInputCityClick" type="text" name="city" placeholder="Wprowadź miasto" v-model="city">
       <div class="place_button">
         <div class="orange_button" @click="onButtonClick">
           <div class="button_label">

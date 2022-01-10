@@ -9,6 +9,7 @@ import Privacy from '@/views/Privacy'
 import PostalCode from '@/views/Postal_code'
 import Sign from '@/views/Sign/Sign'
 import FormSigns from '@/views/Sign/Form_signs'
+import InstallIOS from '@/views/instal_iOS'
 Vue.use(VueRouter)
 
 const routes = [
@@ -56,6 +57,11 @@ const routes = [
     path: '/FormSigns/:sign_category',
     name: 'FormSigns',
     component: FormSigns
+  },
+  {
+    path: '/Install_iOS/',
+    name: 'Install_iOS',
+    component: InstallIOS
   },
   {
     path: '/about',
