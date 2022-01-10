@@ -137,12 +137,12 @@
     },
     {
       "name": "D-21",
-      "description": "policja",
+      "description": "szpital",
       "path": "road_sign/D/D-21.png"
     },
     {
       "name": "D-21a",
-      "description": "xxxxxxxxxxxxxxxxx",
+      "description": "policja",
       "path": "road_sign/D/D-21a.png"
     },
     {
