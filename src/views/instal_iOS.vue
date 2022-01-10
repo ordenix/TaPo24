@@ -3,7 +3,7 @@
     <div class="master_container">
       <div class="master_title">Instalacja na urządzeniach iOS <i class="fab fa-apple"></i></div>
       <div class="sub_title">
-        Wymagania
+        Wymagania:
       </div>
       <div class="description">
         Aktualna wersja przeglądarki Safari <i class="fab fa-safari"></i>

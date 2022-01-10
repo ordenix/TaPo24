@@ -3,7 +3,7 @@
     <div class="home">
       <div class="title"> TAryfikator POlicyjny24 </div>
       <div class="whats_news">Instalacja</div>
-      <p>Aplikacja umożliwia zainstalowanie jej na urządzeniach mobilnych oraz oferuje pełną funkcjonalności działania jako strona internetowa.</p>
+      <p>Aplikacja umożliwia zainstalowanie jej na urządzeniach mobilnych oraz oferuje pełną funkcjonalność działania jako strona internetowa.</p>
       <div class="install_container">
         <div class="install_sub_container" @click="go_to_play">
           <div class="icon"><i class="fab fa-android"></i></div>
@@ -18,14 +18,14 @@
       </div>
       <div class="whats_news">O aplikacji</div>
       <p>Aplikacja Tapo24.pl jest aplikacją w fazie produkcji</p>
-      <p>Aktualnie posiada moduł taryfikatora, wyszukiwarki kodów pocztowych oraz przepisów </p>
+      <p>Aktualnie aplikacja posiada moduł taryfikatora, wyszukiwarki kodów pocztowych oraz przepisów </p>
       <p>Docelowo mają być zaimplementowane dodatkowe moduły i pomoce:</p>
       <p>- kody usterek</p>
       <p>- szczegółowe opisy znaków i sygnałów drogowych</p>
       <p>- krótkie opisy podstaw zatrzymania dowodów rejestracyjnych oraz praw jazdy</p>
       <p>- oraz wiele innych pomocy wykorzystywanych w codziennych czynnościach "na drodze"</p>
       <br>
-      <p>Aplikacja w fazie beta ewentualne napotkane błędy proszę zgłaszać za pomocą e-mail  jakubdrzmala95@gmail.com</p>
+      <p>Aplikacja w fazie beta, ewentualne napotkane błędy proszę zgłaszać za pomocą e-mail  jakubdrzmala95@gmail.com</p>
       <p>Aplikacja jest narzędziem wspomagającym nie jest wyznacznikiem aktualnie obowiązujących przepisów w Polsce służy jedynie w celach szkoleniowych i poglądowych</p>
       <div class="version">{{ version }}</div>
     </div>
