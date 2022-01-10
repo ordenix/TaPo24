@@ -2,6 +2,21 @@
   <div class="view">
     <div class="home">
       <div class="title"> TAryfikator POlicyjny24 </div>
+      <div class="whats_news">O aplikacji</div>
+      <p>Aplikacja Tapo24.pl jest aplikacją w fazie produkcji</p>
+      <p>Aktualnie posiada moduł taryfikatora, wyszukiwarki kodów pocztowych oraz przepisów </p>
+      <p>Docelowo mają być zaimplementowane dodatkowe moduły i pomoce:</p>
+      <p>- kody usterek</p>
+      <p>- szczegółowe opisy znaków i sygnałów drogowych</p>
+      <p>- krótkie opisy podstaw zatrzymania dowodów rejestracyjnych oraz praw jazdy</p>
+      <p>- oraz wiele innych pomocy wykorzystywanych w codziennych czynnościach "na drodze"</p>
+      <br>
+      <p>Aplikacja w fazie beta ewentualne napotkane błędy proszę zgłaszać za pomocą e-mail  jakubdrzmala95@gmail.com</p>
+      <p>Aplikacja jest narzędziem wspomagającym nie jest wyznacznikiem aktualnie obowiązujączyhc przepisów w Polsce służy jedynie w celach szkoleniowych i poglądowych</p>
+      <div class="version">{{ version }}</div>
+    </div>
+    <div class="home">
+      <div class="title"> TAryfikator POlicyjny24 </div>
       <div class="date">2022-01-09</div>
       <div class="whats_news">Co nowego?</div>
       <p>- Dodanie znaków ostrzegawczych (A)</p>
