@@ -21,7 +21,7 @@
       <div class="footer_container">
         <div>Kwota: {{ selected_data.tax }}</div>
         <div v-if="selected_data.points !==null">Punkty: {{ selected_data.points }}</div>
-        <div v-if="selected_data.code !==null">Kod czynu: {{ selected_data.code }}</div>
+        <div v-if="selected_data.code !=='null'">Kod czynu: {{ selected_data.code }}</div>
       </div>
     </div>
     </div>
