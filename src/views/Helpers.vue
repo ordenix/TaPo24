@@ -9,6 +9,10 @@
         <div class="icon"><i class="fas fa-car-crash"></i></div>
         <div class="label">Link do sprawdzenia OC w UFG</div>
       </div>
+      <div class="element" @click="goto('/Points_Calc/')">
+        <div class="icon"><i class="fas fa-calculator"></i></div>
+        <div class="label">Kalkulator punktów</div>
+      </div>
     </div>
   </div>
 </template>

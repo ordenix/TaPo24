@@ -1,3 +1,13 @@
+#alert {
+  opacity: 0;
+  font-size: 0;
+  border-radius: 8px;
+  padding: 0;
+  background-color: #EE6C4D;
+  transition: font-size .5s, opacity .5s;
+  font-family: 'Readex Pro', sans-serif;
+  font-weight: bold;
+}
 .orange_button {
   background-color: #EE6C4D;
   padding: 10px 10px;

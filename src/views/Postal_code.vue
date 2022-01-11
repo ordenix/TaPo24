@@ -1,6 +1,6 @@
 <template>
   <div class="main">
-    <div class="main_container">
+    <div class="small_main_container">
       <div id="alert">{{alert_text}}</div>
       <div class="title">Wprowadź kod lub miasto:</div>
       <input id="postal_input" @click="onInputPostalClick" type="text" name="postal-code" placeholder="Wprowadź kod pocztowy" v-model="postal">
@@ -227,25 +227,7 @@ export default {
 
 <style scoped lang="scss">
 @import "others";
-#alert {
-  opacity: 0;
-  font-size: 0;
-  border-radius: 8px;
-  padding: 0;
-  background-color: #EE6C4D;
-  transition: font-size .5s, opacity .5s;
-  font-family: 'Readex Pro', sans-serif;
-  font-weight: bold;
-}
-.main_container {
-  margin: 10px 10px;
-  background-color: #3D5A80;
-  border-radius: 8px;
-  padding: 20px 10px;
-  height: min-content;
-  transition: height 5s;
-  -webkit-transition: height 5s ease;
-}
+@import "main_layout";
 .title {
   font-family: 'Readex Pro', sans-serif;
   font-weight: bold;
@@ -308,13 +290,5 @@ input {
   grid-template-rows: auto;
   grid-gap: 6px;
 }
-@media only screen and (min-width: 700px) {
-  .main {
-    display: flex;
-    justify-content: center;
-  }
-  .main_container {
-    min-width: 400px;
-  }
-}
+
 </style>

@@ -1,0 +1,850 @@
+{
+  "code_array": [
+    {
+      "category": "A",
+      "full_name": "A-01",
+      "description": "Popełnienie przestępstwa drogowego",
+      "points": "10"
+    },
+    {
+      "category": "A",
+      "full_name": "A-02",
+      "description": "Spowodowanie zagrożenia bezpieczeństwa ruchu drogowego – kolizja drogowa",
+      "points": "6"
+    },
+    {
+      "category": "A",
+      "full_name": "A-03",
+      "description": "Kierowanie pojazdem mechanicznym w stanie po użyciu alkoholu lub środka podobnie działającego do alkoholu",
+      "points": "10"
+    },
+    {
+      "category": "A",
+      "full_name": "A-04",
+      "description": "Nieudzielenie pomocy ofiarom wypadku",
+      "points": "10"
+    },
+    {
+      "category": "A",
+      "full_name": "A-05",
+      "description": "Kierowanie pojazdem mechanicznym w stanie nietrzeźwości lub pod wpływem środka odurzającego",
+      "points": "10"
+    },
+    {
+      "category": "A",
+      "full_name": "A-06",
+      "description": "Spowodowanie innego niż kolizja drogowa zagrożenia bezpieczeństwa ruchu drogowego",
+      "points": "6"
+    },
+    {
+      "category": "B",
+      "full_name": "B-01",
+      "description": "Omijanie pojazdu, który jechał w tym samym kierunku, lecz zatrzymał się w celu ustąpienia pierwszeństwa pieszym",
+      "points": "10"
+    },
+    {
+      "category": "B",
+      "full_name": "B-02",
+      "description": "Wyprzedzanie na przejściach dla pieszych i bezpośrednio przed nimi",
+      "points": "10"
+    },
+    {
+      "category": "B",
+      "full_name": "B-03",
+      "description": "Nieustąpienie pierwszeństwa pieszemu znajdującemu się na przejściu dla pieszych",
+      "points": "10"
+    },
+    {
+      "category": "B",
+      "full_name": "B-04",
+      "description": "Nieustąpienie pierwszeństwa przez kierującego pojazdem, który skręca w drogę poprzeczną, pieszemu przechodzącemu na skrzyżowaniu przez jezdnię drogi, na którą wjeżdża pojazd",
+      "points": "10"
+    },
+    {
+      "category": "B",
+      "full_name": "B-05",
+      "description": "Niezatrzymanie pojazdu w razie przechodzenia przez jezdnię osoby niepełnosprawnej, używającej specjalnego znaku, lub osoby o widocznej ograniczonej sprawności ruchowej w celu umożliwienia jej przejścia",
+      "points": "10"
+    },
+    {
+      "category": "B",
+      "full_name": "B-06",
+      "description": "Nieustąpienie pierwszeństwa pieszemu podczas cofania",
+      "points": "6"
+    },
+    {
+      "category": "B",
+      "full_name": "B-07",
+      "description": "Naruszenie zakazu rozdzielania kolumn pieszych",
+      "points": "5"
+    },
+    {
+      "category": "C",
+      "full_name": "C-01",
+      "description": "Niezastosowanie się, w celu uniknięcia kontroli,\ndo sygnału osoby uprawnionej do kontroli\nruchu drogowego, nakazującego zatrzymanie\npojazdu",
+      "points": "8"
+    },
+    {
+      "category": "C",
+      "full_name": "C-02",
+      "description": "Niezastosowanie się do sygnałów świetlnych",
+      "points": "6"
+    },
+    {
+      "category": "C",
+      "full_name": "C-03",
+      "description": "Niezastosowanie się do  sygnałów i poleceń podawanych przez osoby uprawnione do kierowania ruchem drogowym",
+      "points": "6"
+    },
+    {
+      "category": "C",
+      "full_name": "C-04",
+      "description": "Niezastosowanie się do sygnałów i poleceń dawanych przez osoby uprawnione do kontroli ruchu drogowego",
+      "points": "6"
+    },
+    {
+      "category": "C",
+      "full_name": "C-05",
+      "description": "Niestosowanie się do znaków B-2 „zakaz wjazdu”",
+      "points": "5"
+    },
+    {
+      "category": "C",
+      "full_name": "C-06",
+      "description": "Niestosowanie się do znaków B-1 „zakaz ruchu w obu kierunkach”",
+      "points": "5"
+    },
+    {
+      "category": "C",
+      "full_name": "C-07",
+      "description": "Niestosowanie się do znaków B-21 „zakaz skręcania w lewo” lub B-22 „zakaz skręcania w prawo”",
+      "points": "5"
+    },
+    {
+      "category": "C",
+      "full_name": "C-08",
+      "description": "Niestosowanie się do znaków C-1 do C-12 „nakaz jazdy ...”",
+      "points": "5"
+    },
+    {
+      "category": "C",
+      "full_name": "C-09",
+      "description": "Niestosowanie się do znaków F-10, F-11, F-15 do F-19, kierunki na pasach ruchu określające dozwolony kierunek jazdy z poszczególnych pasów ruchu lub sposób ich wykorzystania",
+      "points": "5"
+    },
+    {
+      "category": "C",
+      "full_name": "C-10",
+      "description": "Niestosowanie się do znaków P-8a do P-8c „strzałka kierunkowa”",
+      "points": "5"
+    },
+    {
+      "category": "C",
+      "full_name": "C-11",
+      "description": "Niestosowanie się do znaków P-4 „linia podwójna ciągła”",
+      "points": "5"
+    },
+    {
+      "category": "C",
+      "full_name": "C-12",
+      "description": "Niestosowanie się do znaków B-31 „pierwszeństwo dla nadjeżdżających z przeciwka”",
+      "points": "4"
+    },
+    {
+      "category": "C",
+      "full_name": "C-13",
+      "description": "Niestosowanie się do znaków B-3 do B-7 „zakaz wjazdu ...”",
+      "points": "3"
+    },
+    {
+      "category": "C",
+      "full_name": "C-14",
+      "description": "Niestosowanie się do znaków B-13 do B-19 „zakaz wjazdu ...”",
+      "points": "2"
+    },
+    {
+      "category": "C",
+      "full_name": "C-15",
+      "description": "Niestosowanie się do pozostałych, niewyszczególnionych w niniejszym katalogu znaków i sygnałów drogowych",
+      "points": "1"
+    },
+    {
+      "category": "C",
+      "full_name": "C-16",
+      "description": "Niezatrzymanie pojazdu w związku ze znakiem\nB-20 „stop”",
+      "points": "2"
+    },
+    {
+      "category": "C",
+      "full_name": "C-17",
+      "description": "Niestosowanie się do znaków D-18 „parking” lub D-18b „parking zadaszony”,\nz umieszczoną pod znakiem tabliczką T-29,\nalbo D-18a „parking – miejsce zastrzeżone”,\nz umieszczoną pod znakiem tabliczką T-29",
+      "points": "5"
+    },
+    {
+      "category": "C",
+      "full_name": "C-18",
+      "description": "Niestosowanie się do znaków P-18 „stanowisko postojowe” i P-24 „miejsce dla\npojazdu osoby niepełnosprawnej” albo P-20\n„koperta” i P-24 „miejsce dla pojazdu osoby\nniepełnosprawnej”, umieszczonego samodzielnie\nbez znaku pionowego D-18, D-18a lub D-18b",
+      "points": "5"
+    },
+    {
+      "category": "D",
+      "full_name": "D-01",
+      "description": "Nieustąpienie pierwszeństwa przejazdu na skrzyżowaniu w sytuacji równorzędnej",
+      "points": "6"
+    },
+    {
+      "category": "D",
+      "full_name": "D-02",
+      "description": "Nieustąpienie pierwszeństwa przejazdu na skrzyżowaniu oznaczonym znakami określającymi pierwszeństwo przejazdu",
+      "points": "6"
+    },
+    {
+      "category": "D",
+      "full_name": "D-03",
+      "description": "Nieustąpienie pierwszeństwa przejazdu pojazdom szynowym",
+      "points": "6"
+    },
+    {
+      "category": "D",
+      "full_name": "D-04",
+      "description": "Nieustąpienie pierwszeństwa przejazdu rowerzystom",
+      "points": "6"
+    },
+    {
+      "category": "D",
+      "full_name": "D-05",
+      "description": "Nieustąpienie pierwszeństwa przejazdu podczas zmiany pasa ruchu",
+      "points": "5"
+    },
+    {
+      "category": "D",
+      "full_name": "D-06",
+      "description": "Nieustąpienie pierwszeństwa przejazdu w razie przecinania się poza skrzyżowaniem\nkierunków ruchu lub torów jazdy pojazdów\nporuszających się po tej samej drodze",
+      "points": "5"
+    },
+    {
+      "category": "D",
+      "full_name": "D-07",
+      "description": "Nieustąpienie pierwszeństwa przejazdu podczas włączania się do ruchu",
+      "points": "5"
+    },
+    {
+      "category": "D",
+      "full_name": "D-08",
+      "description": "Nieustąpienie pierwszeństwa przejazdu podczas cofania",
+      "points": "4"
+    },
+    {
+      "category": "D",
+      "full_name": "D-09",
+      "description": "Nieułatwienie przejazdu pojazdowi uprzywilejowanemu",
+      "points": "5"
+    },
+    {
+      "category": "D",
+      "full_name": "D-10",
+      "description": "Naruszenie zakazu zawracania",
+      "points": "5"
+    },
+    {
+      "category": "D",
+      "full_name": "D-11",
+      "description": "Utrudnianie lub tamowanie ruchu poprzez niesygnalizowanie lub błędne sygnalizowanie manewru",
+      "points": "2"
+    },
+    {
+      "category": "E",
+      "full_name": "E-01",
+      "description": "Przekroczenie dopuszczalnej prędkości powyżej 50 km/h",
+      "points": "10"
+    },
+    {
+      "category": "E",
+      "full_name": "E-02",
+      "description": "Przekroczenie dopuszczalnej prędkości od 41 do 50 km/h",
+      "points": "8"
+    },
+    {
+      "category": "E",
+      "full_name": "E-03",
+      "description": "Przekroczenie dopuszczalnej prędkości od 31 do 40 km/h",
+      "points": "6"
+    },
+    {
+      "category": "E",
+      "full_name": "E-04",
+      "description": "Przekroczenie dopuszczalnej prędkości od 21 do 30 km/h",
+      "points": "4"
+    },
+    {
+      "category": "E",
+      "full_name": "E-05",
+      "description": "Przekroczenie dopuszczalnej prędkości od 11 do 20 km/h",
+      "points": "2"
+    },
+    {
+      "category": "E",
+      "full_name": "E-07",
+      "description": "Jazda z prędkością utrudniającą ruch innym kierującym",
+      "points": "2"
+    },
+    {
+      "category": "F",
+      "full_name": "F-01",
+      "description": "Nieupewnienie się co do możliwości wyprzedzania",
+      "points": "5"
+    },
+    {
+      "category": "F",
+      "full_name": "F-02",
+      "description": "Wyprzedzanie z niewłaściwej strony",
+      "points": "3"
+    },
+    {
+      "category": "F",
+      "full_name": "F-03",
+      "description": "Naruszenie zakazu wyprzedzania na przejazdach rowerowych i bezpośrednio przed nimi",
+      "points": "10"
+    },
+    {
+      "category": "F",
+      "full_name": "F-04",
+      "description": "Naruszenie zakazu wyprzedzania przy dojeżdżaniu do wierzchołka wzniesienia",
+      "points": "5"
+    },
+    {
+      "category": "F",
+      "full_name": "F-05",
+      "description": "Naruszenie zakazu wyprzedzania na zakrętach oznaczonych znakami ostrzegawczymi",
+      "points": "5"
+    },
+    {
+      "category": "F",
+      "full_name": "F-06",
+      "description": "Naruszenie zakazu wyprzedzania na skrzyżowaniach",
+      "points": "5"
+    },
+    {
+      "category": "F",
+      "full_name": "F-07",
+      "description": "Naruszenie zakazu wyprzedzania na przejazdach kolejowych i bezpośrednio przed nimi",
+      "points": "5"
+    },
+    {
+      "category": "F",
+      "full_name": "F-08",
+      "description": "Naruszenie zakazu wyprzedzania na przejazdach tramwajowych i bezpośrednio przed nimi",
+      "points": "5"
+    },
+    {
+      "category": "F",
+      "full_name": "F-09",
+      "description": "Niestosowanie się do znaku B-25 lub B-26 „zakaz wyprzedzania”",
+      "points": "5"
+    },
+    {
+      "category": "F",
+      "full_name": "F-10",
+      "description": "Zwiększanie prędkości przez kierującego pojazdem wyprzedzanym",
+      "points": "3"
+    },
+    {
+      "category": "F",
+      "full_name": "F-11",
+      "description": "Wyprzedzanie pojazdu uprzywilejowanego na obszarze zabudowanym",
+      "points": "3"
+    },
+    {
+      "category": "G",
+      "full_name": "G-01",
+      "description": "Niestosowanie się podczas jazdy do obowiązku używania wymaganych przepisami świateł od zmierzchu do świtu",
+      "points": "4"
+    },
+    {
+      "category": "G",
+      "full_name": "G-02",
+      "description": "Niestosowanie się podczas jazdy do obowiązku używania wymaganych przepisami świateł – w warunkach zmniejszonej przejrzystości powietrza",
+      "points": "2"
+    },
+    {
+      "category": "G",
+      "full_name": "G-03",
+      "description": "Niestosowanie się podczas jazdy do obowiązku używania wymaganych przepisami świateł w okresie od świtu do zmierzchu",
+      "points": "2"
+    },
+    {
+      "category": "G",
+      "full_name": "G-04",
+      "description": "Niestosowanie się podczas jazdy do obowiązku używania wymaganych przepisami świateł w tunelu, niezależnie od pory doby",
+      "points": "4"
+    },
+    {
+      "category": "G",
+      "full_name": "G-06",
+      "description": "Naruszenie warunków dopuszczalności używania świateł przeciwmgłowych przednich",
+      "points": "2"
+    },
+    {
+      "category": "G",
+      "full_name": "G-07",
+      "description": "Naruszenie warunków dopuszczalności używania świateł przeciwmgłowych tylnych",
+      "points": "2"
+    },
+    {
+      "category": "G",
+      "full_name": "G-08",
+      "description": "Pozostawienie pojazdu bez wymaganego przepisami oświetlenia",
+      "points": "3"
+    },
+    {
+      "category": "G",
+      "full_name": "G-09",
+      "description": "Korzystanie ze świateł drogowych w sposób niezgodny z przepisami",
+      "points": "3"
+    },
+    {
+      "category": "H",
+      "full_name": "H-01",
+      "description": "Naruszenie zakazu cofania na drodze ekspresowej lub autostradzie",
+      "points": "5"
+    },
+    {
+      "category": "H",
+      "full_name": "H-02",
+      "description": "Naruszenie zakazu cofania w tunelu, na moście lub wiadukcie",
+      "points": "2"
+    },
+    {
+      "category": "H",
+      "full_name": "H-03",
+      "description": "Omijanie pojazdu z niewłaściwej strony",
+      "points": "2"
+    },
+    {
+      "category": "H",
+      "full_name": "H-04",
+      "description": "Naruszenie przepisów określających warunki\noraz zakazy zatrzymywania lub postoju",
+      "points": "1"
+    },
+    {
+      "category": "H",
+      "full_name": "H-05",
+      "description": "Kierowanie pojazdem pomimo braku\ndopuszczenia pojazdu do ruchu",
+      "points": "1"
+    },
+    {
+      "category": "H",
+      "full_name": "H-06",
+      "description": "Nieuprawnione umieszczanie w pojeździe\nlub na nim urządzeń stanowiących\nobowiązkowe wyposażenie pojazdu\nuprzywilejowanego, wysyłających sygnały\nświetlne w postaci niebieskich lub czerwonych\nświateł błyskowych albo sygnał dźwiękowy\no zmiennym tonie",
+      "points": "3"
+    },
+    {
+      "category": "H",
+      "full_name": "H-07",
+      "description": "Wyposażenie pojazdu w urządzenie\ninformujące o działaniu sprzętu kontrolno-\n-pomiarowego używanego przez organy\nkontroli ruchu drogowego lub działanie to\nzakłócające albo przewożenie w pojeździe\ntakiego urządzenia w stanie wskazującym na\ngotowość jego użycia",
+      "points": "3"
+    },
+    {
+      "category": "H",
+      "full_name": "H-08",
+      "description": "Naruszenie obowiązku „jazdy prawostronnej”",
+      "points": "2"
+    },
+    {
+      "category": "H",
+      "full_name": "H-09",
+      "description": "Naruszenie obowiązku korzystania z pasów\nbezpieczeństwa przez kierującego pojazdem",
+      "points": "2"
+    },
+    {
+      "category": "H",
+      "full_name": "H-12",
+      "description": "Naruszenie obowiązku używania hełmu\nochronnego odpowiadającego odpowiednim\nwarunkom technicznym przez kierującego\nmotocyklem lub motorowerem",
+      "points": "2"
+    },
+    {
+      "category": "H",
+      "full_name": "H-13",
+      "description": "Naruszenie zakazu korzystania podczas jazdy\nz telefonu wymagającego trzymania słuchawki\nlub mikrofonu w ręku",
+      "points": "5"
+    },
+    {
+      "category": "H",
+      "full_name": "H-14",
+      "description": "Naruszenie zakazu objeżdżania opuszczonych zapór lub półzapór\noraz wjeżdżania na przejazd, jeśli opuszczanie\nich zostało rozpoczęte lub podnoszenie ich\nnie zostało zakończone",
+      "points": "4"
+    },
+    {
+      "category": "H",
+      "full_name": "H-15",
+      "description": "Naruszenie zakazu wjeżdżania na przejazd, jeśli po jego drugiej\nstronie nie ma miejsca do kontynuowania\njazdy",
+      "points": "4"
+    },
+    {
+      "category": "H",
+      "full_name": "H-16",
+      "description": "Naruszenie przez kierującego zakazu wjeżdżania na skrzyżowanie, jeśli na\nskrzyżowaniu lub za nim nie ma miejsca do\nkontynuowania jazdy",
+      "points": "2"
+    },
+    {
+      "category": "H",
+      "full_name": "H-17",
+      "description": "Zakrywanie świateł oraz urządzeń\nsygnalizacyjnych, tablic rejestracyjnych lub\ninnych wymaganych tablic albo znaków, które\npowinny być widoczne",
+      "points": "3"
+    },
+    {
+      "category": "H",
+      "full_name": "H-18",
+      "description": "Ozdabianie tablic rejestracyjnych oraz\numieszczanie z przodu lub z tylu pojazdu\nznaków, napisów lub przedmiotów\nograniczających czytelność tych tablic",
+      "points": "1"
+    },
+    {
+      "category": "H",
+      "full_name": "H-19",
+      "description": "Wjeżdżanie między jadące w kolumnie rowery\nlub wózki rowerowe albo pojazdy\nuprzywilejowane oraz pojazdy jednostek\npodporządkowanych Ministrowi Obrony\nNarodowej",
+      "points": "2"
+    },
+    {
+      "category": "H",
+      "full_name": "H-20",
+      "description": "Ciągnięcie za pojazdem osoby na nartach,\nsankach, wrotkach lub innym podobnym\nurządzeniu\n",
+      "points": "5"
+    },
+    {
+      "category": "J",
+      "full_name": "J-01",
+      "description": "Przewożenie dziecka w pojeździe w sposób\nniezgodny z przepisami",
+      "points": "6"
+    },
+    {
+      "category": "J",
+      "full_name": "J-02",
+      "description": "Przewożenie pasażerów niezgodnie\nz przepisami o korzystaniu z pasów\nbezpieczeństwa lub używaniu hełmów\nochronnych",
+      "points": "4"
+    },
+    {
+      "category": "J",
+      "full_name": "J-03",
+      "description": "Naruszenie przepisów dotyczących przewozu dzieci lub młodzieży przez kierującego pojazdem przewożącym dzieci\nlub młodzież oraz autobusem szkolnym",
+      "points": "2"
+    },
+    {
+      "category": "J",
+      "full_name": "J-04",
+      "description": "Naruszenie przepisów dotyczących przewozu dzieci lub młodzieży przez kierującego innym pojazdem",
+      "points": "1"
+    },
+    {
+      "category": "J",
+      "full_name": "J-05",
+      "description": "Naruszenie przepisów dotyczących przewozu osób niepełnosprawnych przez kierującego pojazdem przewożącym osoby\nniepełnosprawne",
+      "points": "2"
+    },
+    {
+      "category": "J",
+      "full_name": "J-06",
+      "description": "Naruszenie przepisów dotyczących przewozu osób niepełnosprawnych przez kierującego innym pojazdem",
+      "points": "1"
+    },
+    {
+      "category": "J",
+      "full_name": "J-07",
+      "description": "Przewóz osób pojazdem nieprzeznaczonym lub\nnieprzystosowanym do tego celu bądź w liczbie\nprzekraczającej liczbę miejsc określonych\nw dowodzie rejestracyjnym pojazdu albo\nwynikających z konstrukcyjnego przeznaczenia\npojazdu niepodlegającego rejestracji, jeżeli\nliczba osób przewożonych w niewłaściwy\nsposób wynosi: 1 osobę",
+      "points": "1"
+    },
+    {
+      "category": "J",
+      "full_name": "J-08",
+      "description": "Przewóz osób pojazdem nieprzeznaczonym lub\nnieprzystosowanym do tego celu bądź w liczbie\nprzekraczającej liczbę miejsc określonych\nw dowodzie rejestracyjnym pojazdu albo\nwynikających z konstrukcyjnego przeznaczenia\npojazdu niepodlegającego rejestracji, jeżeli\nliczba osób przewożonych w niewłaściwy\nsposób wynosi:  2 osoby",
+      "points": "2"
+    },
+    {
+      "category": "J",
+      "full_name": "J-09",
+      "description": "Przewóz osób pojazdem nieprzeznaczonym lub\nnieprzystosowanym do tego celu bądź w liczbie\nprzekraczającej liczbę miejsc określonych\nw dowodzie rejestracyjnym pojazdu albo\nwynikających z konstrukcyjnego przeznaczenia\npojazdu niepodlegającego rejestracji, jeżeli\nliczba osób przewożonych w niewłaściwy\nsposób wynosi:  3 osoby",
+      "points": "3"
+    },
+    {
+      "category": "J",
+      "full_name": "J-10",
+      "description": "Przewóz osób pojazdem nieprzeznaczonym lub\nnieprzystosowanym do tego celu bądź w liczbie\nprzekraczającej liczbę miejsc określonych\nw dowodzie rejestracyjnym pojazdu albo\nwynikających z konstrukcyjnego przeznaczenia\npojazdu niepodlegającego rejestracji, jeżeli\nliczba osób przewożonych w niewłaściwy\nsposób wynosi: 4 osoby",
+      "points": "4"
+    },
+    {
+      "category": "J",
+      "full_name": "J-11",
+      "description": "Przewóz osób pojazdem nieprzeznaczonym lub\nnieprzystosowanym do tego celu bądź w liczbie\nprzekraczającej liczbę miejsc określonych\nw dowodzie rejestracyjnym pojazdu albo\nwynikających z konstrukcyjnego przeznaczenia\npojazdu niepodlegającego rejestracji, jeżeli\nliczba osób przewożonych w niewłaściwy\nsposób wynosi:  5 osób",
+      "points": "5"
+    },
+    {
+      "category": "J",
+      "full_name": "J-12",
+      "description": "Przewóz osób pojazdem nieprzeznaczonym lub\nnieprzystosowanym do tego celu bądź w liczbie\nprzekraczającej liczbę miejsc określonych\nw dowodzie rejestracyjnym pojazdu albo\nwynikających z konstrukcyjnego przeznaczenia\npojazdu niepodlegającego rejestracji, jeżeli\nliczba osób przewożonych w niewłaściwy\nsposób wynosi:  6 osób",
+      "points": "6"
+    },
+    {
+      "category": "J",
+      "full_name": "J-13",
+      "description": "Przewóz osób pojazdem nieprzeznaczonym lub\nnieprzystosowanym do tego celu bądź w liczbie\nprzekraczającej liczbę miejsc określonych\nw dowodzie rejestracyjnym pojazdu albo\nwynikających z konstrukcyjnego przeznaczenia\npojazdu niepodlegającego rejestracji, jeżeli\nliczba osób przewożonych w niewłaściwy\nsposób wynosi: 7 osób",
+      "points": "7"
+    },
+    {
+      "category": "J",
+      "full_name": "J-14",
+      "description": "Przewóz osób pojazdem nieprzeznaczonym lub\nnieprzystosowanym do tego celu bądź w liczbie\nprzekraczającej liczbę miejsc określonych\nw dowodzie rejestracyjnym pojazdu albo\nwynikających z konstrukcyjnego przeznaczenia\npojazdu niepodlegającego rejestracji, jeżeli\nliczba osób przewożonych w niewłaściwy\nsposób wynosi: 8 osób",
+      "points": "8"
+    },
+    {
+      "category": "J",
+      "full_name": "J-15",
+      "description": "Przewóz osób pojazdem nieprzeznaczonym lub\nnieprzystosowanym do tego celu bądź w liczbie\nprzekraczającej liczbę miejsc określonych\nw dowodzie rejestracyjnym pojazdu albo\nwynikających z konstrukcyjnego przeznaczenia\npojazdu niepodlegającego rejestracji, jeżeli\nliczba osób przewożonych w niewłaściwy\nsposób wynosi: 9 osób",
+      "points": "9"
+    },
+    {
+      "category": "J",
+      "full_name": "J-16",
+      "description": "Przewóz osób pojazdem nieprzeznaczonym lub\nnieprzystosowanym do tego celu bądź w liczbie\nprzekraczającej liczbę miejsc określonych\nw dowodzie rejestracyjnym pojazdu albo\nwynikających z konstrukcyjnego przeznaczenia\npojazdu niepodlegającego rejestracji, jeżeli\nliczba osób przewożonych w niewłaściwy\nsposób wynosi: 10 osób lub więcej",
+      "points": "10"
+    },
+    {
+      "category": "J",
+      "full_name": "J-17",
+      "description": "Naruszenie warunków przewozu konwojentów,\ndrużyn roboczych lub osób wykonujących\nczynności ładunkowe, w przyczepie ciągniętej\nprzez ciągnik rolniczy, jeżeli liczba osób przekracza 5",
+      "points": "3"
+    },
+    {
+      "category": "J",
+      "full_name": "J-18",
+      "description": "Naruszenie warunków przewozu konwojentów,\ndrużyn roboczych lub osób wykonujących\nczynności ładunkowe, w przyczepie ciągniętej\nprzez ciągnik rolniczy, jeżeli  osoby znajdują się pomiędzy ładunkiem\na przednią ścianą przyczepy",
+      "points": "3"
+    },
+    {
+      "category": "J",
+      "full_name": "J-19",
+      "description": "Naruszenie warunków przewozu osób\nw przyczepie, z wyłączeniem naruszenia\nokreślonego kodem E 01–E 05, C 07–C 16,\nC 17 i C 18",
+      "points": "2"
+    },
+    {
+      "category": "J",
+      "full_name": "J-20",
+      "description": "Naruszenie warunków dopuszczalności\nprzewozu osób samochodem ciężarowym poza\nkabiną kierowcy, z wyłączeniem naruszenia\nokreślonego kodem E 01–E 05",
+      "points": "2"
+    },
+    {
+      "category": "K",
+      "full_name": "K-01",
+      "description": "Kierowanie pojazdem pomimo orzeczonego przez sąd zakazu\nprowadzenia pojazdu",
+      "points": "0"
+    },
+    {
+      "category": "K",
+      "full_name": "K-02",
+      "description": "Kierowanie pojazdem nie mając do tego wymaganych uprawnień",
+      "points": "0"
+    },
+    {
+      "category": "K",
+      "full_name": "K-03",
+      "description": "Kierowanie pojazdem nie mając przy sobie wymaganych\ndokumentów",
+      "points": "0"
+    },
+    {
+      "category": "K",
+      "full_name": "K-04",
+      "description": "Jazda wzdłuż po chodniku lub przejściu dla\npieszych",
+      "points": "0"
+    },
+    {
+      "category": "K",
+      "full_name": "K-05",
+      "description": "Naruszenie obowiązku zatrzymania pojazdu\nw takim miejscu i na taki czas, aby umożliwić\npieszym swobodny dostęp do pojazdów\nkomunikacji publicznej lub na chodnik –\nw przypadku braku wysepki dla pasażerów na\nprzystanku",
+      "points": "0"
+    },
+    {
+      "category": "K",
+      "full_name": "K-06",
+      "description": "Przejeżdżanie przez przejazd kolejowy pojazdu\nlub zespołu pojazdów o długości\nprzekraczającej 10 m i niemogących rozwinąć\nprędkości powyżej 6 km/h bez uprzedniego\nupewnienia się, że w czasie potrzebnym na\nprzejazd nie nadjedzie pociąg, lub bez\nuzgodnienia czasu przejazdu z dróżnikiem\nkolejowym",
+      "points": "0"
+    },
+    {
+      "category": "K",
+      "full_name": "K-07",
+      "description": "Naruszenie zakazu holowania",
+      "points": "0"
+    },
+    {
+      "category": "K",
+      "full_name": "K-08",
+      "description": "Naruszenie przepisów dotyczących jazdy w zorganizowanych kolumnach, w tym przekroczenie dopuszczalnej liczby pojazdów",
+      "points": "0"
+    },
+    {
+      "category": "K",
+      "full_name": "K-09",
+      "description": "Naruszenie przepisów dotyczących jazdy w zorganizowanych kolumnach, w tym niezachowanie wymaganej odległości między\nkolumnami lub pojazdami w kolumnie",
+      "points": "0"
+    },
+    {
+      "category": "K",
+      "full_name": "K-10",
+      "description": "Wjeżdżanie na pas między jezdniami",
+      "points": "0"
+    },
+    {
+      "category": "K",
+      "full_name": "K-11",
+      "description": "Używanie „szperacza” podczas jazdy",
+      "points": "0"
+    },
+    {
+      "category": "K",
+      "full_name": "K-12",
+      "description": "Bezpodstawne korzystanie z ułatwień w ruchu\ndrogowym przez kierującego pojazdem\nuprzywilejowanym",
+      "points": "0"
+    },
+    {
+      "category": "K",
+      "full_name": "K-13",
+      "description": "Niestosowanie się, przez kierującego pojazdem\nuprzywilejowanym, do sygnałów dawanych\nprzez osobę kierującą ruchem",
+      "points": "0"
+    },
+    {
+      "category": "K",
+      "full_name": "K-14",
+      "description": "Naruszenie przepisów o obowiązku\nwysyłania przez pojazdy żółtych sygnałów\nbłyskowych",
+      "points": "0"
+    },
+    {
+      "category": "K",
+      "full_name": "K-15",
+      "description": "Bezpodstawne używanie żółtych sygnałów\nbłyskowych",
+      "points": "0"
+    },
+    {
+      "category": "K",
+      "full_name": "K-16",
+      "description": "Używanie pojazdu w sposób zagrażający\nbezpieczeństwu osoby znajdującej się\nw pojeździe lub poza nim",
+      "points": "0"
+    },
+    {
+      "category": "K",
+      "full_name": "K-17",
+      "description": "Umieszczenie na pojeździe znaku określającego\ninne państwo niż to, w którym pojazd został\nzarejestrowany",
+      "points": "0"
+    },
+    {
+      "category": "K",
+      "full_name": "K-18",
+      "description": "Oddalenie się kierującego od pojazdu, gdy\nsilnik jest w ruchu",
+      "points": "0"
+    },
+    {
+      "category": "K",
+      "full_name": "K-19",
+      "description": "Używanie pojazdu w sposób powodujący\nuciążliwości związane z nadmierną emisją\nspalin do środowiska lub nadmiernym\nhałasem",
+      "points": "0"
+    },
+    {
+      "category": "K",
+      "full_name": "K-20",
+      "description": "Pozostawienie pracującego silnika podczas\npostoju na obszarze zabudowanym",
+      "points": "0"
+    },
+    {
+      "category": "K",
+      "full_name": "K-21",
+      "description": "Używanie opon z umieszczonymi w nich na\ntrwale elementami przeciwślizgowymi",
+      "points": "0"
+    },
+    {
+      "category": "K",
+      "full_name": "K-22",
+      "description": "Używanie łańcuchów przeciwślizgowych na\noponach na drodze niepokrytej śniegiem",
+      "points": "0"
+    },
+    {
+      "category": "K",
+      "full_name": "K-23",
+      "description": "Umieszczenie na pojeździe ładunku w sposób powodujący przekroczenie dopuszczalnej\nmasy całkowitej lub dopuszczalnej\nładowności pojazdu",
+      "points": "0"
+    },
+    {
+      "category": "K",
+      "full_name": "K-24",
+      "description": "Umieszczenie na pojeździe ładunku w sposób naruszający stateczność pojazdu",
+      "points": "0"
+    },
+    {
+      "category": "K",
+      "full_name": "K-25",
+      "description": "Umieszczenie na pojeździe ładunku w sposób utrudniający kierowanie pojazdem ",
+      "points": "0"
+    },
+    {
+      "category": "K",
+      "full_name": "K-26",
+      "description": "Umieszczenie na pojeździe ładunku w sposób ograniczający widoczność drogi lub\nzasłaniający światła, urządzenia\nsygnalizacyjne, tablice rejestracyjne lub inne\ntablice albo znaki, w które pojazd jest\nwyposażony",
+      "points": "0"
+    },
+    {
+      "category": "K",
+      "full_name": "K-27",
+      "description": "Niezabezpieczenie ładunku umieszczonego na\npojeździe przed zmianą położenia lub\nwywoływaniem nadmiernego hałasu",
+      "points": "0"
+    },
+    {
+      "category": "K",
+      "full_name": "K-28",
+      "description": "Przewożenie ładunku o odrażającym wyglądzie\nlub wydzielającego odrażającą woń – bez\nodpowiedniego zabezpieczenia",
+      "points": "0"
+    },
+    {
+      "category": "K",
+      "full_name": "K-29",
+      "description": "Niezabezpieczenie urządzeń służących do\nmocowania ładunku przed rozluźnieniem się,\nswobodnym zwisaniem lub spadnięciem\npodczas jazdy",
+      "points": "0"
+    },
+    {
+      "category": "K",
+      "full_name": "K-30",
+      "description": "Naruszenie przepisów o przewozie ładunków\nsypkich",
+      "points": "0"
+    },
+    {
+      "category": "K",
+      "full_name": "K-31",
+      "description": "Przewożenie ładunku nieoznaczonego lub\noznaczonego w niewłaściwy sposób",
+      "points": "0"
+    },
+    {
+      "category": "K",
+      "full_name": "K-32",
+      "description": "Przejazd bez zezwolenia pojazdu z ładunkiem powodującym\nprzekroczenie określonych gabarytów",
+      "points": "0"
+    },
+    {
+      "category": "K",
+      "full_name": "K-33",
+      "description": "Przejazd bez zezwolenia zespołu pojazdów o większej niż\ndopuszczalna liczbie pojazdów bądź długości\n",
+      "points": "0"
+    },
+    {
+      "category": "K",
+      "full_name": "K-34",
+      "description": "Ciągnięcie przyczepy o rzeczywistej masie\ncałkowitej większej niż dopuszczalna\nw odniesieniu do określonego rodzaju pojazdu\nciągnącego",
+      "points": "0"
+    },
+    {
+      "category": "K",
+      "full_name": "K-35",
+      "description": "Palenie tytoniu lub spożywanie pokarmów\nw czasie jazdy przez kierującego przewożącego\nosobę pojazdem silnikowym",
+      "points": "0"
+    },
+    {
+      "category": "Z",
+      "full_name": "Z-01",
+      "description": "Inne naruszenie przepisów ruchu drogowego",
+      "points": "0"
+    }
+  ]
+}

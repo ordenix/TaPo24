@@ -31,3 +31,25 @@ input {
   font-weight: bold;
   font-size: 20px;
 }
+.small_main_container {
+  margin: 10px 10px;
+  background-color: #3D5A80;
+  border-radius: 8px;
+  padding: 20px 10px;
+  height: min-content;
+  transition: height 5s;
+  -webkit-transition: height 5s ease;
+}
+hr {
+  border: 1px solid #EE6C4D;
+}
+
+@media only screen and (min-width: 700px) {
+  .main {
+    display: flex;
+    justify-content: center;
+  }
+  .small_main_container {
+    min-width: 400px;
+  }
+}

@@ -10,6 +10,7 @@ import PostalCode from '@/views/Postal_code'
 import Sign from '@/views/Sign/Sign'
 import FormSigns from '@/views/Sign/Form_signs'
 import InstallIOS from '@/views/instal_iOS'
+import PointsCalc from '@/views/Points_Calc'
 Vue.use(VueRouter)
 
 const routes = [
@@ -62,6 +63,11 @@ const routes = [
     path: '/Install_iOS/',
     name: 'Install_iOS',
     component: InstallIOS
+  },
+  {
+    path: '/Points_Calc/',
+    name: 'Points_Calc',
+    component: PointsCalc
   },
   {
     path: '/about',
