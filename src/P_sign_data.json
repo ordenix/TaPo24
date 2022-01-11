@@ -22,7 +22,7 @@
     },
     {
       "name": "P-1e",
-      "description": "linia pojedyncza przerywana-prowadząca szeroko",
+      "description": "linia pojedyncza przerywana-prowadząca szeroka",
       "path": "road_sign/P/P-1e.png"
     },
     {
@@ -92,7 +92,7 @@
     },
     {
       "name": "P-8b",
-      "description": "strzałka kierunkowa do skręcania",
+      "description": "strzałka kierunkowa w lewo",
       "path": "road_sign/P/P-8b.png"
     },
     {
@@ -107,7 +107,7 @@
     },
     {
       "name": "P-9a",
-      "description": "strzałka naprowadzająca",
+      "description": "strzałka naprowadzająca w lewo",
       "path": "road_sign/P/P-9.png"
     },
     {
