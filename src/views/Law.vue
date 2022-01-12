@@ -38,15 +38,16 @@ export default {
       law_list: [
         { name: 'Prawo o ruchu drogowym', path: 'PRD.pdf', icon: 'fas fa-car' },
         { name: 'Kodeks Wykroczeń', path: 'KW.pdf', icon: 'fas fa-gavel' },
-        { name: 'Roz. ws. kontroli ruchu drogowego', path: 'RWSK.pdf', icon: 'fas fa-car-crash' },
-        { name: 'Roz. ws. wyk. niektórych uprawnień', path: 'RWWNUP.pdf', icon: 'fas fa-book-open' },
+        { name: 'Rozp. ws. kontroli ruchu drogowego', path: 'RWSK.pdf', icon: 'fas fa-car-crash' },
+        { name: 'Rozp. ws. wyk. niektórych uprawnień', path: 'RWWNUP.pdf', icon: 'fas fa-book-open' },
         { name: 'Ustawa o transporcie drogowym', path: 'TD.pdf', icon: 'fas fa-truck' },
         { name: 'Zarządzenie KGP nr 30KGP', path: '30KGP.pdf', icon: 'fas fa-road' },
         { name: 'Ustawa o ŚPB', path: 'SPB.pdf', icon: 'fas fa-crosshairs' },
         { name: 'Ustawa o Policji', path: 'UOP.pdf', icon: 'fas fa-bookmark' },
         { name: 'Kodeks Karny', path: 'KK.pdf', icon: 'fas fa-mask' },
-        { name: 'Roz. ws. usuwania pojazdów', path: 'UPOJ.pdf', icon: 'fas fas fa-car-battery' },
-        { name: 'Roz. ws. badań alkoholu w organizmie', path: 'AL.pdf', icon: 'fas fa-glass-cheers' }
+        { name: 'Rozp. ws. usuwania pojazdów', path: 'UPOJ.pdf', icon: 'fas fas fa-car-battery' },
+        { name: 'Rozp. ws. badań alkoholu w organizmie', path: 'AL.pdf', icon: 'fas fa-glass-cheers' },
+        { name: 'Rozp. ws. badań na substancje', path: 'KRNARK.pdf', icon: 'fas fa-cannabis' }
       ],
       master_path: 'https://tapo24.pl/static/'
     }
