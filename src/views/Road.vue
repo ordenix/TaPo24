@@ -5,6 +5,10 @@
         <div class="icon"><i class="fas fa-map-signs"></i></div>
         <div class="label">Znaki drogowe</div>
       </div>
+      <div class="element" @click="goto('/TypeAccident/')">
+        <div class="icon"><i class="fas fa-car-crash"></i></div>
+        <div class="label">Kwalifikacja zdarzenia</div>
+      </div>
     </div>
   </div>
 </template>

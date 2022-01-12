@@ -11,6 +11,8 @@ import Sign from '@/views/Sign/Sign'
 import FormSigns from '@/views/Sign/Form_signs'
 import InstallIOS from '@/views/instal_iOS'
 import PointsCalc from '@/views/Points_Calc'
+import QualificationsAccident2 from '@/views/Qualifications_Accident2'
+import TypeAccident from '@/views/Type_Accident'
 Vue.use(VueRouter)
 
 const routes = [
@@ -68,6 +70,16 @@ const routes = [
     path: '/Points_Calc/',
     name: 'Points_Calc',
     component: PointsCalc
+  },
+  {
+    path: '/TypeAccident/',
+    name: 'TypeAccident',
+    component: TypeAccident
+  },
+  {
+    path: '/QualificationsAccident2/',
+    name: 'QualificationsAccident2',
+    component: QualificationsAccident2
   },
   {
     path: '/about',

@@ -1,0 +1,123 @@
+{
+  "accident_array": [
+    {
+      "number_step": "0",
+      "question": "Gdzie doszło do zdarzenia drogowego? (sprawca i poszkodowany/ni są na miejscu)",
+      "answer_1": "Na drodze publicznej, strefie ruchu, strefie zamieszkania",
+      "step_answer_1": "1",
+      "answer_2": "Po za drogą publiczną, strefą ruchu, strefą zamieszkania",
+      "step_answer_2": "2"
+    },
+    {
+      "number_step": "1",
+      "question": "Czy w zdarzeniu po za kierowcą uczestniczyła inna osoba?",
+      "answer_1": "Tak, uczestniczyły inne osoby",
+      "step_answer_1": "6",
+      "answer_2": "Nie, był tylko kierowca",
+      "step_answer_2": "3"
+    },
+    {
+      "number_step": "2",
+      "question": "Czy w zdarzeniu po za kierowcą uczestniczyła inna osoba?",
+      "answer_1": "Tak, uczestniczyły inne osoby",
+      "step_answer_1": "4",
+      "answer_2": "Nie, był tylko kierowca",
+      "step_answer_2": "5"
+    },
+    {
+      "number_step": "3",
+      "question": "Kwalifikacja zdarzenia art. 97KW",
+      "final_step": true,
+      "to_do": "Należy sporządzić kartę zdarzenia MRD2, jeżeli sprawca jest trzeźwy należy wobec niego zastosować:",
+      "to_do_list": {
+        "0": "pouczenie (art. 41 KW)",
+        "1": "postępowanie mandatowe",
+        "2": "wniosek o ukaranie do sądu"
+      },
+      "answer_1": "xxxxxxxxxxxxxxx",
+      "step_answer_1": "xxxxxxxxxxxxxxxxxxxxxxx",
+      "answer_2": "xxxxxxxxxxxxxxxxxxxxxx",
+      "step_answer_2": "xxxxxxxxxxxxxxxxxxxxx"
+    },
+    {
+      "number_step": "4",
+      "question": "Kwalifikacja zdarzenia art. 98KW",
+      "final_step": true,
+      "to_do": "Jeżeli sprawca jest trzeźwy wobec sprawcy należy zastosować:",
+      "to_do_list": {
+        "0": "pouczenie (art. 41 KW)",
+        "1": "postępowanie mandatowe",
+        "2": "wniosek o ukaranie do sądu"
+      },
+      "answer_1": "xxxxxxxxxxxxxxxxxxx",
+      "step_answer_1": "xxxxxxxxxxxxxxxxxxxxxxx",
+      "answer_2": "xxxxxxxxxxxx",
+      "step_answer_2": "xxxxxxxxxxxxxxxxxxxxx"
+    },
+    {
+      "number_step": "5",
+      "question": "Brak znamion wykroczenia, jeżeli sprawca jest trzeźwy",
+      "final_step": true,
+      "to_do": "Postępowanie w zależności od przyjętych zasad w jednostce",
+      "answer_1": "xxxxxxxxxxxxxxxxxxx",
+      "step_answer_1": "xxxxxxxxxxxxxxxxxxxxxxx",
+      "answer_2": "xxxxxxxxxxxx",
+      "step_answer_2": "xxxxxxxxxxxxxxxxxxxxx"
+    },
+    {
+      "number_step": "6",
+      "question": "Czy powstały obrażenia osób poszkodowanych?",
+      "answer_1": "Tak",
+      "step_answer_1": "8",
+      "answer_2": "Nie",
+      "step_answer_2": "7"
+    },
+    {
+      "number_step": "7",
+      "question": "Kwalifikacja zdarzenia art. 86§1 KW",
+      "final_step": true,
+      "to_do": "Należy sporządzić kartę zdarzenia MRD2, jeżeli sprawca jest trzeźwy należy wobec niego zastosować:",
+      "to_do_list": {
+        "0": "pouczenie (art. 41 KW)",
+        "1": "postępowanie mandatowe",
+        "2": "wniosek o ukaranie do sądu"
+      },
+      "answer_1": "xxxxxxxxxxxxxxxxxxx",
+      "step_answer_1": "xxxxxxxxxxxxxxxxxxxxxxx",
+      "answer_2": "xxxxxxxxxxxx",
+      "step_answer_2": "xxxxxxxxxxxxxxxxxxxxx"
+    },
+    {
+      "number_step": "8",
+      "question": "Czy obrażenia poszkodowanych są powyżej 7 dni",
+      "answer_1": "Tak",
+      "step_answer_1": "9",
+      "answer_2": "Nie",
+      "step_answer_2": "10"
+    },
+    {
+      "number_step": "9",
+      "question": "Czynności do wypadku drogowego!",
+      "final_step": true,
+      "answer_1": "xxxxxxxxxxxxxxxxxxx",
+      "step_answer_1": "xxxxxxxxxxxxxxxxxxxxxxx",
+      "answer_2": "xxxxxxxxxxxx",
+      "step_answer_2": "xxxxxxxxxxxxxxxxxxxxx"
+    },
+    {
+      "number_step": "10",
+      "question": "Kwalifikacja zdarzenia art. 86§1a KW",
+      "final_step": true,
+      "to_do": "Należy sporządzić kartę zdarzenia MRD2, jeżeli sprawca jest trzeźwy należy wobec niego zastosować:",
+      "to_do_list": {
+        "0": "pouczenie (art. 41 KW)",
+        "1": "postępowanie mandatowe",
+        "2": "wniosek o ukaranie do sądu"
+      },
+      "answer_1": "xxxxxxxxxxxxxxxxxxx",
+      "step_answer_1": "xxxxxxxxxxxxxxxxxxxxxxx",
+      "answer_2": "xxxxxxxxxxxx",
+      "step_answer_2": "xxxxxxxxxxxxxxxxxxxxx"
+    }
+  ]
+}
