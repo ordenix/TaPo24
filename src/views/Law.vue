@@ -46,7 +46,7 @@ export default {
         { name: 'Ustawa o Policji', path: 'UOP.pdf', icon: 'fas fa-bookmark' },
         { name: 'Kodeks Karny', path: 'KK.pdf', icon: 'fas fa-mask' },
         { name: 'Rozp. ws. usuwania pojazdów', path: 'UPOJ.pdf', icon: 'fas fas fa-car-battery' },
-        { name: 'Rozp. ws. badań alkoholu w organizmie', path: 'AL.pdf', icon: 'fas fa-glass-cheers' },
+        { name: 'Rozp. ws. badań alk. w organizmie', path: 'AL.pdf', icon: 'fas fa-glass-cheers' },
         { name: 'Rozp. ws. badań na substancje', path: 'KRNARK.pdf', icon: 'fas fa-cannabis' }
       ],
       master_path: 'https://tapo24.pl/static/'
