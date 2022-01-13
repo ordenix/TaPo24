@@ -9,6 +9,10 @@
         <div class="icon"><i class="fas fa-car-crash"></i></div>
         <div class="label">Link do sprawdzenia OC w UFG</div>
       </div>
+      <div class="element" @click="goto_web('https://moj.gov.pl/uslugi/engine/ng/index?xFormsAppName=UprawnieniaKierowcow&xFormsOrigin=EXTERNAL')">
+        <div class="icon"><i class="fas fa-id-card"></i></div>
+        <div class="label">Link do sprawdzenia uprawnień</div>
+      </div>
       <div class="element" @click="goto('/Points_Calc/')">
         <div class="icon"><i class="fas fa-calculator"></i></div>
         <div class="label">Kalkulator punktów</div>
