@@ -13,6 +13,7 @@ import InstallIOS from '@/views/instal_iOS'
 import PointsCalc from '@/views/Points_Calc'
 import QualificationsAccident2 from '@/views/Qualifications_Accident2'
 import TypeAccident from '@/views/Type_Accident'
+import ControlList from '@/views/ControlList'
 Vue.use(VueRouter)
 
 const routes = [
@@ -77,9 +78,14 @@ const routes = [
     component: TypeAccident
   },
   {
-    path: '/QualificationsAccident2/',
+    path: '/QualificationsAccident2/:step',
     name: 'QualificationsAccident2',
     component: QualificationsAccident2
+  },
+  {
+    path: '/ControlList/',
+    name: 'ControlList',
+    component: ControlList
   },
   {
     path: '/about',
