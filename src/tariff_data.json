@@ -189,7 +189,7 @@
       "tax": "2000",
       "points": null,
       "code": "null",
-      "law": "art. 97KW",
+      "law": "art. 97a KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także kierujący pojazdem, który narusza zakaz objeżdżania opuszczonych zapór lub półzapór na przejeździe kolejowym, wjeżdżania na przejazd, jeśli opuszczanie zapór lub półzapór zostało rozpoczęte lub podnoszenie ich nie zostało zakończone, oraz wejścia lub wjazdu na przejazd kolejowy za sygnalizator lub za inne urządzenie nadające sygnały, przy sygnale czerwonym, czerwonym migającym lub dwóch na przemian migających sygnałach czerwonych podlega karze aresztu, ograniczenia wolności albo grzywny w wysokości nie niższej niż 2000 złotych",
       "paragraph": "",
       "path": null
     },
@@ -277,7 +277,11 @@
       "tax": "200",
       "points": null,
       "code": "null",
-      "law": "art. 97KW",
+      "law": "",
+      "law_sub": {
+        "1": "art. 90§1 KW Kto tamuje lub utrudnia ruch na drodze publicznej, w strefie zamieszkania lub strefie ruchu,\npodlega karze grzywny do 500 złotych lub karze nagany",
+        "2": "art. 90§2 KW Jeżeli wykroczenia, o którym mowa w § 1, dopuszcza się prowadzący pojazd mechaniczny,\npodlega karze grzywny nie niższej niż 500 złotych"
+      },
       "paragraph": "art. 15a ust. 3 PRD Osoba poruszająca się przy użyciu urządzenia wspomagającego ruch, korzystając z chodnika albo drogi dla pieszych, jest obowiązana poruszać się z prędkością zbliżoną do prędkości pieszego, zachować szczególną ostrożność, ustępować pierwszeństwa pieszemu oraz nie utrudniać jego ruchu",
       "path": null
     },
@@ -310,7 +314,11 @@
       "tax": "200",
       "points": null,
       "code": "null",
-      "law": "art. 97KW",
+      "law": "",
+      "law_sub": {
+        "1": "art. 90§1 KW Kto tamuje lub utrudnia ruch na drodze publicznej, w strefie zamieszkania lub strefie ruchu,\npodlega karze grzywny do 500 złotych lub karze nagany",
+        "2": "art. 90§2 KW Jeżeli wykroczenia, o którym mowa w § 1, dopuszcza się prowadzący pojazd mechaniczny,\npodlega karze grzywny nie niższej niż 500 złotych"
+      },
       "paragraph": "art. 15a ust. 6 pkt 5 PRD Osoba poruszająca się przy użyciu urządzenia wspomagającego ruch jest obowiązana zbliżając się do przejścia dla pieszych, zachować szczególną ostrożność i ustąpić pierwszeństwa pieszemu znajdującemu się na przejściu ",
       "path": null
     },
@@ -389,6 +397,10 @@
       "code": "B 03",
       "law": "",
       "paragraph": "",
+      "paragraph_sub": {
+        "1": "art. 26 ust. 1 PRD Kierujący pojazdem, zbliżając się do przejścia dla pieszych, jest obowiązany zachować szczególną ostrożność, zmniejszyć prędkość tak, aby nie narazić na niebezpieczeństwo pieszego znajdującego się na tym przejściu albo na nie wchodzącego i ustąpić pierwszeństwa pieszemu znajdującemu się na tym przejściu albo wchodzącemu na to przejście, z zastrzeżeniem ust. 1a",
+        "2": "art. 26 ust. 1a PRD Kierujący tramwajem, zbliżając się do przejścia dla pieszych, jest obowiązany zachować szczególną ostrożność, zmniejszyć prędkość tak, aby nie narazić na niebezpieczeństwo pieszego znajdującego się na tym przejściu i ustąpić pierwszeństwa pieszemu znajdującemu się na tym przejściu"
+      },
       "path": null
     },
     {
@@ -399,7 +411,7 @@
       "points": 10,
       "code": "B 04",
       "law": "",
-      "paragraph": "",
+      "paragraph": "art. 26 ust. 2 PRD Kierujący pojazdem, który skręca w drogę poprzeczną, jest obowiązany ustąpić pierwszeństwa pieszemu przechodzącemu na skrzyżowaniu przez jezdnię drogi, na którą wjeżdża",
       "path": null
     },
     {
@@ -411,6 +423,10 @@
       "code": "Z 01",
       "law": "",
       "paragraph": "",
+      "paragraph_sub": {
+        "1": "art. 26 ust. 4 PRD Kierujący pojazdem, przejeżdżając przez chodnik lub drogę dla pieszych, jest obowiązany jechać powoli i ustąpić pierwszeństwa pieszemu",
+        "2": "art. 26 ust. 5 PRD Przepis ust. 4 stosuje się odpowiednio podczas jazdy po placu, na którym ze względu na brak wyodrębnienia jezdni i chodników ruch pieszych i pojazdów odbywa się po tej samej powierzchni."
+      },
       "path": null
     },
     {
@@ -421,7 +437,7 @@
       "points": 0,
       "code": "Z 01",
       "law": "",
-      "paragraph": "",
+      "paragraph": "art. 17 ust. 2 PRD Kierujący pojazdem, włączając się do ruchu, jest obowiązany zachować szczególną ostrożność oraz ustąpić pierwszeństwa innemu pojazdowi lub uczestnikowi ruchu",
       "path": null
     },
     {
@@ -444,6 +460,14 @@
       "code": "Z 01",
       "law": "",
       "paragraph": "",
+      "paragraph_sub": {
+        "1": "art. 11 ust. 1 PRD Pieszy jest obowiązany korzystać z chodnika lub drogi dla pieszych, a w razie ich braku – z pobocza. Jeżeli nie ma pobocza lub czasowo nie można z niego korzystać, pieszy może korzystać z jezdni, pod warunkiem zajmowania miejsca jak najbliżej jej krawędzi i ustępowania miejsca nadjeżdżającemu pojazdowi ",
+        "2": "art. 11 ust. 2 PRD Pieszy idący po poboczu lub jezdni jest obowiązany iść lewą stroną drogi",
+        "3": "art. 11 ust. 3 PRD Piesi idący jezdnią są obowiązani iść jeden za drugim. Na drodze o małym ruchu, w warunkach dobrej widoczności, dwóch pieszych może iść obok siebie",
+        "4": "art. 11 ust. 4 PRD Korzystanie przez pieszego z drogi dla rowerów jest dozwolone tylko w razie braku chodnika lub pobocza albo niemożności korzystania z nich. Pieszy, z wyjątkiem osoby niepełnosprawnej, korzystając z tej drogi, jest obowiązany ustąpić miejsca osobie poruszającej się przy użyciu urządzenia wspomagającego ruch, kierującemu rowerem, hulajnogą elektryczną lub urządzeniem transportu osobistego",
+        "5": "art. 11 ust. 4a PRD Pieszy poruszający się po drodze po zmierzchu poza obszarem zabudowanym jest obowiązany używać elementów odblaskowych w sposób widoczny dla innych uczestników ruchu, chyba że porusza się po drodze przeznaczonej wyłącznie dla pieszych lub po chodniku",
+        "6": "art. 11 ust. 5  PRD Przepisów ust. 1–4a nie stosuje się w strefie zamieszkania. W strefie tej pieszy korzysta z całej szerokości drogi i ma pierwszeństwo przed pojazdem oraz osobą poruszającą się przy użyciu urządzenia wspomagającego ruch "
+      },
       "path": null
     },
     {
@@ -454,7 +478,7 @@
       "points": 10,
       "code": "B 05",
       "law": "",
-      "paragraph": "",
+      "paragraph": "art. 26 ust. 7 PRD W razie przechodzenia przez jezdnię osoby niepełnosprawnej, używającej specjalnego znaku, lub osoby o widocznej ograniczonej sprawności ruchowej, kierujący jest obowiązany zatrzymać pojazd w celu umożliwienia jej przejścia",
       "path": null
     },
     {
@@ -465,7 +489,7 @@
       "points": 10,
       "code": "B 02",
       "law": "",
-      "paragraph": "",
+      "paragraph": "art. 26 ust. 3 pkt 1 PRD Kierującemu pojazdem zabrania się wyprzedzania pojazdu na przejściu dla pieszych i bezpośrednio przed nim, z wyjątkiem przejścia, na którym ruch jest kierowany",
       "path": null
     },
     {
@@ -476,7 +500,7 @@
       "points": 10,
       "code": "B 01",
       "law": "",
-      "paragraph": "",
+      "paragraph": "art. 26 ust. 3 pkt 2 PRD Kierującemu pojazdem zabrania się omijania pojazdu, który jechał w tym samym kierunku, lecz zatrzymał się w celu ustąpienia pierwszeństwa pieszemu",
       "path": null
     },
     {
@@ -488,6 +512,12 @@
       "code": "K 04",
       "law": "",
       "paragraph": "",
+      "paragraph_sub": {
+        "1": "art. 26 ust. 3 pkt 2 PRD Kierującemu pojazdem zabrania się jazdy wzdłuż po chodniku lub przejściu dla pieszych, z zastrzeżeniem art. 33 ust. 6, art. 33a ust. 2 oraz art. 33b ust. 2 ",
+        "2": "art. 33 ust. 6 PRD Kierujący rowerem, korzystając z chodnika albo drogi dla pieszych, jest obowiązany jechać z prędkością zbliżoną do prędkości pieszego, zachować szczególną ostrożność, ustępować pierwszeństwa pieszemu oraz nie utrudniać jego ruchu",
+        "3": "art. 33a ust. 2 PRD Korzystanie z chodnika lub drogi dla pieszych przez kierującego hulajnogą elektryczną jest dozwolone wyjątkowo, gdy chodnik jest usytuowany wzdłuż jezdni, po której ruch pojazdów jest dozwolony z prędkością większą niż 30 km/h, i brakuje wydzielonej drogi dla rowerów oraz pasa ruchu dla rowerów",
+        "4": "art. 33b ust. 2 PRD Korzystanie z chodnika lub drogi dla pieszych przez kierującego urządzeniem transportu osobistego jest dozwolone wyjątkowo, gdy brakuje wydzielonej drogi dla rowerów"
+      },
       "path": null
     },
     {
@@ -951,23 +981,27 @@
     {
       "category": "others",
       "name": "Niezachowanie przez kierujących pojazdami objętymi indywidualnym ograniczeniem prędkości albo pojazdami lub zespołami pojazdów o długości większej niż 7 metrów niezbędnego odstępu od pojazdów znajdujących się przed nimi ",
-      "text": "",
+      "text": "art. 97KW w zw. z art. 19 ust. 3 PRD ",
       "tax": "200",
       "points": 0,
       "code": "Z 01",
-      "law": "",
-      "paragraph": "",
+      "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany",
+      "paragraph": "art. 19 ust. 3 PRD Poza obszarem zabudowanym, na jezdniach dwukierunkowych o dwóch pasach ruchu, kierujący pojazdem objętym indywidualnym ograniczeniem prędkości albo pojazdem lub zespołem pojazdów o długości przekraczającej 7 m jest obowiązany utrzymywać taki odstęp od pojazdu silnikowego znajdującego się przed nim, aby inne wyprzedzające pojazdy mogły bezpiecznie wjechać w lukę utrzymywaną między tymi pojazdami. Przepisu tego nie stosuje się, jeżeli kierujący pojazdem przystępuje do wyprzedzania lub gdy wyprzedzanie jest zabronione",
       "path": null
     },
     {
       "category": "others",
       "name": "Niezachowanie przez kierującego pojazdem wymaganego odstępu za poprzedzającym pojazdem poza obszarem zabudowanym w tunelu o długości przekraczającej 500 m ",
-      "text": "",
+      "text": "art. 97KW w zw. z art. 19 ust. 4 lub 5 PRD",
       "tax": "300-500",
       "points": 0,
       "code": "Z 01",
-      "law": "",
+      "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany",
       "paragraph": "",
+      "paragraph_sub": {
+        "1": "art. 13 ust. 1. PRD Pieszy wchodzący na jezdnię lub torowisko albo przechodzący przez jezdnię lub torowisko jest obowiązany zachować szczególną ostrożność oraz, z zastrzeżeniem ust. 2 i 3, korzystać z przejścia dla pieszych.",
+        "2": "art. 13 ust. 2. PRD Przechodzenie przez jezdnię poza przejściem dla pieszych jest dozwolone, gdy\nodległość od przejścia przekracza 100 m. Jeżeli jednak skrzyżowanie znajduje się\nw odległości mniejszej niż 100 m od wyznaczonego przejścia, przechodzenie jest\ndozwolone również na tym skrzyżowaniu"
+      },
       "path": null
     },
     {
@@ -988,8 +1022,8 @@
       "tax": "200-400",
       "points": 5,
       "code": "D 10",
-      "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
-      "paragraph": "",
+      "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany",
+      "paragraph": "art. 22 ust. 6 pkt 4 PRD Zabrania się zawracania w warunkach, w których mogłoby to zagrozić bezpieczeństwu ruchu na drodze lub ruch ten utrudnić",
       "path": null
     },
     {
@@ -999,7 +1033,7 @@
       "tax": "200",
       "points": 5,
       "code": "D 10",
-      "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
+      "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany",
       "paragraph": "art. 22 ust. 6 pkt 1 PRD Zabrania się zawracania w tunelu, na moście, wiadukcie lub drodze jednokierunkowej",
       "path": null
     },
@@ -1010,14 +1044,14 @@
       "tax": "200",
       "points": 2,
       "code": "D 11",
-      "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
+      "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany",
       "paragraph": "art. 22 ust. 5 PRD Kierujący pojazdem jest obowiązany zawczasu i wyraźnie sygnalizować kierunkowskazem zamiar zmiany kierunku jazdy lub pasa ruchu oraz zaprzestać sygnalizowania niezwłocznie po wykonaniu manewru.",
       "path": null
     },
     {
       "category": "others",
       "name": "Nieodpowiednie ustawienie pojazdu na jezdni przed skręceniem",
-      "text": "art. 97KW w zw. z art. 22 ust.2 PRD",
+      "text": "art. 97KW w zw. z art. 22 ust. 2 PRD",
       "tax": "150",
       "points": 0,
       "code": "Z 01",
@@ -3760,6 +3794,10 @@
       "points": 5,
       "code": "D 05",
       "law": "",
+      "law_sub": {
+        "1": "art. 90§1 KW Kto tamuje lub utrudnia ruch na drodze publicznej, w strefie zamieszkania lub strefie ruchu,\npodlega karze grzywny do 500 złotych lub karze nagany",
+        "2": "art. 90§2 KW Jeżeli wykroczenia, o którym mowa w § 1, dopuszcza się prowadzący pojazd mechaniczny,\npodlega karze grzywny nie niższej niż 500 złotych"
+      },
       "paragraph": "",
       "path": null
     },
@@ -4111,7 +4149,7 @@
       "tax": "20-3000",
       "points": 5,
       "code": "B 07",
-      "law": "",
+      "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany",
       "paragraph": "",
       "path": null
     },
@@ -4122,7 +4160,7 @@
       "tax": "150",
       "points": 2,
       "code": "H 08",
-      "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
+      "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany",
       "paragraph": "",
       "path": null
     },
@@ -4310,6 +4348,10 @@
       "points": 6,
       "code": "D 01",
       "law": "",
+      "law_sub": {
+        "1": "art. 90§1 KW Kto tamuje lub utrudnia ruch na drodze publicznej, w strefie zamieszkania lub strefie ruchu,\npodlega karze grzywny do 500 złotych lub karze nagany",
+        "2": "art. 90§2 KW Jeżeli wykroczenia, o którym mowa w § 1, dopuszcza się prowadzący pojazd mechaniczny,\npodlega karze grzywny nie niższej niż 500 złotych"
+      },
       "paragraph": "",
       "path": null
     },
@@ -4321,6 +4363,10 @@
       "points": 6,
       "code": "D 02",
       "law": "",
+      "law_sub": {
+        "1": "art. 90§1 KW Kto tamuje lub utrudnia ruch na drodze publicznej, w strefie zamieszkania lub strefie ruchu,\npodlega karze grzywny do 500 złotych lub karze nagany",
+        "2": "art. 90§2 KW Jeżeli wykroczenia, o którym mowa w § 1, dopuszcza się prowadzący pojazd mechaniczny,\npodlega karze grzywny nie niższej niż 500 złotych"
+      },
       "paragraph": "",
       "path": null
     },
@@ -4332,6 +4378,10 @@
       "points": 6,
       "code": "D 03",
       "law": "",
+      "law_sub": {
+        "1": "art. 90§1 KW Kto tamuje lub utrudnia ruch na drodze publicznej, w strefie zamieszkania lub strefie ruchu,\npodlega karze grzywny do 500 złotych lub karze nagany",
+        "2": "art. 90§2 KW Jeżeli wykroczenia, o którym mowa w § 1, dopuszcza się prowadzący pojazd mechaniczny,\npodlega karze grzywny nie niższej niż 500 złotych"
+      },
       "paragraph": "",
       "path": null
     },
@@ -4343,6 +4393,10 @@
       "points": 6,
       "code": "D 04",
       "law": "",
+      "law_sub": {
+        "1": "art. 90§1 KW Kto tamuje lub utrudnia ruch na drodze publicznej, w strefie zamieszkania lub strefie ruchu,\npodlega karze grzywny do 500 złotych lub karze nagany",
+        "2": "art. 90§2 KW Jeżeli wykroczenia, o którym mowa w § 1, dopuszcza się prowadzący pojazd mechaniczny,\npodlega karze grzywny nie niższej niż 500 złotych"
+      },
       "paragraph": "",
       "path": null
     },
@@ -4354,6 +4408,10 @@
       "points": 5,
       "code": "D 06",
       "law": "",
+      "law_sub": {
+        "1": "art. 90§1 KW Kto tamuje lub utrudnia ruch na drodze publicznej, w strefie zamieszkania lub strefie ruchu,\npodlega karze grzywny do 500 złotych lub karze nagany",
+        "2": "art. 90§2 KW Jeżeli wykroczenia, o którym mowa w § 1, dopuszcza się prowadzący pojazd mechaniczny,\npodlega karze grzywny nie niższej niż 500 złotych"
+      },
       "paragraph": "",
       "path": null
     },
@@ -4365,6 +4423,10 @@
       "points": 5,
       "code": "D 07",
       "law": "",
+      "law_sub": {
+        "1": "art. 90§1 KW Kto tamuje lub utrudnia ruch na drodze publicznej, w strefie zamieszkania lub strefie ruchu,\npodlega karze grzywny do 500 złotych lub karze nagany",
+        "2": "art. 90§2 KW Jeżeli wykroczenia, o którym mowa w § 1, dopuszcza się prowadzący pojazd mechaniczny,\npodlega karze grzywny nie niższej niż 500 złotych"
+      },
       "paragraph": "",
       "path": null
     },
@@ -4376,6 +4438,10 @@
       "points": 4,
       "code": "D 08",
       "law": "",
+      "law_sub": {
+        "1": "art. 90§1 KW Kto tamuje lub utrudnia ruch na drodze publicznej, w strefie zamieszkania lub strefie ruchu,\npodlega karze grzywny do 500 złotych lub karze nagany",
+        "2": "art. 90§2 KW Jeżeli wykroczenia, o którym mowa w § 1, dopuszcza się prowadzący pojazd mechaniczny,\npodlega karze grzywny nie niższej niż 500 złotych"
+      },
       "paragraph": "",
       "path": null
     },
@@ -4386,7 +4452,7 @@
       "tax": "500-5000",
       "points": 5,
       "code": "D 10",
-      "law": "",
+      "law": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego,podlega karze grzywny albo karze nagany",
       "paragraph": "",
       "path": "road_sign/B/B-23.png"
     },
@@ -4398,6 +4464,10 @@
       "points": 2,
       "code": "E 07",
       "law": "",
+      "law_sub": {
+        "1": "art. 90§1 KW Kto tamuje lub utrudnia ruch na drodze publicznej, w strefie zamieszkania lub strefie ruchu,\npodlega karze grzywny do 500 złotych lub karze nagany",
+        "2": "art. 90§2 KW Jeżeli wykroczenia, o którym mowa w § 1, dopuszcza się prowadzący pojazd mechaniczny,\npodlega karze grzywny nie niższej niż 500 złotych"
+      },
       "paragraph": "",
       "path": null
     },
@@ -4409,6 +4479,10 @@
       "points": 5,
       "code": "F 01",
       "law": "",
+      "law_sub": {
+        "1": "art. 90§1 KW Kto tamuje lub utrudnia ruch na drodze publicznej, w strefie zamieszkania lub strefie ruchu,\npodlega karze grzywny do 500 złotych lub karze nagany",
+        "2": "art. 90§2 KW Jeżeli wykroczenia, o którym mowa w § 1, dopuszcza się prowadzący pojazd mechaniczny,\npodlega karze grzywny nie niższej niż 500 złotych"
+      },
       "paragraph": "",
       "path": null
     }
