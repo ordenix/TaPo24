@@ -1,0 +1,722 @@
+{
+  "control_list_data_array": [
+    {
+      "title_id": 0,
+      "sub_title_depth_1_name": null,
+      "sub_title_depth_2_name": null,
+      "position": "Tablice rejestracyjne (jeżeli są wymagane)",
+      "position_code": "0.1",
+      "methods": "kontrola organoleptyczna",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "brak tablicy/tablic lub jej/ich mocowanie grozi odpadnięciem",
+          "level_category_faults": 2
+        },
+        {
+          "id": "b",
+          "name": "brak elementów numeru rejestracyjnego lub tablica nieczytelna",
+          "level_category_faults": 2
+        },
+        {
+          "id": "c",
+          "name": "numer rejestracyjny niezgodny z  dokumentami lub  danymi pojazdu",
+          "level_category_faults": 2
+        },
+        {
+          "id": "d",
+          "name": "brak nalepki kontrolnej – o ile jest wymagana",
+          "level_category_faults": 2
+        },
+        {
+          "id": "e",
+          "name": "niezgodność numeru rejestracyjnego na nalepce kontrolnej\nz numerem rejestracyjnym na tablicach rejestracyjnych",
+          "level_category_faults": 2
+        },
+        {
+          "id": "f",
+          "name": "nalepka kontrolna nieczytelna ",
+          "level_category_faults": 1
+        }
+      ]
+    },
+    {
+      "title_id": 0,
+      "sub_title_depth_1_name": null,
+      "sub_title_depth_2_name": null,
+      "position": "Numer  VIN / numer nadwozia/podwozia/ramy",
+      "position_code": "0.2",
+      "methods": "kontrola organoleptyczna",
+      "standard": [
+        {
+          "id": "a",
+          "name": "brak numeru VIN lub numeru nadwozia (podwozia/ramy) lub nie można go odszukać",
+          "level_category_faults": 2
+        },
+        {
+          "id": "b",
+          "name": "numer niekompletny, nieczytelny, wyraźnie sfałszowany lub nie zgadza się z dokumentami  pojazdu",
+          "level_category_faults": 2
+        },
+        {
+          "id": "c",
+          "name": "nieczytelne dokumenty pojazdu lub dane nie odpowiadają stanowi faktycznemu ",
+          "level_category_faults": 1
+        }
+      ]
+    },
+    {
+      "title_id": 1,
+      "sub_title_depth_1_name": "Stan techniczny i działanie",
+      "sub_title_depth_2_name": null,
+      "position": "Sworzeń pedału/dźwigni ręcznej hamulca roboczego",
+      "position_code": "1.1.1",
+      "methods": "kontrola organoleptyczna elementów podczas pracy układu hamulcowego ",
+      "methods_remarks": "pojazdy ze wspomaganiem układu hamulcowego należy sprawdzać przy wyłączonym silniku",
+      "standard": [
+        {
+          "id": "a",
+          "name": "zbyt ciasne pasowanie sworznia",
+          "level_category_faults": 2
+        },
+        {
+          "id": "b",
+          "name": "nadmierne zużycie lub zbyt duży luz sworznia",
+          "level_category_faults": 2
+        }
+      ]
+    },
+    {
+      "title_id": 1,
+      "sub_title_depth_1_name": "Stan techniczny i działanie",
+      "sub_title_depth_2_name": null,
+      "position": "Stan pedału hamulcowego/ dźwigni ręcznej hamulca i skok elementu uruchamiającego hamulce",
+      "position_code": "1.1.2",
+      "methods": "kontrola organoleptyczna elementów podczas pracy układu hamulcowego",
+      "methods_remarks": "pojazdy ze wspomaganiem układu hamulcowego należy sprawdzać przy wyłączonym silniku",
+      "standard": [
+        {
+          "id": "a",
+          "name": "nadmierny lub zbyt mały skok jałowy\nnie można uruchomić hamulca lub jest on zablokowany",
+          "level_category_faults": 6
+        },
+        {
+          "id": "b",
+          "name": "pedał hamulca nie zwalnia się (luzuje) prawidłowo jeżeli wpływa na działanie",
+          "level_category_faults": 3
+        },
+        {
+          "id": "c",
+          "name": "brak nakładki przeciwpoślizgowej na pedale hamulca, nakładka\nluźna lub wytarta",
+          "level_category_faults": 2
+        }
+      ]
+    },
+    {
+      "title_id": 1,
+      "sub_title_depth_1_name": "Stan techniczny i działanie",
+      "sub_title_depth_2_name": null,
+      "position": "Pompa podciśnienia lub\nsprężarka i zbiorniki",
+      "position_code": "1.1.3",
+      "methods": "kontrola organoleptyczna elementów pod\nnormalnym ciśnieniem roboczym; należy\nzmierzyć czas do uzyskania bezpiecznego\nciśnienia lub podciśnienia roboczego oraz\nsprawdzić działanie wskaźnika ostrzegawczego,\nzabezpieczającego zaworu wieloobwodowego i\nzaworu spustowego",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "niewystarczające ciśnienie/podciśnienie do przynajmniej\nczterokrotnego uruchomienia hamulców po zadziałaniu\nurządzenia ostrzegawczego (lub gdy wskaźnik pokazuje za niską\nwartość ciśnienia)\nco najmniej dwukrotne uruchomienie hamulców po zadziałaniu\nurządzenia ostrzegawczego lub gdy wskaźnik wskazuje za małą\nwartość",
+          "level_category_faults": 6
+        },
+        {
+          "id": "b",
+          "name": "czas do uzyskania bezpiecznego ciśnienia lub podciśnienia\nroboczego  niezgodny  z  wymaganiami/nadmierny czas wzrostu\nciśnienia do wartości umożliwiającej skuteczne działanie\nhamulców",
+          "level_category_faults": 2
+        },
+        {
+          "id": "c",
+          "name": "wieloobwodowy zawór zabezpieczający lub zawór spustowy nie\ndziała",
+          "level_category_faults": 2
+        },
+        {
+          "id": "d",
+          "name": "wypływ powietrza powodujący zauważalny spadek ciśnienia lub\nsłyszalny wypływ powietrza",
+          "level_category_faults": 2
+        },
+        {
+          "id": "e",
+          "name": "uszkodzenia zewnętrzne mogące mieć wpływ na działanie układu\nhamulcowego\nawaryjny układ hamulcowy nie działa prawidłowo",
+          "level_category_faults": 6
+        }
+      ]
+    },
+    {
+      "title_id": 1,
+      "sub_title_depth_1_name": "Stan techniczny i działanie",
+      "sub_title_depth_2_name": null,
+      "position": "Manometr lub wskaźnik\nostrzegawczy niskiego \nciśnienia",
+      "position_code": "1.1.4",
+      "methods": "kontrola działania",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "nieprawidłowe działanie lub uszkodzenie manometru lub wskaźnika\nbrak sygnalizacji ostrzegawczego wskaźnika identyfikacji niskiego \nciśnienia",
+          "level_category_faults": 3
+        }
+      ]
+    },
+    {
+      "title_id": 1,
+      "sub_title_depth_1_name": "Stan techniczny i działanie",
+      "sub_title_depth_2_name": null,
+      "position": "Zawór sterujący hamulca\npostojowego",
+      "position_code": "1.1.5",
+      "methods": "kontrola organoleptyczna*) elementów podczas\npracy układu hamulcowego",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "urządzenie sterujące pęknięte, uszkodzone lub nadmiernie zużyte",
+          "level_category_faults": 2
+        },
+        {
+          "id": "b",
+          "name": "niepewne połączenie urządzenia sterującego z zaworem lub\nniepewne osadzenie zaworu",
+          "level_category_faults": 2
+        },
+        {
+          "id": "c",
+          "name": "luźne połączenia lub nieszczelność układu",
+          "level_category_faults": 2
+        },
+        {
+          "id": "d",
+          "name": "niepoprawne działanie",
+          "level_category_faults": 2
+        }
+      ]
+    },
+    {
+      "title_id": 1,
+      "sub_title_depth_1_name": "Stan techniczny i działanie",
+      "sub_title_depth_2_name": null,
+      "position": "Urządzenie uruchamiające\nhamulec postojowy, \ndźwignia sterująca,\nzapadka hamulca \npostojowego, \nelektroniczny hamulec \npostojowy",
+      "position_code": "1.1.6",
+      "methods": "kontrola organoleptyczna*) elementów podczas\npracy układu hamulcowego",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "mechanizm zapadkowy nie blokuj",
+          "level_category_faults": 2
+        },
+        {
+          "id": "b",
+          "name": "zużycie sworznia dźwigni lub mechanizmu zapadkowego\nnadmierne zużycie",
+          "level_category_faults": 3
+        },
+        {
+          "id": "c",
+          "name": "nadmierny skok dźwigni wskazujący na niewłaściwą regulację",
+          "level_category_faults": 2
+        },
+        {
+          "id": "d",
+          "name": "nadmierny skok dźwigni wskazujący na niewłaściwą regulację",
+          "level_category_faults": 2
+        },
+        {
+          "id": "e",
+          "name": "nieprawidłowe działanie, wskaźnik ostrzegawczy pokazuje awarię",
+          "level_category_faults": 2
+        }
+      ]
+    },
+    {
+      "title_id": 1,
+      "sub_title_depth_1_name": "Stan techniczny i działanie",
+      "sub_title_depth_2_name": null,
+      "position": "Zawory hamulcowe \n(zawory główne,\nregulatory ciśnienia,\nzawory regulacyjne)",
+      "position_code": "1.1.7",
+      "methods": "kontrola organoleptyczna*) elementów podczas\npracy układu hamulcowego",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "zawór uszkodzony lub nadmierny wypływ powietrza\njeżeli wpływa na funkcjonalność",
+          "level_category_faults": 6
+        },
+        {
+          "id": "b",
+          "name": "nadmierny ubytek oleju ze sprężarki",
+          "level_category_faults": 1
+        },
+        {
+          "id": "c",
+          "name": "niepewne lub niewłaściwe mocowanie zaworu",
+          "level_category_faults": 2
+        },
+        {
+          "id": "d",
+          "name": "ubytek lub wyciek płynu hamulcowego\njeżeli wpływa na funkcjonalność",
+          "level_category_faults": 6
+        }
+      ]
+    },
+    {
+      "title_id": 1,
+      "sub_title_depth_1_name": "Stan techniczny i działanie",
+      "sub_title_depth_2_name": null,
+      "position": "Połączenie z hamulcami\nprzyczepy (elektryczne i \npneumatyczne)",
+      "position_code": "1.1.8",
+      "methods": "należy rozłączyć i ponownie połączyć wszystkie\npołączenia układu hamulcowego pomiędzy\npojazdem ciągnącym a przyczepą",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "uszkodzona osłona izolacyjna lub szybkozłącze\njeżeli wpływa na funkcjonalność",
+          "level_category_faults": 3
+        },
+        {
+          "id": "b",
+          "name": "niepewne lub nieprawidłowe mocowanie osłony lub zaworu\njeżeli wpływa na funkcjonalność",
+          "level_category_faults": 3
+        },
+        {
+          "id": "c",
+          "name": "nieszczelność\njeżeli wpływa na funkcjonalność",
+          "level_category_faults": 6
+        },
+        {
+          "id": "d",
+          "name": "nieprawidłowe działanie\nwpływ na działanie hamulca",
+          "level_category_faults": 6
+        }
+      ]
+    },
+    {
+      "title_id": 1,
+      "sub_title_depth_1_name": "Stan techniczny i działanie",
+      "sub_title_depth_2_name": null,
+      "position": "Zbiornik sprężonego\npowietrza ",
+      "position_code": "1.1.9",
+      "methods": "kontrola organoleptyczna",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "zbiornik nieznacznie uszkodzony lub skorodowany\nzbiornik znacznie uszkodzony, skorodowany lub nieszczelny",
+          "level_category_faults": 3
+        },
+        {
+          "id": "b",
+          "name": "urządzenie osuszające nie działa",
+          "level_category_faults": 2
+        },
+        {
+          "id": "c",
+          "name": "niepewne lub nieprawidłowe mocowanie zbiornika",
+          "level_category_faults": 2
+        }
+      ]
+    },
+    {
+      "title_id": 1,
+      "sub_title_depth_1_name": "Stan techniczny i działanie",
+      "sub_title_depth_2_name": null,
+      "position": "Urządzenia\nwspomagające układ\nhamulcowy, pompa\nhamulcowa (układy\nhydrauliczne)",
+      "position_code": "1.1.10",
+      "methods": "kontrola organoleptyczna*) elementów podczas\npracy układu hamulcowego",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "urządzenie wspomagające jest uszkodzone lub działa\nnieskutecznie\nurządzenie wspomagające nie działa",
+          "level_category_faults": 6
+        },
+        {
+          "id": "b",
+          "name": "pompa hamulcowa uszkodzona, ale hamulec wciąż działa\npompa hamulcowa uszkodzona lub nieszczelna",
+          "level_category_faults": 6
+        },
+        {
+          "id": "c",
+          "name": "niepewne  mocowanie  pompy  hamulcowej, ale hamulec wciąż\ndziała\nniepewne mocowanie pompy hamulcowej",
+          "level_category_faults": 6
+        },
+        {
+          "id": "d",
+          "name": "poziom płynu hamulcowego poniżej znaku minimum\npoziom płynu hamulcowego znacznie poniżej znaku minimum\nbrak płynu hamulcowego w zbiorniku pompy hamulcowej",
+          "level_category_faults": 7
+        },
+        {
+          "id": "e",
+          "name": "brak zamknięcia (pokrywki) zbiornika płynu hamulcowego",
+          "level_category_faults": 1
+        },
+        {
+          "id": "f",
+          "name": "wskaźnik ostrzegawczy płynu hamulcowego świeci się lub jest\nuszkodzony",
+          "level_category_faults": 1
+        },
+        {
+          "id": "g",
+          "name": "nieprawidłowe działanie wskaźnika ostrzegawczego poziomu\npłynu hamulcowego",
+          "level_category_faults": 1
+        }
+      ]
+    },
+    {
+      "title_id": 1,
+      "sub_title_depth_1_name": "Stan techniczny i działanie",
+      "sub_title_depth_2_name": null,
+      "position": "Sztywne przewody \nhamulcowe ",
+      "position_code": "1.1.11",
+      "methods": "kontrola organoleptyczna*) elementów podczas\npracy układu hamulcowego",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "stan przewodów grozi awarią lub pęknięciem",
+          "level_category_faults": 4
+        },
+        {
+          "id": "b",
+          "name": "nieszczelność przewodów lub połączeń w pneumatycznym\nukładzie hamulcowym\nnieszczelność przewodów lub połączeń w hydraulicznym układzie\nhamulcowym",
+          "level_category_faults": 6
+        },
+        {
+          "id": "c",
+          "name": "przewody uszkodzone lub nadmiernie skorodowane\nwpływ na działanie hamulców ze względu na blokowanie lub\nbezpośrednie ryzyko wycieku",
+          "level_category_faults": 6
+        },
+        {
+          "id": "d",
+          "name": "przewody przemieszczone\nryzyko uszkodzenia",
+          "level_category_faults": 3
+        }
+      ]
+    },
+    {
+      "title_id": 1,
+      "sub_title_depth_1_name": "Stan techniczny i działanie",
+      "sub_title_depth_2_name": null,
+      "position": "Elastyczne przewody \nhamulcowe",
+      "position_code": "1.1.12",
+      "methods": "kontrola organoleptyczna*) elementów podczas\npracy układu hamulcowego",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "stan przewodów grozi awarią lub pęknięciem",
+          "level_category_faults": 4
+        },
+        {
+          "id": "b",
+          "name": "przewody są poskręcane lub zbyt krótkie\nprzewody są uszkodzone lub przecierają się",
+          "level_category_faults": 3
+        },
+        {
+          "id": "c",
+          "name": "przewody lub połączenia w pneumatycznym układzie\nhamulcowym są nieszczelne\nprzewody lub połączenia w hydraulicznym układzie hamulcowym\nsą nieszczelne",
+          "level_category_faults": 6
+        },
+        {
+          "id": "d",
+          "name": "przewody pęcznieją pod ciśnieniem\nosłabione zbrojenie",
+          "level_category_faults": 6
+        },
+        {
+          "id": "e",
+          "name": "przewody porowate",
+          "level_category_faults": 2
+        }
+      ]
+    },
+    {
+      "title_id": 1,
+      "sub_title_depth_1_name": "Stan techniczny i działanie",
+      "sub_title_depth_2_name": null,
+      "position": "Okładziny i klocki\nhamulcowe \n",
+      "position_code": "1.1.13",
+      "methods": "kontrola organoleptyczna*)",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "zużycie bębna lub tarczy\nnadmierne zużycie bębna lub tarczy, rysy lub pęknięcia na\npowierzchni; niepewne mocowanie",
+          "level_category_faults": 6
+        },
+        {
+          "id": "b",
+          "name": "zanieczyszczenia bębna lub tarczy (np. olejem lub smarem)\npoważnie wpływające na działanie hamulca",
+          "level_category_faults": 6
+        },
+        {
+          "id": "c",
+          "name": "brak bębna lub tarczy",
+          "level_category_faults": 4
+        },
+        {
+          "id": "d",
+          "name": "niepewne mocowanie tylnej tarczy hamulca",
+          "level_category_faults": 2
+        }
+      ]
+    },
+    {
+      "title_id": 1,
+      "sub_title_depth_1_name": "Stan techniczny i działanie",
+      "sub_title_depth_2_name": null,
+      "position": "Linki hamulcowe, \ndrążki, mechanizm\ndźwigni, połączenia",
+      "position_code": "1.1.15",
+      "methods": "kontrola organoleptyczna*) elementów podczas\npracy układu hamulcowego",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "linka uszkodzona lub splątana\nwpływ na działanie hamulca",
+          "level_category_faults": 6
+        },
+        {
+          "id": "b",
+          "name": "nadmierne zużycie lub korozja elementu\nwpływ na działanie hamulca",
+          "level_category_faults": 6
+        },
+        {
+          "id": "c",
+          "name": "niepewne mocowanie linki, drążka lub połączenia",
+          "level_category_faults": 2
+        },
+        {
+          "id": "d",
+          "name": "uszkodzenie prowadnicy linki",
+          "level_category_faults": 2
+        },
+        {
+          "id": "e",
+          "name": "ograniczenie swobodnego ruchu elementów układu hamulcowego",
+          "level_category_faults": 2
+        },
+        {
+          "id": "f",
+          "name": "nieprawidłowy ruch dźwigni/połączeń wskazujący na złe\nustawienie lub nadmierne zużycie",
+          "level_category_faults": 2
+        }
+      ]
+    },
+    {
+      "title_id": 1,
+      "sub_title_depth_1_name": "Stan techniczny i działanie",
+      "sub_title_depth_2_name": null,
+      "position": "Urządzenia\nuruchamiające hamulce\n(w tym hamulce\nsprężynowe lub cylindry\nhydrauliczne)",
+      "position_code": "1.1.16",
+      "methods": "kontrola organoleptyczna*) elementów podczas\npracy układu hamulcowego, w miarę możliwości",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "pęknięcie lub uszkodzenie urządzenia uruchamiającego\nwpływ na działanie hamulca",
+          "level_category_faults": 6
+        },
+        {
+          "id": "b",
+          "name": "nieszczelność urządzenia uruchamiającego\nwpływ na działanie hamulca",
+          "level_category_faults": 6
+        },
+        {
+          "id": "c",
+          "name": "niepewne lub nieprawidłowe mocowanie urządzenia\nuruchamiającego\nwpływ na działanie hamulca",
+          "level_category_faults": 6
+        },
+        {
+          "id": "d",
+          "name": "nadmierna korozja urządzenia uruchamiającego\ngrozi pęknięciem",
+          "level_category_faults": 6
+        },
+        {
+          "id": "e",
+          "name": "zbyt mały lub zbyt duży skok tłoka lub mechanizmu \nprzeponowego\nwpływ na działanie hamulca (brak skoku jałowego)",
+          "level_category_faults": 6
+        },
+        {
+          "id": "f",
+          "name": "uszkodzenie osłony chroniącej przed brudem\nbrak osłony lub nadmierne jej uszkodzenie",
+          "level_category_faults": 3
+        }
+      ]
+    },
+    {
+      "title_id": 1,
+      "sub_title_depth_1_name": "Stan techniczny i działanie",
+      "sub_title_depth_2_name": null,
+      "position": "Korektor siły hamowania",
+      "position_code": "1.1.17",
+      "methods": "kontrola organoleptyczna*) elementów podczas\npracy układu hamulcowego, w miarę możliwości",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "uszkodzone połączenie",
+          "level_category_faults": 2
+        },
+        {
+          "id": "b",
+          "name": "nieprawidłowe ustawienie połączenia",
+          "level_category_faults": 2
+        },
+        {
+          "id": "c",
+          "name": "zawór zatarty lub nie działa (działa ABS)\nzawór zatarty lub nie działa",
+          "level_category_faults": 6
+        },
+        {
+          "id": "d",
+          "name": "brak korektora, jeżeli jest wymagany",
+          "level_category_faults": 4
+        },
+        {
+          "id": "e",
+          "name": "brak tabliczki informacyjnej lub dane na tabliczce są nieczytelne",
+          "level_category_faults": 1
+        }
+      ]
+    },
+    {
+      "title_id": 1,
+      "sub_title_depth_1_name": "Stan techniczny i działanie",
+      "sub_title_depth_2_name": null,
+      "position": "Korektory i wskaźniki\nluzu",
+      "position_code": "1.1.18",
+      "methods": "kontrola organoleptyczna*)",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "korektor uszkodzony, zatarty lub wykazujący nietypowy ruch,\nnadmierne zużycie lub nieprawidłowe ustawienie",
+          "level_category_faults": 2
+        },
+        {
+          "id": "b",
+          "name": "nieprawidłowa praca korektora",
+          "level_category_faults": 2
+        },
+        {
+          "id": "c",
+          "name": "nieprawidłowy montaż lub wymiana",
+          "level_category_faults": 2
+        }
+      ]
+    },
+    {
+      "title_id": 1,
+      "sub_title_depth_1_name": "Stan techniczny i działanie",
+      "sub_title_depth_2_name": null,
+      "position": "Układ hamowania\ndługotrwałego (o ile jest\nwymagany lub \nzamontowany)",
+      "position_code": "1.1.19",
+      "methods": "kontrola organoleptyczna*)",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "niepewne połączenia lub mocowanie\nnegatywny wpływ na działanie",
+          "level_category_faults": 3
+        },
+        {
+          "id": "b",
+          "name": "brak układu lub wyraźnie nieprawidłowe działanie",
+          "level_category_faults": 2
+        }
+      ]
+    },
+    {
+      "title_id": 1,
+      "sub_title_depth_1_name": "Stan techniczny i działanie",
+      "sub_title_depth_2_name": null,
+      "position": ". Automatyczne \nuruchamianie się\nhamulców przyczepy",
+      "position_code": "1.1.20",
+      "methods": "rozłączyć połączenie hamulcowe między\npojazdem ciągnącym a przyczep",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "hamulec przyczepy nie załącza się automatycznie po rozłączeniu\npołączenia hamulcowego",
+          "level_category_faults": 4
+        }
+      ]
+    },
+    {
+      "title_id": 1,
+      "sub_title_depth_1_name": "Stan techniczny i działanie",
+      "sub_title_depth_2_name": null,
+      "position": "Kompletny układ\nhamulcowy ",
+      "position_code": "1.1.21",
+      "methods": "kontrola organoleptyczna",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "inne urządzenia układu hamulcowego (np. pompa płynu\nzapobiegającego zamarzaniu, osuszacz powietrza itp.) wykazują\nuszkodzenia zewnętrzne lub nadmierną korozję w stopniu\nwykazującym negatywny wpływ na działanie układu\nhamulcowego\nwpływ na działanie hamulca",
+          "level_category_faults": 6
+        },
+        {
+          "id": "b",
+          "name": "wypływ powietrza lub wyciek płynu zapobiegającego zamarzaniu\nwpływ na działanie układu",
+          "level_category_faults": 2
+        },
+        {
+          "id": "c",
+          "name": "niepewne lub nieprawidłowe mocowanie dowolnego elementu",
+          "level_category_faults": 2
+        },
+        {
+          "id": "d",
+          "name": "niebezpieczna  przeróbka**) dowolnego elementu układu\nhamulcowego\nwpływ na działanie hamulca",
+          "level_category_faults": 6
+        }
+      ]
+    },
+    {
+      "title_id": 1,
+      "sub_title_depth_1_name": "Stan techniczny i działanie",
+      "sub_title_depth_2_name": null,
+      "position": "Połączenia kontrolne (o\nile są wymagane lub \nzamontowane)",
+      "position_code": "1.1.21",
+      "methods": "kontrola organoleptyczna*)",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "brak połączenia",
+          "level_category_faults": 2
+        }
+      ]
+    },
+    {
+      "title_id": 1,
+      "sub_title_depth_1_name": "Stan techniczny i działanie",
+      "sub_title_depth_2_name": null,
+      "position": "Hamulec najazdowy",
+      "position_code": "1.1.23",
+      "methods": "kontrola organoleptyczna*) i sprawdzenie\ndziałania",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "skuteczność mniejsza, niż wartości minimalne określone\nw rozporządzeniu Ministra Infrastruktury z dnia 31 grudnia 2002 r. w\nsprawie warunków technicznych pojazdów oraz zakresu ich\nniezbędnego wyposażenia (Dz. U. z 2016 r. poz. 2022, z późn. zm.),\nzwanym dalej „rozporządzeniem w sprawie warunków technicznych\npojazdów oraz zakresu ich niezbędnego wyposażenia”",
+          "level_category_faults": 2
+        }
+      ]
+    }
+  ],
+  "title_list_array": [
+    {
+      "id": 0,
+      "name": "IDENTYFIKACJA POJAZDU"
+    },
+    {
+      "id": 1,
+      "name": "UKŁAD HAMULCOWY"
+    }
+  ]
+}
