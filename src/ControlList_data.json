@@ -707,6 +707,134 @@
           "level_category_faults": 2
         }
       ]
+    },
+    {
+      "title_id": 1,
+      "sub_title_depth_1_name": "Skuteczność i sprawność hamulca roboczego",
+      "sub_title_depth_2_name": null,
+      "position": "Sprawność",
+      "position_code": "1.2.1",
+      "methods": "w trakcie badania na urządzeniu do kontroli\ndziałania stopniowo zwiększać siłę hamowania\ndo osiągnięcia wartości maksymalnej",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "zbyt mała siła hamowania co najmniej na jednym kole\nbrak siły hamowania co najmniej na jednym kole",
+          "level_category_faults": 6
+        },
+        {
+          "id": "b",
+          "name": "siła hamowania na danym kole wynosi mniej niż 70% największej\nzmierzonej siły hamowania na drugim kole tej samej osi lub\nnadmierne odchylenie toru jazdy w trakcie próby drogowej\nsiła hamowania na danym kole wynosi mniej niż 50% największej\nzmierzonej siły hamowania na drugim kole tej samej osi w\nprzypadku osi kierowanych",
+          "level_category_faults": 6
+        },
+        {
+          "id": "c",
+          "name": "brak równomiernego przyrostu siły hamowania (zakleszczanie)",
+          "level_category_faults": 2
+        },
+        {
+          "id": "d",
+          "name": "nadmierne opóźnienie w działaniu hamulców na dowolnym kole",
+          "level_category_faults": 2
+        },
+        {
+          "id": "e",
+          "name": "nadmierne wahania siły hamowania w czasie każdego pełnego\nobrotu koła",
+          "level_category_faults": 2
+        }
+      ]
+    },
+    {
+      "title_id": 1,
+      "sub_title_depth_1_name": "Skuteczność i sprawność hamulca roboczego",
+      "sub_title_depth_2_name": null,
+      "position": "Skuteczność",
+      "position_code": "1.2.2",
+      "methods": "badanie wykonać na urządzeniu do kontroli\ndziałania hamulców przy zadanej masie pojazdu\nlub, jeżeli jest to niemożliwe z przyczyn\ntechnicznych, badanie należy wykonać na\ndrodze z użyciem opóźnieniomierza (procentową\nskuteczność hamulców oblicza się dzieląc\ncałkowitą siłę hamowania osiągniętą podczas\nstosowania hamulców przez wagę pojazdu lub w\nprzypadku naczepy – sumę nacisku osi, mnożąc\nten wynik przez 100).",
+      "methods_remarks": null
+      "standard": [
+        {
+          "id": "a",
+          "name": "skuteczność mniejsza niż wartości minimalne określone w\nrozporządzeniu w sprawie warunków technicznych pojazdów oraz\nzakresu ich niezbędnego wyposażenia\nskuteczność mniejsza niż 50% wartości minimalnych określonych w\nrozporządzeniu w sprawie warunków technicznych pojazdów oraz\nzakresu ich niezbędnego wyposażenia",
+          "level_category_faults": 6
+        }
+      ]
+    },
+    {
+      "title_id": 1,
+      "sub_title_depth_1_name": "Sprawność i skuteczność pomocniczego (awaryjnego) układu hamulcowego (jeżeli występuje jako oddzielny układ)",
+      "sub_title_depth_2_name": null,
+      "position": "Sprawność",
+      "position_code": "1.3.1",
+      "methods": "jeżeli hamulec pomocniczy i hamulec roboczy\nstanowią oddzielne układy, należy zastosować\nmetodę (w trakcie badania na urządzeniu do kontroli\ndziałania stopniowo zwiększać siłę hamowania\ndo osiągnięcia wartości maksymalnej)",
+      "methods_remarks": null
+      "standard": [
+        {
+          "id": "a",
+          "name": "zbyt mała siła hamowania co najmniej na jednym kole brak siły hamowania na co najmniej jednym kole",
+          "level_category_faults": 6
+        },
+        {
+          "id": "b",
+          "name": "siła hamowania na danym kole wynosi mniej niż 70% największej\nzmierzonej siły hamowania na drugim kole tej samej osi; w\nprzypadku badania na drodze pojazd nadmierne zjeżdża z linii\nprostej\nsiła hamowania na danym kole wynosi mniej niż 50% największej\nzmierzonej siły hamowania na drugim kole tej samej osi w\nprzypadku osi kierowanych",
+          "level_category_faults": 6
+        },
+        {
+          "id": "c",
+          "name": "brak równomiernego przyrostu siły hamowania (zakleszczanie)",
+          "level_category_faults": 2
+        }
+      ]
+    },
+    {
+      "title_id": 1,
+      "sub_title_depth_1_name": "Sprawność i skuteczność pomocniczego (awaryjnego) układu hamulcowego (jeżeli występuje jako oddzielny układ)",
+      "sub_title_depth_2_name": null,
+      "position": "Skuteczność",
+      "position_code": "1.3.2",
+      "methods": "jeżeli hamulec pomocniczy i hamulec roboczy\nstanowią oddzielne układy, należy zastosować\nmetodę (badanie wykonać na urządzeniu do kontroli\ndziałania hamulców przy zadanej masie pojazdu\nlub, jeżeli jest to niemożliwe z przyczyn\ntechnicznych, badanie należy wykonać na\ndrodze z użyciem opóźnieniomierza (procentową\nskuteczność hamulców oblicza się dzieląc\ncałkowitą siłę hamowania osiągniętą podczas\nstosowania hamulców przez wagę pojazdu lub w\nprzypadku naczepy – sumę nacisku osi, mnożąc\nten wynik przez 100)",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "Skuteczność mniejsza niż wartości minimalne zawarte w\nrozporządzeniu w sprawie warunków technicznych pojazdów oraz\nzakresu ich niezbędnego wyposażenia\nosiągnięte mniej niż 50% wartości siły hamowania określonych w\nrozporządzeniu w sprawie warunków technicznych pojazdów oraz\nzakresu ich niezbędnego wyposażenia",
+          "level_category_faults": 6
+        }
+      ]
+    },
+    {
+      "title_id": 1,
+      "sub_title_depth_1_name": "Sprawność i skuteczność postojowego układu hamulcowego",
+      "sub_title_depth_2_name": null,
+      "position": "Sprawność",
+      "position_code": "1.4.1",
+      "methods": "uruchomić hamulec podczas badania na\nurządzeniu do kontroli działania hamulców",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "hamulec nie działa co najmniej na jednym kole lub w przypadku\nbadań na drodze pojazd zjeżdża nadmiernie z linii prostej\npodczas badania osiągnięto mniej niż 50% wartości sił hamowania, o\nktórych mowa w pkt 1.4.2, w odniesieniu do masy pojazdu",
+          "level_category_faults": 6
+        }
+      ]
+    },
+    {
+      "title_id": 1,
+      "sub_title_depth_1_name": "Sprawność i skuteczność postojowego układu hamulcowego",
+      "sub_title_depth_2_name": null,
+      "position":,
+      "Skuteczność",
+      "position_code": "1.4.2",
+      "methods":,
+      "badanie wykonać na urządzeniu do kontroli\ndziałania hamulców. Jeżeli jest to niemożliwe,\nwówczas przeprowadzić badanie drogowe z\nużyciem opóźnieniomierza z funkcją zapisu lub\nze wskazaniem",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "osiągnięty wskaźnik skuteczności wynosi mniej niż określony w\nrozporządzeniu w sprawie warunków technicznych pojazdów oraz\nzakresu ich niezbędnego wyposażenia\npodczas badania osiągnięto mniej niż 50% powyższych wartości sił\nhamowania w odniesieniu do masy pojazdu",
+          "level_category_faults": 6
+        }
+      ]
     }
   ],
   "title_list_array": [
