@@ -2,7 +2,7 @@
   "control_list_data_array": [
     {
       "title_id": 0,
-      "sub_title_depth_1_name": null,
+      "sub_title_depth_1_name": "Tablice rejestracyjne (jeżeli są wymagane)",
       "sub_title_depth_2_name": null,
       "position": "Tablice rejestracyjne (jeżeli są wymagane)",
       "position_code": "0.1",
@@ -43,7 +43,7 @@
     },
     {
       "title_id": 0,
-      "sub_title_depth_1_name": null,
+      "sub_title_depth_1_name": "Numer  VIN / numer nadwozia/podwozia/ramy",
       "sub_title_depth_2_name": null,
       "position": "Numer  VIN / numer nadwozia/podwozia/ramy",
       "position_code": "0.2",
@@ -98,13 +98,17 @@
       "standard": [
         {
           "id": "a",
-          "name": "nadmierny lub zbyt mały skok jałowy\nnie można uruchomić hamulca lub jest on zablokowany",
-          "level_category_faults": 6
+          "name": "nadmierny lub zbyt mały skok jałowy",
+          "level_category_faults": 2,
+          "name_2": "nie można uruchomić hamulca lub jest on zablokowany",
+          "level_category_faults_2": 4
         },
         {
           "id": "b",
-          "name": "pedał hamulca nie zwalnia się (luzuje) prawidłowo jeżeli wpływa na działanie",
-          "level_category_faults": 3
+          "name": "pedał hamulca nie zwalnia się (luzuje) prawidłowo ",
+          "level_category_faults": 1,
+          "name_2": "jeżeli wpływa na działanie",
+          "level_category_faults_2": 2
         },
         {
           "id": "c",
@@ -124,8 +128,10 @@
       "standard": [
         {
           "id": "a",
-          "name": "niewystarczające ciśnienie/podciśnienie do przynajmniej\nczterokrotnego uruchomienia hamulców po zadziałaniu\nurządzenia ostrzegawczego (lub gdy wskaźnik pokazuje za niską\nwartość ciśnienia)\nco najmniej dwukrotne uruchomienie hamulców po zadziałaniu\nurządzenia ostrzegawczego lub gdy wskaźnik wskazuje za małą\nwartość",
-          "level_category_faults": 6
+          "name": "niewystarczające ciśnienie/podciśnienie do przynajmniej\nczterokrotnego uruchomienia hamulców po zadziałaniu\nurządzenia ostrzegawczego (lub gdy wskaźnik pokazuje za niską\nwartość ciśnienia)",
+          "level_category_faults": 2,
+          "name_2": "co najmniej dwukrotne uruchomienie hamulców po zadziałaniu\nurządzenia ostrzegawczego lub gdy wskaźnik wskazuje za małą\nwartość",
+          "level_category_faults_2": 4
         },
         {
           "id": "b",
@@ -144,8 +150,10 @@
         },
         {
           "id": "e",
-          "name": "uszkodzenia zewnętrzne mogące mieć wpływ na działanie układu\nhamulcowego\nawaryjny układ hamulcowy nie działa prawidłowo",
-          "level_category_faults": 6
+          "name": "uszkodzenia zewnętrzne mogące mieć wpływ na działanie układu\nhamulcowego",
+          "level_category_faults": 2,
+          "name_2": "\nawaryjny układ hamulcowy nie działa prawidłowo",
+          "level_category_faults_2": 4
         }
       ]
     },
@@ -160,8 +168,10 @@
       "standard": [
         {
           "id": "a",
-          "name": "nieprawidłowe działanie lub uszkodzenie manometru lub wskaźnika\nbrak sygnalizacji ostrzegawczego wskaźnika identyfikacji niskiego \nciśnienia",
-          "level_category_faults": 3
+          "name": "nieprawidłowe działanie lub uszkodzenie manometru lub wskaźnika\n",
+          "level_category_faults": 1,
+          "name_2": "brak sygnalizacji ostrzegawczego wskaźnika identyfikacji niskiego \nciśnienia",
+          "level_category_faults_2": 2
         }
       ]
     },
@@ -212,8 +222,10 @@
         },
         {
           "id": "b",
-          "name": "zużycie sworznia dźwigni lub mechanizmu zapadkowego\nnadmierne zużycie",
-          "level_category_faults": 3
+          "name": "zużycie sworznia dźwigni lub mechanizmu zapadkowego",
+          "level_category_faults": 1,
+          "name_2": "nadmierne zużycie",
+          "level_category_faults_2": 2
         },
         {
           "id": "c",
@@ -243,8 +255,10 @@
       "standard": [
         {
           "id": "a",
-          "name": "zawór uszkodzony lub nadmierny wypływ powietrza\njeżeli wpływa na funkcjonalność",
-          "level_category_faults": 6
+          "name": "zawór uszkodzony lub nadmierny wypływ powietrza\n",
+          "level_category_faults": 2,
+          "name_2": "jeżeli wpływa na funkcjonalność",
+          "level_category_faults_2": 4
         },
         {
           "id": "b",
@@ -258,8 +272,10 @@
         },
         {
           "id": "d",
-          "name": "ubytek lub wyciek płynu hamulcowego\njeżeli wpływa na funkcjonalność",
-          "level_category_faults": 6
+          "name": "ubytek lub wyciek płynu hamulcowego",
+          "level_category_faults": 2,
+          "name_2": "jeżeli wpływa na funkcjonalność",
+          "level_category_faults_2": 4
         }
       ]
     },
@@ -274,23 +290,31 @@
       "standard": [
         {
           "id": "a",
-          "name": "uszkodzona osłona izolacyjna lub szybkozłącze\njeżeli wpływa na funkcjonalność",
-          "level_category_faults": 3
+          "name": "uszkodzona osłona izolacyjna lub szybko-złącze",
+          "level_category_faults": 1,
+          "name_2": "jeżeli wpływa na funkcjonalność",
+          "level_category_faults_2": 2
         },
         {
           "id": "b",
-          "name": "niepewne lub nieprawidłowe mocowanie osłony lub zaworu\njeżeli wpływa na funkcjonalność",
-          "level_category_faults": 3
+          "name": "niepewne lub nieprawidłowe mocowanie osłony lub zaworu",
+          "level_category_faults": 1,
+          "name_2": "jeżeli wpływa na funkcjonalność",
+          "level_category_faults_2": 2
         },
         {
           "id": "c",
-          "name": "nieszczelność\njeżeli wpływa na funkcjonalność",
-          "level_category_faults": 6
+          "name": "nieszczelność",
+          "level_category_faults": 2,
+          "name_2": "jeżeli wpływa na funkcjonalność",
+          "level_category_faults_2": 4
         },
         {
           "id": "d",
-          "name": "nieprawidłowe działanie\nwpływ na działanie hamulca",
-          "level_category_faults": 6
+          "name": "nieprawidłowe działanie",
+          "level_category_faults": 2,
+          "name_2": "wpływ na działanie hamulca",
+          "level_category_faults_2": 4
         }
       ]
     },
@@ -305,8 +329,10 @@
       "standard": [
         {
           "id": "a",
-          "name": "zbiornik nieznacznie uszkodzony lub skorodowany\nzbiornik znacznie uszkodzony, skorodowany lub nieszczelny",
-          "level_category_faults": 3
+          "name": "zbiornik nieznacznie uszkodzony lub skorodowany",
+          "level_category_faults": 1,
+          "name_2": "zbiornik znacznie uszkodzony, skorodowany lub nieszczelny",
+          "level_category_faults_2": 2
         },
         {
           "id": "b",
@@ -331,23 +357,33 @@
       "standard": [
         {
           "id": "a",
-          "name": "urządzenie wspomagające jest uszkodzone lub działa\nnieskutecznie\nurządzenie wspomagające nie działa",
-          "level_category_faults": 6
+          "name": "urządzenie wspomagające jest uszkodzone lub działa\nnieskutecznie",
+          "level_category_faults": 2,
+          "name_2": "\nurządzenie wspomagające nie działa",
+          "level_category_faults_2": 4
         },
         {
           "id": "b",
-          "name": "pompa hamulcowa uszkodzona, ale hamulec wciąż działa\npompa hamulcowa uszkodzona lub nieszczelna",
-          "level_category_faults": 6
+          "name": "pompa hamulcowa uszkodzona, ale hamulec wciąż działa",
+          "level_category_faults": 2,
+          "name_2": "\npompa hamulcowa uszkodzona lub nieszczelna",
+          "level_category_faults_2": 4
         },
         {
           "id": "c",
-          "name": "niepewne  mocowanie  pompy  hamulcowej, ale hamulec wciąż\ndziała\nniepewne mocowanie pompy hamulcowej",
-          "level_category_faults": 6
+          "name": "niepewne  mocowanie  pompy  hamulcowej, ale hamulec wciąż\ndziała",
+          "level_category_faults": 2,
+          "name_2": "\nniepewne mocowanie pompy hamulcowej",
+          "level_category_faults_2": 4
         },
         {
           "id": "d",
-          "name": "poziom płynu hamulcowego poniżej znaku minimum\npoziom płynu hamulcowego znacznie poniżej znaku minimum\nbrak płynu hamulcowego w zbiorniku pompy hamulcowej",
-          "level_category_faults": 7
+          "name": "poziom płynu hamulcowego poniżej znaku minimum",
+          "level_category_faults": 1,
+          "name_2": "poziom płynu hamulcowego znacznie poniżej znaku minimum \n",
+          "level_category_faults_2": 2,
+          "name_3": "brak płynu hamulcowego w zbiorniku pompy hamulcowe",
+          "level_category_faults_3": 4
         },
         {
           "id": "e",
@@ -382,18 +418,24 @@
         },
         {
           "id": "b",
-          "name": "nieszczelność przewodów lub połączeń w pneumatycznym\nukładzie hamulcowym\nnieszczelność przewodów lub połączeń w hydraulicznym układzie\nhamulcowym",
-          "level_category_faults": 6
+          "name": "nieszczelność przewodów lub połączeń w pneumatycznym\nukładzie hamulcowym",
+          "level_category_faults": 2,
+          "name_2": "nieszczelność przewodów lub połączeń w hydraulicznym układzie hamulcowym",
+          "level_category_faults_2": 4
         },
         {
           "id": "c",
-          "name": "przewody uszkodzone lub nadmiernie skorodowane\nwpływ na działanie hamulców ze względu na blokowanie lub\nbezpośrednie ryzyko wycieku",
-          "level_category_faults": 6
+          "name": "przewody uszkodzone lub nadmiernie skorodowane",
+          "level_category_faults": 2,
+          "name_2": "\nwpływ na działanie hamulców ze względu na blokowanie lub\nbezpośrednie ryzyko wycieku",
+          "level_category_faults_2": 4
         },
         {
           "id": "d",
-          "name": "przewody przemieszczone\nryzyko uszkodzenia",
-          "level_category_faults": 3
+          "name": "przewody przemieszczone",
+          "level_category_faults": 1,
+          "name_2": "ryzyko uszkodzenia",
+          "level_category_faults_2": 2
         }
       ]
     },
@@ -413,18 +455,24 @@
         },
         {
           "id": "b",
-          "name": "przewody są poskręcane lub zbyt krótkie\nprzewody są uszkodzone lub przecierają się",
-          "level_category_faults": 3
+          "name": "przewody są poskręcane lub zbyt krótkie",
+          "level_category_faults": 1,
+          "name_2": "przewody są uszkodzone lub przecierają się",
+          "level_category_faults_2": 2
         },
         {
           "id": "c",
-          "name": "przewody lub połączenia w pneumatycznym układzie\nhamulcowym są nieszczelne\nprzewody lub połączenia w hydraulicznym układzie hamulcowym\nsą nieszczelne",
-          "level_category_faults": 6
+          "name": "przewody lub połączenia w pneumatycznym układzie\nhamulcowym są nieszczelne",
+          "level_category_faults": 2,
+          "name_2": "przewody lub połączenia w hydraulicznym układzie hamulcowym\nsą nieszczelne",
+          "level_category_faults_2": 4
         },
         {
           "id": "d",
-          "name": "przewody pęcznieją pod ciśnieniem\nosłabione zbrojenie",
-          "level_category_faults": 6
+          "name": "przewody pęcznieją pod ciśnieniem",
+          "level_category_faults": 2,
+          "name_2": "osłabione zbrojenie",
+          "level_category_faults_2": 4
         },
         {
           "id": "e",
@@ -434,23 +482,57 @@
       ]
     },
     {
-      "title_id": 1,
+      "title_id": 4,
       "sub_title_depth_1_name": "Stan techniczny i działanie",
       "sub_title_depth_2_name": null,
-      "position": "Okładziny i klocki\nhamulcowe \n",
+      "position": " Okładziny i klocki\nhamulcowe ",
       "position_code": "1.1.13",
       "methods": "kontrola organoleptyczna*)",
       "methods_remarks": null,
       "standard": [
         {
           "id": "a",
-          "name": "zużycie bębna lub tarczy\nnadmierne zużycie bębna lub tarczy, rysy lub pęknięcia na\npowierzchni; niepewne mocowanie",
-          "level_category_faults": 6
+          "name": "nadmierne zużycie klocków lub okładzin (widoczny  znak \ngranicznego zużycia)",
+          "level_category_faults": 2,
+          "name_2": "nadmierne zużycie klocków lub okładzin (niewidoczny znak \ngranicznego zużycia)",
+          "level_category_faults_2": 4
         },
         {
           "id": "b",
-          "name": "zanieczyszczenia bębna lub tarczy (np. olejem lub smarem)\npoważnie wpływające na działanie hamulca",
-          "level_category_faults": 6
+          "name": "zanieczyszczenia okładzin lub klocków (np. olejem lub smarem) ",
+          "level_category_faults": 2,
+          "name_2": "jeżeli wpływają na działanie hamulca ",
+          "level_category_faults_2": 4
+        },
+        {
+          "id": "c",
+          "name": "brak lub nieprawidłowe zamontowanie okładziny lub klocka",
+          "level_category_faults": 4
+        }
+      ]
+    },
+    {
+      "title_id": 1,
+      "sub_title_depth_1_name": "Stan techniczny i działanie",
+      "sub_title_depth_2_name": null,
+      "position": "Bębny hamulcowe,\ntarcze hamulcowe",
+      "position_code": "1.1.14",
+      "methods": "kontrola organoleptyczna*)",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "zużycie bębna lub tarczy",
+          "level_category_faults": 2,
+          "name_2": "nadmierne zużycie bębna lub tarczy, rysy lub pęknięcia na\npowierzchni; niepewne mocowanie",
+          "level_category_faults_2": 4
+        },
+        {
+          "id": "b",
+          "name": "zanieczyszczenia bębna lub tarczy (np. olejem lub smarem)",
+          "level_category_faults": 2,
+          "name_2": "poważnie wpływające na działanie hamulca",
+          "level_category_faults_2": 4
         },
         {
           "id": "c",
@@ -475,13 +557,17 @@
       "standard": [
         {
           "id": "a",
-          "name": "linka uszkodzona lub splątana\nwpływ na działanie hamulca",
-          "level_category_faults": 6
+          "name": "linka uszkodzona lub splątana",
+          "level_category_faults": 4,
+          "name_2": "wpływ na działanie hamulca",
+          "level_category_faults_2": 2
         },
         {
           "id": "b",
-          "name": "nadmierne zużycie lub korozja elementu\nwpływ na działanie hamulca",
-          "level_category_faults": 6
+          "name": "nadmierne zużycie lub korozja elementu",
+          "level_category_faults": 2,
+          "name_2": "\nwpływ na działanie hamulca",
+          "level_category_faults_2": 4
         },
         {
           "id": "c",
@@ -516,33 +602,45 @@
       "standard": [
         {
           "id": "a",
-          "name": "pęknięcie lub uszkodzenie urządzenia uruchamiającego\nwpływ na działanie hamulca",
-          "level_category_faults": 6
+          "name": "pęknięcie lub uszkodzenie urządzenia uruchamiającego",
+          "level_category_faults": 2,
+          "name_2": "wpływ na działanie hamulca",
+          "level_category_faults_2": 4
         },
         {
           "id": "b",
-          "name": "nieszczelność urządzenia uruchamiającego\nwpływ na działanie hamulca",
-          "level_category_faults": 6
+          "name": "nieszczelność urządzenia uruchamiającego",
+          "level_category_faults": 2,
+          "name_2": "wpływ na działanie hamulca",
+          "level_category_faults_2": 4
         },
         {
           "id": "c",
-          "name": "niepewne lub nieprawidłowe mocowanie urządzenia\nuruchamiającego\nwpływ na działanie hamulca",
-          "level_category_faults": 6
+          "name": "niepewne lub nieprawidłowe mocowanie urządzenia\nuruchamiającego",
+          "level_category_faults": 2,
+          "name_2": "wpływ na działanie hamulca",
+          "level_category_faults_2": 4
         },
         {
           "id": "d",
-          "name": "nadmierna korozja urządzenia uruchamiającego\ngrozi pęknięciem",
-          "level_category_faults": 6
+          "name": "nadmierna korozja urządzenia uruchamiającego",
+          "level_category_faults": 2,
+          "name_2": "grozi pęknięciem",
+          "level_category_faults_2": 4
         },
         {
           "id": "e",
-          "name": "zbyt mały lub zbyt duży skok tłoka lub mechanizmu \nprzeponowego\nwpływ na działanie hamulca (brak skoku jałowego)",
-          "level_category_faults": 6
+          "name": "zbyt mały lub zbyt duży skok tłoka lub mechanizmu przeponowego",
+          "level_category_faults": 2,
+          "name_2": "wpływ na działanie hamulca (brak skoku jałowego)",
+          "level_category_faults_2": 4
         },
         {
           "id": "f",
-          "name": "uszkodzenie osłony chroniącej przed brudem\nbrak osłony lub nadmierne jej uszkodzenie",
-          "level_category_faults": 3
+          "name": "uszkodzenie osłony chroniącej przed brudem",
+          "level_category_faults": 1,
+          "name_2": "\nbrak osłony lub nadmierne jej uszkodzenie",
+          "level_category_faults_2": 2
         }
       ]
     },
@@ -567,8 +665,10 @@
         },
         {
           "id": "c",
-          "name": "zawór zatarty lub nie działa (działa ABS)\nzawór zatarty lub nie działa",
-          "level_category_faults": 6
+          "name": "zawór zatarty lub nie działa (działa ABS)",
+          "level_category_faults": 2,
+          "name_2": "zawór zatarty lub nie działa",
+          "level_category_faults_2": 4
         },
         {
           "id": "d",
@@ -619,8 +719,10 @@
       "standard": [
         {
           "id": "a",
-          "name": "niepewne połączenia lub mocowanie\nnegatywny wpływ na działanie",
-          "level_category_faults": 3
+          "name": "niepewne połączenia lub mocowanie",
+          "level_category_faults": 1,
+          "name_2": "negatywny wpływ na działanie",
+          "level_category_faults_2": 2
         },
         {
           "id": "b",
@@ -656,13 +758,17 @@
       "standard": [
         {
           "id": "a",
-          "name": "inne urządzenia układu hamulcowego (np. pompa płynu\nzapobiegającego zamarzaniu, osuszacz powietrza itp.) wykazują\nuszkodzenia zewnętrzne lub nadmierną korozję w stopniu\nwykazującym negatywny wpływ na działanie układu\nhamulcowego\nwpływ na działanie hamulca",
-          "level_category_faults": 6
+          "name": "inne urządzenia układu hamulcowego (np. pompa płynu\nzapobiegającego zamarzaniu, osuszacz powietrza itp.) wykazują\nuszkodzenia zewnętrzne lub nadmierną korozję w stopniu\nwykazującym negatywny wpływ na działanie układu\nhamulcowego",
+          "level_category_faults": 2,
+          "name_2": "\nwpływ na działanie hamulca",
+          "level_category_faults_2": 4
         },
         {
           "id": "b",
-          "name": "wypływ powietrza lub wyciek płynu zapobiegającego zamarzaniu\nwpływ na działanie układu",
-          "level_category_faults": 2
+          "name": "wypływ powietrza lub wyciek płynu zapobiegającego zamarzaniu",
+          "level_category_faults": 1,
+          "name_2": "wpływ na działanie układu",
+          "level_category_faults_2": 2
         },
         {
           "id": "c",
@@ -671,8 +777,10 @@
         },
         {
           "id": "d",
-          "name": "niebezpieczna  przeróbka**) dowolnego elementu układu\nhamulcowego\nwpływ na działanie hamulca",
-          "level_category_faults": 6
+          "name": "niebezpieczna  przeróbka**) dowolnego elementu układu\nhamulcowego",
+          "level_category_faults": 2,
+          "name_2": "wpływ na działanie hamulca",
+          "level_category_faults_2": 4
         }
       ]
     },
@@ -681,7 +789,7 @@
       "sub_title_depth_1_name": "Stan techniczny i działanie",
       "sub_title_depth_2_name": null,
       "position": "Połączenia kontrolne (o\nile są wymagane lub \nzamontowane)",
-      "position_code": "1.1.21",
+      "position_code": "1.1.22",
       "methods": "kontrola organoleptyczna*)",
       "methods_remarks": null,
       "standard": [
@@ -719,13 +827,17 @@
       "standard": [
         {
           "id": "a",
-          "name": "zbyt mała siła hamowania co najmniej na jednym kole\nbrak siły hamowania co najmniej na jednym kole",
-          "level_category_faults": 6
+          "name": "zbyt mała siła hamowania co najmniej na jednym kole",
+          "level_category_faults": 2,
+          "name_2": "\nbrak siły hamowania co najmniej na jednym kole",
+          "level_category_faults_2": 4
         },
         {
           "id": "b",
-          "name": "siła hamowania na danym kole wynosi mniej niż 70% największej\nzmierzonej siły hamowania na drugim kole tej samej osi lub\nnadmierne odchylenie toru jazdy w trakcie próby drogowej\nsiła hamowania na danym kole wynosi mniej niż 50% największej\nzmierzonej siły hamowania na drugim kole tej samej osi w\nprzypadku osi kierowanych",
-          "level_category_faults": 6
+          "name": "siła hamowania na danym kole wynosi mniej niż 70% największej\nzmierzonej siły hamowania  na  drugim  kole  tej  samej  osi  lub \nnadmierne odchylenie toru jazdy w trakcie próby drogowej",
+          "level_category_faults": 2,
+          "name_2": "siła hamowania na danym kole wynosi mniej niż 50% największej\nzmierzonej siły hamowania  na  drugim  kole  tej  samej  osi  w \nprzypadku osi kierowanych",
+          "level_category_faults_2": 4
         },
         {
           "id": "c",
@@ -755,8 +867,10 @@
       "standard": [
         {
           "id": "a",
-          "name": "skuteczność mniejsza niż wartości minimalne określone w\nrozporządzeniu w sprawie warunków technicznych pojazdów oraz\nzakresu ich niezbędnego wyposażenia\nskuteczność mniejsza niż 50% wartości minimalnych określonych w\nrozporządzeniu w sprawie warunków technicznych pojazdów oraz\nzakresu ich niezbędnego wyposażenia",
-          "level_category_faults": 6
+          "name": "skuteczność mniejsza niż wartości minimalne określone w\nrozporządzeniu w sprawie warunków technicznych pojazdów oraz\nzakresu ich niezbędnego wyposażenia",
+          "level_category_faults": 2,
+          "name_2": "skuteczność mniejsza niż 50% wartości minimalnych określonych w\nrozporządzeniu w sprawie warunków technicznych pojazdów oraz\nzakresu ich niezbędnego wyposażenia",
+          "level_category_faults_2": 4
         }
       ]
     },
@@ -776,8 +890,10 @@
         },
         {
           "id": "b",
-          "name": "siła hamowania na danym kole wynosi mniej niż 70% największej\nzmierzonej siły hamowania na drugim kole tej samej osi; w\nprzypadku badania na drodze pojazd nadmierne zjeżdża z linii\nprostej\nsiła hamowania na danym kole wynosi mniej niż 50% największej\nzmierzonej siły hamowania na drugim kole tej samej osi w\nprzypadku osi kierowanych",
-          "level_category_faults": 6
+          "name": "siła hamowania na danym kole wynosi mniej niż 70% największej\nzmierzonej siły hamowania  na  drugim  kole  tej  samej  osi;  w \nprzypadku  badania  na  drodze  pojazd  nadmierne zjeżdża z linii\nprostej",
+          "level_category_faults": 2,
+          "name_2": "siła hamowania na danym kole wynosi mniej niż 50% największej\nzmierzonej siły hamowania  na  drugim  kole  tej  samej  osi  w \nprzypadku osi kierowanych",
+          "level_category_faults_2": 4
         },
         {
           "id": "c",
@@ -797,8 +913,10 @@
       "standard": [
         {
           "id": "a",
-          "name": "Skuteczność mniejsza niż wartości minimalne zawarte w\nrozporządzeniu w sprawie warunków technicznych pojazdów oraz\nzakresu ich niezbędnego wyposażenia\nosiągnięte mniej niż 50% wartości siły hamowania określonych w\nrozporządzeniu w sprawie warunków technicznych pojazdów oraz\nzakresu ich niezbędnego wyposażenia",
-          "level_category_faults": 6
+          "name": "Skuteczność mniejsza niż wartości minimalne zawarte w\nrozporządzeniu w sprawie warunków technicznych pojazdów oraz\nzakresu ich niezbędnego wyposażenia",
+          "level_category_faults": 2,
+          "name_2": "osiągnięte mniej niż 50% wartości siły hamowania określonych w\nrozporządzeniu w sprawie warunków technicznych pojazdów oraz\nzakresu ich niezbędnego wyposażenia",
+          "level_category_faults_2": 4
         }
       ]
     },
@@ -813,8 +931,10 @@
       "standard": [
         {
           "id": "a",
-          "name": "hamulec nie działa co najmniej na jednym kole lub w przypadku\nbadań na drodze pojazd zjeżdża nadmiernie z linii prostej\npodczas badania osiągnięto mniej niż 50% wartości sił hamowania, o\nktórych mowa w pkt 1.4.2, w odniesieniu do masy pojazdu",
-          "level_category_faults": 6
+          "name": "hamulec nie działa co najmniej na jednym kole lub  w  przypadku \nbadań na drodze pojazd zjeżdża nadmiernie z linii prostej",
+          "level_category_faults": 2,
+          "name_2": "podczas badania osiągnięto mniej niż 50% wartości sił hamowania, o\nktórych mowa w pkt 1.4.2, w odniesieniu do masy pojazdu",
+          "level_category_faults_2": 4
         }
       ]
     },
@@ -829,8 +949,10 @@
       "standard": [
         {
           "id": "a",
-          "name": "osiągnięty wskaźnik skuteczności wynosi mniej niż określony w\nrozporządzeniu w sprawie warunków technicznych pojazdów oraz\nzakresu ich niezbędnego wyposażenia\npodczas badania osiągnięto mniej niż 50% powyższych wartości sił\nhamowania w odniesieniu do masy pojazdu",
-          "level_category_faults": 6
+          "name": "osiągnięty wskaźnik skuteczności wynosi mniej niż określony w\nrozporządzeniu w sprawie warunków technicznych pojazdów oraz\nzakresu ich niezbędnego wyposażenia",
+          "level_category_faults": 2,
+          "name_2": "podczas badania osiągnięto mniej niż 50% powyższych wartości sił\nhamowania w odniesieniu do masy pojazdu",
+          "level_category_faults_2": 4
         }
       ]
     },
@@ -938,8 +1060,10 @@
       "standard": [
         {
           "id": "a",
-          "name": "płyn hamulcowy zanieczyszczony lub z osadami\nbezpośrednie ryzyko awarii",
-          "level_category_faults": 6
+          "name": "płyn hamulcowy zanieczyszczony lub z osadami",
+          "level_category_faults": 2,
+          "name_2": "bezpośrednie ryzyko awarii",
+          "level_category_faults_2": 4
         }
       ]
     },
@@ -954,23 +1078,31 @@
       "standard": [
         {
           "id": "a",
-          "name": "skręcony wał kierowniczy lub zużycie wielowypustu\nwpływ na działanie",
-          "level_category_faults": 6
+          "name": "skręcony wał kierowniczy lub zużycie wielowypustu",
+          "level_category_faults": 2,
+          "name_2": "wpływ na działanie",
+          "level_category_faults_2": 4
         },
         {
           "id": "b",
-          "name": "nadmierne zużycie wielowypustu wału kierowniczego\nwpływ na działanie",
-          "level_category_faults": 6
+          "name": "nadmierne zużycie wielowypustu wału kierowniczego",
+          "level_category_faults": 2,
+          "name_2": "wpływ na działanie",
+          "level_category_faults_2": 4
         },
         {
           "id": "c",
-          "name": "zbyt duży luz na wielowypuście wału kierowniczego\nwpływ na działanie",
-          "level_category_faults": 6
+          "name": "zbyt duży luz na wielowypuście wału kierowniczego",
+          "level_category_faults": 2,
+          "name_2": "wpływ na działanie",
+          "level_category_faults_2": 4
         },
         {
           "id": "d",
-          "name": "wyciek\ntworzenie się kropel",
-          "level_category_faults": 6
+          "name": "wyciek",
+          "level_category_faults": 2,
+          "name_2": "tworzenie się kropel",
+          "level_category_faults_2": 4
         }
       ]
     },
@@ -985,23 +1117,31 @@
       "standard": [
         {
           "id": "a",
-          "name": "nieprawidłowe mocowanie obudowy przekładni kierowniczej\nmocowania niebezpiecznie obluzowane lub widoczny względny\nruch w stosunku do podwozia lub nadwozia",
-          "level_category_faults": 6
+          "name": "nieprawidłowe mocowanie obudowy przekładni kierownicze",
+          "level_category_faults": 2,
+          "name_2": "mocowania niebezpiecznie obluzowane lub widoczny względny\nruch w stosunku do podwozia lub nadwozia",
+          "level_category_faults_2": 4
         },
         {
           "id": "b",
-          "name": "deformacja otworów do mocowania w podwoziu\nznaczący wpływ na skuteczność mocowań",
-          "level_category_faults": 6
+          "name": "deformacja otworów do mocowania w podwoziu",
+          "level_category_faults": 2,
+          "name_2": "znaczący wpływ na skuteczność mocowań",
+          "level_category_faults_2": 4
         },
         {
           "id": "c",
-          "name": "brak śrub mocujących lub śruby ułamane\nznaczący wpływ na skuteczność mocowań",
-          "level_category_faults": 6
+          "name": "brak śrub mocujących lub śruby ułamane",
+          "level_category_faults": 2,
+          "name_2": "znaczący wpływ na skuteczność mocowań",
+          "level_category_faults_2": 4
         },
         {
           "id": "d",
-          "name": "pęknięcie obudowy przekładni kierowniczej\nwpływ na stabilność lub mocowanie obudowy",
-          "level_category_faults": 6
+          "name": "pęknięcie obudowy przekładni kierowniczej",
+          "level_category_faults": 2,
+          "name_2": "wpływ na stabilność lub mocowanie obudowy",
+          "level_category_faults_2": 4
         }
       ]
     },
@@ -1016,18 +1156,24 @@
       "standard": [
         {
           "id": "a",
-          "name": "ruch elementów względem siebie wymagający naprawy\nnadmierny ruch elementów lub prawdopodobieństwo rozłączenia",
-          "level_category_faults": 6
+          "name": "ruch elementów względem siebie wymagający naprawy",
+          "level_category_faults": 2,
+          "name_2": "nadmierny ruch elementów lub prawdopodobieństwo rozłączenia",
+          "level_category_faults_2": 4
         },
         {
           "id": "b",
-          "name": "nadmierne zużycie przegubów\nbardzo poważne ryzyko rozłączenia",
-          "level_category_faults": 6
+          "name": "nadmierne zużycie przegubów",
+          "level_category_faults": 2,
+          "name_2": "bardzo poważne ryzyko rozłączenia",
+          "level_category_faults_2": 4
         },
         {
           "id": "c",
-          "name": "pęknięcia lub odkształcenie dowolnego elementu\nwpływ na działanie",
-          "level_category_faults": 6
+          "name": "pęknięcia lub odkształcenie dowolnego elementu",
+          "level_category_faults": 2,
+          "name_2": "wpływ na działanie",
+          "level_category_faults_2": 4
         },
         {
           "id": "d",
@@ -1041,13 +1187,17 @@
         },
         {
           "id": "f",
-          "name": "niebezpieczna przeróbka **)\nwpływ na działanie",
-          "level_category_faults": 6
+          "name": "niebezpieczna przeróbka **)\n",
+          "level_category_faults": 2,
+          "name_2": "wpływ na działanie",
+          "level_category_faults_2": 4
         },
         {
           "id": "g",
-          "name": "uszkodzenie lub zużycie osłony gumowej\nbrak lub znaczące zużycie osłony gumowej",
-          "level_category_faults": 3
+          "name": "uszkodzenie lub zużycie osłony gumowej\n",
+          "level_category_faults": 1,
+          "name_2": "brak lub znaczące zużycie osłony gumowej",
+          "level_category_faults_2": 2
         }
       ]
     },
@@ -1088,33 +1238,45 @@
         },
         {
           "id": "b",
-          "name": "zbyt niski poziom płynu (poniżej znaku minimum) niedostateczna pojemność zbiornika",
-          "level_category_faults": 6
+          "name": "zbyt niski poziom płynu (poniżej znaku minimum) ",
+          "level_category_faults": 2,
+          "name_2": "niedostateczna pojemność zbiornika",
+          "level_category_faults_2": 4
         },
         {
           "id": "c",
-          "name": "mechanizm wspomagania nie działa\nwpływ na poprawność działania układu kierowniczego",
-          "level_category_faults": 6
+          "name": "mechanizm wspomagania nie działa",
+          "level_category_faults": 2,
+          "name_2": "wpływ na poprawność działania układu kierowniczego",
+          "level_category_faults_2": 4
         },
         {
           "id": "d",
-          "name": "pęknięcie lub niepewne mocowanie mechanizmu\nwpływ na poprawność działania układu kierowniczego",
-          "level_category_faults": 6
+          "name": "pęknięcie lub niepewne mocowanie mechanizmu",
+          "level_category_faults": 2,
+          "name_2": "wpływ na poprawność działania układu kierowniczego",
+          "level_category_faults_2": 4
         },
         {
           "id": "e",
-          "name": "nieprawidłowe ustawienie lub zanieczyszczenie elementów\nwpływ na poprawność działania układu kierowniczego",
-          "level_category_faults": 6
+          "name": "nieprawidłowe ustawienie lub zanieczyszczenie elementów",
+          "level_category_faults": 2,
+          "name_2": "wpływ na poprawność działania układu kierowniczego",
+          "level_category_faults_2": 4
         },
         {
           "id": "f",
-          "name": "niebezpieczna przeróbka**)\nwpływ na poprawność działania układu kierowniczego",
-          "level_category_faults": 6
+          "name": "niebezpieczna przeróbka**)",
+          "level_category_faults": 2,
+          "name_2": "wpływ na poprawność działania układu kierowniczego",
+          "level_category_faults_2": 4
         },
         {
           "id": "g",
-          "name": "uszkodzenie lub nadmierna korozja linek/przewodów\nwpływ na poprawność działania układu kierowniczego",
-          "level_category_faults": 6
+          "name": "uszkodzenie lub nadmierna korozja linek/przewodów",
+          "level_category_faults": 2,
+          "name_2": "wpływ na poprawność działania układu kierowniczego",
+          "level_category_faults_2": 4
         }
       ]
     },
@@ -1129,18 +1291,24 @@
       "standard": [
         {
           "id": "a",
-          "name": "ruch kierownicy względem kolumny kierownicy, wskazujący na\nluz\nbardzo poważne ryzyko rozłączenia",
-          "level_category_faults": 6
+          "name": "ruch kierownicy względem kolumny kierownicy, wskazujący na\nluz",
+          "level_category_faults": 2,
+          "name_2": "bardzo poważne ryzyko rozłączenia",
+          "level_category_faults_2": 4
         },
         {
           "id": "b",
-          "name": "brak urządzenia ustalającego na piaście koła kierownicy\nbardzo poważne ryzyko rozłączenia",
-          "level_category_faults": 6
+          "name": "brak urządzenia ustalającego na piaście koła kierownicy",
+          "level_category_faults": 2,
+          "name_2": "bardzo poważne ryzyko rozłączenia",
+          "level_category_faults_2": 4
         },
         {
           "id": "c",
-          "name": "brak urządzenia ustalającego na piaście koła kierownicy\nbardzo poważne ryzyko rozłączenia",
-          "level_category_faults": 6
+          "name": "brak urządzenia ustalającego na piaście koła kierownicy",
+          "level_category_faults": 2,
+          "name_2": "bardzo poważne ryzyko rozłączenia",
+          "level_category_faults_2": 4
         },
         {
           "id": "d",
@@ -1175,8 +1343,10 @@
         },
         {
           "id": "d",
-          "name": "uszkodzone mocowanie bardzo poważne ryzyko rozłączenia",
-          "level_category_faults": 6
+          "name": "uszkodzone mocowanie ",
+          "level_category_faults": 2,
+          "name_2": "bardzo poważne ryzyko rozłączenia",
+          "level_category_faults_2": 4
         },
         {
           "id": "e",
@@ -1196,8 +1366,10 @@
       "standard": [
         {
           "id": "a",
-          "name": "zbyt duży ruch jałowy kierownicy (np. dany punkt na obręczy koła\nprzesuwa się o więcej niż jedną piątą średnicy koła kierownicy)\nwpływ na bezpieczne kierowanie",
-          "level_category_faults": 6
+          "name": "zbyt duży ruch jałowy kierownicy (np. dany punkt na obręczy koła\nprzesuwa się o więcej niż jedną piątą średnicy koła kierownicy)",
+          "level_category_faults": 2,
+          "name_2": "wpływ na bezpieczne kierowanie",
+          "level_category_faults_2": 4
         }
       ]
     },
@@ -1212,8 +1384,10 @@
       "standard": [
         {
           "id": "a",
-          "name": "wyraźnie nieprawidłowe ustawienie\nwpływ na jazdę na wprost, pogorszenie stabilności kierunku jazdy",
-          "level_category_faults": 3
+          "name": "wyraźnie nieprawidłowe ustawienie",
+          "level_category_faults": 1,
+          "name_2": "\nwpływ na jazdę na wprost, pogorszenie stabilności kierunku jazdy",
+          "level_category_faults_2": 2
         }
       ]
     },
@@ -1228,18 +1402,24 @@
       "standard": [
         {
           "id": "a",
-          "name": "element uszkodzony w niewielkim stopniu\npoważne uszkodzenie lub pęknięcie elementu",
-          "level_category_faults": 6
+          "name": "element uszkodzony w niewielkim stopniu",
+          "level_category_faults": 2,
+          "name_2": "\npoważne uszkodzenie lub pęknięcie elementu",
+          "level_category_faults_2": 4
         },
         {
           "id": "b",
-          "name": "zbyt duży luz\nwpływ na jazdę na wprost, pogorszenie stabilności kierunku jazdy",
-          "level_category_faults": 6
+          "name": "zbyt duży luz",
+          "level_category_faults": 2,
+          "name_2": "\nwpływ na jazdę na wprost, pogorszenie stabilności kierunku jazdy",
+          "level_category_faults_2": 4
         },
         {
           "id": "c",
-          "name": "uszkodzone mocowanie\npoważny wpływ na skuteczność mocowania",
-          "level_category_faults": 6
+          "name": "uszkodzone mocowanie",
+          "level_category_faults": 2,
+          "name_2": "poważny wpływ na skuteczność mocowania",
+          "level_category_faults_2": 4
         }
       ]
     },
@@ -1268,6 +1448,938 @@
           "level_category_faults": 2
         }
       ]
+    },
+    {
+      "title_id": 3,
+      "sub_title_depth_1_name": "Pole widzenia",
+      "sub_title_depth_2_name": null,
+      "position": "Pole widzenia",
+      "position_code": "3.1",
+      "methods": "kontrola organoleptyczna*) z siedzenia kierowcy",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "przeszkody w polu widzenia kierowcy znacząco ograniczające\nwidoczność do przodu lub na boki (poza  obszarem  oczyszczanym \nprzez wycieraczki szyby przedniej)",
+          "level_category_faults": 1,
+          "name_2": "ograniczone widzenie w  obszarze  oczyszczanym  przez wycieraczki \nszyby przedniej lub niewidoczne lusterka zewnętrzne",
+          "level_category_faults_2": 2
+        }
+      ]
+    },
+    {
+      "title_id": 3,
+      "sub_title_depth_1_name": "Stan szyb",
+      "sub_title_depth_2_name": null,
+      "position": "Stan szyb",
+      "position_code": "3.2",
+      "methods": "kontrola organoleptyczna*)",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "pęknięcia lub przebarwienia szyby szklanej lub z tworzywa (o ile\njest dozwolona), poza obszarem oczyszczanym przez wycieraczki \nszyby przedniej",
+          "level_category_faults": 1,
+          "name_2": "ograniczone  widzenie  w  obszarze  oczyszczanym  przez \nwycieraczki szyby przedniej lub niewidoczne lusterka zewnętrzne",
+          "level_category_faults_2": 2
+        },
+        {
+          "id": "b",
+          "name": "szyba  szklana lub  z tworzywa (włącznie z folią odblaskową lub\nbarwioną) niezgodne z wymaganiami rozporządzenia w sprawie\nwarunków technicznych pojazdów oraz zakresu ich niezbędnego\nwyposażenia (poza  obszarem  oczyszczanym  przez  wycieraczki \nszyby przedniej)",
+          "level_category_faults": 1,
+          "name_2": "ograniczone  widzenie  w  obszarze  oczyszczanym  przez \nwycieraczki szyby przedniej lub niewidoczne lusterka zewnętrzne",
+          "level_category_faults_2": 2
+        },
+        {
+          "id": "c",
+          "name": "niedopuszczalny stan techniczny szyby szklanej lub z tworzywa",
+          "level_category_faults": 2,
+          "name_2": "znaczące ograniczenie widoczności w obszarze oczyszczanym\nprzez wycieraczki szyby przednie",
+          "level_category_faults_2": 4
+        }
+      ]
+    },
+    {
+      "title_id": 3,
+      "sub_title_depth_1_name": " Lusterka wsteczne lub inne \nurządzenia o funkcji\nurządzenia widzenia\npośredniego",
+      "sub_title_depth_2_name": null,
+      "position": " Lusterka wsteczne lub inne \nurządzenia o funkcji\nurządzenia widzenia\npośredniego",
+      "position_code": "3.3",
+      "methods": "kontrola organoleptyczna*)",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "brak lusterka lub urządzenia lub  mocowanie  niezgodne  z\nwymaganiami określonymi rozporządzeniu w sprawie warunków\ntechnicznych pojazdów oraz zakresu ich niezbędnego wyposażenia\n(co najmniej dwa urządzenia zapewniające możliwość obserwacji \nstrefy za pojazdem)",
+          "level_category_faults": 1,
+          "name_2": "mniej niż dwa urządzenia zapewniające możliwość obserwacji\nstrefy za pojazdem",
+          "level_category_faults_2": 2
+        },
+        {
+          "id": "b",
+          "name": "lusterko lub urządzenie pośredniego widzenia nieznacznie\nuszkodzone lub obluzowane",
+          "level_category_faults": 1,
+          "name_2": "lusterko lub urządzenie nie działa, jest bardzo uszkodzone,\nobluzowane lub niepewnie zamocowane",
+          "level_category_faults_2": 2
+        },
+        {
+          "id": "c",
+          "name": "brak zapewnienia wymaganej widoczności",
+          "level_category_faults": 2
+        }
+      ]
+    },
+    {
+      "title_id": 3,
+      "sub_title_depth_1_name": "Wycieraczki przedniej \nszyby",
+      "sub_title_depth_2_name": null,
+      "position": "Wycieraczki przedniej \nszyby",
+      "position_code": "3.4",
+      "methods": "kontrola organoleptyczna*) i sprawdzenie\ndziałania",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "wycieraczki nie działają lub ich brak",
+          "level_category_faults": 2
+        },
+        {
+          "id": "b",
+          "name": "uszkodzenie pióra wycieraczki\n",
+          "level_category_faults": 1,
+          "name_2": "brak pióra wycieraczki lub jego wyraźne uszkodzenie",
+          "level_category_faults_2": 2
+        }
+      ]
+    },
+    {
+      "title_id": 3,
+      "sub_title_depth_1_name": "Spryskiwacze przedniej \nszyby",
+      "sub_title_depth_2_name": null,
+      "position": "Spryskiwacze przedniej \nszyby",
+      "position_code": "3.5",
+      "methods": "kontrola organoleptyczna*) i sprawdzenie\ndziałania",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "spryskiwacze nie działają prawidłowo (brak płynu do spryskiwaczy,\nale pompa działa lub złe ustawienie strumienia spryskującego)",
+          "level_category_faults": 1,
+          "name_2": "spryskiwacze nie działają",
+          "level_category_faults_2": 2
+        }
+      ]
+    },
+    {
+      "title_id": 3,
+      "sub_title_depth_1_name": "Instalacja odmgławiająca",
+      "sub_title_depth_2_name": null,
+      "position": "Instalacja odmgławiająca",
+      "position_code": "3.6",
+      "methods": "kontrola organoleptyczna*) i sprawdzenie\ndziałania",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "układ nie działa lub jest wyraźnie uszkodzony",
+          "level_category_faults": 1
+        }
+      ]
+    },
+    {
+      "title_id": 4,
+      "sub_title_depth_1_name": "Światła drogowe i mijania",
+      "sub_title_depth_2_name": null,
+      "position": "Stan i działanie",
+      "position_code": "4.1.1",
+      "methods": "kontrola organoleptyczna*) i sprawdzenie\ndziałania",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "brak światła, źródła światła, lub jego uszkodzenie (złożone\nświatło/źródła światła; w przypadku LED nie działa najwyżej 1/3)",
+          "level_category_faults": 1,
+          "name_2": "pojedyncze światła/źródła światła; w przypadku LED poważnie\npogorszona widoczność",
+          "level_category_faults_2": 2
+        },
+        {
+          "id": "b",
+          "name": "niewielkie  uszkodzenie  układu projektorowego (odbłyśnik i\nsoczewka) ",
+          "level_category_faults": 1,
+          "name_2": "poważne uszkodzenie układu projektorowego lub  jego  brak \n(odbłyśnik i soczewka) ",
+          "level_category_faults_2": 2
+        },
+        {
+          "id": "c",
+          "name": "niepewne mocowanie światła",
+          "level_category_faults": 2
+        }
+      ]
+    },
+    {
+      "title_id": 4,
+      "sub_title_depth_1_name": "Światła drogowe i mijania",
+      "sub_title_depth_2_name": null,
+      "position": "Ustawienie",
+      "position_code": "4.1.2",
+      "methods": "kontrola organoleptyczna*) i sprawdzenie\ndziałania",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "rażąco złe ustawienie świateł drogowych i mijania",
+          "level_category_faults": 2
+        },
+        {
+          "id": "b",
+          "name": "nieprawidłowe mocowanie źródła światła",
+          "level_category_faults": 2
+        }
+      ]
+    },
+    {
+      "title_id": 4,
+      "sub_title_depth_1_name": "Światła drogowe i mijania",
+      "sub_title_depth_2_name": null,
+      "position": "Przełączniki",
+      "position_code": "4.1.3",
+      "methods": "kontrola organoleptyczna*) i sprawdzenie\ndziałania",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "przełącznik działa niezgodnie z wymaganiami określonymi\nw rozporządzeniu w sprawie warunków technicznych pojazdów\noraz zakresu ich niezbędnego wyposażenia – dotyczy  liczby \nświateł włączanych jednocześnie",
+          "level_category_faults": 1,
+          "name_2": "przekroczenie  maksymalnej  dopuszczalnej  światłości świateł\nświecących do przodu\n",
+          "level_category_faults_2": 2
+        },
+        {
+          "id": "b",
+          "name": "nieprawidłowe działanie przełącznika",
+          "level_category_faults": 2
+        }
+      ]
+    },
+    {
+      "title_id": 4,
+      "sub_title_depth_1_name": "Światła drogowe i mijania",
+      "sub_title_depth_2_name": null,
+      "position": "Zgodność z wymaganiami\no warunkach \ntechnicznych",
+      "position_code": "4.1.4",
+      "methods": "kontrola organoleptyczna*) i sprawdzenie\ndziałania",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "brak zgodności z wymaganiami pod względem typu światła, barwy\nwysyłanego światła, miejsca montażu, światłości lub oznaczenia,\nokreślonymi w rozporządzeniu w sprawie warunków technicznych\npojazdów oraz zakresu ich niezbędnego wyposażenia",
+          "level_category_faults": 2
+        },
+        {
+          "id": "b",
+          "name": "elementy na kloszu lub źródle światła, które w oczywisty sposób\nzmniejszają światłość światła lub zmieniają jego barwę",
+          "level_category_faults": 2
+        },
+        {
+          "id": "c",
+          "name": "brak zgodności źródła światła z zainstalowanym urządzeniem\noświetleniowym",
+          "level_category_faults": 2
+        }
+      ]
+    },
+    {
+      "title_id": 4,
+      "sub_title_depth_1_name": "Światła drogowe i mijania",
+      "sub_title_depth_2_name": null,
+      "position": " Urządzenia do regulacji\nustawienia świateł (jeżeli\nsą obowiązkowe)",
+      "position_code": "4.1.5",
+      "methods": "kontrola organoleptyczna*) i sprawdzenie\ndziałania, jeżeli istnieje taka możliwość",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "urządzenie nie działa",
+          "level_category_faults": 2
+        },
+        {
+          "id": "b",
+          "name": "obsługa urządzenia sterowanego ręcznie niemożliwa z siedzenia\nkierowcy",
+          "level_category_faults": 2
+        }
+      ]
+    },
+    {
+      "title_id": 4,
+      "sub_title_depth_1_name": "Światła drogowe i mijania",
+      "sub_title_depth_2_name": null,
+      "position": "Urządzenie do\noczyszczania świateł\ndrogowych/mijania (jeżeli\njest obowiązkowe)",
+      "position_code": "4.1.6",
+      "methods": "kontrola organoleptyczna*) i sprawdzenie\ndziałania, jeżeli istnieje taka możliwość",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "urządzenie nie działa",
+          "level_category_faults": 1,
+          "name_2": "w przypadku świateł wyładowczych",
+          "level_category_faults_2": 2
+        }
+      ]
+    },
+    {
+      "title_id": 4,
+      "sub_title_depth_1_name": "Przednie i tylne światła pozycyjne, światła obrysowe boczne i tylne oraz światła do jazdy dziennej",
+      "sub_title_depth_2_name": null,
+      "position": "Stan i działanie",
+      "position_code": "4.2.1",
+      "methods": "kontrola organoleptyczna*) i sprawdzenie\ndziałania",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "uszkodzone źródło światła",
+          "level_category_faults": 2
+        },
+        {
+          "id": "b",
+          "name": "uszkodzenie klosza",
+          "level_category_faults": 2
+        },
+        {
+          "id": "c",
+          "name": "niepewne mocowanie światła",
+          "level_category_faults": 1,
+          "name_2": "\nbardzo poważne ryzyko odpadnięcia",
+          "level_category_faults_2": 2
+        }
+      ]
+    },
+    {
+      "title_id": 4,
+      "sub_title_depth_1_name": "Przednie i tylne światła pozycyjne, światła obrysowe boczne i tylne oraz światła do jazdy dziennej",
+      "sub_title_depth_2_name": null,
+      "position": "Przełączniki",
+      "position_code": "4.2.2",
+      "methods": "kontrola organoleptyczna*) i sprawdzenie\ndziałania",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "przełącznik działa niezgodnie z wymaganiami określonymi\nw rozporządzeniu w sprawie warunków technicznych pojazdów\noraz zakresu ich niezbędnego wyposażenia",
+          "level_category_faults": 2,
+          "name_2": "tylne światła pozycyjne i światła obrysowe boczne można\nwyłączyć, gdy włączone są światła przednie",
+          "level_category_faults_2": 2
+        },
+        {
+          "id": "b",
+          "name": "nieprawidłowe działanie przełącznika",
+          "level_category_faults": 2
+        }
+      ]
+    },
+    {
+      "title_id": 4,
+      "sub_title_depth_1_name": "Przednie i tylne światła pozycyjne, światła obrysowe boczne i tylne oraz światła do jazdy dziennej",
+      "sub_title_depth_2_name": null,
+      "position": "Zgodność z wymaganiami\nrozporządzenia w sprawie\nwarunków technicznych\npojazdów oraz zakresu\nich niezbędnego\nwyposażenia",
+      "position_code": "4.2.3",
+      "methods": "kontrola organoleptyczna*) i sprawdzenie\ndziałania",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "brak zgodności z wymaganiami pod względem typu światła, barwy \nwysyłanego światła, miejsca montażu, światłości lub oznaczenia,\nokreślonymi w rozporządzeniu w sprawie warunków technicznych\npojazdów oraz zakresu ich niezbędnego wyposażenia",
+          "level_category_faults": 1,
+          "name_2": "czerwone światło z przodu lub białe światło z tyłu; znacząco\nzmniejszona światłość światła",
+          "level_category_faults_2": 2
+        },
+        {
+          "id": "b",
+          "name": "elementy na kloszu lub źródle światła, które zmniejszają światłość\nświatła lub zmieniają jego barwę",
+          "level_category_faults": 1,
+          "name_2": "czerwone światło z przodu lub białe światło z tyłu; znacząco\nzmniejszona światłość światła",
+          "level_category_faults_2": 2
+        }
+      ]
+    },
+    {
+      "title_id": 4,
+      "sub_title_depth_1_name": "Światła hamowania „stop”",
+      "sub_title_depth_2_name": null,
+      "position": "Stan i działanie",
+      "position_code": "4.3.1",
+      "methods": "kontrola organoleptyczna*) i sprawdzenie\ndziałania",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "uszkodzone źródło światła (złożone źródła światła; w przypadku \nLED nie działa najwyżej 1/3)",
+          "level_category_faults": 1,
+          "name_2": "pojedyncze źródła światła; w przypadku LED działa mniej niż 2/3",
+          "level_category_faults_2": 2,
+          "name_3": "żadne źródło światła nie działa",
+          "level_category_faults_3": 4
+        },
+        {
+          "id": "b",
+          "name": "niewielkie  uszkodzenie  klosza (brak wpływu na emitowane\nświatło",
+          "level_category_faults": 1,
+          "name_2": "poważne uszkodzenie klosza (wpływ na emitowane światło)",
+          "level_category_faults_2": 2
+        },
+        {
+          "id": "c",
+          "name": "niepewne mocowanie światła",
+          "level_category_faults": 1,
+          "name_2": "\nbardzo poważne ryzyko odpadnięcia",
+          "level_category_faults_2": 2
+        }
+      ]
+    },
+    {
+      "title_id": 4,
+      "sub_title_depth_1_name": "Światła hamowania „stop”",
+      "sub_title_depth_2_name": null,
+      "position": "Przełączniki",
+      "position_code": "4.3.2",
+      "methods": "kontrola organoleptyczna*) i sprawdzenie\ndziałania",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "przełącznik działa niezgodnie z wymaganiami określonymi\nw § 13 oraz w załączniku nr 6 do rozporządzenia w sprawie\nwarunków technicznych pojazdów oraz zakresu ich niezbędnego\nwyposażenia",
+          "level_category_faults": 1,
+          "name_2": "opóźnione działanie przełącznika",
+          "level_category_faults_2": 2,
+          "name_3": "przełącznik nie działa w ogóle",
+          "level_category_faults_3": 4
+        },
+        {
+          "id": "b",
+          "name": "nieprawidłowe działanie przełącznika",
+          "level_category_faults": 2
+        }
+      ]
+    },
+    {
+      "title_id": 4,
+      "sub_title_depth_1_name": "Światła hamowania „stop”",
+      "sub_title_depth_2_name": null,
+      "position": "Zgodność z wymaganiami\nrozporządzenia w sprawie\nwarunków technicznych\npojazdów oraz zakresu\nich niezbędnego\nwyposażenia",
+      "position_code": "4.3.3",
+      "methods": "kontrola organoleptyczna*) i sprawdzenie\ndziałania",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "brak zgodności z wymaganiami określonymi w rozporządzeniu w\nsprawie warunków technicznych pojazdów oraz zakresu ich\nniezbędnego wyposażenia – pod względem typu światła, barwy\nwysyłanego światła miejsca montażu, jasności lub oznaczenia",
+          "level_category_faults": 1,
+          "name_2": "białe światło z tyłu; znacząco zmniejszona jasność światła",
+          "level_category_faults_2": 3
+        }
+      ]
+    },
+    {
+      "title_id": 4,
+      "sub_title_depth_1_name": "Światła kierunkowskazu i światła awaryjne",
+      "sub_title_depth_2_name": null,
+      "position": "Stan i działanie",
+      "position_code": "4.4.1",
+      "methods": "kontrola organoleptyczna*) i sprawdzenie\ndziałania",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "uszkodzone źródło światła (złożone źródła światła; w przypadku\nLED nie działa najwyżej 1/3)",
+          "level_category_faults": 1,
+          "name_2": "pojedyncze źródła światła; w przypadku LED działa mniej niż 2/3",
+          "level_category_faults_2": 2
+        },
+        {
+          "id": "b",
+          "name": "niewielkie  uszkodzenie  klosza (brak wpływu na emitowane\nświatło)",
+          "level_category_faults": 1,
+          "name_2": "poważne uszkodzenie klosza (wpływ na emitowane światło)",
+          "level_category_faults_2": 2
+        },
+        {
+          "id": "c",
+          "name": "niepewne mocowanie światła",
+          "level_category_faults": 1,
+          "name_2": "bardzo poważne ryzyko odpadnięcia",
+          "level_category_faults_2": 2
+        }
+      ]
+    },
+    {
+      "title_id": 4,
+      "sub_title_depth_1_name": "Światła kierunkowskazu i światła awaryjne",
+      "sub_title_depth_2_name": null,
+      "position": "Przełączniki",
+      "position_code": "4.4.2",
+      "methods": "kontrola organoleptyczna*) i sprawdzenie\ndziałania",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "przełącznik działa niezgodnie z wymaganiami określonymi\nw rozporządzeniu w sprawie warunków technicznych pojazdów oraz\nzakresu ich niezbędnego wyposażenia",
+          "level_category_faults": 1,
+          "name_2": "przełącznik nie działa w ogóle",
+          "level_category_faults_2": 2
+        }
+      ]
+    },
+    {
+      "title_id": 4,
+      "sub_title_depth_1_name": "Światła kierunkowskazu i światła awaryjne",
+      "sub_title_depth_2_name": null,
+      "position": "Zgodność z wymaganiami\nprzepisów rozporządzenia\nw sprawie warunków\ntechnicznych pojazdów\noraz zakresu ich \nniezbędnego wyposażenia",
+      "position_code": "4.4.3",
+      "methods": "kontrola organoleptyczna*) i sprawdzenie\ndziałania",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "brak zgodności z wymaganiami określonymi w rozporządzeniu w\nsprawie warunków technicznych pojazdów oraz zakresu ich\nniezbędnego wyposażenia – pod względem typu światła, barwy\nwysyłanego światła miejsca montażu, światłości lub oznaczenia",
+          "level_category_faults": 2
+        }
+      ]
+    },
+    {
+      "title_id": 4,
+      "sub_title_depth_1_name": "Światła kierunkowskazu i światła awaryjne",
+      "sub_title_depth_2_name": null,
+      "position": "Częstotliwość błysków\nkierunkowskazów",
+      "position_code": "4.4.4",
+      "methods": "kontrola organoleptyczna*) i sprawdzenie\ndziałania",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "częstotliwość błysków mniejsza niż 45 cykli na minutę lub większa\nniż 150 cykli na minutę",
+          "level_category_faults": 1
+        }
+      ]
+    },
+    {
+      "title_id": 4,
+      "sub_title_depth_1_name": "Przednie i tylne światła przeciwmgłowe",
+      "sub_title_depth_2_name": null,
+      "position": "Stan i działanie",
+      "position_code": "4.5.1",
+      "methods": "kontrola organoleptyczna*) i sprawdzenie\ndziałania",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "uszkodzone źródło światła (złożone źródła światła; w przypadku\nLED nie działa najwyżej 1/3)",
+          "level_category_faults": 1,
+          "name_2": "pojedyncze źródła światła; w przypadku LED działa mniej niż 2/3",
+          "level_category_faults_2": 2
+        },
+        {
+          "id": "b",
+          "name": "niewielkie  uszkodzenie  klosza (brak wpływu na emitowane\nświatło)",
+          "level_category_faults": 1,
+          "name_2": "poważne uszkodzenie klosza (wpływ na emitowane światło)",
+          "level_category_faults_2": 2
+        },
+        {
+          "id": "c",
+          "name": "niepewne mocowanie światła",
+          "level_category_faults": 1,
+          "name_2": "bardzo poważne ryzyko odpadnięcia lub oślepia kierujących\npojazdami nadjeżdżającymi z przeciwka",
+          "level_category_faults_2": 2
+        }
+      ]
+    },
+    {
+      "title_id": 4,
+      "sub_title_depth_1_name": "Przednie i tylne światła przeciwmgłowe",
+      "sub_title_depth_2_name": null,
+      "position": "Ustawienie",
+      "position_code": "4.5.2",
+      "methods": "kontrola organoleptyczna*) i sprawdzenie\ndziałania",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "niewłaściwe ustawienie granicy światła i cienia przedniego światła\nprzeciwmgłowego w płaszczyźnie poziomej (granica zbyt nisko)",
+          "level_category_faults": 1,
+          "name_2": "granica światła i cienia powyżej granicy dla świateł mijania",
+          "level_category_faults_2": 2
+        }
+      ]
+    },
+    {
+      "title_id": 4,
+      "sub_title_depth_1_name": "Przednie i tylne światła przeciwmgłowe",
+      "sub_title_depth_2_name": null,
+      "position": "Przełączniki",
+      "position_code": "4.5.3",
+      "methods": "kontrola organoleptyczna*) i sprawdzenie\ndziałania",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "przełącznik działa niezgodnie z wymaganiami określonymi\nw rozporządzeniu w sprawie warunków technicznych pojazdów oraz\nzakresu ich niezbędnego wyposażenia",
+          "level_category_faults": 1,
+          "name_2": "przełącznik nie działa",
+          "level_category_faults_2": 2
+        }
+      ]
+    },
+    {
+      "title_id": 4,
+      "sub_title_depth_1_name": "Przednie i tylne światła przeciwmgłowe",
+      "sub_title_depth_2_name": null,
+      "position": " Zgodność z wymaganiami\nrozporządzenia w sprawie\nwarunków technicznych\npojazdów oraz zakresu\nich niezbędnego\nwyposażenia",
+      "position_code": "4.5.4",
+      "methods": "kontrola organoleptyczna*) i sprawdzenie\ndziałania",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "brak zgodności z wymaganiami określonymi w\nrozporządzeniu w sprawie warunków technicznych pojazdów oraz\nzakresu ich niezbędnego wyposażenia – pod względem typu\nświatła, barwy wysyłanego światła, miejsca montażu, światłości\nlub oznaczenia",
+          "level_category_faults": 2
+        },
+        {
+          "id": "b",
+          "name": "układ działa niezgodnie z wymaganiami rozporządzenia w sprawie\nwarunków technicznych pojazdów oraz zakresu ich niezbędnego\nwyposażenia",
+          "level_category_faults": 1
+        }
+      ]
+    },
+    {
+      "title_id": 4,
+      "sub_title_depth_1_name": "Światła cofania",
+      "sub_title_depth_2_name": null,
+      "position": "Stan i działanie",
+      "position_code": "4.6.1",
+      "methods": "kontrola organoleptyczna*) i sprawdzenie\ndziałania",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "uszkodzenie źródła światła",
+          "level_category_faults": 1
+        },
+        {
+          "id": "b",
+          "name": "uszkodzenie klosza",
+          "level_category_faults": 1
+        },
+        {
+          "id": "c",
+          "name": "niepewne mocowanie światła",
+          "level_category_faults": 1,
+          "name_2": "bardzo poważne ryzyko odpadnięcia",
+          "level_category_faults_2": 2
+        }
+      ]
+    },
+    {
+      "title_id": 4,
+      "sub_title_depth_1_name": "Światła cofania",
+      "sub_title_depth_2_name": null,
+      "position": "Zgodność z wymaganiami\nrozporządzenia w sprawie\nwarunków technicznych\npojazdów oraz zakresu\nich niezbędnego\nwyposażenia",
+      "position_code": "4.6.2",
+      "methods": "kontrola organoleptyczna*) i sprawdzenie\ndziałania",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "brak zgodności z wymaganiami określonymi w rozporządzeniu w\nsprawie warunków technicznych pojazdów oraz zakresu ich\nniezbędnego wyposażenia – pod względem typu światła, barwy\nwysyłanego światła, miejsca montażu, światłości lub oznaczenia",
+          "level_category_faults": 2
+        },
+        {
+          "id": "b",
+          "name": "układ działa niezgodnie z wymaganiami rozporządzenia w sprawie\nwarunków technicznych pojazdów oraz zakresu ich niezbędnego\nwyposażenia",
+          "level_category_faults": 2
+        }
+      ]
+    },
+    {
+      "title_id": 4,
+      "sub_title_depth_1_name": "Światła cofania",
+      "sub_title_depth_2_name": null,
+      "position": "Przełączniki",
+      "position_code": "4.6.3",
+      "methods": "kontrola organoleptyczna*) i sprawdzenie\ndziałania",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "przełącznik działa niezgodnie z wymaganiami określonymi\nw rozporządzeniu w sprawie warunków technicznych pojazdów oraz\nzakresu ich niezbędnego wyposażenia\n",
+          "level_category_faults": 1,
+          "name_2": "światło cofania można włączyć, kiedy włączony jest inny bieg niż\nwsteczny",
+          "level_category_faults_2": 2
+        }
+      ]
+    },
+    {
+      "title_id": 4,
+      "sub_title_depth_1_name": "Światło oświetlające tylną tablicę rejestracyjną",
+      "sub_title_depth_2_name": null,
+      "position": "Stan i działanie",
+      "position_code": "4.7.1",
+      "methods": "kontrola organoleptyczna*) i sprawdzenie\ndziałania",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "źródło światła emituje światło białe bezpośrednio do tyłu",
+          "level_category_faults": 1
+        },
+        {
+          "id": "b",
+          "name": "uszkodzenie źródła światła (złożone źródło światła)",
+          "level_category_faults": 1,
+          "name_2": "uszkodzenie źródła światła (pojedyncze źródło światła)",
+          "level_category_faults_2": 2
+        },
+        {
+          "id": "c",
+          "name": "niepewne mocowanie światła",
+          "level_category_faults": 1,
+          "name_2": "bardzo poważne ryzyko odpadnięcia",
+          "level_category_faults_2": 2
+        }
+      ]
+    },
+    {
+      "title_id": 4,
+      "sub_title_depth_1_name": "Światło oświetlające tylną tablicę rejestracyjną",
+      "sub_title_depth_2_name": null,
+      "position": " Zgodność z wymaganiami\nrozporządzenia w sprawie\nwarunków technicznych\npojazdów oraz zakresu\nich niezbędnego\nwyposażenia",
+      "position_code": "4.7.2",
+      "methods": "kontrola organoleptyczna*) i sprawdzenie\ndziałania",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "układ działa niezgodnie z wymaganiami określonymi w\nrozporządzeniu w sprawie warunków technicznych pojazdów oraz\nzakresu ich niezbędnego wyposażenia",
+          "level_category_faults": 1
+        }
+      ]
+    },
+    {
+      "title_id": 4,
+      "sub_title_depth_1_name": "Światła odblaskowe, oznakowanie odblaskowe i tylne tablice odblaskowe",
+      "sub_title_depth_2_name": null,
+      "position": " Stan",
+      "position_code": "4.8.1",
+      "methods": "kontrola organoleptyczna*)",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "nieprawidłowe funkcjonowanie lub uszkodzenie urządzeń\nodblaskowych",
+          "level_category_faults": 1,
+          "name_2": "wpływ na funkcję odblaskową",
+          "level_category_faults_2": 2
+        },
+        {
+          "id": "b",
+          "name": "niepewne mocowanie odblasków",
+          "level_category_faults": 1,
+          "name_2": "ryzyko odpadnięcia",
+          "level_category_faults_2": 2
+        }
+      ]
+    },
+    {
+      "title_id": 4,
+      "sub_title_depth_1_name": "Światła odblaskowe, oznakowanie odblaskowe i tylne tablice odblaskowe",
+      "sub_title_depth_2_name": null,
+      "position": "Zgodność z wymaganiami\nrozporządzenia w sprawie\nwarunków technicznych\npojazdów oraz zakresu\nich niezbędnego\nwyposażenia\n",
+      "position_code": "4.8.2",
+      "methods": "kontrola organoleptyczna*)",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "urządzenie, jego położenie lub barwa odbijanego światła niezgodne z\nwymaganiami rozporządzenia w sprawie warunków technicznych\npojazdów oraz zakresu ich niezbędnego wyposażenia",
+          "level_category_faults": 1,
+          "name_2": "brak urządzenia lub odbijanie czerwonego światła do przodu i białego\ndo tyłu",
+          "level_category_faults_2": 2
+        }
+      ]
+    },
+    {
+      "title_id": 4,
+      "sub_title_depth_1_name": "Wymagane wskaźniki kontrolne urządzeń oświetlenia",
+      "sub_title_depth_2_name": null,
+      "position": "Stan i działanie",
+      "position_code": "4.9.1",
+      "methods": "kontrola organoleptyczna*) i sprawdzenie\ndziałania",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "wskaźniki nie działają",
+          "level_category_faults": 1,
+          "name_2": "nie działają wskaźniki włączenia świateł drogowych lub tylnego\nświatła przeciwmgłowego",
+          "level_category_faults_2": 2
+        }
+      ]
+    },
+    {
+      "title_id": 4,
+      "sub_title_depth_1_name": "Wymagane wskaźniki kontrolne urządzeń oświetlenia",
+      "sub_title_depth_2_name": null,
+      "position": " Zgodność z wymaganiami\nrozporządzenia w sprawie\nwarunków technicznych\npojazdów oraz zakresu\nich niezbędnego\nwyposażenia",
+      "position_code": "4.9.1",
+      "methods": "kontrola organoleptyczna*) i sprawdzenie\ndziałania",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "brak zgodności z wymaganiami określonymi rozporządzeniu w\nsprawie warunków technicznych pojazdów oraz zakresu ich\nniezbędnego wyposażenia",
+          "level_category_faults": 1
+        }
+      ]
+    },
+    {
+      "title_id": 4,
+      "sub_title_depth_1_name": "Połączenia elektryczne\nmiędzy pojazdem ciągnącym a przyczepą lub\nnaczepą",
+      "sub_title_depth_2_name": null,
+      "position": "Połączenia elektryczne\nmiędzy pojazdem ",
+      "position_code": "4.10",
+      "methods": "kontrola organoleptyczna*) w miarę możliwości\nnależy sprawdzić ciągłość elektryczną instalacji",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "niepewne mocowanie elementów nieruchomych",
+          "level_category_faults": 1,
+          "name_2": "luźna wtyczka w gnieździe elektrycznym",
+          "level_category_faults_2": 2
+        },
+        {
+          "id": "b",
+          "name": "uszkodzenie lub zużycie izolacji",
+          "level_category_faults": 1,
+          "name_2": "możliwość spowodowania zwarcia",
+          "level_category_faults_2": 2
+        },
+        {
+          "id": "c",
+          "name": "nieprawidłowe działanie połączeń elektrycznych przyczepy  lub \npojazdu ciągnącego",
+          "level_category_faults": 2,
+          "name_2": "światła hamowania „stop” przyczepy nie działają",
+          "level_category_faults_2": 3
+        }
+      ]
+    },
+    {
+      "title_id": 4,
+      "sub_title_depth_1_name": "Złącza i przewody\nelektryczne",
+      "sub_title_depth_2_name": null,
+      "position": "Złącza i przewody\nelektryczne",
+      "position_code": "4.11",
+      "methods": "kontrola organoleptyczna*) pojazdu, obejmująca\nw niektórych przypadkach także komorę\nsilnikową",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "niepewne mocowanie lub niewłaściwe zabezpieczenie\nprzewodów",
+          "level_category_faults": 1,
+          "name_2": "obluzowane mocowania, kontakt z ostrymi krawędziami,\nprawdopodobieństwo rozłączenia połączeń",
+          "level_category_faults_2": 2,
+          "name_3": "ryzyko dotykania przez przewody gorących części, elementów\nobracających się lub podłoża; rozłączone złącza (części dotyczące\nukładu hamulcowego i kierowniczego)",
+          "level_category_faults_3": 4
+        },
+        {
+          "id": "b",
+          "name": "niewielkie zużycie instalacji",
+          "level_category_faults": 1,
+          "name_2": "znaczny stopień zużycia instalacji",
+          "level_category_faults_2": 2,
+          "name_3": "skrajne zużycie instalacji. w zakresie dotyczącym układu\nhamulcowego i kierowniczego",
+          "level_category_faults_3": 4
+        },
+        {
+          "id": "c",
+          "name": "uszkodzona lub zużyta izolacja",
+          "level_category_faults": 1,
+          "name_2": "ryzyko zwarcia",
+          "level_category_faults_2": 2,
+          "name_3": "bezpośrednie zagrożenie pożarem lub iskrzeniem",
+          "level_category_faults_3": 4
+        }
+      ]
+    },
+    {
+      "title_id": 4,
+      "sub_title_depth_1_name": "Dodatkowe światła i\nświatła odblaskowe",
+      "sub_title_depth_2_name": null,
+      "position": "Dodatkowe światła i\nświatła odblaskowe",
+      "position_code": "4.13",
+      "methods": "kontrola organoleptyczna*) i sprawdzenie\ndziałania",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "światło lub światło odblaskowe zamontowane niezgodnie\nz wymaganiami określonymi w rozporządzeniu w sprawie\nwarunków technicznych pojazdów oraz zakresu ich niezbędnego\nwyposażenia",
+          "level_category_faults": 1,
+          "name_2": "wysyłanie/odbijanie czerwonego światła do przodu lub białego do\ntyłu",
+          "level_category_faults_2": 2
+        },
+        {
+          "id": "b",
+          "name": "światło działa niezgodnie z wymaganiami określonymi w\nrozporządzeniu w sprawie warunków technicznych pojazdów oraz\nzakresu ich niezbędnego wyposażenia",
+          "level_category_faults": 1,
+          "name_2": "liczba świateł przednich działających jednocześnie przekracza\ndozwoloną światłość światła; emitowanie czerwonego światła do\nprzodu lub białego do tyłu",
+          "level_category_faults_2": 2
+        },
+        {
+          "id": "c",
+          "name": "niepewne mocowanie światła lub światła odblaskowego",
+          "level_category_faults": 1,
+          "name_2": "bardzo poważne ryzyko odpadnięcia",
+          "level_category_faults_2": 2
+        }
+      ]
+    },
+    {
+      "title_id": 4,
+      "sub_title_depth_1_name": " Akumulator (-y)",
+      "sub_title_depth_2_name": null,
+      "position": " Akumulator (-y)",
+      "position_code": "4.13",
+      "methods": "kontrola organoleptyczna*)",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "niepewne mocowanie",
+          "level_category_faults": 1,
+          "name_2": "niewłaściwe mocowanie, możliwość spowodowania zwarcia",
+          "level_category_faults_2": 2
+        },
+        {
+          "id": "b",
+          "name": "wyciek",
+          "level_category_faults": 1,
+          "name_2": "wyciek substancji niebezpiecznych",
+          "level_category_faults_2": 2
+        },
+        {
+          "id": "c",
+          "name": "uszkodzony wyłącznik akumulatora (jeżeli jest wymagany)",
+          "level_category_faults": 2
+        },
+        {
+          "id": "d",
+          "name": "uszkodzone bezpieczniki (jeżeli są wymagane)",
+          "level_category_faults": 2
+        },
+        {
+          "id": "e",
+          "name": "niewłaściwa wentylacja (jeżeli jest wymagana)",
+          "level_category_faults": 2
+        }
+      ]
     }
   ],
   "title_list_array": [
@@ -1282,6 +2394,14 @@
     {
       "id": 2,
       "name": "UKŁAD KIEROWNICZY"
+    },
+    {
+      "id": 3,
+      "name": "WIDOCZNOŚĆ"
+    },
+    {
+      "id": 4,
+      "name": "ŚWIATŁA, ŚWIATŁA ODBLASKOWE I WYPOSAŻENIE ELEKTRYCZNE"
     }
   ]
 }

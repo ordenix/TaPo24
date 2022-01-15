@@ -9,6 +9,10 @@
         <div class="icon"><i class="fas fa-car-crash"></i></div>
         <div class="label">Kwalifikacja zdarzenia</div>
       </div>
+      <div class="element" @click="goto('/ControlList/')">
+        <div class="icon"><i class="fas fa-exclamation-triangle"></i></div>
+        <div class="label">Kody usterek</div>
+      </div>
     </div>
   </div>
 </template>
