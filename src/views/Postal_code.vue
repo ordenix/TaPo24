@@ -267,9 +267,7 @@ export default {
   flex-direction: column;
 }
 input {
-  width: 100%;
   margin-right: 10px;
-  font-size: 15px;
 }
 .orange_button {
 

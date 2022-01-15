@@ -21,14 +21,23 @@ export default {
   data () {
     return {
       Accident_Data: AccidentData.accident_array,
-      step: 0
+      step: 0,
+      piervous_step: 0
     }
   },
   methods: {
     go_to (id) {
+      this.piervous_step = this.step
       this.step = parseInt(id)
     }
   }
+  // mounted () {
+  // window.addEventListener('popstate', () => {
+  // if (this.$route.params.step !== '0') {
+  // this.$router.push({ name: 'QualificationsAccident2', params: { step: this.piervous_step } })
+  // }
+  // })
+  // }
 }
 </script>
 

@@ -751,7 +751,7 @@
       "position": "Skuteczność",
       "position_code": "1.2.2",
       "methods": "badanie wykonać na urządzeniu do kontroli\ndziałania hamulców przy zadanej masie pojazdu\nlub, jeżeli jest to niemożliwe z przyczyn\ntechnicznych, badanie należy wykonać na\ndrodze z użyciem opóźnieniomierza (procentową\nskuteczność hamulców oblicza się dzieląc\ncałkowitą siłę hamowania osiągniętą podczas\nstosowania hamulców przez wagę pojazdu lub w\nprzypadku naczepy – sumę nacisku osi, mnożąc\nten wynik przez 100).",
-      "methods_remarks": null
+      "methods_remarks": null,
       "standard": [
         {
           "id": "a",
@@ -767,7 +767,7 @@
       "position": "Sprawność",
       "position_code": "1.3.1",
       "methods": "jeżeli hamulec pomocniczy i hamulec roboczy\nstanowią oddzielne układy, należy zastosować\nmetodę (w trakcie badania na urządzeniu do kontroli\ndziałania stopniowo zwiększać siłę hamowania\ndo osiągnięcia wartości maksymalnej)",
-      "methods_remarks": null
+      "methods_remarks": null,
       "standard": [
         {
           "id": "a",
@@ -822,17 +822,450 @@
       "title_id": 1,
       "sub_title_depth_1_name": "Sprawność i skuteczność postojowego układu hamulcowego",
       "sub_title_depth_2_name": null,
-      "position":,
-      "Skuteczność",
+      "position": "Skuteczność",
       "position_code": "1.4.2",
-      "methods":,
-      "badanie wykonać na urządzeniu do kontroli\ndziałania hamulców. Jeżeli jest to niemożliwe,\nwówczas przeprowadzić badanie drogowe z\nużyciem opóźnieniomierza z funkcją zapisu lub\nze wskazaniem",
+      "methods": "badanie wykonać na urządzeniu do kontroli\ndziałania hamulców. Jeżeli jest to niemożliwe,\nwówczas przeprowadzić badanie drogowe z\nużyciem opóźnieniomierza z funkcją zapisu lub\nze wskazaniem",
       "methods_remarks": null,
       "standard": [
         {
           "id": "a",
           "name": "osiągnięty wskaźnik skuteczności wynosi mniej niż określony w\nrozporządzeniu w sprawie warunków technicznych pojazdów oraz\nzakresu ich niezbędnego wyposażenia\npodczas badania osiągnięto mniej niż 50% powyższych wartości sił\nhamowania w odniesieniu do masy pojazdu",
           "level_category_faults": 6
+        }
+      ]
+    },
+    {
+      "title_id": 1,
+      "sub_title_depth_1_name": " Sprawność układu\nhamowania długotrwałego",
+      "sub_title_depth_2_name": "null",
+      "position": " Sprawność układu\nhamowania długotrwałego",
+      "position_code": "1.5",
+      "methods": "kontrola organoleptyczna*) oraz, w miarę\nmożliwości, sprawdzenie, czy układ działa",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "brak równomiernego przyrostu siły hamowania (nie dotyczy\nhamulca silnikowego)",
+          "level_category_faults": 2
+        },
+        {
+          "id": "b",
+          "name": "układ nie działa",
+          "level_category_faults": 2
+        }
+      ]
+    },
+    {
+      "title_id": 1,
+      "sub_title_depth_1_name": "Układ przeciwblokujący\n(ABS)",
+      "sub_title_depth_2_name": null,
+      "position": "Układ przeciwblokujący\n(ABS)",
+      "position_code": "1.6",
+      "methods": "kontrola organoleptyczna*) oraz sprawdzenie\nkontrolki samodiagnostyki lub przy użyciu\nelektronicznego interfejsu pojazdu",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "kontrolka systemu samodiagnostyki nie działa",
+          "level_category_faults": 2
+        },
+        {
+          "id": "b",
+          "name": "kontrolka systemu samodiagnostyki wskazuje uszkodzenie układu",
+          "level_category_faults": 2
+        },
+        {
+          "id": "c",
+          "name": "brak lub uszkodzenie czujników prędkości obrotowej kół",
+          "level_category_faults": 2
+        },
+        {
+          "id": "d",
+          "name": "uszkodzenie przewodów instalacji elektrycznej",
+          "level_category_faults": 2
+        },
+        {
+          "id": "e",
+          "name": "brak lub uszkodzenie innych elementów (np. czujnika, \nsterownika, modulatora) ",
+          "level_category_faults": 2
+        },
+        {
+          "id": "f",
+          "name": "system wskazuje awarię za pośrednictwem elektronicznego\ninterfejsu pojazdu",
+          "level_category_faults": 2
+        }
+      ]
+    },
+    {
+      "title_id": 1,
+      "sub_title_depth_1_name": "Elektroniczny układ\nhamulcowy (EBS)",
+      "sub_title_depth_2_name": null,
+      "position": "Elektroniczny układ\nhamulcowy (EBS)",
+      "position_code": "1.7",
+      "methods": "kontrola organoleptyczna*) oraz sprawdzenie\nkontrolki  samodiagnostyki lub przy użyciu\nelektronicznego interfejsu pojazdu",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "kontrolka systemu samodiagnostyki nie działa",
+          "level_category_faults": 2
+        },
+        {
+          "id": "b",
+          "name": "kontrolka systemu samodiagnostyki wskazuje uszkodzenie układu",
+          "level_category_faults": 2
+        },
+        {
+          "id": "c",
+          "name": "system wskazuje awarię za pośrednictwem elektronicznego\ninterfejsu pojazdu",
+          "level_category_faults": 2
+        },
+        {
+          "id": "d",
+          "name": "nieodpowiednie złącze między pojazdem ciągnącym a przyczepą\nlub brak złącza",
+          "level_category_faults": 4
+        }
+      ]
+    },
+    {
+      "title_id": 1,
+      "sub_title_depth_1_name": " Płyn hamulcowy",
+      "sub_title_depth_2_name": null,
+      "position": " Płyn hamulcowy",
+      "position_code": "1.8",
+      "methods": "kontrola organoleptyczna",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "płyn hamulcowy zanieczyszczony lub z osadami\nbezpośrednie ryzyko awarii",
+          "level_category_faults": 6
+        }
+      ]
+    },
+    {
+      "title_id": 2,
+      "sub_title_depth_1_name": "Stan techniczny",
+      "sub_title_depth_2_name": null,
+      "position": "Stan przekładni\nkierownicze",
+      "position_code": "2.1.1",
+      "methods": "kontrola organoleptyczna*) działania przekładni\nkierowniczej przy skręcaniu kierownicy",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "skręcony wał kierowniczy lub zużycie wielowypustu\nwpływ na działanie",
+          "level_category_faults": 6
+        },
+        {
+          "id": "b",
+          "name": "nadmierne zużycie wielowypustu wału kierowniczego\nwpływ na działanie",
+          "level_category_faults": 6
+        },
+        {
+          "id": "c",
+          "name": "zbyt duży luz na wielowypuście wału kierowniczego\nwpływ na działanie",
+          "level_category_faults": 6
+        },
+        {
+          "id": "d",
+          "name": "wyciek\ntworzenie się kropel",
+          "level_category_faults": 6
+        }
+      ]
+    },
+    {
+      "title_id": 2,
+      "sub_title_depth_1_name": "Stan techniczny",
+      "sub_title_depth_2_name": null,
+      "position": " Mocowanie obudowy \nprzekładni kierowniczej",
+      "position_code": "2.1.2",
+      "methods": "kontrola organoleptyczna*) mocowania obudowy \nprzekładni do podwozia przy skręcaniu\nkierownicy w prawo i w lewo",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "nieprawidłowe mocowanie obudowy przekładni kierowniczej\nmocowania niebezpiecznie obluzowane lub widoczny względny\nruch w stosunku do podwozia lub nadwozia",
+          "level_category_faults": 6
+        },
+        {
+          "id": "b",
+          "name": "deformacja otworów do mocowania w podwoziu\nznaczący wpływ na skuteczność mocowań",
+          "level_category_faults": 6
+        },
+        {
+          "id": "c",
+          "name": "brak śrub mocujących lub śruby ułamane\nznaczący wpływ na skuteczność mocowań",
+          "level_category_faults": 6
+        },
+        {
+          "id": "d",
+          "name": "pęknięcie obudowy przekładni kierowniczej\nwpływ na stabilność lub mocowanie obudowy",
+          "level_category_faults": 6
+        }
+      ]
+    },
+    {
+      "title_id": 2,
+      "sub_title_depth_1_name": "Stan techniczny",
+      "sub_title_depth_2_name": null,
+      "position": "Stan połączeń układu\nkierowniczego",
+      "position_code": "2.1.3",
+      "methods": "kontrola organoleptyczna*) elementów układu\nkierowniczego pod względem zużycia, pęknięć i\npewności mocowania przy skręcaniu kierownicy\nw prawo i w lewo\n",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "ruch elementów względem siebie wymagający naprawy\nnadmierny ruch elementów lub prawdopodobieństwo rozłączenia",
+          "level_category_faults": 6
+        },
+        {
+          "id": "b",
+          "name": "nadmierne zużycie przegubów\nbardzo poważne ryzyko rozłączenia",
+          "level_category_faults": 6
+        },
+        {
+          "id": "c",
+          "name": "pęknięcia lub odkształcenie dowolnego elementu\nwpływ na działanie",
+          "level_category_faults": 6
+        },
+        {
+          "id": "d",
+          "name": "brak elementów ograniczających skrę",
+          "level_category_faults": 2
+        },
+        {
+          "id": "e",
+          "name": "nieprawidłowe ustawienie elementów (np. drążka poprzecznego\nlub drążka wzdłużnego)",
+          "level_category_faults": 2
+        },
+        {
+          "id": "f",
+          "name": "niebezpieczna przeróbka **)\nwpływ na działanie",
+          "level_category_faults": 6
+        },
+        {
+          "id": "g",
+          "name": "uszkodzenie lub zużycie osłony gumowej\nbrak lub znaczące zużycie osłony gumowej",
+          "level_category_faults": 3
+        }
+      ]
+    },
+    {
+      "title_id": 2,
+      "sub_title_depth_1_name": "Stan techniczny",
+      "sub_title_depth_2_name": null,
+      "position": "Działanie połączeń układu\nkierowniczego",
+      "position_code": "2.1.4",
+      "methods": "kontrola organoleptyczna*) elementów układu\nkierowniczego pod względem zużycia, pęknięć i\npewności mocowania przy skręcaniu kierownicy\nw prawo i w lewo z kołami pojazdu na podłożu i\nprzy włączonym silniku (wspomaganie układu\nkierowniczego)",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "ruchome części układu kierowniczego kolidują ze stałymi\nelementami podwozia",
+          "level_category_faults": 2
+        },
+        {
+          "id": "b",
+          "name": "brak ograniczników skrętu lub ograniczniki nie działają",
+          "level_category_faults": 2
+        }
+      ]
+    },
+    {
+      "title_id": 2,
+      "sub_title_depth_1_name": "Stan techniczny",
+      "sub_title_depth_2_name": null,
+      "position": "Wspomaganie układu\nkierowniczego",
+      "position_code": "2.1.5",
+      "methods": "sprawdzić ewentualne wycieki z układu\nkierowniczego i poziom płynu w zbiorniku hydraulicznego układu wspomagania (jeżeli\npoziom jest widoczny)\npostawić pojazd na kołach, włączyć silnik i\nsprawdzić, czy wspomaganie układu\nkierowniczego działa",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "wyciek płynu",
+          "level_category_faults": 2
+        },
+        {
+          "id": "b",
+          "name": "zbyt niski poziom płynu (poniżej znaku minimum) niedostateczna pojemność zbiornika",
+          "level_category_faults": 6
+        },
+        {
+          "id": "c",
+          "name": "mechanizm wspomagania nie działa\nwpływ na poprawność działania układu kierowniczego",
+          "level_category_faults": 6
+        },
+        {
+          "id": "d",
+          "name": "pęknięcie lub niepewne mocowanie mechanizmu\nwpływ na poprawność działania układu kierowniczego",
+          "level_category_faults": 6
+        },
+        {
+          "id": "e",
+          "name": "nieprawidłowe ustawienie lub zanieczyszczenie elementów\nwpływ na poprawność działania układu kierowniczego",
+          "level_category_faults": 6
+        },
+        {
+          "id": "f",
+          "name": "niebezpieczna przeróbka**)\nwpływ na poprawność działania układu kierowniczego",
+          "level_category_faults": 6
+        },
+        {
+          "id": "g",
+          "name": "uszkodzenie lub nadmierna korozja linek/przewodów\nwpływ na poprawność działania układu kierowniczego",
+          "level_category_faults": 6
+        }
+      ]
+    },
+    {
+      "title_id": 2,
+      "sub_title_depth_1_name": "Kierownica i kolumna kierownicy",
+      "sub_title_depth_2_name": null,
+      "position": "Stan kierownicy",
+      "position_code": "2.2.1",
+      "methods": "ustawić pojazd na podłożu, naprzemiennie pchać\ni ciągnąć kierownicę wzdłuż osi kolumny,\nciągnąć i pchać koło kierownicy w kierunku\npoosiowym, pchać koło kierownicy w różnych\nkierunkach pod kątem prostym do kolumny\nkontrola organoleptyczna*) luzu i stanu\nprzegubów elastycznych lub uniwersalnych",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "ruch kierownicy względem kolumny kierownicy, wskazujący na\nluz\nbardzo poważne ryzyko rozłączenia",
+          "level_category_faults": 6
+        },
+        {
+          "id": "b",
+          "name": "brak urządzenia ustalającego na piaście koła kierownicy\nbardzo poważne ryzyko rozłączenia",
+          "level_category_faults": 6
+        },
+        {
+          "id": "c",
+          "name": "brak urządzenia ustalającego na piaście koła kierownicy\nbardzo poważne ryzyko rozłączenia",
+          "level_category_faults": 6
+        },
+        {
+          "id": "d",
+          "name": "niebezpieczna przeróbka**)",
+          "level_category_faults": 2
+        }
+      ]
+    },
+    {
+      "title_id": 2,
+      "sub_title_depth_1_name": "Kierownica i kolumna kierownicy",
+      "sub_title_depth_2_name": null,
+      "position": "Kolumna kierownicy oraz\namortyzatory kierownicy",
+      "position_code": "2.2.2",
+      "methods": "naprzemiennie ciągnąć i pchać koło kierownicy\nw kierunku poosiowym, pchać koło kierownicy\nw różnych kierunkach pod kątem prostym do\nkolumny\nKontrola organoleptyczna*) luzu i stanu\nprzegubów elastycznych lub uniwersalnych",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "nadmierny ruch piasty koła kierownicy w górę lub w dół",
+          "level_category_faults": 2
+        },
+        {
+          "id": "b",
+          "name": "nadmierny luz promieniowy kolumny kierownicy",
+          "level_category_faults": 2
+        },
+        {
+          "id": "c",
+          "name": "zużyty przegub elastyczny",
+          "level_category_faults": 2
+        },
+        {
+          "id": "d",
+          "name": "uszkodzone mocowanie bardzo poważne ryzyko rozłączenia",
+          "level_category_faults": 6
+        },
+        {
+          "id": "e",
+          "name": "niebezpieczna przeróbka**)",
+          "level_category_faults": 4
+        }
+      ]
+    },
+    {
+      "title_id": 2,
+      "sub_title_depth_1_name": "Luz sumaryczny na kole \nkierownicy",
+      "sub_title_depth_2_name": null,
+      "position": "Luz sumaryczny na kole \nkierownicy",
+      "position_code": "2.3",
+      "methods": "włączyć silnik w pojeździe ze wspomaganiem\nukładu kierowniczego i ustawić koła do jazdy na \nwprost; delikatnie skręcać kierownicę w lewo i w\nprawo do poruszenia kół jezdnych. Kontrola\norganoleptyczna*) luzu",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "zbyt duży ruch jałowy kierownicy (np. dany punkt na obręczy koła\nprzesuwa się o więcej niż jedną piątą średnicy koła kierownicy)\nwpływ na bezpieczne kierowanie",
+          "level_category_faults": 6
+        }
+      ]
+    },
+    {
+      "title_id": 2,
+      "sub_title_depth_1_name": "Ustawienie kół",
+      "sub_title_depth_2_name": null,
+      "position": "Ustawienie kół",
+      "position_code": "2.4",
+      "methods": "kontrola organoleptyczna*)",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "wyraźnie nieprawidłowe ustawienie\nwpływ na jazdę na wprost, pogorszenie stabilności kierunku jazdy",
+          "level_category_faults": 3
+        }
+      ]
+    },
+    {
+      "title_id": 2,
+      "sub_title_depth_1_name": "Obrotnica osi kierowanej \nprzyczepy",
+      "sub_title_depth_2_name": null,
+      "position": "Obrotnica osi kierowanej \nprzyczepy",
+      "position_code": "2.5",
+      "methods": "kontrola organoleptyczna*) lub  sprawdzenie  za \npomocą odpowiednio przystosowanego\nurządzenia do wymuszania szarpnięć kołami",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "element uszkodzony w niewielkim stopniu\npoważne uszkodzenie lub pęknięcie elementu",
+          "level_category_faults": 6
+        },
+        {
+          "id": "b",
+          "name": "zbyt duży luz\nwpływ na jazdę na wprost, pogorszenie stabilności kierunku jazdy",
+          "level_category_faults": 6
+        },
+        {
+          "id": "c",
+          "name": "uszkodzone mocowanie\npoważny wpływ na skuteczność mocowania",
+          "level_category_faults": 6
+        }
+      ]
+    },
+    {
+      "title_id": 2,
+      "sub_title_depth_1_name": "Elektroniczne wspomaganie \nukładu kierowniczego",
+      "sub_title_depth_2_name": null,
+      "position": "Elektroniczne wspomaganie \nukładu kierowniczego",
+      "position_code": "2.6",
+      "methods": "kontrola organoleptyczna*) i sprawdzenie\nzgodności między skrętem koła kierownicy a\nskrętem kół przy włączaniu i wyłączaniu silnika\nlub przy użyciu elektronicznego interfejsu\npojazdu",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "wskaźnik awarii układu EPS wskazuje dowolny rodzaj awarii w\nukładzie",
+          "level_category_faults": 2
+        },
+        {
+          "id": "b",
+          "name": "wspomaganie nie działa",
+          "level_category_faults": 2
+        },
+        {
+          "id": "c",
+          "name": "system wskazuje awarię za pośrednictwem elektronicznego\ninterfejsu pojazdu",
+          "level_category_faults": 2
         }
       ]
     }
@@ -845,6 +1278,10 @@
     {
       "id": 1,
       "name": "UKŁAD HAMULCOWY"
+    },
+    {
+      "id": 2,
+      "name": "UKŁAD KIEROWNICZY"
     }
   ]
 }

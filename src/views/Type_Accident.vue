@@ -1,7 +1,7 @@
 <template>
   <div id="main">
     <div v-if="true" class="container">
-      <div class="element" @click="goto('/QualificationsAccident2/')">
+      <div class="element" @click="goto('/QualificationsAccident2/0')">
         <div class="icon"><i class="fas fa-user"></i></div>
         <div class="label">1 sprawca</div>
       </div>

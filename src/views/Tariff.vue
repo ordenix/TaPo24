@@ -26,7 +26,7 @@
       </div>
     </div>
     </div>
-    <div id="search_menu">
+    <div id="search_top_bar">
       <select v-model="selected_option">
         <option v-for="(option, index) in options_category" v-bind:value="option.value" :key="index">
           {{ option.text }}
@@ -136,7 +136,7 @@ export default {
     click_on_tariff_card (data) {
       this.open_special_card = true
       this.selected_data = data
-      const form = document.getElementById('search_menu')
+      const form = document.getElementById('search_top_bar')
       form.addEventListener('focusout', () => {
         this.focus = true
         setTimeout(this.focus_delay, 300)
@@ -167,36 +167,12 @@ export default {
 }
 </script>
 
-<style scoped>
-#search_menu {
-  position: sticky;
-  position: -webkit-sticky;
-  top: 0; /* required */
-  background-color: #EE6C4D;
-  padding: 10px 10px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  flex-direction: column;
-}
+<style scoped lang="scss">
+@import "main_layout";
 #view {
   margin: 8px;
   height: 100%;
   position: unset;
-
-}
-input {
-  width: 100%;
-  font-size: 18px;
-  padding: 0;
-  margin-top: 8px;
-}
-select {
-  width: 100%;
-  font-size: 18px;
-}
-hr {
-  border: 1px solid #EE6C4D;
 }
 .footer_container{
   color: #e0fbfc;
