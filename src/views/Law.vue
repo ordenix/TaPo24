@@ -73,6 +73,7 @@ export default {
         { name: 'Zarządzenie KGP nr 30KGP', path: '30KGP.pdf', icon: 'fas fa-road', short: '30' },
         { name: 'Ustawa o ŚPB', path: 'SPB.pdf', icon: 'fas fa-crosshairs', short: 'ŚPB' },
         { name: 'Ustawa o Policji', path: 'UOP.pdf', icon: 'fas fa-bookmark', short: 'UOP' },
+        { name: 'Ustawa o kierujących', path: 'UOK.pdf', icon: 'fas fa-id-card', short: 'UOK' },
         { name: 'Kodeks Karny', path: 'KK.pdf', icon: 'fas fa-mask', short: 'KK' },
         { name: 'Rozp. ws. usuwania pojazdów', path: 'UPOJ.pdf', icon: 'fas fas fa-car-battery', short: 'none' },
         { name: 'Rozp. ws. badań alk. w organizmie', path: 'AL.pdf', icon: 'fas fa-glass-cheers', short: 'alko' },

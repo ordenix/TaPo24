@@ -13,9 +13,10 @@
       <hr>
       <div class="qualification">Kwalifikacja prawna</div>
       <div class="qualification_container">
-        <div>{{selected_data.law}}</div>
+        <div v-if="selected_data.law!==''">{{selected_data.law}}</div>
+        <div v-for="(element , index) in selected_data.law_sub" :key="index">{{element}}</div>
         <div v-if="selected_data.paragraph!==''">{{selected_data.paragraph}}</div>
-        <div v-for="(element , index) in selected_data.paragraph_sub" :key="index">{{element}}</div>
+        <div v-for="(element , index) in selected_data.paragraph_sub" :key="index+100">{{element}}</div>
       </div>
       <hr>
       <div class="footer_container">

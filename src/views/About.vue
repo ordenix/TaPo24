@@ -1,5 +1,52 @@
 <template>
-  <div class="about">
-    <h1>O aplikacji</h1>
+  <div class="container">
+    <div class="title">O APLIKACJI:</div>
+    <div class="text">
+      TaPo24 jest dedykowaną aplikacją dla kierowców, pracowników MSWiA w Polsce. Aktualnie posiada moduł taryfikatora docelowo mają być zaimplementowane dodatkowe moduły wykorzystywane w codziennych czynnościach "na drodze"
+    </div>
+    <div class="title">TWÓRCY:</div>
+    <div class="authors">Jakub Drzymała front-end developer</div> <div class="contact"> jakubdrzmala95@gmai.com</div>
+    <div class="authors">Damian Wieszołek social media </div> <div class="contact">damianwieszolek@gmai.com</div>
   </div>
 </template>
+
+<style lang="scss" scoped>
+@import "main_layout";
+.title {
+  margin: 10px;
+  color: #EE6C4D;
+  font-family: $text-family;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+}
+.text {
+  color: #e0fbfc;
+  font-family: $text-family;
+  font-size: 15px;
+}
+.title i {
+  margin: 10px;
+}
+.container {
+  background-color: #3d5a80;
+  padding: 8px;
+  border-radius: 8px;
+  margin: 10px;
+}
+.authors {
+  color: #e0fbfc;
+  font-family: $text-family;
+  font-size: 18px;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 20px;
+}
+.contact {
+  color: #e0fbfc;
+  font-family: $text-family;
+  font-size: 10px;
+  font-weight: bold;
+  text-align: center;
+}
+</style>

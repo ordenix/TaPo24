@@ -181,7 +181,7 @@
       "sub_title_depth_2_name": null,
       "position": "Zawór sterujący hamulca\npostojowego",
       "position_code": "1.1.5",
-      "methods": "kontrola organoleptyczna*) elementów podczas\npracy układu hamulcowego",
+      "methods": "kontrola organoleptyczna elementów podczas\npracy układu hamulcowego",
       "methods_remarks": null,
       "standard": [
         {
@@ -212,12 +212,12 @@
       "sub_title_depth_2_name": null,
       "position": "Urządzenie uruchamiające\nhamulec postojowy, \ndźwignia sterująca,\nzapadka hamulca \npostojowego, \nelektroniczny hamulec \npostojowy",
       "position_code": "1.1.6",
-      "methods": "kontrola organoleptyczna*) elementów podczas\npracy układu hamulcowego",
+      "methods": "kontrola organoleptyczna elementów podczas\npracy układu hamulcowego",
       "methods_remarks": null,
       "standard": [
         {
           "id": "a",
-          "name": "mechanizm zapadkowy nie blokuj",
+          "name": "mechanizm zapadkowy nie blokuje",
           "level_category_faults": 2
         },
         {
@@ -234,7 +234,7 @@
         },
         {
           "id": "d",
-          "name": "nadmierny skok dźwigni wskazujący na niewłaściwą regulację",
+          "name": "brak urządzenia uruchamiającego, urządzenie uszkodzone lub nie\ndziała",
           "level_category_faults": 2
         },
         {
@@ -250,7 +250,7 @@
       "sub_title_depth_2_name": null,
       "position": "Zawory hamulcowe \n(zawory główne,\nregulatory ciśnienia,\nzawory regulacyjne)",
       "position_code": "1.1.7",
-      "methods": "kontrola organoleptyczna*) elementów podczas\npracy układu hamulcowego",
+      "methods": "kontrola organoleptyczna elementów podczas\npracy układu hamulcowego",
       "methods_remarks": null,
       "standard": [
         {
@@ -352,7 +352,7 @@
       "sub_title_depth_2_name": null,
       "position": "Urządzenia\nwspomagające układ\nhamulcowy, pompa\nhamulcowa (układy\nhydrauliczne)",
       "position_code": "1.1.10",
-      "methods": "kontrola organoleptyczna*) elementów podczas\npracy układu hamulcowego",
+      "methods": "kontrola organoleptyczna elementów podczas\npracy układu hamulcowego",
       "methods_remarks": null,
       "standard": [
         {
@@ -382,7 +382,7 @@
           "level_category_faults": 1,
           "name_2": "poziom płynu hamulcowego znacznie poniżej znaku minimum \n",
           "level_category_faults_2": 2,
-          "name_3": "brak płynu hamulcowego w zbiorniku pompy hamulcowe",
+          "name_3": "brak płynu hamulcowego w zbiorniku pompy hamulcowej",
           "level_category_faults_3": 4
         },
         {
@@ -408,7 +408,7 @@
       "sub_title_depth_2_name": null,
       "position": "Sztywne przewody \nhamulcowe ",
       "position_code": "1.1.11",
-      "methods": "kontrola organoleptyczna*) elementów podczas\npracy układu hamulcowego",
+      "methods": "kontrola organoleptyczna elementów podczas\npracy układu hamulcowego",
       "methods_remarks": null,
       "standard": [
         {
@@ -445,7 +445,7 @@
       "sub_title_depth_2_name": null,
       "position": "Elastyczne przewody \nhamulcowe",
       "position_code": "1.1.12",
-      "methods": "kontrola organoleptyczna*) elementów podczas\npracy układu hamulcowego",
+      "methods": "kontrola organoleptyczna elementów podczas\npracy układu hamulcowego",
       "methods_remarks": null,
       "standard": [
         {
@@ -482,12 +482,12 @@
       ]
     },
     {
-      "title_id": 4,
+      "title_id": 1,
       "sub_title_depth_1_name": "Stan techniczny i działanie",
       "sub_title_depth_2_name": null,
       "position": " Okładziny i klocki\nhamulcowe ",
       "position_code": "1.1.13",
-      "methods": "kontrola organoleptyczna*)",
+      "methods": "kontrola organoleptyczna",
       "methods_remarks": null,
       "standard": [
         {
@@ -517,7 +517,7 @@
       "sub_title_depth_2_name": null,
       "position": "Bębny hamulcowe,\ntarcze hamulcowe",
       "position_code": "1.1.14",
-      "methods": "kontrola organoleptyczna*)",
+      "methods": "kontrola organoleptyczna",
       "methods_remarks": null,
       "standard": [
         {
@@ -552,15 +552,15 @@
       "sub_title_depth_2_name": null,
       "position": "Linki hamulcowe, \ndrążki, mechanizm\ndźwigni, połączenia",
       "position_code": "1.1.15",
-      "methods": "kontrola organoleptyczna*) elementów podczas\npracy układu hamulcowego",
+      "methods": "kontrola organoleptyczna elementów podczas\npracy układu hamulcowego",
       "methods_remarks": null,
       "standard": [
         {
           "id": "a",
           "name": "linka uszkodzona lub splątana",
-          "level_category_faults": 4,
+          "level_category_faults": 2,
           "name_2": "wpływ na działanie hamulca",
-          "level_category_faults_2": 2
+          "level_category_faults_2": 4
         },
         {
           "id": "b",
@@ -597,7 +597,7 @@
       "sub_title_depth_2_name": null,
       "position": "Urządzenia\nuruchamiające hamulce\n(w tym hamulce\nsprężynowe lub cylindry\nhydrauliczne)",
       "position_code": "1.1.16",
-      "methods": "kontrola organoleptyczna*) elementów podczas\npracy układu hamulcowego, w miarę możliwości",
+      "methods": "kontrola organoleptyczna elementów podczas\npracy układu hamulcowego, w miarę możliwości",
       "methods_remarks": null,
       "standard": [
         {
@@ -650,7 +650,7 @@
       "sub_title_depth_2_name": null,
       "position": "Korektor siły hamowania",
       "position_code": "1.1.17",
-      "methods": "kontrola organoleptyczna*) elementów podczas\npracy układu hamulcowego, w miarę możliwości",
+      "methods": "kontrola organoleptyczna elementów podczas\npracy układu hamulcowego, w miarę możliwości",
       "methods_remarks": null,
       "standard": [
         {
@@ -688,7 +688,7 @@
       "sub_title_depth_2_name": null,
       "position": "Korektory i wskaźniki\nluzu",
       "position_code": "1.1.18",
-      "methods": "kontrola organoleptyczna*)",
+      "methods": "kontrola organoleptyczna",
       "methods_remarks": null,
       "standard": [
         {
@@ -714,7 +714,7 @@
       "sub_title_depth_2_name": null,
       "position": "Układ hamowania\ndługotrwałego (o ile jest\nwymagany lub \nzamontowany)",
       "position_code": "1.1.19",
-      "methods": "kontrola organoleptyczna*)",
+      "methods": "kontrola organoleptyczna",
       "methods_remarks": null,
       "standard": [
         {
@@ -737,7 +737,7 @@
       "sub_title_depth_2_name": null,
       "position": ". Automatyczne \nuruchamianie się\nhamulców przyczepy",
       "position_code": "1.1.20",
-      "methods": "rozłączyć połączenie hamulcowe między\npojazdem ciągnącym a przyczep",
+      "methods": "rozłączyć połączenie hamulcowe między\npojazdem ciągnącym a przyczepą",
       "methods_remarks": null,
       "standard": [
         {
@@ -777,7 +777,7 @@
         },
         {
           "id": "d",
-          "name": "niebezpieczna  przeróbka**) dowolnego elementu układu\nhamulcowego",
+          "name": "niebezpieczna  przeróbka dowolnego elementu układu\nhamulcowego",
           "level_category_faults": 2,
           "name_2": "wpływ na działanie hamulca",
           "level_category_faults_2": 4
@@ -790,7 +790,7 @@
       "sub_title_depth_2_name": null,
       "position": "Połączenia kontrolne (o\nile są wymagane lub \nzamontowane)",
       "position_code": "1.1.22",
-      "methods": "kontrola organoleptyczna*)",
+      "methods": "kontrola organoleptyczna",
       "methods_remarks": null,
       "standard": [
         {
@@ -806,7 +806,7 @@
       "sub_title_depth_2_name": null,
       "position": "Hamulec najazdowy",
       "position_code": "1.1.23",
-      "methods": "kontrola organoleptyczna*) i sprawdzenie\ndziałania",
+      "methods": "kontrola organoleptyczna i sprawdzenie\ndziałania",
       "methods_remarks": null,
       "standard": [
         {
@@ -886,7 +886,9 @@
         {
           "id": "a",
           "name": "zbyt mała siła hamowania co najmniej na jednym kole brak siły hamowania na co najmniej jednym kole",
-          "level_category_faults": 6
+          "level_category_faults": 2,
+          "name_2": "brak siły hamowania na co najmniej jednym kole",
+          "level_category_faults_2": 4
         },
         {
           "id": "b",
@@ -959,10 +961,10 @@
     {
       "title_id": 1,
       "sub_title_depth_1_name": " Sprawność układu\nhamowania długotrwałego",
-      "sub_title_depth_2_name": "null",
+      "sub_title_depth_2_name": null,
       "position": " Sprawność układu\nhamowania długotrwałego",
       "position_code": "1.5",
-      "methods": "kontrola organoleptyczna*) oraz, w miarę\nmożliwości, sprawdzenie, czy układ działa",
+      "methods": "kontrola organoleptyczna oraz, w miarę\nmożliwości, sprawdzenie, czy układ działa",
       "methods_remarks": null,
       "standard": [
         {
@@ -983,7 +985,7 @@
       "sub_title_depth_2_name": null,
       "position": "Układ przeciwblokujący\n(ABS)",
       "position_code": "1.6",
-      "methods": "kontrola organoleptyczna*) oraz sprawdzenie\nkontrolki samodiagnostyki lub przy użyciu\nelektronicznego interfejsu pojazdu",
+      "methods": "kontrola organoleptyczna oraz sprawdzenie\nkontrolki samodiagnostyki lub przy użyciu\nelektronicznego interfejsu pojazdu",
       "methods_remarks": null,
       "standard": [
         {
@@ -1024,7 +1026,7 @@
       "sub_title_depth_2_name": null,
       "position": "Elektroniczny układ\nhamulcowy (EBS)",
       "position_code": "1.7",
-      "methods": "kontrola organoleptyczna*) oraz sprawdzenie\nkontrolki  samodiagnostyki lub przy użyciu\nelektronicznego interfejsu pojazdu",
+      "methods": "kontrola organoleptyczna oraz sprawdzenie\nkontrolki  samodiagnostyki lub przy użyciu\nelektronicznego interfejsu pojazdu",
       "methods_remarks": null,
       "standard": [
         {
@@ -1071,9 +1073,9 @@
       "title_id": 2,
       "sub_title_depth_1_name": "Stan techniczny",
       "sub_title_depth_2_name": null,
-      "position": "Stan przekładni\nkierownicze",
+      "position": "Stan przekładni\nkierowniczej",
       "position_code": "2.1.1",
-      "methods": "kontrola organoleptyczna*) działania przekładni\nkierowniczej przy skręcaniu kierownicy",
+      "methods": "kontrola organoleptyczna działania przekładni\nkierowniczej przy skręcaniu kierownicy",
       "methods_remarks": null,
       "standard": [
         {
@@ -1112,12 +1114,12 @@
       "sub_title_depth_2_name": null,
       "position": " Mocowanie obudowy \nprzekładni kierowniczej",
       "position_code": "2.1.2",
-      "methods": "kontrola organoleptyczna*) mocowania obudowy \nprzekładni do podwozia przy skręcaniu\nkierownicy w prawo i w lewo",
+      "methods": "kontrola organoleptyczna mocowania obudowy \nprzekładni do podwozia przy skręcaniu\nkierownicy w prawo i w lewo",
       "methods_remarks": null,
       "standard": [
         {
           "id": "a",
-          "name": "nieprawidłowe mocowanie obudowy przekładni kierownicze",
+          "name": "nieprawidłowe mocowanie obudowy przekładni kierowniczej",
           "level_category_faults": 2,
           "name_2": "mocowania niebezpiecznie obluzowane lub widoczny względny\nruch w stosunku do podwozia lub nadwozia",
           "level_category_faults_2": 4
@@ -1151,7 +1153,7 @@
       "sub_title_depth_2_name": null,
       "position": "Stan połączeń układu\nkierowniczego",
       "position_code": "2.1.3",
-      "methods": "kontrola organoleptyczna*) elementów układu\nkierowniczego pod względem zużycia, pęknięć i\npewności mocowania przy skręcaniu kierownicy\nw prawo i w lewo\n",
+      "methods": "kontrola organoleptyczna elementów układu\nkierowniczego pod względem zużycia, pęknięć i\npewności mocowania przy skręcaniu kierownicy\nw prawo i w lewo\n",
       "methods_remarks": null,
       "standard": [
         {
@@ -1177,7 +1179,7 @@
         },
         {
           "id": "d",
-          "name": "brak elementów ograniczających skrę",
+          "name": "brak elementów ograniczających skręt",
           "level_category_faults": 2
         },
         {
@@ -1187,7 +1189,7 @@
         },
         {
           "id": "f",
-          "name": "niebezpieczna przeróbka **)\n",
+          "name": "niebezpieczna przeróbka",
           "level_category_faults": 2,
           "name_2": "wpływ na działanie",
           "level_category_faults_2": 4
@@ -1207,7 +1209,7 @@
       "sub_title_depth_2_name": null,
       "position": "Działanie połączeń układu\nkierowniczego",
       "position_code": "2.1.4",
-      "methods": "kontrola organoleptyczna*) elementów układu\nkierowniczego pod względem zużycia, pęknięć i\npewności mocowania przy skręcaniu kierownicy\nw prawo i w lewo z kołami pojazdu na podłożu i\nprzy włączonym silniku (wspomaganie układu\nkierowniczego)",
+      "methods": "kontrola organoleptyczna elementów układu\nkierowniczego pod względem zużycia, pęknięć i\npewności mocowania przy skręcaniu kierownicy\nw prawo i w lewo z kołami pojazdu na podłożu i\nprzy włączonym silniku (wspomaganie układu\nkierowniczego)",
       "methods_remarks": null,
       "standard": [
         {
@@ -1266,7 +1268,7 @@
         },
         {
           "id": "f",
-          "name": "niebezpieczna przeróbka**)",
+          "name": "niebezpieczna przeróbka",
           "level_category_faults": 2,
           "name_2": "wpływ na poprawność działania układu kierowniczego",
           "level_category_faults_2": 4
@@ -1286,7 +1288,7 @@
       "sub_title_depth_2_name": null,
       "position": "Stan kierownicy",
       "position_code": "2.2.1",
-      "methods": "ustawić pojazd na podłożu, naprzemiennie pchać\ni ciągnąć kierownicę wzdłuż osi kolumny,\nciągnąć i pchać koło kierownicy w kierunku\npoosiowym, pchać koło kierownicy w różnych\nkierunkach pod kątem prostym do kolumny\nkontrola organoleptyczna*) luzu i stanu\nprzegubów elastycznych lub uniwersalnych",
+      "methods": "ustawić pojazd na podłożu, naprzemiennie pchać\ni ciągnąć kierownicę wzdłuż osi kolumny,\nciągnąć i pchać koło kierownicy w kierunku\npoosiowym, pchać koło kierownicy w różnych\nkierunkach pod kątem prostym do kolumny\nkontrola organoleptyczna luzu i stanu\nprzegubów elastycznych lub uniwersalnych",
       "methods_remarks": null,
       "standard": [
         {
@@ -1312,7 +1314,7 @@
         },
         {
           "id": "d",
-          "name": "niebezpieczna przeróbka**)",
+          "name": "niebezpieczna przeróbka",
           "level_category_faults": 2
         }
       ]
@@ -1323,7 +1325,7 @@
       "sub_title_depth_2_name": null,
       "position": "Kolumna kierownicy oraz\namortyzatory kierownicy",
       "position_code": "2.2.2",
-      "methods": "naprzemiennie ciągnąć i pchać koło kierownicy\nw kierunku poosiowym, pchać koło kierownicy\nw różnych kierunkach pod kątem prostym do\nkolumny\nKontrola organoleptyczna*) luzu i stanu\nprzegubów elastycznych lub uniwersalnych",
+      "methods": "naprzemiennie ciągnąć i pchać koło kierownicy\nw kierunku poosiowym, pchać koło kierownicy\nw różnych kierunkach pod kątem prostym do\nkolumny\nKontrola organoleptyczna luzu i stanu\nprzegubów elastycznych lub uniwersalnych",
       "methods_remarks": null,
       "standard": [
         {
@@ -1350,7 +1352,7 @@
         },
         {
           "id": "e",
-          "name": "niebezpieczna przeróbka**)",
+          "name": "niebezpieczna przeróbka",
           "level_category_faults": 4
         }
       ]
@@ -1361,7 +1363,7 @@
       "sub_title_depth_2_name": null,
       "position": "Luz sumaryczny na kole \nkierownicy",
       "position_code": "2.3",
-      "methods": "włączyć silnik w pojeździe ze wspomaganiem\nukładu kierowniczego i ustawić koła do jazdy na \nwprost; delikatnie skręcać kierownicę w lewo i w\nprawo do poruszenia kół jezdnych. Kontrola\norganoleptyczna*) luzu",
+      "methods": "włączyć silnik w pojeździe ze wspomaganiem\nukładu kierowniczego i ustawić koła do jazdy na \nwprost; delikatnie skręcać kierownicę w lewo i w\nprawo do poruszenia kół jezdnych. Kontrola\norganoleptyczna luzu",
       "methods_remarks": null,
       "standard": [
         {
@@ -1379,7 +1381,7 @@
       "sub_title_depth_2_name": null,
       "position": "Ustawienie kół",
       "position_code": "2.4",
-      "methods": "kontrola organoleptyczna*)",
+      "methods": "kontrola organoleptyczna",
       "methods_remarks": null,
       "standard": [
         {
@@ -1397,7 +1399,7 @@
       "sub_title_depth_2_name": null,
       "position": "Obrotnica osi kierowanej \nprzyczepy",
       "position_code": "2.5",
-      "methods": "kontrola organoleptyczna*) lub  sprawdzenie  za \npomocą odpowiednio przystosowanego\nurządzenia do wymuszania szarpnięć kołami",
+      "methods": "kontrola organoleptyczna lub  sprawdzenie  za \npomocą odpowiednio przystosowanego\nurządzenia do wymuszania szarpnięć kołami",
       "methods_remarks": null,
       "standard": [
         {
@@ -1429,7 +1431,7 @@
       "sub_title_depth_2_name": null,
       "position": "Elektroniczne wspomaganie \nukładu kierowniczego",
       "position_code": "2.6",
-      "methods": "kontrola organoleptyczna*) i sprawdzenie\nzgodności między skrętem koła kierownicy a\nskrętem kół przy włączaniu i wyłączaniu silnika\nlub przy użyciu elektronicznego interfejsu\npojazdu",
+      "methods": "kontrola organoleptyczna i sprawdzenie\nzgodności między skrętem koła kierownicy a\nskrętem kół przy włączaniu i wyłączaniu silnika\nlub przy użyciu elektronicznego interfejsu\npojazdu",
       "methods_remarks": null,
       "standard": [
         {
@@ -1455,7 +1457,7 @@
       "sub_title_depth_2_name": null,
       "position": "Pole widzenia",
       "position_code": "3.1",
-      "methods": "kontrola organoleptyczna*) z siedzenia kierowcy",
+      "methods": "kontrola organoleptyczna z siedzenia kierowcy",
       "methods_remarks": null,
       "standard": [
         {
@@ -1473,7 +1475,7 @@
       "sub_title_depth_2_name": null,
       "position": "Stan szyb",
       "position_code": "3.2",
-      "methods": "kontrola organoleptyczna*)",
+      "methods": "kontrola organoleptyczna",
       "methods_remarks": null,
       "standard": [
         {
@@ -1505,7 +1507,7 @@
       "sub_title_depth_2_name": null,
       "position": " Lusterka wsteczne lub inne \nurządzenia o funkcji\nurządzenia widzenia\npośredniego",
       "position_code": "3.3",
-      "methods": "kontrola organoleptyczna*)",
+      "methods": "kontrola organoleptyczna",
       "methods_remarks": null,
       "standard": [
         {
@@ -1535,7 +1537,7 @@
       "sub_title_depth_2_name": null,
       "position": "Wycieraczki przedniej \nszyby",
       "position_code": "3.4",
-      "methods": "kontrola organoleptyczna*) i sprawdzenie\ndziałania",
+      "methods": "kontrola organoleptyczna i sprawdzenie\ndziałania",
       "methods_remarks": null,
       "standard": [
         {
@@ -1558,7 +1560,7 @@
       "sub_title_depth_2_name": null,
       "position": "Spryskiwacze przedniej \nszyby",
       "position_code": "3.5",
-      "methods": "kontrola organoleptyczna*) i sprawdzenie\ndziałania",
+      "methods": "kontrola organoleptyczna i sprawdzenie\ndziałania",
       "methods_remarks": null,
       "standard": [
         {
@@ -1576,7 +1578,7 @@
       "sub_title_depth_2_name": null,
       "position": "Instalacja odmgławiająca",
       "position_code": "3.6",
-      "methods": "kontrola organoleptyczna*) i sprawdzenie\ndziałania",
+      "methods": "kontrola organoleptyczna i sprawdzenie\ndziałania",
       "methods_remarks": null,
       "standard": [
         {
@@ -1592,7 +1594,7 @@
       "sub_title_depth_2_name": null,
       "position": "Stan i działanie",
       "position_code": "4.1.1",
-      "methods": "kontrola organoleptyczna*) i sprawdzenie\ndziałania",
+      "methods": "kontrola organoleptyczna i sprawdzenie\ndziałania",
       "methods_remarks": null,
       "standard": [
         {
@@ -1622,7 +1624,7 @@
       "sub_title_depth_2_name": null,
       "position": "Ustawienie",
       "position_code": "4.1.2",
-      "methods": "kontrola organoleptyczna*) i sprawdzenie\ndziałania",
+      "methods": "kontrola organoleptyczna i sprawdzenie\ndziałania",
       "methods_remarks": null,
       "standard": [
         {
@@ -1643,7 +1645,7 @@
       "sub_title_depth_2_name": null,
       "position": "Przełączniki",
       "position_code": "4.1.3",
-      "methods": "kontrola organoleptyczna*) i sprawdzenie\ndziałania",
+      "methods": "kontrola organoleptyczna i sprawdzenie\ndziałania",
       "methods_remarks": null,
       "standard": [
         {
@@ -1666,7 +1668,7 @@
       "sub_title_depth_2_name": null,
       "position": "Zgodność z wymaganiami\no warunkach \ntechnicznych",
       "position_code": "4.1.4",
-      "methods": "kontrola organoleptyczna*) i sprawdzenie\ndziałania",
+      "methods": "kontrola organoleptyczna i sprawdzenie\ndziałania",
       "methods_remarks": null,
       "standard": [
         {
@@ -1692,7 +1694,7 @@
       "sub_title_depth_2_name": null,
       "position": " Urządzenia do regulacji\nustawienia świateł (jeżeli\nsą obowiązkowe)",
       "position_code": "4.1.5",
-      "methods": "kontrola organoleptyczna*) i sprawdzenie\ndziałania, jeżeli istnieje taka możliwość",
+      "methods": "kontrola organoleptyczna i sprawdzenie\ndziałania, jeżeli istnieje taka możliwość",
       "methods_remarks": null,
       "standard": [
         {
@@ -1713,7 +1715,7 @@
       "sub_title_depth_2_name": null,
       "position": "Urządzenie do\noczyszczania świateł\ndrogowych/mijania (jeżeli\njest obowiązkowe)",
       "position_code": "4.1.6",
-      "methods": "kontrola organoleptyczna*) i sprawdzenie\ndziałania, jeżeli istnieje taka możliwość",
+      "methods": "kontrola organoleptyczna i sprawdzenie\ndziałania, jeżeli istnieje taka możliwość",
       "methods_remarks": null,
       "standard": [
         {
@@ -1731,7 +1733,7 @@
       "sub_title_depth_2_name": null,
       "position": "Stan i działanie",
       "position_code": "4.2.1",
-      "methods": "kontrola organoleptyczna*) i sprawdzenie\ndziałania",
+      "methods": "kontrola organoleptyczna i sprawdzenie\ndziałania",
       "methods_remarks": null,
       "standard": [
         {
@@ -1759,7 +1761,7 @@
       "sub_title_depth_2_name": null,
       "position": "Przełączniki",
       "position_code": "4.2.2",
-      "methods": "kontrola organoleptyczna*) i sprawdzenie\ndziałania",
+      "methods": "kontrola organoleptyczna i sprawdzenie\ndziałania",
       "methods_remarks": null,
       "standard": [
         {
@@ -1782,7 +1784,7 @@
       "sub_title_depth_2_name": null,
       "position": "Zgodność z wymaganiami\nrozporządzenia w sprawie\nwarunków technicznych\npojazdów oraz zakresu\nich niezbędnego\nwyposażenia",
       "position_code": "4.2.3",
-      "methods": "kontrola organoleptyczna*) i sprawdzenie\ndziałania",
+      "methods": "kontrola organoleptyczna i sprawdzenie\ndziałania",
       "methods_remarks": null,
       "standard": [
         {
@@ -1807,7 +1809,7 @@
       "sub_title_depth_2_name": null,
       "position": "Stan i działanie",
       "position_code": "4.3.1",
-      "methods": "kontrola organoleptyczna*) i sprawdzenie\ndziałania",
+      "methods": "kontrola organoleptyczna i sprawdzenie\ndziałania",
       "methods_remarks": null,
       "standard": [
         {
@@ -1841,7 +1843,7 @@
       "sub_title_depth_2_name": null,
       "position": "Przełączniki",
       "position_code": "4.3.2",
-      "methods": "kontrola organoleptyczna*) i sprawdzenie\ndziałania",
+      "methods": "kontrola organoleptyczna i sprawdzenie\ndziałania",
       "methods_remarks": null,
       "standard": [
         {
@@ -1866,7 +1868,7 @@
       "sub_title_depth_2_name": null,
       "position": "Zgodność z wymaganiami\nrozporządzenia w sprawie\nwarunków technicznych\npojazdów oraz zakresu\nich niezbędnego\nwyposażenia",
       "position_code": "4.3.3",
-      "methods": "kontrola organoleptyczna*) i sprawdzenie\ndziałania",
+      "methods": "kontrola organoleptyczna i sprawdzenie\ndziałania",
       "methods_remarks": null,
       "standard": [
         {
@@ -1874,7 +1876,7 @@
           "name": "brak zgodności z wymaganiami określonymi w rozporządzeniu w\nsprawie warunków technicznych pojazdów oraz zakresu ich\nniezbędnego wyposażenia – pod względem typu światła, barwy\nwysyłanego światła miejsca montażu, jasności lub oznaczenia",
           "level_category_faults": 1,
           "name_2": "białe światło z tyłu; znacząco zmniejszona jasność światła",
-          "level_category_faults_2": 3
+          "level_category_faults_2": 2
         }
       ]
     },
@@ -1884,7 +1886,7 @@
       "sub_title_depth_2_name": null,
       "position": "Stan i działanie",
       "position_code": "4.4.1",
-      "methods": "kontrola organoleptyczna*) i sprawdzenie\ndziałania",
+      "methods": "kontrola organoleptyczna i sprawdzenie\ndziałania",
       "methods_remarks": null,
       "standard": [
         {
@@ -1916,7 +1918,7 @@
       "sub_title_depth_2_name": null,
       "position": "Przełączniki",
       "position_code": "4.4.2",
-      "methods": "kontrola organoleptyczna*) i sprawdzenie\ndziałania",
+      "methods": "kontrola organoleptyczna i sprawdzenie\ndziałania",
       "methods_remarks": null,
       "standard": [
         {
@@ -1934,7 +1936,7 @@
       "sub_title_depth_2_name": null,
       "position": "Zgodność z wymaganiami\nprzepisów rozporządzenia\nw sprawie warunków\ntechnicznych pojazdów\noraz zakresu ich \nniezbędnego wyposażenia",
       "position_code": "4.4.3",
-      "methods": "kontrola organoleptyczna*) i sprawdzenie\ndziałania",
+      "methods": "kontrola organoleptyczna i sprawdzenie\ndziałania",
       "methods_remarks": null,
       "standard": [
         {
@@ -1950,7 +1952,7 @@
       "sub_title_depth_2_name": null,
       "position": "Częstotliwość błysków\nkierunkowskazów",
       "position_code": "4.4.4",
-      "methods": "kontrola organoleptyczna*) i sprawdzenie\ndziałania",
+      "methods": "kontrola organoleptyczna i sprawdzenie\ndziałania",
       "methods_remarks": null,
       "standard": [
         {
@@ -1966,7 +1968,7 @@
       "sub_title_depth_2_name": null,
       "position": "Stan i działanie",
       "position_code": "4.5.1",
-      "methods": "kontrola organoleptyczna*) i sprawdzenie\ndziałania",
+      "methods": "kontrola organoleptyczna i sprawdzenie\ndziałania",
       "methods_remarks": null,
       "standard": [
         {
@@ -1998,7 +2000,7 @@
       "sub_title_depth_2_name": null,
       "position": "Ustawienie",
       "position_code": "4.5.2",
-      "methods": "kontrola organoleptyczna*) i sprawdzenie\ndziałania",
+      "methods": "kontrola organoleptyczna i sprawdzenie\ndziałania",
       "methods_remarks": null,
       "standard": [
         {
@@ -2016,7 +2018,7 @@
       "sub_title_depth_2_name": null,
       "position": "Przełączniki",
       "position_code": "4.5.3",
-      "methods": "kontrola organoleptyczna*) i sprawdzenie\ndziałania",
+      "methods": "kontrola organoleptyczna i sprawdzenie\ndziałania",
       "methods_remarks": null,
       "standard": [
         {
@@ -2034,7 +2036,7 @@
       "sub_title_depth_2_name": null,
       "position": " Zgodność z wymaganiami\nrozporządzenia w sprawie\nwarunków technicznych\npojazdów oraz zakresu\nich niezbędnego\nwyposażenia",
       "position_code": "4.5.4",
-      "methods": "kontrola organoleptyczna*) i sprawdzenie\ndziałania",
+      "methods": "kontrola organoleptyczna i sprawdzenie\ndziałania",
       "methods_remarks": null,
       "standard": [
         {
@@ -2055,7 +2057,7 @@
       "sub_title_depth_2_name": null,
       "position": "Stan i działanie",
       "position_code": "4.6.1",
-      "methods": "kontrola organoleptyczna*) i sprawdzenie\ndziałania",
+      "methods": "kontrola organoleptyczna i sprawdzenie\ndziałania",
       "methods_remarks": null,
       "standard": [
         {
@@ -2083,7 +2085,7 @@
       "sub_title_depth_2_name": null,
       "position": "Zgodność z wymaganiami\nrozporządzenia w sprawie\nwarunków technicznych\npojazdów oraz zakresu\nich niezbędnego\nwyposażenia",
       "position_code": "4.6.2",
-      "methods": "kontrola organoleptyczna*) i sprawdzenie\ndziałania",
+      "methods": "kontrola organoleptyczna i sprawdzenie\ndziałania",
       "methods_remarks": null,
       "standard": [
         {
@@ -2104,7 +2106,7 @@
       "sub_title_depth_2_name": null,
       "position": "Przełączniki",
       "position_code": "4.6.3",
-      "methods": "kontrola organoleptyczna*) i sprawdzenie\ndziałania",
+      "methods": "kontrola organoleptyczna i sprawdzenie\ndziałania",
       "methods_remarks": null,
       "standard": [
         {
@@ -2122,7 +2124,7 @@
       "sub_title_depth_2_name": null,
       "position": "Stan i działanie",
       "position_code": "4.7.1",
-      "methods": "kontrola organoleptyczna*) i sprawdzenie\ndziałania",
+      "methods": "kontrola organoleptyczna i sprawdzenie\ndziałania",
       "methods_remarks": null,
       "standard": [
         {
@@ -2152,7 +2154,7 @@
       "sub_title_depth_2_name": null,
       "position": " Zgodność z wymaganiami\nrozporządzenia w sprawie\nwarunków technicznych\npojazdów oraz zakresu\nich niezbędnego\nwyposażenia",
       "position_code": "4.7.2",
-      "methods": "kontrola organoleptyczna*) i sprawdzenie\ndziałania",
+      "methods": "kontrola organoleptyczna i sprawdzenie\ndziałania",
       "methods_remarks": null,
       "standard": [
         {
@@ -2168,7 +2170,7 @@
       "sub_title_depth_2_name": null,
       "position": " Stan",
       "position_code": "4.8.1",
-      "methods": "kontrola organoleptyczna*)",
+      "methods": "kontrola organoleptyczna",
       "methods_remarks": null,
       "standard": [
         {
@@ -2193,7 +2195,7 @@
       "sub_title_depth_2_name": null,
       "position": "Zgodność z wymaganiami\nrozporządzenia w sprawie\nwarunków technicznych\npojazdów oraz zakresu\nich niezbędnego\nwyposażenia\n",
       "position_code": "4.8.2",
-      "methods": "kontrola organoleptyczna*)",
+      "methods": "kontrola organoleptyczna",
       "methods_remarks": null,
       "standard": [
         {
@@ -2211,7 +2213,7 @@
       "sub_title_depth_2_name": null,
       "position": "Stan i działanie",
       "position_code": "4.9.1",
-      "methods": "kontrola organoleptyczna*) i sprawdzenie\ndziałania",
+      "methods": "kontrola organoleptyczna i sprawdzenie\ndziałania",
       "methods_remarks": null,
       "standard": [
         {
@@ -2229,7 +2231,7 @@
       "sub_title_depth_2_name": null,
       "position": " Zgodność z wymaganiami\nrozporządzenia w sprawie\nwarunków technicznych\npojazdów oraz zakresu\nich niezbędnego\nwyposażenia",
       "position_code": "4.9.1",
-      "methods": "kontrola organoleptyczna*) i sprawdzenie\ndziałania",
+      "methods": "kontrola organoleptyczna i sprawdzenie\ndziałania",
       "methods_remarks": null,
       "standard": [
         {
@@ -2245,7 +2247,7 @@
       "sub_title_depth_2_name": null,
       "position": "Połączenia elektryczne\nmiędzy pojazdem ",
       "position_code": "4.10",
-      "methods": "kontrola organoleptyczna*) w miarę możliwości\nnależy sprawdzić ciągłość elektryczną instalacji",
+      "methods": "kontrola organoleptyczna w miarę możliwości\nnależy sprawdzić ciągłość elektryczną instalacji",
       "methods_remarks": null,
       "standard": [
         {
@@ -2267,7 +2269,7 @@
           "name": "nieprawidłowe działanie połączeń elektrycznych przyczepy  lub \npojazdu ciągnącego",
           "level_category_faults": 2,
           "name_2": "światła hamowania „stop” przyczepy nie działają",
-          "level_category_faults_2": 3
+          "level_category_faults_2": 4
         }
       ]
     },
@@ -2277,7 +2279,7 @@
       "sub_title_depth_2_name": null,
       "position": "Złącza i przewody\nelektryczne",
       "position_code": "4.11",
-      "methods": "kontrola organoleptyczna*) pojazdu, obejmująca\nw niektórych przypadkach także komorę\nsilnikową",
+      "methods": "kontrola organoleptyczna pojazdu, obejmująca\nw niektórych przypadkach także komorę\nsilnikową",
       "methods_remarks": null,
       "standard": [
         {
@@ -2314,8 +2316,8 @@
       "sub_title_depth_1_name": "Dodatkowe światła i\nświatła odblaskowe",
       "sub_title_depth_2_name": null,
       "position": "Dodatkowe światła i\nświatła odblaskowe",
-      "position_code": "4.13",
-      "methods": "kontrola organoleptyczna*) i sprawdzenie\ndziałania",
+      "position_code": "4.12",
+      "methods": "kontrola organoleptyczna i sprawdzenie\ndziałania",
       "methods_remarks": null,
       "standard": [
         {
@@ -2347,7 +2349,7 @@
       "sub_title_depth_2_name": null,
       "position": " Akumulator (-y)",
       "position_code": "4.13",
-      "methods": "kontrola organoleptyczna*)",
+      "methods": "kontrola organoleptyczna",
       "methods_remarks": null,
       "standard": [
         {
@@ -2380,6 +2382,1943 @@
           "level_category_faults": 2
         }
       ]
+    },
+    {
+      "title_id": 5,
+      "sub_title_depth_1_name": "Osie",
+      "sub_title_depth_2_name": null,
+      "position": "Osie",
+      "position_code": "5.1.1",
+      "methods": "kontrola organoleptyczna przy użyciu, w miarę\nmożliwości, urządzenia do wymuszania\nszarpnięć kołami jezdnymi pojazdu",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "pęknięcie lub odkształcenie osi",
+          "level_category_faults": 4
+        },
+        {
+          "id": "b",
+          "name": "niepewne mocowanie do pojazdu",
+          "level_category_faults": 2,
+          "name_2": "pogorszona stabilność toru jazdy, negatywny wpływ na działanie:\nnadmierny ruch względem mocowań\n",
+          "level_category_faults_2": 4
+        },
+        {
+          "id": "c",
+          "name": "niebezpieczna przeróbka",
+          "level_category_faults": 2,
+          "name_2": "wpływ na stabilność toru jazdy, nieprawidłowe działanie, zbyt\nmała odległość od innych części pojazdu lub od podłoża",
+          "level_category_faults_2": 4
+        }
+      ]
+    },
+    {
+      "title_id": 5,
+      "sub_title_depth_1_name": "Osie",
+      "sub_title_depth_2_name": null,
+      "position": " Zwrotnice",
+      "position_code": "5.1.2",
+      "methods": "kontrola organoleptyczna przy użyciu, w miarę\nmożliwości, urządzenia do wymuszania\nszarpnięć kołami jezdnymi pojazdu\ndo każdego koła przyłożyć siłę w kierunku\npionowym  lub  poziomym i obserwować ruch\nmiędzy belką osi a zwrotnicą",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "pęknięcie zwrotnicy",
+          "level_category_faults": 4
+        },
+        {
+          "id": "b",
+          "name": "nadmierne zużycie sworznia zwrotnicy lub łożysk sworznia",
+          "level_category_faults": 2,
+          "name_2": "prawdopodobieństwo obluzowania; pogorszenie stabilności toru\njazdy",
+          "level_category_faults_2": 4
+        },
+        {
+          "id": "c",
+          "name": "zbyt duży ruch zwrotnicy względem belki osi",
+          "level_category_faults": 2,
+          "name_2": "prawdopodobieństwo obluzowania; pogorszenie stabilności toru\njazdy",
+          "level_category_faults_2": 4
+        },
+        {
+          "id": "d",
+          "name": "luz sworznia zwrotnicy w osi",
+          "level_category_faults": 2,
+          "name_2": "prawdopodobieństwo obluzowania; pogorszenie stabilności toru\njazdy",
+          "level_category_faults_2": 4
+        }
+      ]
+    },
+    {
+      "title_id": 5,
+      "sub_title_depth_1_name": "Osie",
+      "sub_title_depth_2_name": null,
+      "position": "Łożyska kół",
+      "position_code": "5.1.3",
+      "methods": "kontrola organoleptyczna przy użyciu, w miarę\nmożliwości, urządzenia do wymuszania\nszarpnięć kołami jezdnymi pojazdu\nrozkołysać koło lub przyłożyć siłę boczną do\nkażdego koła i obserwować ruch koła do góry w\nstosunku do zwrotnicy.",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "zbyt duży luz na łożysku koła",
+          "level_category_faults": 2,
+          "name_2": "pogorszenie stabilności toru jazdy; niebezpieczeństwo zniszczenia",
+          "level_category_faults_2": 4
+        },
+        {
+          "id": "b",
+          "name": "łożysko koła zbyt ciasne lub zakleszczone",
+          "level_category_faults": 2,
+          "name_2": "niebezpieczeństwo przegrzania; niebezpieczeństwo zniszczenia",
+          "level_category_faults_2": 4
+        }
+      ]
+    },
+    {
+      "title_id": 5,
+      "sub_title_depth_1_name": "Koła i opony",
+      "sub_title_depth_2_name": null,
+      "position": " Piasta koła",
+      "position_code": "5.2.1",
+      "methods": "kontrola organoleptyczna",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "brakujące lub obluzowane śruby lub nakrętki mocujące koła",
+          "level_category_faults": 2,
+          "name_2": "brak elementów mocujących koła lub obluzowanie ich w takim\nstopniu, że ma bardzo poważny wpływ na bezpieczeństwo ruchu\ndrogowego",
+          "level_category_faults_2": 4
+        },
+        {
+          "id": "b",
+          "name": "zużycie lub uszkodzenie piasty",
+          "level_category_faults": 2,
+          "name_2": "zużycie lub uszkodzenie mające wpływ na bezpieczne mocowanie\nkół",
+          "level_category_faults_2": 4
+        }
+      ]
+    },
+    {
+      "title_id": 5,
+      "sub_title_depth_1_name": "Koła i opony",
+      "sub_title_depth_2_name": null,
+      "position": "Koła",
+      "position_code": "5.2.2",
+      "methods": "kontrola organoleptyczna obu stron każdego\nkoła pojazdu na kanale diagnostycznym lub\npodnośniku ",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "pęknięcie lub wada spawalnicza",
+          "level_category_faults": 4
+        },
+        {
+          "id": "b",
+          "name": "niewłaściwe zamocowanie pierścieni ustalających",
+          "level_category_faults": 2,
+          "name_2": "prawdopodobieństwo wypadnięcia",
+          "level_category_faults_2": 4
+        },
+        {
+          "id": "c",
+          "name": "znaczące odkształcenie lub zużycie koła",
+          "level_category_faults": 2,
+          "name_2": "wpływ na bezpieczne mocowanie do piasty; wpływ na bezpieczne\nmocowanie opony",
+          "level_category_faults_2": 4
+        },
+        {
+          "id": "d",
+          "name": "rozmiar, kompletacja, kompatybilność lub typ koła niezgodny ze\nświadectwem homologacji  typu  WE  pojazdu/typu  pojazdu  lub \nwymaganiami określonymi w rozporządzeniu w sprawie\nwarunków technicznych pojazdów oraz zakresu ich niezbędnego\nwyposażenia – w sposób mający wpływ na bezpieczeństwo jazdy",
+          "level_category_faults": 2
+        }
+      ]
+    },
+    {
+      "title_id": 5,
+      "sub_title_depth_1_name": "Koła i opony",
+      "sub_title_depth_2_name": null,
+      "position": "Opony",
+      "position_code": "5.2.3",
+      "methods": "kontrola organoleptyczna całej opony przez\nprzemieszczanie pojazdu do przodu i do tyłu",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "rozmiar opony, indeks nośności, znak homologacji lub indeks\nprędkości niezgodne z wymaganiami określonymi w\nrozporządzeniu w sprawie warunków technicznych pojazdów oraz\nzakresu ich niezbędnego wyposażenia, jeżeli ma to wpływ na\nbezpieczeństwo jazdy",
+          "level_category_faults": 2,
+          "name_2": "niewystarczający indeks nośności lub prędkości w odniesieniu do\nfaktycznego zastosowania; opona dotyka nieruchomych części\npojazdu, co ma wpływ na bezpieczeństwo jazdy",
+          "level_category_faults_2": 4
+        },
+        {
+          "id": "b",
+          "name": "różne rozmiary opon na tej samej osi lub kołach bliźniaczych",
+          "level_category_faults": 2
+        },
+        {
+          "id": "c",
+          "name": "opony o różnej budowie (radialna/diagonalna) na tej samej osi",
+          "level_category_faults": 2
+        },
+        {
+          "id": "d",
+          "name": "znaczące uszkodzenie lub przecięcie opony",
+          "level_category_faults": 2,
+          "name_2": "widoczny lub uszkodzony kord opony",
+          "level_category_faults_2": 4
+        },
+        {
+          "id": "e",
+          "name": "widoczny wskaźnik granicznego zużycia bieżnika opony",
+          "level_category_faults": 2,
+          "name_2": "głębokość rzeźby bieżnika opony niezgodna z przepisami\nrozporządzenia w sprawie warunków technicznych pojazdów oraz\nzakresu ich niezbędnego wyposażenia",
+          "level_category_faults_2": 4
+        },
+        {
+          "id": "f",
+          "name": "opona  obciera  o  inne  elementy  nadwozia  pojazdu  (elastyczne\nfartuchy przeciwbłotne)",
+          "level_category_faults": 1,
+          "name_2": "opona obciera o inne elementy nadwozia pojazdu, bez wpływu na\nbezpieczną jazdę",
+          "level_category_faults_2": 2
+        },
+        {
+          "id": "g",
+          "name": "opony bieżnikowane niezgodne z wymaganiami określonymi w\nprzepisach rozporządzenia w sprawie warunków technicznych\npojazdów oraz zakresu ich niezbędnego wyposażenia",
+          "level_category_faults": 2,
+          "name_2": "bieżnikowanie wpływa na warstwę ochronną kordu",
+          "level_category_faults_2": 4
+        }
+      ]
+    },
+    {
+      "title_id": 5,
+      "sub_title_depth_1_name": "Zawieszenie",
+      "sub_title_depth_2_name": null,
+      "position": "Resory i\nstabilizatory",
+      "position_code": "5.3.1",
+      "methods": "kontrola organoleptyczna przy użyciu, w miarę\nmożliwości, urządzenia do wymuszania\nszarpnięć kołami jezdnymi pojazdu",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "niepewne mocowanie resorów do podwozia lub osi",
+          "level_category_faults": 2,
+          "name_2": "widoczne względne przemieszczanie się; mocowania bardzo \npoważnie obluzowane",
+          "level_category_faults_2": 4
+        },
+        {
+          "id": "b",
+          "name": "uszkodzenie lub pęknięcie części resoru",
+          "level_category_faults": 2,
+          "name_2": "bardzo poważny wpływ na działanie głównego pióra resora  lub \npiór dodatkowych",
+          "level_category_faults_2": 4
+        },
+        {
+          "id": "c",
+          "name": "brak resoru",
+          "level_category_faults": 2,
+          "name_2": "bardzo poważny wpływ na działanie głównego pióra resora  lub \npiór dodatkowych",
+          "level_category_faults_2": 4
+        },
+        {
+          "id": "d",
+          "name": "niebezpieczna przeróbka",
+          "level_category_faults": 2,
+          "name_2": "niewystarczający odstęp od innych części pojazdu; układ\nresorujący nie działa",
+          "level_category_faults_2": 4
+        }
+      ]
+    },
+    {
+      "title_id": 5,
+      "sub_title_depth_1_name": "Zawieszenie",
+      "sub_title_depth_2_name": null,
+      "position": "Amortyzatory",
+      "position_code": "5.3.2",
+      "methods": "kontrola organoleptyczna",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "niepewne mocowanie amortyzatorów do podwozia lub osi",
+          "level_category_faults": 1,
+          "name_2": "obluzowany amortyzator",
+          "level_category_faults_2": 2
+        },
+        {
+          "id": "b",
+          "name": "amortyzator uszkodzony i wykazuje duże wycieki lub niewłaściwe\ndziałanie",
+          "level_category_faults": 2
+        },
+        {
+          "id": "c",
+          "name": "brak amortyzatora",
+          "level_category_faults": 2
+        }
+      ]
+    },
+    {
+      "title_id": 5,
+      "sub_title_depth_1_name": "Zawieszenie",
+      "sub_title_depth_2_name": null,
+      "position": "Drążki skrętne, drążki\nreakcyjne, wahacze",
+      "position_code": "5.3.3",
+      "methods": "kontrola organoleptyczna przy użyciu, w miarę\nmożliwości, urządzenia do wymuszania\nszarpnięć kołami jezdnymi pojazdu",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "niepewne mocowanie części do podwozia lub osi",
+          "level_category_faults": 2,
+          "name_2": "prawdopodobieństwo obluzowania; pogorszenie stabilności toru\njazdy",
+          "level_category_faults_2": 4
+        },
+        {
+          "id": "b",
+          "name": "uszkodzenie, pęknięcie lub nadmierna korozja elementu",
+          "level_category_faults": 2,
+          "name_2": "wpływ na stabilność elementu lub jego pęknięcie",
+          "level_category_faults_2": 4
+        },
+        {
+          "id": "c",
+          "name": "niebezpieczna przeróbka",
+          "level_category_faults": 2,
+          "name_2": "niewystarczający odstęp od innych części pojazdu; układ nie działa",
+          "level_category_faults_2": 4
+        }
+      ]
+    },
+    {
+      "title_id": 5,
+      "sub_title_depth_1_name": "Zawieszenie",
+      "sub_title_depth_2_name": null,
+      "position": " Sworznie wahaczy",
+      "position_code": "5.3.4",
+      "methods": "kontrola organoleptyczna przy użyciu, w miarę\nmożliwości, urządzenia do wymuszania\nszarpnięć kołami jezdnymi pojazdu",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "nadmierne zużycie sworznia lub łożysk  sworznia,  lub  sworzni \nwahaczy",
+          "level_category_faults": 2,
+          "name_2": "prawdopodobieństwo obluzowania; pogorszenie stabilności toru\njazdy",
+          "level_category_faults_2": 4
+        },
+        {
+          "id": "b",
+          "name": "poważne zużycie osłony gumowej",
+          "level_category_faults": 1,
+          "name_2": "brak lub pęknięcie osłony gumowej",
+          "level_category_faults_2": 2
+        }
+      ]
+    },
+    {
+      "title_id": 5,
+      "sub_title_depth_1_name": "Zawieszenie",
+      "sub_title_depth_2_name": null,
+      "position": "Zawieszenie \npneumatyczne",
+      "position_code": "5.3.5",
+      "methods": "kontrola organoleptyczna",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "układ nie działa",
+          "level_category_faults": 4
+        },
+        {
+          "id": "b",
+          "name": "uszkodzenie, przeróbka lub zużycie dowolnego elementu\nw stopniu mogącym mieć niekorzystny wpływ na działanie układu",
+          "level_category_faults": 2,
+          "name_2": "poważny wpływ na działanie układu",
+          "level_category_faults_2": 4
+        },
+        {
+          "id": "c",
+          "name": "słyszalny wypływ powietrza z układu",
+          "level_category_faults": 2
+        },
+        {
+          "id": "d",
+          "name": "niebezpieczna przeróbka",
+          "level_category_faults": 2
+        }
+      ]
+    },
+    {
+      "title_id": 6,
+      "sub_title_depth_1_name": "Podwozie lub rama i elementy do nich przymocowane",
+      "sub_title_depth_2_name": null,
+      "position": " Stan",
+      "position_code": "6.1.1",
+      "methods": "kontrola organoleptyczna",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "niewielkie pęknięcie lub odkształcenie podłużnic lub poprzeczek",
+          "level_category_faults": 2,
+          "name_2": "poważne pęknięcie lub odkształcenie podłużnic lub poprzeczek",
+          "level_category_faults_2": 4
+        },
+        {
+          "id": "b",
+          "name": "niepewne mocowanie płyt wzmacniających lub połączeń",
+          "level_category_faults": 2,
+          "name_2": "obluzowana większość mocowań; niewystarczająca wytrzymałość\nczęści",
+          "level_category_faults_2": 4
+        },
+        {
+          "id": "c",
+          "name": "nadmierna korozja mająca wpływ na sztywność konstrukcji",
+          "level_category_faults": 2,
+          "name_2": "niewystarczająca wytrzymałość części",
+          "level_category_faults_2": 4
+        }
+      ]
+    },
+    {
+      "title_id": 6,
+      "sub_title_depth_1_name": "Podwozie lub rama i elementy do nich przymocowane",
+      "sub_title_depth_2_name": null,
+      "position": " Rury wydechowe i tłumiki",
+      "position_code": "6.1.2",
+      "methods": "kontrola organoleptyczna pojazdu  na  kanale \ndiagnostycznym lub na dźwigniku",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "nieszczelność lub niepewne mocowanie układu wydechowego",
+          "level_category_faults": 2
+        },
+        {
+          "id": "b",
+          "name": "spaliny przedostają się do wnętrza kabiny lub do przedziału dla\npasażerów",
+          "level_category_faults": 2,
+          "name_2": "zagrożenie dla zdrowia osób znajdujących się w pojeździe",
+          "level_category_faults_2": 4
+        }
+      ]
+    },
+    {
+      "title_id": 6,
+      "sub_title_depth_1_name": "Podwozie lub rama i elementy do nich przymocowane",
+      "sub_title_depth_2_name": null,
+      "position": "Zbiornik paliwa i \nprzewody paliwowe (w\ntym zbiorniki i przewody \npaliwowe do celów\ngrzewczych)",
+      "position_code": "6.1.3",
+      "methods": "kontrola organoleptyczna; w  przypadku \nukładów zasilania gazem LPG/CNG należy\nzastosować elektroniczny detektor gazu",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "niepewne mocowanie zbiornika paliwa lub przewodów\npaliwowych, stwarzające szczególne zagrożenie pożarowe",
+          "level_category_faults": 4
+        },
+        {
+          "id": "b",
+          "name": "wyciek paliwa, brak korka wlewu paliwa lub korek nieszczelny",
+          "level_category_faults": 2,
+          "name_2": "ryzyko pożaru; nadmierny wyciek materiałów niebezpiecznych",
+          "level_category_faults_2": 4
+        },
+        {
+          "id": "c",
+          "name": "przetarcie przewodów\n",
+          "level_category_faults": 1,
+          "name_2": "uszkodzenie przewodów",
+          "level_category_faults_2": 2
+        },
+        {
+          "id": "d",
+          "name": "nieprawidłowe działanie zaworu odcinającego paliwa (jeżeli jest\nwymagany)",
+          "level_category_faults": 2
+        },
+        {
+          "id": "e",
+          "name": "zagrożenie pożarowe z powodu: wycieku paliwa; niewłaściwego oddzielenia zbiornika paliwa lub układu wydechowego; stanu komory silnikowej",
+          "level_category_faults": 4
+        },
+        {
+          "id": "f",
+          "name": "układ zasilania gazem LPG/CNG/LNG niezgodny z\nwymaganiami określonymi w rozporządzeniu w sprawie\nwarunków technicznych pojazdów oraz zakresu ich niezbędnego\nwyposażenia, napęd wodorowy niezgodny wymaganiami; część\nsystemu działa nieprawidłowo",
+          "level_category_faults": 4
+        }
+      ]
+    },
+    {
+      "title_id": 6,
+      "sub_title_depth_1_name": "Podwozie lub rama i elementy do nich przymocowane",
+      "sub_title_depth_2_name": null,
+      "position": "Zderzaki, zabezpieczenia \nboczne i tylne urządzenia\nzabezpieczające przed\nwjechaniem pod pojazd ",
+      "position_code": "6.1.4",
+      "methods": "kontrola organoleptyczna",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "obluzowane lub uszkodzone elementy grożące uszkodzeniem ciała\nw przypadku zahaczenia lub uderzenia",
+          "level_category_faults": 2,
+          "name_2": "części grożą odpadnięciem; znaczne pogorszenie spełnianej\nfunkcji",
+          "level_category_faults_2": 4
+        },
+        {
+          "id": "b",
+          "name": "urządzenie niezgodne z wymaganiami rozporządzenia w sprawie\nwarunków technicznych pojazdów oraz zakresu ich niezbędnego\nwyposażenia",
+          "level_category_faults": 2
+        }
+      ]
+    },
+    {
+      "title_id": 6,
+      "sub_title_depth_1_name": "Podwozie lub rama i elementy do nich przymocowane",
+      "sub_title_depth_2_name": null,
+      "position": "Zamocowanie koła\nzapasowego (jeżeli pojazd \njest w nie wyposażony) ",
+      "position_code": "6.1.5",
+      "methods": "kontrola organoleptyczna",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "uchwyt koła w złym stanie",
+          "level_category_faults": 1
+        },
+        {
+          "id": "b",
+          "name": "pęknięte lub niepewne mocowanie uchwytu",
+          "level_category_faults": 2
+        },
+        {
+          "id": "c",
+          "name": "koło zapasowe nie trzyma się w uchwycie",
+          "level_category_faults": 2,
+          "name_2": "wysokie ryzyko odpadnięcia ",
+          "level_category_faults_2": 4
+        }
+      ]
+    },
+    {
+      "title_id": 6,
+      "sub_title_depth_1_name": "Podwozie lub rama i elementy do nich przymocowane",
+      "sub_title_depth_2_name": null,
+      "position": "Urządzenia sprzęgające\ni przeznaczone do\nciągnięcia",
+      "position_code": "6.1.6",
+      "methods": "kontrola organoleptyczna pod kątem zużycia i\nprawidłowego działania, ze szczególnym\nuwzględnieniem zamontowanych urządzeń\nzabezpieczających i działania wskaźników\npomiarowych ",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "uszkodzenie, nieprawidłowe działanie lub pęknięcie elementu,\n(jeżeli nie jest używany) ",
+          "level_category_faults": 2,
+          "name_2": "uszkodzenie, nieprawidłowe działanie lub pęknięcie elementu,\n(jeżeli jest używany)",
+          "level_category_faults_2": 4
+        },
+        {
+          "id": "b",
+          "name": "nadmierne zużycie elementu",
+          "level_category_faults": 2,
+          "name_2": "zużycie elementu poniżej granicznego",
+          "level_category_faults_2": 4
+        },
+        {
+          "id": "c",
+          "name": "uszkodzone mocowanie",
+          "level_category_faults": 2,
+          "name_2": "obluzowane mocowanie z wysokim ryzykiem odpadnięcia",
+          "level_category_faults_2": 4
+        },
+        {
+          "id": "d",
+          "name": "brak lub nieprawidłowe działanie urządzenia zabezpieczającego",
+          "level_category_faults": 2
+        },
+        {
+          "id": "e",
+          "name": "co najmniej jeden wskaźnik prawidłowego zapięcia sprzęgu nie\ndziała",
+          "level_category_faults": 2
+        },
+        {
+          "id": "f",
+          "name": "elementy sprzęgu zasłaniają tablicę rejestracyjną lub światła\npojazdu, w przypadku gdy sprzęg nie jest wykorzystywany",
+          "level_category_faults": 1,
+          "name_2": "nieczytelna tablica rejestracyjna, w przypadku, gdy sprzęg nie jest\nwykorzystywany",
+          "level_category_faults_2": 2
+        },
+        {
+          "id": "g",
+          "name": "niebezpieczna przeróbka (części drugorzędne)",
+          "level_category_faults": 2,
+          "name_2": "niebezpieczna przeróbka (części główne)",
+          "level_category_faults_2": 4
+        },
+        {
+          "id": "h",
+          "name": "urządzenie sprzęgające o nieodpowiedniej wytrzymałości,\nnieodpowiednie lub niezgodne z wymaganiami",
+          "level_category_faults": 4
+        }
+      ]
+    },
+    {
+      "title_id": 6,
+      "sub_title_depth_1_name": "Podwozie lub rama i elementy do nich przymocowane",
+      "sub_title_depth_2_name": null,
+      "position": "Przeniesienie napędu",
+      "position_code": "6.1.7",
+      "methods": "kontrola organoleptyczna",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "obluzowane lub brakujące śruby zabezpieczające",
+          "level_category_faults": 2,
+          "name_2": "obluzowane lub brakujące śruby zabezpieczające w takim stopniu,\nże poważnie zagrożone jest bezpieczeństwo ruchu drogowego",
+          "level_category_faults_2": 4
+        },
+        {
+          "id": "b",
+          "name": "nadmierne zużycie łożysk wału napędowego",
+          "level_category_faults": 2,
+          "name_2": "bardzo poważne ryzyko obluzowania lub pęknięcia",
+          "level_category_faults_2": 4
+        },
+        {
+          "id": "c",
+          "name": "nadmierne zużycie przegubów napędowych (uniwersalnych) lub \nłańcuchów/pasów napędowych",
+          "level_category_faults": 2,
+          "name_2": "bardzo poważne ryzyko obluzowania lub pęknięcia",
+          "level_category_faults_2": 4
+        },
+        {
+          "id": "d",
+          "name": "zły stan przegubów elastycznych",
+          "level_category_faults": 2,
+          "name_2": "bardzo poważne ryzyko obluzowania lub pęknięcia",
+          "level_category_faults_2": 4
+        },
+        {
+          "id": "e",
+          "name": "uszkodzony lub wygięty wałek lub półoś",
+          "level_category_faults": 2
+        },
+        {
+          "id": "f",
+          "name": "pęknięcie lub niepewne mocowanie obudowy łożyska",
+          "level_category_faults": 2,
+          "name_2": "bardzo poważne ryzyko obluzowania lub pęknięcia obudowy",
+          "level_category_faults_2": 4
+        },
+        {
+          "id": "g",
+          "name": "znaczące zużycie osłony gumowej",
+          "level_category_faults": 1,
+          "name_2": "brak lub pęknięcie osłony gumowej",
+          "level_category_faults_2": 2
+        },
+        {
+          "id": "h",
+          "name": "niedozwolona prawem przeróbka układu napędowego",
+          "level_category_faults": 2
+        }
+      ]
+    },
+    {
+      "title_id": 6,
+      "sub_title_depth_1_name": "Podwozie lub rama i elementy do nich przymocowane",
+      "sub_title_depth_2_name": null,
+      "position": " Mocowanie silnika",
+      "position_code": "6.1.8",
+      "methods": "kontrola organoleptyczna bez konieczności\nstosowania kanału diagnostycznego lub\ndźwignika",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "mocowanie zużyte, wyraźnie i poważnie uszkodzone",
+          "level_category_faults": 2,
+          "name_2": "mocowanie obluzowane lub pęknięte\n",
+          "level_category_faults_2": 4
+        }
+      ]
+    },
+    {
+      "title_id": 6,
+      "sub_title_depth_1_name": "Podwozie lub rama i elementy do nich przymocowane",
+      "sub_title_depth_2_name": null,
+      "position": "Praca silnika",
+      "position_code": "6.1.9",
+      "methods": "kontrola organoleptyczna lub przy użyciu\nelektronicznego interfejsu",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "przeróbka jednostki sterującej wpływająca na bezpieczeństwo\nlub środowisko",
+          "level_category_faults": 2
+        },
+        {
+          "id": "b",
+          "name": "przeróbka silnika wpływająca na bezpieczeństwo lub środowisko",
+          "level_category_faults": 4
+        }
+      ]
+    },
+    {
+      "title_id": 6,
+      "sub_title_depth_1_name": "Kabina i nadwozie",
+      "sub_title_depth_2_name": null,
+      "position": "Stan",
+      "position_code": "6.2.1",
+      "methods": "kontrola organoleptyczna",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "obluzowana lub uszkodzona część nadwozia grożąca uszkodzeniem ciała",
+          "level_category_faults": 2,
+          "name_2": "obluzowana lub uszkodzona część grożąca odpadnięciem",
+          "level_category_faults_2": 4
+        },
+        {
+          "id": "b",
+          "name": "niepewne mocowanie słupka nadwozia",
+          "level_category_faults": 2,
+          "name_2": "pogorszona stabilność",
+          "level_category_faults_2": 4
+        },
+        {
+          "id": "c",
+          "name": "do wnętrza przedostają się spaliny z układu wydechowego lub  z\nsilnika",
+          "level_category_faults": 2,
+          "name_2": "zagrożenie zdrowia osób znajdujących się w pojeździe",
+          "level_category_faults_2": 4
+        },
+        {
+          "id": "d",
+          "name": "niebezpieczna przeróbka",
+          "level_category_faults": 2,
+          "name_2": "zbyt mały odstęp od obracających lub poruszających się części lub\nnawierzchni drogi",
+          "level_category_faults_2": 4
+        }
+      ]
+    },
+    {
+      "title_id": 6,
+      "sub_title_depth_1_name": "Kabina i nadwozie",
+      "sub_title_depth_2_name": null,
+      "position": "Mocowania",
+      "position_code": "6.2.2",
+      "methods": "kontrola organoleptyczna",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "niepewne mocowania nadwozia lub kabiny",
+          "level_category_faults": 2,
+          "name_2": "wpływ na stabilność",
+          "level_category_faults_2": 4
+        },
+        {
+          "id": "b",
+          "name": "wyraźne przesunięcie nadwozia/kabiny względem podwozia",
+          "level_category_faults": 2
+        },
+        {
+          "id": "c",
+          "name": "niepewne lub brakujące punkty mocowania nadwozia/kabiny\ndo podwozia lub poprzeczek ramy podwozia oraz w przypadku gdy \nsą symetryczne\n",
+          "level_category_faults": 2,
+          "name_2": "niepewne lub brakujące punkty mocowania nadwozia/kabiny\ndo podwozia lub poprzeczek ramy podwozia w takim stopniu, że\npoważnie zagraża to bezpieczeństwu ruchu drogowego",
+          "level_category_faults_2": 4
+        },
+        {
+          "id": "d",
+          "name": "nadmierna korozja punktów mocowania nadwozia samonośnego",
+          "level_category_faults": 2,
+          "name_2": "pogorszona stabilność",
+          "level_category_faults_2": 4
+        }
+      ]
+    },
+    {
+      "title_id": 6,
+      "sub_title_depth_1_name": "Kabina i nadwozie",
+      "sub_title_depth_2_name": null,
+      "position": "Drzwi i zamki ",
+      "position_code": "6.2.3",
+      "methods": "kontrola organoleptyczna",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "drzwi źle się otwierają lub zamykają",
+          "level_category_faults": 2
+        },
+        {
+          "id": "b",
+          "name": "stan drzwi przesuwnych grozi samoczynnym otwarciem lub  nie \npozwala na ich domknięcie",
+          "level_category_faults": 2,
+          "name_2": "stan drzwi obrotowych grozi samoczynnym otwarciem lub nie \npozwala na ich domknięcie",
+          "level_category_faults_2": 4
+        },
+        {
+          "id": "c",
+          "name": "zniszczone drzwi, zawiasy, zamki lub słupki drzwi",
+          "level_category_faults": 1,
+          "name_2": "brakujące lub obluzowane drzwi, zawiasy, zamki lub słupki drzwi",
+          "level_category_faults_2": 2
+        }
+      ]
+    },
+    {
+      "title_id": 6,
+      "sub_title_depth_1_name": "Kabina i nadwozie",
+      "sub_title_depth_2_name": null,
+      "position": "Podłoga",
+      "position_code": "6.2.4",
+      "methods": "kontrola organoleptyczna",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "niepewne mocowanie lub zły stan techniczny podłogi",
+          "level_category_faults": 2,
+          "name_2": "niewystarczająca stabilność",
+          "level_category_faults_2": 4
+        }
+      ]
+    },
+    {
+      "title_id": 6,
+      "sub_title_depth_1_name": "Kabina i nadwozie",
+      "sub_title_depth_2_name": null,
+      "position": "Siedzenie kierowcy",
+      "position_code": "6.2.5",
+      "methods": "kontrola organoleptyczna",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "uszkodzona konstrukcja siedzenia",
+          "level_category_faults": 2,
+          "name_2": "mocowanie siedzenia obluzowane",
+          "level_category_faults_2": 4
+        },
+        {
+          "id": "b",
+          "name": "nieprawidłowe działanie regulacji  ustawienia siedzenia",
+          "level_category_faults": 2,
+          "name_2": "siedzenie się przemieszcza lub nie można unieruchomić oparcia",
+          "level_category_faults_2": 4
+        }
+      ]
+    },
+    {
+      "title_id": 6,
+      "sub_title_depth_1_name": "Kabina i nadwozie",
+      "sub_title_depth_2_name": null,
+      "position": " Pozostałe siedzenia ",
+      "position_code": "6.2.6",
+      "methods": "kontrola organoleptyczna",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "siedzenia uszkodzone lub niepewne mocowanie siedzeń (części\ndrugorzędne)",
+          "level_category_faults": 1,
+          "name_2": "siedzenia uszkodzone lub niepewne mocowanie siedzeń (części\ngłówne)",
+          "level_category_faults_2": 2
+        },
+        {
+          "id": "b",
+          "name": "siedzenia zamontowane niezgodnie z wymaganiami określonymi\nw rozporządzeniu w sprawie warunków technicznych pojazdów\noraz zakresu ich niezbędnego wyposażenia",
+          "level_category_faults": 1,
+          "name_2": "przekroczona maksymalna dozwolona liczba siedzeń; mocowanie\nsiedzeń w miejscach niezgodnych ze świadectwem homologacji\ntypu WE pojazdu/typu pojazdu",
+          "level_category_faults_2": 2
+        }
+      ]
+    },
+    {
+      "title_id": 6,
+      "sub_title_depth_1_name": "Kabina i nadwozie",
+      "sub_title_depth_2_name": null,
+      "position": "Wskaźniki i przyrządy\nkierowcy",
+      "position_code": "6.2.7",
+      "methods": "kontrola organoleptyczna i sprawdzenie\ndziałania",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "nieprawidłowe działanie co najmniej jednego wskaźnika lub\nprzyrządu niezbędnego do bezpiecznego użytkowania pojazdu",
+          "level_category_faults": 2,
+          "name_2": "wpływ na bezpieczne działanie",
+          "level_category_faults_2": 4
+        }
+      ]
+    },
+    {
+      "title_id": 6,
+      "sub_title_depth_1_name": "Kabina i nadwozie",
+      "sub_title_depth_2_name": null,
+      "position": "Stopnie kabiny",
+      "position_code": "6.2.8",
+      "methods": "kontrola organoleptyczna",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "niepewne mocowanie stopnia lub poręczy",
+          "level_category_faults": 1,
+          "name_2": "niewystarczająca stabilność",
+          "level_category_faults_2": 2
+        },
+        {
+          "id": "b",
+          "name": "stopień lub poręcz w stanie zagrażającym bezpieczeństwu\nużytkowników",
+          "level_category_faults": 2
+        }
+      ]
+    },
+    {
+      "title_id": 6,
+      "sub_title_depth_1_name": "Kabina i nadwozie",
+      "sub_title_depth_2_name": null,
+      "position": "Inne wyposażenie\nwewnętrzne i zewnętrzne",
+      "position_code": "6.2.9",
+      "methods": "kontrola organoleptyczna",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "uszkodzone mocowanie dodatkowych akcesoriów lub\nwyposażenia",
+          "level_category_faults": 2
+        },
+        {
+          "id": "b",
+          "name": "dodatkowe akcesoria lub wyposażenie niezgodne z przepisami\nokreślonymi w rozporządzeniu w sprawie warunków technicznych\npojazdów oraz zakresu ich niezbędnego wyposażenia, jeżeli jest\nwymagane",
+          "level_category_faults": 1,
+          "name_2": "zamontowane części mogą spowodować uszkodzenie ciała;\nwpływ na bezpieczeństwo użytkowania",
+          "level_category_faults_2": 2
+        },
+        {
+          "id": "c",
+          "name": "wycieki z układów hydraulicznych",
+          "level_category_faults": 1,
+          "name_2": "nadmierne wycieki materiałów niebezpiecznych",
+          "level_category_faults_2": 2
+        }
+      ]
+    },
+    {
+      "title_id": 6,
+      "sub_title_depth_1_name": "Kabina i nadwozie",
+      "sub_title_depth_2_name": null,
+      "position": "Błotniki, fartuchy\nprzeciwbłotne",
+      "position_code": "6.2.10",
+      "methods": "kontrola organoleptyczna",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "brak, obluzowanie lub znaczące skorodowanie części",
+          "level_category_faults": 1,
+          "name_2": "prawdopodobieństwo spowodowania obrażeń, zagrożenie\nodpadnięciem",
+          "level_category_faults_2": 2
+        },
+        {
+          "id": "b",
+          "name": "fartuchy przeciwbłotne zbyt blisko opony/koła",
+          "level_category_faults": 1,
+          "name_2": "błotnik zbyt blisko opony/koła",
+          "level_category_faults_2": 2
+        },
+        {
+          "id": "c",
+          "name": "niezgodność z wymaganiami określonymi w rozporządzeniu w\nsprawie warunków technicznych pojazdów oraz zakresu ich\nniezbędnego wyposażenia",
+          "level_category_faults": 1,
+          "name_2": "niewystarczająca osłona całej szerokości opony",
+          "level_category_faults_2": 2
+        }
+      ]
+    },
+    {
+      "title_id": 7,
+      "sub_title_depth_1_name": "Pasy bezpieczeństwa, zapięcia pasów i inne urządzenia bezpieczeństwa ",
+      "sub_title_depth_2_name": null,
+      "position": "Pewność mocowania\npasów i zapięć ",
+      "position_code": "7.1.1",
+      "methods": "kontrola organoleptyczna",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "znacznie uszkodzony punkt kotwiczenia pasów bezpieczeństwa",
+          "level_category_faults": 2,
+          "name_2": "wpływ na stabilność",
+          "level_category_faults_2": 4
+        },
+        {
+          "id": "b",
+          "name": "obluzowane  punkty kotwiczenia pasów bezpieczeństwa",
+          "level_category_faults": 2
+        }
+      ]
+    },
+    {
+      "title_id": 7,
+      "sub_title_depth_1_name": "Pasy bezpieczeństwa, zapięcia pasów i inne urządzenia bezpieczeństwa ",
+      "sub_title_depth_2_name": null,
+      "position": "Stan ogólny pasów i\nzapięć ",
+      "position_code": "7.1.2",
+      "methods": "kontrola organoleptyczna i sprawdzenie\ndziałania",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "brak obowiązkowego pasa bezpieczeństwa lub pas \nniezamontowany",
+          "level_category_faults": 2
+        },
+        {
+          "id": "b",
+          "name": "uszkodzenie pasów bezpieczeństwa",
+          "level_category_faults": 1,
+          "name_2": "przecięcie lub oznaki rozciągnięcia pasa",
+          "level_category_faults_2": 2
+        },
+        {
+          "id": "c",
+          "name": "pas bezpieczeństwa niezgodny z wymaganiami określonymi w\nrozporządzeniu w sprawie warunków technicznych pojazdów oraz\nzakresu ich niezbędnego wyposażenia",
+          "level_category_faults": 2
+        },
+        {
+          "id": "d",
+          "name": "uszkodzenie lub nieprawidłowe działanie zapięcia pasa\nbezpieczeństwa",
+          "level_category_faults": 2
+        },
+        {
+          "id": "e",
+          "name": "uszkodzenie lub nieprawidłowe działanie zwijacza pasa\nbezpieczeństwa",
+          "level_category_faults": 2
+        }
+      ]
+    },
+    {
+      "title_id": 7,
+      "sub_title_depth_1_name": "Pasy bezpieczeństwa, zapięcia pasów i inne urządzenia bezpieczeństwa ",
+      "sub_title_depth_2_name": null,
+      "position": "Ograniczniki naprężenia\npasów bezpieczeństwa",
+      "position_code": "7.1.3",
+      "methods": "kontrola organoleptyczna lub przy użyciu\nelektronicznego interfejsu",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "brak ogranicznika lub ogranicznik niezgodny z typem pojazdu",
+          "level_category_faults": 2
+        },
+        {
+          "id": "b",
+          "name": "system wskazuje awarię za pośrednictwem elektronicznego\ninterfejsu pojazdu",
+          "level_category_faults": 2
+        }
+      ]
+    },
+    {
+      "title_id": 7,
+      "sub_title_depth_1_name": "Pasy bezpieczeństwa, zapięcia pasów i inne urządzenia bezpieczeństwa ",
+      "sub_title_depth_2_name": null,
+      "position": "Napinacze wstępne pasów\nbezpieczeństwa ",
+      "position_code": "7.1.4",
+      "methods": "kontrola organoleptyczna",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "brak napinacza lub napinacz niezgodny z typem pojazdu",
+          "level_category_faults": 2
+        },
+        {
+          "id": "b",
+          "name": "system wskazuje awarię za pośrednictwem elektronicznego\ninterfejsu pojazdu\n",
+          "level_category_faults": 2
+        }
+      ]
+    },
+    {
+      "title_id": 7,
+      "sub_title_depth_1_name": "Pasy bezpieczeństwa, zapięcia pasów i inne urządzenia bezpieczeństwa ",
+      "sub_title_depth_2_name": null,
+      "position": "Poduszki powietrzne",
+      "position_code": "7.1.5",
+      "methods": "kontrola organoleptyczna",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "brak poduszek lub poduszki niezgodne z typem pojazd",
+          "level_category_faults": 2
+        },
+        {
+          "id": "b",
+          "name": "system wskazuje awarię za pośrednictwem elektronicznego\ninterfejsu pojazdu",
+          "level_category_faults": 2
+        },
+        {
+          "id": "c",
+          "name": "poduszka w sposób oczywisty nie działa",
+          "level_category_faults": 2
+        }
+      ]
+    },
+    {
+      "title_id": 7,
+      "sub_title_depth_1_name": "Pasy bezpieczeństwa, zapięcia pasów i inne urządzenia bezpieczeństwa ",
+      "sub_title_depth_2_name": null,
+      "position": "System poduszki \npowietrznej SRS",
+      "position_code": "7.1.6",
+      "methods": "kontrola organoleptyczna wskaźnika awarii\nukładu lub przy użyciu elektronicznego interfejsu",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "wskaźnik autodiagnostyki układu SRS wskazuje dowolny  rodzaj \nawarii w układzie",
+          "level_category_faults": 2
+        },
+        {
+          "id": "b",
+          "name": "system wskazuje awarię za pośrednictwem elektronicznego\ninterfejsu",
+          "level_category_faults": 2
+        }
+      ]
+    },
+    {
+      "title_id": 7,
+      "sub_title_depth_1_name": "Gaśnica (jeżeli jest \nwymagana)",
+      "sub_title_depth_2_name": null,
+      "position": "Gaśnica (jeżeli jest \nwymagana)",
+      "position_code": "7.2",
+      "methods": "kontrola organoleptyczna",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "brak gaśnicy",
+          "level_category_faults": 2
+        },
+        {
+          "id": "b",
+          "name": "gaśnica niezgodna z wymaganiami",
+          "level_category_faults": 1,
+          "name_2": "jeżeli jest wymagana (np. taksówki, autobusy, autokary, itp)",
+          "level_category_faults_2": 2
+        }
+      ]
+    },
+    {
+      "title_id": 7,
+      "sub_title_depth_1_name": "Zamki i urządzenia\nprzeciwwłamaniowe",
+      "sub_title_depth_2_name": null,
+      "position": "Zamki i urządzenia\nprzeciwwłamaniowe",
+      "position_code": "7.3",
+      "methods": "kontrola organoleptyczna i sprawdzenie\ndziałania",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "urządzenie uniemożliwiające uruchomienie pojazdu nie działa",
+          "level_category_faults": 1
+        },
+        {
+          "id": "b",
+          "name": "urządzenie jest uszkodzone",
+          "level_category_faults": 2,
+          "name_2": "samoczynne zamykanie lub blokowanie drzwi",
+          "level_category_faults_2": 4
+        }
+      ]
+    },
+    {
+      "title_id": 7,
+      "sub_title_depth_1_name": "Trójkąt ostrzegawczy (jeżeli\njest wymagany) ",
+      "sub_title_depth_2_name": null,
+      "position": "Trójkąt ostrzegawczy (jeżeli\njest wymagany) ",
+      "position_code": "7.4",
+      "methods": "kontrola organoleptyczna",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "brak lub trójkąt niekompletny",
+          "level_category_faults": 1
+        },
+        {
+          "id": "b",
+          "name": "brak znaku homologacji",
+          "level_category_faults": 1
+        }
+      ]
+    },
+    {
+      "title_id": 7,
+      "sub_title_depth_1_name": "Apteczka pierwszej pomocy\n(jeżeli jest wymagana) ",
+      "sub_title_depth_2_name": null,
+      "position": "Apteczka pierwszej pomocy\n(jeżeli jest wymagana) ",
+      "position_code": "7.5",
+      "methods": "kontrola organoleptyczna",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "Brak apteczki",
+          "level_category_faults": 1
+        }
+      ]
+    },
+    {
+      "title_id": 7,
+      "sub_title_depth_1_name": "Sygnał dźwiękowy ",
+      "sub_title_depth_2_name": null,
+      "position": "Sygnał dźwiękowy ",
+      "position_code": "7.7",
+      "methods": "kontrola organoleptyczna i sprawdzenie\ndziałania\n",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "nie działa prawidłowo",
+          "level_category_faults": 1,
+          "name_2": "nie działa w ogóle",
+          "level_category_faults_2": 2
+        },
+        {
+          "id": "b",
+          "name": "niepewne działanie przycisku sygnału",
+          "level_category_faults": 1
+        },
+        {
+          "id": "c",
+          "name": "sygnał niezgodny z wymaganiami określonymi w rozporządzeniu\nw sprawie warunków technicznych pojazdów oraz zakresu ich\nniezbędnego wyposażenia",
+          "level_category_faults": 1,
+          "name_2": "emitowany dźwięk można pomylić z ostrzegawczymi sygnałami\ndźwiękowymi przewidzianymi dla pojazdów uprzywilejowanych",
+          "level_category_faults_2": 2
+        }
+      ]
+    },
+    {
+      "title_id": 7,
+      "sub_title_depth_1_name": "Prędkościomierz",
+      "sub_title_depth_2_name": null,
+      "position": "Prędkościomierz",
+      "position_code": "7.8",
+      "methods": "kontrola organoleptyczna i sprawdzenie\ndziałania w czasie jazdy lub za pomocą\nprzyrządów elektronicznych",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "zamontowany nieprawidłowo",
+          "level_category_faults": 1,
+          "name_2": "brak, jeżeli jest wymagany",
+          "level_category_faults_2": 2
+        },
+        {
+          "id": "b",
+          "name": "nie działa prawidłowo",
+          "level_category_faults": 1,
+          "name_2": "nie działa w ogóle",
+          "level_category_faults_2": 2
+        },
+        {
+          "id": "c",
+          "name": "brak wystarczającego podświetlenia",
+          "level_category_faults": 1,
+          "name_2": "całkowity brak podświetlenia",
+          "level_category_faults_2": 2
+        }
+      ]
+    },
+    {
+      "title_id": 7,
+      "sub_title_depth_1_name": "Tachograf (jeżeli jest\nzamontowany/wymagany) ",
+      "sub_title_depth_2_name": null,
+      "position": "Tachograf (jeżeli jest\nzamontowany/wymagany) ",
+      "position_code": "7.9",
+      "methods": "kontrola organoleptyczna",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "zamontowany niezgodnie z wymaganiami",
+          "level_category_faults": 2
+        },
+        {
+          "id": "b",
+          "name": "nie działa",
+          "level_category_faults": 2
+        },
+        {
+          "id": "c",
+          "name": "brak plomb lub plomby uszkodzone",
+          "level_category_faults": 2
+        },
+        {
+          "id": "d",
+          "name": "brak tabliczki kalibracyjnej (legalizacyjnej), dane nieczytelne lub \nkalibracja (legalizacja) nieważna",
+          "level_category_faults": 2
+        },
+        {
+          "id": "e",
+          "name": "wyraźne oznaki manipulacji lub  ingerencji  przez  osoby \nniepowołane",
+          "level_category_faults": 2
+        },
+        {
+          "id": "f",
+          "name": "rozmiar opon niezgodny z parametrami kalibracji",
+          "level_category_faults": 2
+        }
+      ]
+    },
+    {
+      "title_id": 7,
+      "sub_title_depth_1_name": "Ogranicznik prędkości\n(jeżeli jest\nzamontowany/wymagany) ",
+      "sub_title_depth_2_name": null,
+      "position": "Ogranicznik prędkości\n(jeżeli jest\nzamontowany/wymagany) ",
+      "position_code": "7.10",
+      "methods": "kontrola organoleptyczna i sprawdzenie\ndziałania urządzenia, jeżeli kontrolujący\ndysponuje odpowiednim sprzętem",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "ogranicznik  zamontowany niezgodnie z wymaganiami\nokreślonymi w ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu\ndrogowym",
+          "level_category_faults": 2
+        },
+        {
+          "id": "b",
+          "name": "ogranicznik w oczywisty sposób nie działa",
+          "level_category_faults": 2
+        },
+        {
+          "id": "c",
+          "name": "ustawiono nieprawidłową prędkość graniczną (jeżeli jest\nsprawdzana)",
+          "level_category_faults": 2
+        },
+        {
+          "id": "d",
+          "name": "brak plomb lub plomby uszkodzone",
+          "level_category_faults": 2
+        },
+        {
+          "id": "e",
+          "name": "brak  znaku  homologacji  ogranicznika  albo  tabliczki albo są\nnieczytelne",
+          "level_category_faults": 2
+        },
+        {
+          "id": "f",
+          "name": "rozmiar opon niezgodny z parametrami kalibracji",
+          "level_category_faults": 2
+        }
+      ]
+    },
+    {
+      "title_id": 7,
+      "sub_title_depth_1_name": "Drogomierz (jeżeli pojazd \njest wyposażony)",
+      "sub_title_depth_2_name": null,
+      "position": "Drogomierz (jeżeli pojazd \njest wyposażony)",
+      "position_code": "7.11",
+      "methods": "kontrola organoleptyczna lub przy użyciu\nelektronicznego interfejsu",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "wyraźne oznaki manipulacji (oszustwo) w  celu  zmniejszenia \nzapisu przebiegu pojazdu lub przedstawienia niewłaściwego\nzapisu przebiegu pojazdu",
+          "level_category_faults": 2
+        },
+        {
+          "id": "b",
+          "name": "w sposób oczywisty nie działa",
+          "level_category_faults": 2
+        }
+      ]
+    },
+    {
+      "title_id": 7,
+      "sub_title_depth_1_name": "Elektroniczny system\nstabilizacji (ESC) (jeżeli\njest zamontowany/ \nwymagany)",
+      "sub_title_depth_2_name": null,
+      "position": "Elektroniczny system\nstabilizacji (ESC) (jeżeli\njest zamontowany/ \nwymagany)",
+      "position_code": "7.12",
+      "methods": "kontrola organoleptyczna",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "brak lub uszkodzenie czujników prędkości obrotowej kół",
+          "level_category_faults": 2
+        },
+        {
+          "id": "b",
+          "name": "uszkodzenie przewodów instalacji elektryczne",
+          "level_category_faults": 2
+        },
+        {
+          "id": "c",
+          "name": "brak lub uszkodzenie innych elementów",
+          "level_category_faults": 2
+        },
+        {
+          "id": "d",
+          "name": "uszkodzenie lub nieprawidłowe działanie przełącznika",
+          "level_category_faults": 2
+        },
+        {
+          "id": "e",
+          "name": "wskaźnik samodiagnostyki układu ESC wskazuje dowolny rodzaj \nawarii w układzie",
+          "level_category_faults": 2
+        },
+        {
+          "id": "f",
+          "name": "system wskazuje awarię za pośrednictwem elektronicznego\ninterfejsu pojazdu",
+          "level_category_faults": 2
+        }
+      ]
+    },
+    {
+      "title_id": 8,
+      "sub_title_depth_1_name": "Hałas",
+      "sub_title_depth_2_name": null,
+      "position": "Układ tłumienia hałasu",
+      "position_code": "8.1.1",
+      "methods": "ocena subiektywna (jeżeli w ocenie\nkontrolującego hałas jest na granicy\ndopuszczalności, można wykonać statyczny\npomiar hałasu za pomocą miernika poziomu\nhałasu)\n",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "poziom hałasu przekracza wartości określone w rozporządzeniu w\nsprawie warunków technicznych pojazdów oraz zakresu ich\nniezbędnego wyposażenia",
+          "level_category_faults": 2
+        },
+        {
+          "id": "b",
+          "name": "obluzowanie, uszkodzenie, niewłaściwe mocowanie, brak lub\nwyraźna przeróbka dowolnej części układu tłumienia hałasu w\nstopniu mającym niekorzystny wpływ na poziom hałasu",
+          "level_category_faults": 2,
+          "name_2": "bardzo poważne ryzyko odpadnięcia",
+          "level_category_faults_2": 4
+        }
+      ]
+    },
+    {
+      "title_id": 8,
+      "sub_title_depth_1_name": "Emisja spalin",
+      "sub_title_depth_2_name": "Emisja spalin z silników z zapłonem iskrowym",
+      "position": " Urządzenia do redukcji \nemisji ",
+      "position_code": "8.2.1.1",
+      "methods": "kontrola organoleptyczna",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "brak fabrycznie montowanego urządzenia do redukcji  emisji spalin lub wyraźnie nieprawidłowe działanie",
+          "level_category_faults": 2
+        },
+        {
+          "id": "b",
+          "name": "nieszczelności mogące mieć wpływ na pomiary emisji spalin",
+          "level_category_faults": 2
+        },
+        {
+          "id": "c",
+          "name": "wskaźnik awarii układu niezgodny z prawidłową sekwencją",
+          "level_category_faults": 2
+        }
+      ]
+    },
+    {
+      "title_id": 8,
+      "sub_title_depth_1_name": "Emisja spalin",
+      "sub_title_depth_2_name": "Emisja spalin z silników z zapłonem iskrowym",
+      "position": "Emisja zanieczyszczeń\ngazowych ",
+      "position_code": "8.2.1.2",
+      "methods": "pomiaru emisji zanieczyszczeń dokonuje się\nzgodnie ze szczegółowym sposobem określonym\nw przepisach wydanych na podstawie art. 81\nust. 15 ustawy z dnia 20 czerwca 1997 r. – Prawo\no ruchu drogowym\nw przypadku pojazdów wyposażonych w\nodpowiednie pokładowe układy diagnostyczne\n(OBD)  prawidłowe działanie układu\nwydechowego można sprawdzić przez\nodpowiedni odczyt z urządzenia OBD, przy\njednoczesnym sprawdzeniu prawidłowego\ndziałania układu OBD, przy silniku pracującym\nna biegu jałowym i zgodnie z zaleceniami\nproducenta dotyczącymi kondycjonowania",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "emisja zanieczyszczeń gazowych przekracza poziom dopuszczalny\nokreślony przez producenta",
+          "level_category_faults": 2
+        },
+        {
+          "id": "b",
+          "name": "jeżeli te informacje nie są dostępne – emisja zanieczyszczeń\ngazowych przekracza wartości określone w rozporządzeniu w\nsprawie warunków technicznych pojazdów oraz zakresu ich\nniezbędnego wyposażenia albo poziom dopuszczalny\n",
+          "level_category_faults": 2
+        },
+        {
+          "id": "c",
+          "name": "odczyt z pokładowego systemu diagnostycznego (OBD) wskazuje\npoważną awarię",
+          "level_category_faults": 2
+        },
+        {
+          "id": "d",
+          "name": "pomiar zdalny wskazuje na poważne niezgodności",
+          "level_category_faults": 2
+        }
+      ]
+    },
+    {
+      "title_id": 8,
+      "sub_title_depth_1_name": "Emisja spalin",
+      "sub_title_depth_2_name": "Emisja spalin z silników z zapłonem samoczynnym",
+      "position": "Urządzenia do redukcji \nemisji spalin",
+      "position_code": "8.2.2.1",
+      "methods": "kontrola organoleptyczna",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "brak fabrycznie montowanego urządzenia do redukcji emisji spalin\nlub wyraźnie nieprawidłowe działanie urządzenia",
+          "level_category_faults": 2
+        },
+        {
+          "id": "b",
+          "name": "nieszczelności mogące mieć wpływ na pomiary emisji spalin",
+          "level_category_faults": 2
+        },
+        {
+          "id": "c",
+          "name": "wskaźnik awarii układu niezgodny z prawidłową sekwencją",
+          "level_category_faults": 2
+        },
+        {
+          "id": "d",
+          "name": "niewystarczająca ilość odczynnika, jeśli pojazd jest wyposażony",
+          "level_category_faults": 2
+        }
+      ]
+    },
+    {
+      "title_id": 8,
+      "sub_title_depth_1_name": "Emisja spalin",
+      "sub_title_depth_2_name": "Emisja spalin z silników z zapłonem samoczynnym",
+      "position": "Zadymienie spalin ",
+      "position_code": "8.2.2.2",
+      "methods": "pomiaru emisji zanieczyszczeń dokonuje się\nzgodnie ze szczegółowym sposobem określonym\nw przepisach wydanych na podstawie art. 81\nust. 15 ustawy z dnia 20 czerwca 1997 r. – Prawo\no ruchu drogowym w przypadku pojazdów wyposażonych w\nodpowiednie pokładowe  układy diagnostyczne\n(OBD)  prawidłowe działanie układu\nwydechowego można sprawdzić poprzez\nodpowiedni odczyt z urządzenia OBD, przy\njednoczesnym sprawdzeniu prawidłowego\ndziałania układu OBD, przy silniku pracującym\nna biegu jałowym i zgodnie z zaleceniami\nproducenta dotyczącymi kondycjonowania",
+      "methods_remarks": "Niniejszego  wymagania  nie \nstosuje się do pojazdów po raz \n pierwszy  zarejestrowanych  lub \ndopuszczonych do ruchu przed\n1 stycznia 1980 r.",
+      "standard": [
+        {
+          "id": "a",
+          "name": "poziom zadymienia spalin przekracza wartość umieszczoną na\ntabliczce znamionowej pojazdu",
+          "level_category_faults": 2
+        },
+        {
+          "id": "b",
+          "name": "w przypadku braku określenia poziomu zadymienia spalin na\ntabliczce znamionowej przekracza odpowiednią wartość określoną\nw rozporządzeniu w sprawie warunków technicznych oraz zakresu \nich niezbędnego wyposażenia",
+          "level_category_faults": 2
+        },
+        {
+          "id": "c",
+          "name": "pomiar zdalny wskazuje na poważne niezgodności",
+          "level_category_faults": 2
+        }
+      ]
+    },
+    {
+      "title_id": 8,
+      "sub_title_depth_1_name": " Inne pozycje związane z ochroną środowiska",
+      "sub_title_depth_2_name": null,
+      "position": "Wycieki płynów",
+      "position_code": "8.4.1",
+      "methods": "kontrola organoleptyczna",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "każdy nadmierny wyciek płynu innego niż woda, który może\nzagrażać środowisku lub stwarzać zagrożenie dla  bezpieczeństwa\ninnych użytkowników drogi",
+          "level_category_faults": 2,
+          "name_2": "stałe powstawanie kropli, które stanowi bardzo poważne ryzyko dla \nśrodowiska lub bezpieczeństwa",
+          "level_category_faults_2": 4
+        }
+      ]
+    },
+    {
+      "title_id": 9,
+      "sub_title_depth_1_name": "Drzwi",
+      "sub_title_depth_2_name": null,
+      "position": "Drzwi wejściowe i\nwyjściowe ",
+      "position_code": "9.1.1",
+      "methods": "kontrola organoleptyczna i sprawdzenie\ndziałania",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "nieprawidłowe działanie",
+          "level_category_faults": 2
+        },
+        {
+          "id": "b",
+          "name": "zły stan techniczny",
+          "level_category_faults": 1,
+          "name_2": "prawdopodobieństwo spowodowania obrażeń",
+          "level_category_faults_2": 2
+        },
+        {
+          "id": "c",
+          "name": "uszkodzenie awaryjnego otwierania drzwi",
+          "level_category_faults": 2
+        },
+        {
+          "id": "d",
+          "name": "uszkodzenie urządzeń do zdalnego sterowania drzwi lub urządzeń\nostrzegawczych",
+          "level_category_faults": 2
+        }
+      ]
+    },
+    {
+      "title_id": 9,
+      "sub_title_depth_1_name": "Drzwi",
+      "sub_title_depth_2_name": null,
+      "position": "Wyjścia awaryjne",
+      "position_code": "9.1.2",
+      "methods": "kontrola organoleptyczna i sprawdzenie\ndziałania",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "nieprawidłowe działanie",
+          "level_category_faults": 2
+        },
+        {
+          "id": "b",
+          "name": "nieczytelne oznakowanie wyjścia awaryjnego",
+          "level_category_faults": 1,
+          "name_2": "brak oznakowania wyjścia awaryjnego",
+          "level_category_faults_2": 2
+        },
+        {
+          "id": "c",
+          "name": "brak młotka do wybicia szyby",
+          "level_category_faults": 1
+        },
+        {
+          "id": "d",
+          "name": "zablokowany dostęp",
+          "level_category_faults": 2
+        }
+      ]
+    },
+    {
+      "title_id": 9,
+      "sub_title_depth_1_name": "Odmgławianie i odmrażanie\nszyb",
+      "sub_title_depth_2_name": null,
+      "position": "Odmgławianie i odmrażanie\nszyb",
+      "position_code": "9.2",
+      "methods": "kontrola organoleptyczna i sprawdzenie\ndziałania",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "nieprawidłowe działanie",
+          "level_category_faults": 1,
+          "name_2": "wpływ na bezpieczeństwo jazdy",
+          "level_category_faults_2": 2
+        },
+        {
+          "id": "b",
+          "name": "przedostawanie się toksycznych gazów lub spalin do wnętrza\nprzedziału kierowcy lub przedziału pasażerskiego",
+          "level_category_faults": 2,
+          "name_2": "zagrożenie zdrowia osób znajdujących się w pojeździe",
+          "level_category_faults_2": 4
+        },
+        {
+          "id": "c",
+          "name": "uszkodzenie układu odmrażania szyb, jeżeli jest wymagany",
+          "level_category_faults": 2
+        }
+      ]
+    },
+    {
+      "title_id": 9,
+      "sub_title_depth_1_name": "Wentylacja        \ni ogrzewanie",
+      "sub_title_depth_2_name": null,
+      "position": "Wentylacja        \ni ogrzewanie",
+      "position_code": "9.3",
+      "methods": "kontrola organoleptyczna i sprawdzenie\ndziałania",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "nieprawidłowe działanie",
+          "level_category_faults": 1,
+          "name_2": "zagrożenie zdrowia osób znajdujących się w pojeździe",
+          "level_category_faults_2": 2
+        },
+        {
+          "id": "b",
+          "name": "przedostawanie się toksycznych gazów lub spalin do wnętrza\nprzedziału kierowcy lub przedziału pasażerskiego",
+          "level_category_faults": 2,
+          "name_2": "zagrożenie zdrowia osób znajdujących się w pojeździe",
+          "level_category_faults_2": 4
+        }
+      ]
+    },
+    {
+      "title_id": 9,
+      "sub_title_depth_1_name": "Siedzenia",
+      "sub_title_depth_2_name": null,
+      "position": "Siedzenia pasażerów\n(w tym siedzenia dla\npersonelu pomocniczego\noraz urządzenia\nprzytrzymujące dla dzieci,\njeśli obowiązują)",
+      "position_code": "9.4.1",
+      "methods": "kontrola organoleptyczna",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "siedzenia składane (jeżeli są dozwolone) nie działają prawidłowo",
+          "level_category_faults": 1,
+          "name_2": "siedzenia blokują wyjście awaryjne\n",
+          "level_category_faults_2": 2
+        }
+      ]
+    },
+    {
+      "title_id": 9,
+      "sub_title_depth_1_name": "Siedzenia",
+      "sub_title_depth_2_name": null,
+      "position": "Siedzenie kierowcy \n(dodatkowe wymogi)",
+      "position_code": "9.4.2",
+      "methods": "kontrola organoleptyczna",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "uszkodzenie urządzeń specjalnych, np. osłon przeciwsłonecznych",
+          "level_category_faults": 1,
+          "name_2": "zakłócone pole widzenia",
+          "level_category_faults_2": 2
+        },
+        {
+          "id": "b",
+          "name": "urządzenia chroniące kierowcę niepewnie zamocowane",
+          "level_category_faults": 1,
+          "name_2": "prawdopodobieństwo spowodowania obrażeń",
+          "level_category_faults_2": 2
+        }
+      ]
+    },
+    {
+      "title_id": 9,
+      "sub_title_depth_1_name": "Oświetlenie wewnętrzne i\nurządzenia do wyświetlania\ncelu podróży",
+      "sub_title_depth_2_name": null,
+      "position": "Oświetlenie wewnętrzne i\nurządzenia do wyświetlania\ncelu podróży",
+      "position_code": "9.5",
+      "methods": "kontrola organoleptyczna i sprawdzenie\ndziałania",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "urządzenie uszkodzone lub nieprawidłowe działanie",
+          "level_category_faults": 1,
+          "name_2": "nie działa w ogóle",
+          "level_category_faults_2": 2
+        }
+      ]
+    },
+    {
+      "title_id": 9,
+      "sub_title_depth_1_name": "Przejścia, miejsca dla\npasażerów stojących",
+      "sub_title_depth_2_name": null,
+      "position": "Przejścia, miejsca dla\npasażerów stojących",
+      "position_code": "9.6",
+      "methods": "kontrola organoleptyczna",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "niepewne zamocowanie podłogi",
+          "level_category_faults": 2,
+          "name_2": "wpływ na stabilność",
+          "level_category_faults_2": 4
+        },
+        {
+          "id": "b",
+          "name": "uszkodzone poręcze lub uchwyty",
+          "level_category_faults": 1,
+          "name_2": "niepewne lub niemożliwe użycie poręczy lub uchwytów",
+          "level_category_faults_2": 2
+        }
+      ]
+    },
+    {
+      "title_id": 9,
+      "sub_title_depth_1_name": "Schody i stopnie",
+      "sub_title_depth_2_name": null,
+      "position": "Schody i stopnie",
+      "position_code": "9.7",
+      "methods": "kontrola organoleptyczna i sprawdzenie\ndziałania, w miarę możliwości",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "zły stan techniczny",
+          "level_category_faults": 1,
+          "name_2": "uszkodzone",
+          "level_category_faults_2": 2,
+          "name_3": "uszkodzone w stopniu wpływającym na stabilność",
+          "level_category_faults_3": 4
+        },
+        {
+          "id": "b",
+          "name": "nieprawidłowe działanie stopni chowanych",
+          "level_category_faults": 2
+        }
+      ]
+    },
+    {
+      "title_id": 9,
+      "sub_title_depth_1_name": " System komunikacji z \npasażerami ",
+      "sub_title_depth_2_name": null,
+      "position": " System komunikacji z \npasażerami ",
+      "position_code": "9.8",
+      "methods": "kontrola organoleptyczna i sprawdzenie\ndziałania, w miarę możliwości",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "system uszkodzony",
+          "level_category_faults": 1,
+          "name_2": "system nie działa w ogóle",
+          "level_category_faults_2": 2
+        }
+      ]
+    },
+    {
+      "title_id": 9,
+      "sub_title_depth_1_name": " Tablice informacyjne",
+      "sub_title_depth_2_name": null,
+      "position": " Tablice informacyjne",
+      "position_code": "9.9",
+      "methods": "kontrola organoleptyczna",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "brak  tablic  kierunkowych  (dot.  autobusu  regularnej  komunikacji, \npublicznej) tablice błędne lub nieczytelne",
+          "level_category_faults": 1,
+          "name_2": "nieprawdziwe informacje",
+          "level_category_faults_2": 2
+        }
+      ]
+    },
+    {
+      "title_id": 9,
+      "sub_title_depth_1_name": "Wymogi dotyczące przewozu dzieci (autobus szkolny) ",
+      "sub_title_depth_2_name": null,
+      "position": "Drzwi",
+      "position_code": "9.10.1",
+      "methods": "kontrola organoleptyczna",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "zabezpieczenie  drzwi  niezgodne  z  rozporządzeniem w sprawie\nwarunków technicznych pojazdów oraz zakresu ich niezbędnego\nwyposażenia",
+          "level_category_faults": 2
+        }
+      ]
+    },
+    {
+      "title_id": 9,
+      "sub_title_depth_1_name": "Wymogi dotyczące przewozu dzieci (autobus szkolny) ",
+      "sub_title_depth_2_name": null,
+      "position": "Wyposażenie\nsygnalizacyjne i \nspecjalne",
+      "position_code": "9.10.2",
+      "methods": "kontrola organoleptyczna",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "brak wyposażenia sygnalizacyjnego lub specjalnego",
+          "level_category_faults": 1
+        }
+      ]
+    },
+    {
+      "title_id": 9,
+      "sub_title_depth_1_name": "Wymogi dotyczące przewozu osób o ograniczonej możliwości poruszania się",
+      "sub_title_depth_2_name": null,
+      "position": "Drzwi, rampy i\npodnośniki",
+      "position_code": "9.11.1",
+      "methods": "kontrola organoleptyczna i sprawdzenie\ndziałania",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "nieprawidłowe działanie",
+          "level_category_faults": 1,
+          "name_2": "wpływ na bezpieczne działanie",
+          "level_category_faults_2": 2
+        },
+        {
+          "id": "b",
+          "name": "zły stan techniczny",
+          "level_category_faults": 1,
+          "name_2": "wpływ na stabilność, prawdopodobieństwo spowodowania\nobrażeń",
+          "level_category_faults_2": 2
+        },
+        {
+          "id": "c",
+          "name": "uszkodzenie urządzeń sterujących",
+          "level_category_faults": 1,
+          "name_2": "wpływ na bezpieczne działanie",
+          "level_category_faults_2": 2
+        },
+        {
+          "id": "d",
+          "name": "uszkodzenie urządzeń ostrzegawczych",
+          "level_category_faults": 1,
+          "name_2": "nie działają w ogóle",
+          "level_category_faults_2": 2
+        }
+      ]
+    },
+    {
+      "title_id": 9,
+      "sub_title_depth_1_name": "Wymogi dotyczące przewozu osób o ograniczonej możliwości poruszania się",
+      "sub_title_depth_2_name": null,
+      "position": "Urządzenia\nzabezpieczające dla\nwózków inwalidzkich",
+      "position_code": "9.11.2",
+      "methods": "kontrola organoleptyczna i sprawdzenie\ndziałania, w miarę możliwości",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "nieprawidłowe działanie",
+          "level_category_faults": 1,
+          "name_2": "wpływ na bezpieczne działanie",
+          "level_category_faults_2": 2
+        },
+        {
+          "id": "b",
+          "name": "zły stan techniczny",
+          "level_category_faults": 1,
+          "name_2": "wpływ na stabilność, prawdopodobieństwo spowodowania\nobrażeń",
+          "level_category_faults_2": 2
+        },
+        {
+          "id": "c",
+          "name": "uszkodzenie urządzeń sterujących",
+          "level_category_faults": 1,
+          "name_2": "wpływ na bezpieczne działanie",
+          "level_category_faults_2": 2
+        }
+      ]
+    },
+    {
+      "title_id": 9,
+      "sub_title_depth_1_name": "Wymogi dotyczące przewozu osób o ograniczonej możliwości poruszania się",
+      "sub_title_depth_2_name": null,
+      "position": " Wyposażenie\nsygnalizacyjne i \nspecjalne",
+      "position_code": "9.11.3",
+      "methods": "kontrola organoleptyczna",
+      "methods_remarks": null,
+      "standard": [
+        {
+          "id": "a",
+          "name": "brak wyposażenia sygnalizacyjnego lub specjalnego",
+          "level_category_faults": 2
+        }
+      ]
     }
   ],
   "title_list_array": [
@@ -2402,6 +4341,26 @@
     {
       "id": 4,
       "name": "ŚWIATŁA, ŚWIATŁA ODBLASKOWE I WYPOSAŻENIE ELEKTRYCZNE"
+    },
+    {
+      "id": 5,
+      "name": "OSIE, KOŁA, OPONY I ZAWIESZENIE"
+    },
+    {
+      "id": 6,
+      "name": "PODWOZIE I ELEMENTY PRZYMOCOWANE DO PODWOZIA"
+    },
+    {
+      "id": 7,
+      "name": "INNE WYPOSAŻENIE"
+    },
+    {
+      "id": 8,
+      "name": "UCIĄŻLIWOŚĆ"
+    },
+    {
+      "id": 9,
+      "name": "BADANIA DODATKOWE DOTYCZĄCE POJAZDÓW KATEGORII M2 I M3 PRZEZNACZONYCH DO PRZEWOZU OSÓB"
     }
   ]
 }

@@ -1,41 +1,58 @@
 <template>
   <div>
     <div id="search_top_bar">
-      <input type="text" placeholder="Wprowadź opis" v-model="search_text" >
+      <input type="text" placeholder="Wprowadź opis" v-model="search_text">
+      <div class="checkBox" v-if="false">
+        <input type="checkbox" class="checkBox_box">
+        <div>
+          <div>Pokaż wszystkie</div> <div class="small_text">(zaznaczenie pokaże cały katalog bez zastosowania wyszukiwarki - może powodować problemy na słabszych urządzeniach)</div>
+        </div>
+      </div>
     </div>
     <div id="footer"> Lista usterek: {{faults_array}}</div>
-    <div  v-for="(element, index) in filtered_data_faults_array" :key="index">
-      <div class="container" v-if="element.standard.length!==0">
-        <div class="title">{{ filter_title(element.title_id)}}</div>
-        <div class="sub_title">{{element.sub_title_depth_1_name}}</div>
-        <div class="sub_title">{{element.sub_title_depth_2_name}}</div>
-        <div class="sub_title" v-if="element.sub_title_depth_1_name !==element.position">{{element.position}}</div>
-        <hr>
-        <div class="methods">Sposób sprawdzenia: </div>
-        <div class="methods">{{element.methods}}</div>
-        <div class="methods" v-if="element.methods_remarks">UWAGA: {{element.methods_remarks}}</div>
-        <hr>
-        <div class="faults_container" v-for="(faults, index) in element.standard" :key="index+1000">
-          <div class="faults_id"> {{element.position_code}}{{faults.id}}</div>
-          <div class="faults_text_box">
-            <div class="faults_text_box_step_one">
-              <div class="fault_text">{{faults.name}}</div>
-              <div class="fault_category">Kategoria usterki:
-                <div class="green" v-if="faults.level_category_faults===1 || faults.level_category_faults===3 || faults.level_category_faults===5 ||faults.level_category_faults===7">DROBNA</div>
-                <div class="orange" v-if="faults.level_category_faults===2 || faults.level_category_faults===3 || faults.level_category_faults===6 ||faults.level_category_faults===7">POWAŻNA</div>
-                <div class="red" v-if="faults.level_category_faults===4 || faults.level_category_faults===5 || faults.level_category_faults===6 ||faults.level_category_faults===7">NIEBEZPIECZNA</div></div>
-            </div>
-            <div class="faults_text_box_step_other" v-if="faults.name_2">
-              <div class="fault_text">{{faults.name_2}}</div>
-              <div class="fault_category">Kategoria usterki:
-                <div class="green" v-if="faults.level_category_faults_2===1 || faults.level_category_faults_2===3 || faults.level_category_faults_2===5 ||faults.level_category_faults_2===7">DROBNA</div>
-                <div class="orange" v-if="faults.level_category_faults_2===2 || faults.level_category_faults_2===3 || faults.level_category_faults_2===6 ||faults.level_category_faults_2===7">POWAŻNA</div>
-                <div class="red" v-if="faults.level_category_faults_2===4 || faults.level_category_faults_2===5 || faults.level_category_faults_2===6 ||faults.level_category_faults_2===7">NIEBEZPIECZNA</div>
+    <div id="main_container">
+      <div v-for="(element, index) in filtered_data_faults_array" :key="index">
+        <div id="container" v-if="element.standard.length!==0 && render">
+          <div class="title">{{ filter_title(element.title_id)}}</div>
+          <div class="sub_title">{{element.sub_title_depth_1_name}}</div>
+          <div class="sub_title">{{element.sub_title_depth_2_name}}</div>
+          <div class="sub_title" v-if="element.sub_title_depth_1_name !==element.position">{{element.position}}</div>
+          <hr>
+          <div class="methods">Sposób sprawdzenia: </div>
+          <div class="methods">{{element.methods}}</div>
+          <div class="methods" v-if="element.methods_remarks">UWAGA: {{element.methods_remarks}}</div>
+          <hr>
+          <div class="faults_container" v-for="(faults, index) in element.standard" :key="index+1000">
+            <div class="faults_id" v-if="element.standard.length>1"> {{element.position_code}}.{{faults.id}}</div>
+            <div class="faults_id" v-if="element.standard.length===1"> {{element.position_code}}</div>
+            <div class="faults_text_box">
+              <div class="faults_text_box_step_one">
+                <div class="fault_text">{{faults.name}}</div>
+                <div class="fault_category">Kategoria usterki:
+                  <div class="green" v-if="faults.level_category_faults===1 || faults.level_category_faults===3 || faults.level_category_faults===5 ||faults.level_category_faults===7">DROBNA</div>
+                  <div class="orange" v-if="faults.level_category_faults===2 || faults.level_category_faults===3 || faults.level_category_faults===6 ||faults.level_category_faults===7">POWAŻNA</div>
+                  <div class="red" v-if="faults.level_category_faults===4 || faults.level_category_faults===5 || faults.level_category_faults===6 ||faults.level_category_faults===7">NIEBEZPIECZNA</div></div>
+              </div>
+              <div class="faults_text_box_step_other" v-if="faults.name_2">
+                <div class="fault_text">{{faults.name_2}}</div>
+                <div class="fault_category">Kategoria usterki:
+                  <div class="green" v-if="faults.level_category_faults_2===1 || faults.level_category_faults_2===3 || faults.level_category_faults_2===5 ||faults.level_category_faults_2===7">DROBNA</div>
+                  <div class="orange" v-if="faults.level_category_faults_2===2 || faults.level_category_faults_2===3 || faults.level_category_faults_2===6 ||faults.level_category_faults_2===7">POWAŻNA</div>
+                  <div class="red" v-if="faults.level_category_faults_2===4 || faults.level_category_faults_2===5 || faults.level_category_faults_2===6 ||faults.level_category_faults_2===7">NIEBEZPIECZNA</div>
+                </div>
+              </div>
+              <div class="faults_text_box_step_other" v-if="faults.name_3">
+                <div class="fault_text">{{faults.name_3}}</div>
+                <div class="fault_category">Kategoria usterki:
+                  <div class="green" v-if="faults.level_category_faults_3===1 || faults.level_category_faults_3===3 || faults.level_category_faults_3===5 ||faults.level_category_faults_3===7">DROBNA</div>
+                  <div class="orange" v-if="faults.level_category_faults_3===2 || faults.level_category_faults_3===3 || faults.level_category_faults_3===6 ||faults.level_category_faults_3===7">POWAŻNA</div>
+                  <div class="red" v-if="faults.level_category_faults_3===4 || faults.level_category_faults_3===5 || faults.level_category_faults_3===6 ||faults.level_category_faults_3===7">NIEBEZPIECZNA</div>
+                </div>
               </div>
             </div>
-          </div>
-          <div class="button" @click="add_item(element.position_code + faults.id, faults)">
-            <i class="far fa-plus-square"></i>
+            <div class="button" @click="add_item(element.position_code + faults.id, faults)">
+              <i class="far fa-plus-square"></i>
+            </div>
           </div>
         </div>
       </div>
@@ -79,7 +96,8 @@ export default {
       faults_list: null,
       title_list: null,
       search_text: '',
-      faults_array: ''
+      faults_array: '',
+      render: false
     }
   },
   methods: {
@@ -97,18 +115,25 @@ export default {
           this.faults_array = this.faults_array.concat(', ', id)
         }
       }
+      const box = document.querySelector('#footer')
+      const height = box.offsetHeight + 15
+      document.getElementById('main_container').style.marginBottom = height + 'px'
+    },
+    change_render_state () {
+      this.render = true
     }
   },
   mounted () {
     this.faults_list = controlListData.control_list_data_array
     this.title_list = controlListData.title_list_array
+    setTimeout(this.change_render_state, 10)
   }
 }
 </script>
 
 <style scoped lang="scss">
 @import "main_layout";
-.container {
+#container {
   padding: 10px;
   background-color: #3D5A80;
   margin: 10px;
@@ -192,5 +217,15 @@ export default {
   transition: ease 0.5s ;
   font-family: $text-family;
   font-weight: bold;
+}
+.checkBox {
+  display: flex;
+  align-items: center;
+}
+.small_text {
+  font-size: 10px;
+}
+.checkBox_box {
+  width: min-content;
 }
 </style>
