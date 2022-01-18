@@ -228,4 +228,9 @@ export default {
 .checkBox_box {
   width: min-content;
 }
+@supports (-webkit-touch-callout: none) {
+  #footer {
+    padding-bottom: 15px;
+  }
+}
 </style>
