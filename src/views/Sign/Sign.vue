@@ -17,6 +17,10 @@
         <div class="icon"><img :src="require(`@/assets/road_sign/D/D-34.png`)" alt="Sign"/></div>
         <div class="label">Znaki informacyjne (D)</div>
       </div>
+      <div class="element" @click="goto('F')">
+        <div class="icon"><img :src="require(`@/assets/road_sign/F/F-11.png`)" alt="Sign"/></div>
+        <div class="label">Znaki uzupełniające (F)</div>
+      </div>
       <div class="element" @click="goto('P')">
         <div class="icon"><img :src="require(`@/assets/road_sign/P/P-16.png`)" alt="Sign"/></div>
         <div class="label">Znaki poziome (P)</div>

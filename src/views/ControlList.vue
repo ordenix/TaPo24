@@ -231,6 +231,8 @@ export default {
 @supports (-webkit-touch-callout: none) {
   #footer {
     padding-bottom: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
   }
 }
 </style>

@@ -21,7 +21,7 @@
       "code": "null",
       "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
       "paragraph": "art. 11 ust. 1 PRD Pieszy jest obowiązany korzystać z chodnika lub drogi dla pieszych, a w razie ich braku – z pobocza. Jeżeli nie ma pobocza lub czasowo nie można z niego korzystać, pieszy może korzystać z jezdni, pod warunkiem zajmowania miejsca jak najbliżej jej krawędzi i ustępowania miejsca nadjeżdżającemu pojazdowi",
-      "path": null
+      "path": "pictogram/pedestrian1.png"
     },
     {
       "category": "pedestrian",
@@ -32,7 +32,7 @@
       "code": "null",
       "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
       "paragraph": "art. 11 ust. 2 PRD Pieszy idący po poboczu lub jezdni jest obowiązany iść lewą stroną drogi.",
-      "path": null
+      "path": "pictogram/pedestrian2.png"
     },
     {
       "category": "pedestrian",
@@ -43,7 +43,7 @@
       "code": "null",
       "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
       "paragraph": "art. 11 ust. 3 PRD Piesi idący jezdnią są obowiązani iść jeden za drugim. Na drodze o małym\nruchu, w warunkach dobrej widoczności, dwóch pieszych może iść obok siebie.",
-      "path": null
+      "path": "pictogram/pedestrian3.png"
     },
     {
       "category": "pedestrian",
@@ -54,7 +54,7 @@
       "code": "null",
       "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
       "paragraph": "art. 11 ust. 4 PRD Korzystanie przez pieszego z drogi dla rowerów jest dozwolone tylko w razie\nbraku chodnika lub pobocza albo niemożności korzystania z nich. Pieszy, z wyjątkiem\nosoby niepełnosprawnej, korzystając z tej drogi, jest obowiązany ustąpić miejsca\nosobie poruszającej się przy użyciu urządzenia wspomagającego ruch, kierującemu\nrowerem, hulajnogą elektryczną lub urządzeniem transportu osobistego.",
-      "path": null
+      "path": "pictogram/pedestrian4.png"
     },
     {
       "category": "pedestrian",
@@ -65,7 +65,7 @@
       "code": "null",
       "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
       "paragraph": "art. 11 ust. 4a PRD Pieszy poruszający się po drodze po zmierzchu poza obszarem zabudowanym\njest obowiązany używać elementów odblaskowych w sposób widoczny dla innych\nuczestników ruchu, chyba że porusza się po drodze przeznaczonej wyłącznie dla\npieszych lub po chodniku.",
-      "path": null
+      "path": "pictogram/5.png"
     },
     {
       "category": "pedestrian",
@@ -103,7 +103,7 @@
       "code": "null",
       "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
       "paragraph": "art. 14 pkt 1 lit.a PRD Zabrania się wchodzenia na jezdnię bezpośrednio przed jadący pojazd, w tym również na przejściu dla pieszych",
-      "path": null
+      "path": "pictogram/walk_under_car.png"
     },
     {
       "category": "pedestrian",
@@ -169,7 +169,7 @@
       "code": "null",
       "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
       "paragraph": "art. 14 pkt 5 PRD Zabrania się chodzenia po torowisku",
-      "path": null
+      "path": "pictogram/walking_rails.png"
     },
     {
       "category": "pedestrian",
@@ -180,7 +180,7 @@
       "code": "null",
       "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
       "paragraph": "art. 14 pkt 6 PRD Zabrania się  wchodzenia na torowisko, gdy zapory lub półzapory są opuszczone lub\nopuszczanie ich rozpoczęto",
-      "path": null
+      "path": "pictogram/walk_in_to_crossing.png"
     },
     {
       "category": "pedestrian",
@@ -191,7 +191,7 @@
       "code": "null",
       "law": "art. 97a KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także kierujący pojazdem, który narusza zakaz objeżdżania opuszczonych zapór lub półzapór na przejeździe kolejowym, wjeżdżania na przejazd, jeśli opuszczanie zapór lub półzapór zostało rozpoczęte lub podnoszenie ich nie zostało zakończone, oraz wejścia lub wjazdu na przejazd kolejowy za sygnalizator lub za inne urządzenie nadające sygnały, przy sygnale czerwonym, czerwonym migającym lub dwóch na przemian migających sygnałach czerwonych podlega karze aresztu, ograniczenia wolności albo grzywny w wysokości nie niższej niż 2000 złotych",
       "paragraph": "",
-      "path": null
+      "path": "pictogram/red_train_crossing_pedestrian.png"
     },
     {
       "category": "pedestrian",
@@ -224,7 +224,7 @@
       "code": "null",
       "law": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego,podlega karze grzywny albo karze nagany",
       "paragraph": "",
-      "path": null
+      "path": "pictogram/pedestrian_sign.png"
     },
     {
       "category": "support",
@@ -3452,7 +3452,7 @@
       "code": "null",
       "law": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego,podlega karze grzywny albo karze nagany",
       "paragraph": "",
-      "path": null
+      "path": "pictogram/red_pedestrian.png"
     },
     {
       "category": "sign",
