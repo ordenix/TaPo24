@@ -3405,10 +3405,10 @@
       "text": "art. 92 §1 KW w zw. z § 72 lub § 87 ust. 1–2 ZSD",
       "tax": "250",
       "points": 5,
-      "code": "C 09",
+      "code": "C 09 (lub C10 dla znaków P)",
       "law": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego,podlega karze grzywny albo karze nagany",
       "paragraph": "",
-      "path": null
+      "path": "road_sign/F/F-10.png"
     },
     {
       "category": "sign",
@@ -4633,6 +4633,94 @@
       },
       "paragraph": "",
       "path": null
+    },
+    {
+      "category": "sign",
+      "name": "Niezastosowanie się, w celu uniknięcia kontroli,\ndo sygnału osoby uprawnionej do kontroli\nruchu drogowego, nakazującego zatrzymanie\npojazdu\n",
+      "text": "art. 92 § 2 KW w zw. z § 109 ust. 1 i 3 lub\n§ 111 ust. 2 lub\n3 ZSD",
+      "tax": "20-5000",
+      "points": 8,
+      "code": "C 01",
+      "law": "art. 90 § 1 KW Kto  w  celu  uniknięcia  kontroli  nie  stosuje  się  do  sygnału  osoby  uprawnionej do kontroli ruchu drogowego, nakazującego zatrzymanie  pojazdu, podlega  karze aresztu albo grzywny",
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "category": "sign",
+      "name": "Niezastosowanie się do sygnałów i poleceń podawanych przez osoby\nuprawnione do kierowania ruchem drogowym",
+      "text": "art. 92 § 1 KW w zw. z § 108 ust. 2–5 ZDS",
+      "tax": "20-5000",
+      "points": 6,
+      "code": "C 03",
+      "law": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego,podlega karze grzywny albo karze nagany",
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "category": "sign",
+      "name": "Niezastosowanie się do sygnałów i poleceń dawanych przez osoby\nuprawnione do kontroli ruchu drogowego",
+      "text": "art. 92 § 1 KW w zw. z § 109 ZSD lub art. 129\nust. 2 pkt 1 lub 7 PRD",
+      "tax": "20-5000",
+      "points": 6,
+      "code": "C 04",
+      "law": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego,podlega karze grzywny albo karze nagany",
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "category": "sign",
+      "name": "Niestosowanie się do znaków B-2 „zakaz wjazdu” za wyjątkiem [Jazda autostradą lub drogą ekspresową w kierunku przeciwnym niż wynikający z ustawy lub znaków drogowych]",
+      "text": "art. 92 § 1 KW w zw. z § 17 ust. 1 ZSD",
+      "tax": "20-5000",
+      "points": 5,
+      "code": "C 05",
+      "law": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego,podlega karze grzywny albo karze nagany",
+      "paragraph": "",
+      "path": "road_sign/B/B-2.png"
+    },
+    {
+      "category": "sign",
+      "name": "Niestosowanie się do znaków B-1 „zakaz ruchu w obu kierunkach”",
+      "text": "art. 92 § 1 KW w zw. z § 16 z ZSD",
+      "tax": "20-5000",
+      "points": 5,
+      "code": "C 06",
+      "law": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego,podlega karze grzywny albo karze nagany",
+      "paragraph": "",
+      "path": "road_sign/B/B-1.png"
+    },
+    {
+      "category": "sign",
+      "name": "Niestosowanie się do znaku B-21 „zakaz skręcania w lewo”",
+      "text": "art. 92 § 1 KW w zw. z § 22 ust. 1 ZSD",
+      "tax": "20-5000",
+      "points": 5,
+      "code": "C 07",
+      "law": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego,podlega karze grzywny albo karze nagany",
+      "paragraph": "",
+      "path": "road_sign/B/B-21.png"
+    },
+    {
+      "category": "sign",
+      "name": "Niestosowanie się do znaku B-22\n„zakaz skręcania w prawo”",
+      "text": "art. 92 § 1 KW w zw. z § 22 ust. 1 ZSD",
+      "tax": "20-5000",
+      "points": 5,
+      "code": "C 07",
+      "law": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego,podlega karze grzywny albo karze nagany",
+      "paragraph": "",
+      "path": "road_sign/B/B-22.png"
+    },
+    {
+      "category": "sign",
+      "name": "Niestosowanie się do znaku, F-15 lub F-16 lub F-17 lub F-18 lub F-19, kierunki na pasach\nruchu określające dozwolony kierunek jazdy\nz poszczególnych pasów ruchu lub sposób ich\nwykorzystania",
+      "text": "art. 92 §1 KW w zw. z § 72 ust. 1 lub 2\nalbo § 75 ZSD",
+      "tax": "20-5000",
+      "points": 5,
+      "code": "C 09",
+      "law": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego,podlega karze grzywny albo karze nagany",
+      "paragraph": "",
+      "path": "road_sign/F/F-16.png"
     }
   ]
 }
