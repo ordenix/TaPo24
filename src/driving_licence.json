@@ -5,7 +5,8 @@
       "vehicle_table": [
         {
           "1": "motorowerem",
-          "2": "czterokołowcem lekkim"
+          "2": "czterokołowcem lekkim",
+          "3": "motorower lub czterokołowiec lekki wraz z przyczepą"
         }
       ],
       "requirements": [
@@ -15,67 +16,296 @@
       ]
     },
     {
-      "category": "",
+      "category": "A1",
       "vehicle_table": [
         {
-          "1": ""
+          "1": "motocyklem o pojemności skokowej silnika nieprzekraczającej 125 cm3, mocy nieprzekraczającej 11 kW i stosunku mocy do masy własnej nieprzekraczającym 0,1 kW/kg",
+          "2": "motocyklem trójkołowym o mocy nieprzekraczającej 15 kW",
+          "3": "motorowerem",
+          "4": "czterokołowcem lekkim",
+          "5": "zespół pojazdów złożonych z pojazdu określonego dla tej kategorii wraz z przyczepą"
         }
       ],
       "requirements": [
         {
-          "1": ""
+          "1": "16 lat"
         }
       ]
     },
     {
-      "category": "",
+      "category": "A2",
       "vehicle_table": [
         {
-          "1": ""
+          "1": "motocyklem o mocy nieprzekraczającej 35 kW i stosunku mocy do masy własnej nieprzekraczającym 0,2 kW/kg, przy czym nie może on powstać w wyniku wprowadzenia zmian w pojeździe o mocy przekraczającej dwukrotność mocy tego motocykla",
+          "2": "motocyklem trójkołowym o mocy nieprzekraczającej 15 kW",
+          "3": "motorowerem",
+          "4": "czterokołowcem lekkim",
+          "5": "zespół pojazdów złożonych z pojazdu określonego dla tej kategorii wraz z przyczepą"
         }
       ],
       "requirements": [
         {
-          "1": ""
+          "1": "18 lat"
         }
       ]
     },
     {
-      "category": "",
+      "category": "A",
       "vehicle_table": [
         {
-          "1": ""
+          "1": "motocyklem",
+          "2": "motorowerem",
+          "3": "czterokołowcem lekkim",
+          "4": "zespół pojazdów złożonych z pojazdu określonego dla tej kategorii wraz z przyczepą"
         }
       ],
       "requirements": [
         {
-          "1": ""
+          "1": "20 lat ( jeśli od co najmniej 2 lat posiada kategorię A2)",
+          "2": "24 lata ( jeśli od co najmniej 2 lat NIE posiada kategorii A2)",
+          "3": "18 lat (dla żołnierzy kierujących pojazdami Sił Zbrojnych Rzeczypospolitej Polskiej)",
+          "4": "18 lat (dla funkcjonariuszy kierujących pojazdami Policji oraz Straży Granicznej)"
         }
       ]
     },
     {
-      "category": "",
+      "category": "B1",
       "vehicle_table": [
         {
-          "1": ""
+          "1": "czterokołowcem",
+          "2": "motorowerem",
+          "3": "czterokołowcem lekkim"
         }
       ],
       "requirements": [
         {
-          "1": ""
+          "1": "16 lat"
         }
       ]
     },
     {
-      "category": "",
+      "category": "B",
       "vehicle_table": [
         {
-          "1": ""
+          "1": "pojazdem samochodowym o dopuszczalnej masie całkowitej nieprzekraczającej 3,5 t, z wyjątkiem autobusu i motocykla",
+          "2": "zespołem pojazdów złożonym z pojazdu samochodowego o dopuszczalnej masie całkowitej nieprzekraczającej 3,5 t, z wyjątkiem autobusu i motocykla oraz z przyczepy lekkiej",
+          "3": "zespołem pojazdów złożonym z pojazdu samochodowego o dopuszczalnej masie całkowitej nieprzekraczającej 3,5 t, z wyjątkiem autobusu i motocykla oraz z przyczepy innej niż lekka, o ile łączna dopuszczalna masa całkowita zespołu tych pojazdów nie przekracza 4250 kg o ile posiada zdaną część praktyczną egzaminu państwowego, potwierdzoną wpisem do prawa jazdy (kod 96)",
+          "4": "motorowerem",
+          "5": "czterokołowcem lekkim",
+          "6": "ciągnikiem rolniczym, pojazdem wolnobieżnym oraz zespołem złożonym z tego pojazdu i przyczepy lekkiej",
+          "7": "motocyklem o pojemności skokowej silnika nieprzekraczającej 125 cm3, mocy nieprzekraczającej 11 kW i stosunku mocy do masy własnej nieprzekraczającym 0,1 kW/kg, lub motocyklem trójkołowym, pod warunkiem że osoba posiada prawo jazdy kategorii B od co najmniej 3 lat",
+          "8": "pojazdem samochodowym zasilanym paliwami alternatywnymi o dopuszczalnej masie całkowitej przekraczającej 3,5 t oraz nieprzekraczającej 4250 kg, jeżeli przekroczenie dopuszczalnej masy całkowitej 3,5 t wynika z zastosowania paliw alternatywnych, a informacja o tym przekroczeniu jest odnotowana w dowodzie rejestracyjnym, pod warunkiem że osoba posiada prawo jazdy kategorii B od co najmniej 2 lat"
         }
       ],
       "requirements": [
         {
-          "1": ""
+          "1": "18 lat"
+        }
+      ],
+      "remarks": [
+        {
+          "1": "Kierowca może kierować kolejką turystyczną o ile posiada uprawnienia co najmniej 2 lata i ma skończone 21 lat"
+        }
+      ]
+    },
+    {
+      "category": "C1",
+      "vehicle_table": [
+        {
+          "1": "pojazdem samochodowym o dopuszczalnej masie całkowitej przekraczającej 3,5 t i nieprzekraczającej 7,5 t, z wyjątkiem autobusu",
+          "2": "zespołem pojazdów złożonym z pojazdu samochodowego o dopuszczalnej masie całkowitej przekraczającej 3,5 t i nieprzekraczającej 7,5 t, z wyjątkiem autobusu oraz z przyczepy lekkiej",
+          "3": "motorowerem",
+          "4": "czterokołowcem lekkim",
+          "5": "ciągnikiem rolniczym, pojazdem wolnobieżnym oraz zespołem złożonym z tego pojazdu i przyczepy lekkiej"
+        }
+      ],
+      "requirements": [
+        {
+          "1": "18 lat"
+        }
+      ],
+      "remarks": [
+        {
+          "1": "Kierowca może kierować kolejką turystyczną o ile posiada uprawnienia co najmniej 2 lata"
+        }
+      ]
+    },
+    {
+      "category": "C",
+      "vehicle_table": [
+        {
+          "1": "pojazdem samochodowym o dopuszczalnej masie całkowitej przekraczającej 3,5 t, z wyjątkiem autobusu",
+          "2": "zespołem pojazdów złożonym z pojazdu samochodowego o dopuszczalnej masie całkowitej przekraczającej 3,5 t, z wyjątkiem autobusu oraz z przyczepy lekkiej",
+          "3": "motorowerem",
+          "4": "czterokołowcem lekkim",
+          "5": "ciągnikiem rolniczym, pojazdem wolnobieżnym oraz zespołem złożonym z tego pojazdu i przyczepy lekkiej"
+        }
+      ],
+      "requirements": [
+        {
+          "1": "21 lat",
+          "2": "18 lat (dla żołnierzy kierujących pojazdami Sił Zbrojnych Rzeczypospolitej Polskiej)",
+          "3": "19 lat (dla funkcjonariuszy kierujących pojazdami Państwowej Straży Pożarnej, Policji, Straży Granicznej oraz Służby Ochrony Państwa)",
+          "4": "18 lat (dla osób, które uzyskały kwalifikację wstępną)"
+        }
+      ],
+      "remarks": [
+        {
+          "1": "Kierowca może kierować kolejką turystyczną o ile posiada uprawnienia co najmniej 2 lata"
+        }
+      ]
+    },
+    {
+      "category": "D1",
+      "vehicle_table": [
+        {
+          "1": "autobusem przeznaczonym konstrukcyjnie do przewozu nie więcej niż 17 osób łącznie z kierowcą, o długości nieprzekraczającej 8 m",
+          "2": "zespołem pojazdów złożonym z autobusu przeznaczonym konstrukcyjnie do przewozu nie więcej niż 17 osób łącznie z kierowcą, o długości nieprzekraczającej 8 m oraz z przyczepy lekkiej",
+          "3": "motorowerem",
+          "4": "czterokołowcem lekkim",
+          "5": "ciągnikiem rolniczym, pojazdem wolnobieżnym oraz zespołem złożonym z tego pojazdu i przyczepy lekkiej"
+        }
+      ],
+      "requirements": [
+        {
+          "1": "21 lat"
+        }
+      ],
+      "remarks": [
+        {
+          "1": "Kierowca może kierować kolejką turystyczną o ile posiada uprawnienia co najmniej 2 lata"
+        }
+      ]
+    },
+    {
+      "category": "D",
+      "vehicle_table": [
+        {
+          "1": "autobusem",
+          "2": "zespołem pojazdów złożonym z autobusu oraz z przyczepy lekkiej",
+          "3": "motorowerem",
+          "4": "czterokołowcem lekkim",
+          "5": "ciągnikiem rolniczym, pojazdem wolnobieżnym oraz zespołem złożonym z tego pojazdu i przyczepy lekkiej"
+        }
+      ],
+      "requirements": [
+        {
+          "1": "24 lata",
+          "2": "21 lat (dla funkcjonariuszy kierujących pojazdami Państwowej Straży Pożarnej, Policji, Straży Granicznej oraz Służby Ochrony Państwa)",
+          "3": "21 lat (dla osób, które uzyskały kwalifikację wstępną przyśpieszoną)",
+          "4": "19 lat (dla żołnierzy kierujących pojazdami Sił Zbrojnych Rzeczypospolitej Polskiej)"
+        }
+      ],
+      "remarks": [
+        {
+          "1": "Kierowca może kierować kolejką turystyczną o ile posiada uprawnienia co najmniej 2 lata"
+        }
+      ]
+    },
+    {
+      "category": "T",
+      "vehicle_table": [
+        {
+          "1": "ciągnikiem rolniczym lub pojazdem wolnobieżnym",
+          "2": "zespołem pojazdów złożonym z ciągnika rolniczego z przyczepą (przyczepami) lub pojazdem wolnobieżnym z przyczepą (przyczepami)",
+          "3": "motorowerem",
+          "4": "czterokołowcem lekkim"
+        }
+      ],
+      "requirements": [
+        {
+          "1": "16 lat"
+        }
+      ],
+      "remarks": [
+        {
+          "1": "Kierowca może kierować kolejką turystyczną o ile posiada uprawnienia co najmniej 2 lata"
+        }
+      ]
+    },
+    {
+      "category": "B+E",
+      "vehicle_table": [
+        {
+          "1": "pojazdem kategorii B łącznie z przyczepą (przyczepami), przy czym dopuszczalna masa całkowita ciągniętej przyczepy nie może przekraczać 3,5 t",
+          "2": "zespołem pojazdów złożonym z ciągnika rolniczego z przyczepą (przyczepami) lub pojazdu wolnobieżnego z przyczepą (przyczepami)"
+        }
+      ],
+      "requirements": [
+        {
+          "1": "18 lat"
+        }
+      ],
+      "remarks": [
+        {
+          "1": "Jeżeli kierowca posiada kategorię B i C1+E to uprawnia to do kierowania pojazdami w kategorii B+E",
+          "2": "Jeżeli kierowca posiada kategorię B i D1+E to uprawnia to do kierowania pojazdami w kategorii B+E",
+          "3": "Jeżeli kierowca posiada kategorię B i C+E to uprawnia to do kierowania pojazdami w kategorii B+E",
+          "4": "Jeżeli kierowca posiada kategorię B i D+E to uprawnia to do kierowania pojazdami w kategorii B+E"
+        }
+      ]
+    },
+    {
+      "category": "C+E",
+      "vehicle_table": [
+        {
+          "1": "pojazdem kategorii C łącznie z przyczepą (przyczepami)",
+          "2": "zespołem pojazdów złożonym z ciągnika rolniczego z przyczepą (przyczepami) lub pojazdu wolnobieżnego z przyczepą (przyczepami)"
+        }
+      ],
+      "requirements": [
+        {
+          "1": "18 lat (dla żołnierzy kierujących pojazdami Sił Zbrojnych Rzeczypospolitej Polskiej)",
+          "2": "18 lat (dla osób, które uzyskały kwalifikację wstępną)",
+          "3": "21 lat"
+        }
+      ]
+    },
+    {
+      "category": "D+E",
+      "vehicle_table": [
+        {
+          "1": "pojazdem kategorii D łącznie z przyczepą (przyczepami)",
+          "2": "zespołem pojazdów złożonym z ciągnika rolniczego z przyczepą (przyczepami) lub pojazdu wolnobieżnego z przyczepą (przyczepami)"
+        }
+      ],
+      "requirements": [
+        {
+          "1": "21 lat - (21 lat (dla osób, które uzyskały kwalifikację wstępną przyśpieszoną)",
+          "2": "24 lata "
+        }
+      ],
+      "remarks": [
+        {
+          "1": "Jeżeli kierowca posiada kategorię D i C+E to uprawnia to do kierowania pojazdami w kategorii D+E"
+        }
+      ]
+    },
+    {
+      "category": "C1+E",
+      "vehicle_table": [
+        {
+          "1": "zespołem pojazdów o dopuszczalnej masie całkowitej nieprzekraczającej 12 t, składającym się z pojazdu ciągnącego określonego w prawie jazdy kategorii C1 i przyczepy",
+          "2": "zespołem pojazdów złożonym z ciągnika rolniczego z przyczepą (przyczepami) lub pojazdu wolnobieżnego z przyczepą (przyczepami)"
+        }
+      ],
+      "requirements": [
+        {
+          "1": "18 lat"
+        }
+      ]
+    },
+    {
+      "category": "D1+E",
+      "vehicle_table": [
+        {
+          "1": "zespołem pojazdów składającym się z pojazdu ciągnącego określonego w prawie jazdy kategorii D1 i przyczepy",
+          "2": "zespołem pojazdów złożonym z ciągnika rolniczego z przyczepą (przyczepami) lub pojazdu wolnobieżnego z przyczepą (przyczepami)"
+        }
+      ],
+      "requirements": [
+        {
+          "1": "21 lat"
         }
       ]
     },
@@ -170,548 +400,673 @@
       "sub_title": "okulary"
     },
     {
-      "code": "",
-      "title": "",
-      "sub_title": ""
+      "code": "01.02",
+      "title": "wymagana korekta lub ochrona wzroku",
+      "sub_title": "soczewka(i) kontaktowa(e)"
     },
     {
-      "code": "",
-      "title": "",
-      "sub_title": ""
+      "code": "01.03",
+      "title": "wymagana korekta lub ochrona wzroku",
+      "sub_title": "okulary ochronne"
     },
     {
-      "code": "",
-      "title": "",
-      "sub_title": ""
+      "code": "01.04",
+      "title": "wymagana korekta lub ochrona wzroku",
+      "sub_title": "szkła przyciemnione"
     },
     {
-      "code": "",
-      "title": "",
-      "sub_title": ""
+      "code": "01.05",
+      "title": "wymagana korekta lub ochrona wzroku",
+      "sub_title": "przepaska na oko"
     },
     {
-      "code": "",
-      "title": "",
-      "sub_title": ""
+      "code": "01.06",
+      "title": "wymagana korekta lub ochrona wzroku",
+      "sub_title": "okulary lub soczewki kontaktowe"
     },
     {
-      "code": "",
-      "title": "",
+      "code": "02",
+      "title": "wymagana korekta słuchu",
       "sub_title": ""
     },
     {
-      "code": "",
-      "title": "",
-      "sub_title": ""
+      "code": "02.01",
+      "title": "wymagana korekta słuchu",
+      "sub_title": "aparat słuchowy jednouszny"
     },
     {
-      "code": "",
-      "title": "",
-      "sub_title": ""
+      "code": "02.01",
+      "title": "wymagana korekta słuchu",
+      "sub_title": "aparat słuchowy obuuszny"
     },
     {
-      "code": "",
-      "title": "",
+      "code": "03",
+      "title": "wymagane protezy lub szyny ortopedyczne kończyn",
       "sub_title": ""
     },
     {
-      "code": "",
-      "title": "",
-      "sub_title": ""
+      "code": "03.01",
+      "title": "wymagane protezy lub szyny ortopedyczne kończyn",
+      "sub_title": "proteza lub szyna ortopedyczna kończyny górnej"
     },
     {
-      "code": "",
-      "title": "",
-      "sub_title": ""
+      "code": "03.02",
+      "title": "wymagane protezy lub szyny ortopedyczne kończyn",
+      "sub_title": "proteza lub szyna ortopedyczna kończyny dolnej"
     },
     {
-      "code": "",
-      "title": "",
+      "code": "05",
+      "title": "wymagane ograniczone korzystanie z pojazdu (obowiązkowe stosowanie subkodów, ograniczenia jazdy wynikające ze stanu zdrowia kierowcy)",
       "sub_title": ""
     },
     {
-      "code": "",
-      "title": "",
-      "sub_title": ""
+      "code": "05.01",
+      "title": "wymagane ograniczone korzystanie z pojazdu (obowiązkowe stosowanie subkodów, ograniczenia jazdy wynikające ze stanu zdrowia kierowcy)",
+      "sub_title": "jazda w godzinach dziennych (od świtu do zmierzchu)"
     },
     {
-      "code": "",
-      "title": "",
-      "sub_title": ""
+      "code": "05.02",
+      "title": "wymagane ograniczone korzystanie z pojazdu (obowiązkowe stosowanie subkodów, ograniczenia jazdy wynikające ze stanu zdrowia kierowcy)",
+      "sub_title": "jazda tylko w obrębie określonego obszaru administracyjnego (np. 05.02 nazwa miasta)"
     },
     {
-      "code": "",
-      "title": "",
-      "sub_title": ""
+      "code": "05.03",
+      "title": "wymagane ograniczone korzystanie z pojazdu (obowiązkowe stosowanie subkodów, ograniczenia jazdy wynikające ze stanu zdrowia kierowcy)",
+      "sub_title": "jazda bez pasażerów"
     },
     {
-      "code": "",
-      "title": "",
-      "sub_title": ""
+      "code": "05.04",
+      "title": "wymagane ograniczone korzystanie z pojazdu (obowiązkowe stosowanie subkodów, ograniczenia jazdy wynikające ze stanu zdrowia kierowcy)",
+      "sub_title": "jazda z prędkością nie większą niż ........... km/h"
     },
     {
-      "code": "",
-      "title": "",
-      "sub_title": ""
+      "code": "05.05",
+      "title": "wymagane ograniczone korzystanie z pojazdu (obowiązkowe stosowanie subkodów, ograniczenia jazdy wynikające ze stanu zdrowia kierowcy)",
+      "sub_title": "jazda tylko w towarzystwie osoby posiadającej prawo jazdy"
     },
     {
-      "code": "",
-      "title": "",
-      "sub_title": ""
+      "code": "05.06",
+      "title": "wymagane ograniczone korzystanie z pojazdu (obowiązkowe stosowanie subkodów, ograniczenia jazdy wynikające ze stanu zdrowia kierowcy)",
+      "sub_title": "bez prawa ciągnięcia przyczepy"
     },
     {
-      "code": "",
-      "title": "",
-      "sub_title": ""
+      "code": "05.07",
+      "title": "wymagane ograniczone korzystanie z pojazdu (obowiązkowe stosowanie subkodów, ograniczenia jazdy wynikające ze stanu zdrowia kierowcy)",
+      "sub_title": "bez prawa jazdy po autostradach"
     },
     {
-      "code": "",
-      "title": "",
-      "sub_title": ""
+      "code": "05.08",
+      "title": "wymagane ograniczone korzystanie z pojazdu (obowiązkowe stosowanie subkodów, ograniczenia jazdy wynikające ze stanu zdrowia kierowcy)",
+      "sub_title": "zakaz spożywania alkoholu"
     },
     {
-      "code": "",
-      "title": "",
+      "code": "10",
+      "title": "wymagane modyfikacje w układzie zmiany biegów",
       "sub_title": ""
     },
     {
-      "code": "",
-      "title": "",
-      "sub_title": ""
+      "code": "10.01",
+      "title": "wymagane modyfikacje w układzie zmiany biegów",
+      "sub_title": "ręczna zmiana biegów"
     },
     {
-      "code": "",
-      "title": "",
-      "sub_title": ""
+      "code": "10.02",
+      "title": "wymagane modyfikacje w układzie zmiany biegów",
+      "sub_title": "bez pedału sprzęgła (albo dźwigni ręcznej dla prawa jazdy kategorii AM, A1, A2 i A )"
     },
     {
-      "code": "",
-      "title": "",
-      "sub_title": ""
+      "code": "10.03",
+      "title": "wymagane modyfikacje w układzie zmiany biegów",
+      "sub_title": "zmiana biegów sterowana elektronicznie"
     },
     {
-      "code": "",
-      "title": "",
-      "sub_title": ""
+      "code": "10.04",
+      "title": "wymagane modyfikacje w układzie zmiany biegów",
+      "sub_title": "zmodyfikowana dźwignia zmiany biegów"
     },
     {
-      "code": "",
-      "title": "",
-      "sub_title": ""
+      "code": "10.05",
+      "title": "wymagane modyfikacje w układzie zmiany biegów",
+      "sub_title": "bez przekładni dodatkowej"
     },
     {
-      "code": "",
-      "title": "",
+      "code": "15",
+      "title": "wymagana modyfikacja sprzęgła",
       "sub_title": ""
     },
     {
-      "code": "",
-      "title": "",
-      "sub_title": ""
+      "code": "15.01",
+      "title": "wymagana modyfikacja sprzęgła",
+      "sub_title": "zmodyfikowana dźwignia zmiany biegów"
     },
     {
-      "code": "",
-      "title": "",
-      "sub_title": ""
+      "code": "15.02",
+      "title": "wymagana modyfikacja sprzęgła",
+      "sub_title": "sprzęgło sterowane ręcznie"
     },
     {
-      "code": "",
-      "title": "",
-      "sub_title": ""
+      "code": "15.03",
+      "title": "wymagana modyfikacja sprzęgła",
+      "sub_title": "sprzęgło automatyczne"
     },
     {
-      "code": "",
-      "title": "",
-      "sub_title": ""
+      "code": "15.04",
+      "title": "wymagana modyfikacja sprzęgła",
+      "sub_title": "składany lub odkręcany pedał sprzęgła za przegrodą"
     },
     {
-      "code": "",
-      "title": "",
+      "code": "20",
+      "title": "wymagane modyfikacje w układzie hamulcowym",
       "sub_title": ""
     },
     {
-      "code": "",
-      "title": "",
-      "sub_title": ""
+      "code": "20.01",
+      "title": "wymagane modyfikacje w układzie hamulcowym",
+      "sub_title": "zmodyfikowany pedał hamulca"
     },
     {
-      "code": "",
-      "title": "",
-      "sub_title": ""
+      "code": "20.02",
+      "title": "wymagane modyfikacje w układzie hamulcowym",
+      "sub_title": "powiększony pedał hamulca"
     },
     {
-      "code": "",
-      "title": "",
-      "sub_title": ""
+      "code": "20.03",
+      "title": "wymagane modyfikacje w układzie hamulcowym",
+      "sub_title": "pedał hamulca dostosowany do obsługi lewą stopą"
     },
     {
-      "code": "",
-      "title": "",
-      "sub_title": ""
+      "code": "20.04",
+      "title": "wymagane modyfikacje w układzie hamulcowym",
+      "sub_title": "pedał hamulca pod całą stopę"
     },
     {
-      "code": "",
-      "title": "",
-      "sub_title": ""
+      "code": "20.05",
+      "title": "wymagane modyfikacje w układzie hamulcowym",
+      "sub_title": "wychylny pedał hamulca"
     },
     {
-      "code": "",
-      "title": "",
-      "sub_title": ""
+      "code": "20.06",
+      "title": "wymagane modyfikacje w układzie hamulcowym",
+      "sub_title": "ręcznie sterowany hamulec roboczy"
     },
     {
-      "code": "",
-      "title": "",
-      "sub_title": ""
+      "code": "20.07",
+      "title": "wymagane modyfikacje w układzie hamulcowym",
+      "sub_title": "maksymalne użycie wzmocnionego hamulca roboczego"
     },
     {
-      "code": "",
-      "title": "",
-      "sub_title": ""
+      "code": "20.08",
+      "title": "wymagane modyfikacje w układzie hamulcowym",
+      "sub_title": "maksymalne użycie hamulca awaryjnego zintegrowanego z hamulcem roboczym"
     },
     {
-      "code": "",
-      "title": "",
-      "sub_title": ""
+      "code": "20.09",
+      "title": "wymagane modyfikacje w układzie hamulcowym",
+      "sub_title": "zmodyfikowany hamulec postojowy"
     },
     {
-      "code": "",
-      "title": "",
-      "sub_title": ""
+      "code": "20.10",
+      "title": "wymagane modyfikacje w układzie hamulcowym",
+      "sub_title": "elektrycznie sterowany hamulec postojowy"
     },
     {
-      "code": "",
-      "title": "",
-      "sub_title": ""
+      "code": "20.11",
+      "title": "wymagane modyfikacje w układzie hamulcowym",
+      "sub_title": "nożny hamulec postojowy"
     },
     {
-      "code": "",
-      "title": "",
-      "sub_title": ""
+      "code": "20.12",
+      "title": "wymagane modyfikacje w układzie hamulcowym",
+      "sub_title": "składany lub odkręcany pedał hamulca za przegrodą"
     },
     {
-      "code": "",
-      "title": "",
-      "sub_title": ""
+      "code": "20.13",
+      "title": "wymagane modyfikacje w układzie hamulcowym",
+      "sub_title": "hamulec obsługiwany kolanem"
     },
     {
-      "code": "",
-      "title": "",
-      "sub_title": ""
+      "code": "20.14",
+      "title": "wymagane modyfikacje w układzie hamulcowym",
+      "sub_title": "elektrycznie sterowany hamulec roboczy"
     },
     {
-      "code": "",
-      "title": "",
+      "code": "25",
+      "title": "wymagane modyfikacje w układzie przyspieszenia",
       "sub_title": ""
     },
     {
-      "code": "",
-      "title": "",
-      "sub_title": ""
+      "code": "25.01",
+      "title": "wymagane modyfikacje w układzie przyspieszenia",
+      "sub_title": "zmodyfikowany pedał przyspieszenia"
     },
     {
-      "code": "",
-      "title": "",
-      "sub_title": ""
+      "code": "25.02",
+      "title": "wymagane modyfikacje w układzie przyspieszenia",
+      "sub_title": "pedał przyspieszenia pod całą stopę"
     },
     {
-      "code": "",
-      "title": "",
-      "sub_title": ""
+      "code": "25.03",
+      "title": "wymagane modyfikacje w układzie przyspieszenia",
+      "sub_title": "wychylny pedał przyspieszenia"
     },
     {
-      "code": "",
-      "title": "",
-      "sub_title": ""
+      "code": "25.04",
+      "title": "wymagane modyfikacje w układzie przyspieszenia",
+      "sub_title": "przyspieszenie sterowane ręcznie"
     },
     {
-      "code": "",
-      "title": "",
-      "sub_title": ""
+      "code": "25.05",
+      "title": "wymagane modyfikacje w układzie przyspieszenia",
+      "sub_title": "przyspieszenie sterowane kolanem"
     },
     {
-      "code": "",
-      "title": "",
-      "sub_title": ""
+      "code": "25.06",
+      "title": "wymagane modyfikacje w układzie przyspieszenia",
+      "sub_title": "serwoprzyspieszacz (w tym elektroniczny, pneumatyczny),"
     },
     {
-      "code": "",
-      "title": "",
-      "sub_title": ""
+      "code": "25.07",
+      "title": "wymagane modyfikacje w układzie przyspieszenia",
+      "sub_title": "pedał przyspieszenia po lewej stronie pedału hamulca"
     },
     {
-      "code": "",
-      "title": "",
-      "sub_title": ""
+      "code": "25.08",
+      "title": "wymagane modyfikacje w układzie przyspieszenia",
+      "sub_title": "pedał przyspieszenia po lewej stronie"
     },
     {
-      "code": "",
-      "title": "",
-      "sub_title": ""
+      "code": "25.09",
+      "title": "wymagane modyfikacje w układzie przyspieszenia",
+      "sub_title": "składany lub odkręcany pedał przyspieszenia za przegrodą"
     },
     {
-      "code": "",
-      "title": "",
+      "code": "30",
+      "title": "wymagane wspólne modyfikacje układów hamowania i przyspieszenia",
       "sub_title": ""
     },
     {
-      "code": "",
-      "title": "",
-      "sub_title": ""
+      "code": "30.01",
+      "title": "wymagane wspólne modyfikacje układów hamowania i przyspieszenia",
+      "sub_title": "pedały równoległe"
     },
     {
-      "code": "",
-      "title": "",
-      "sub_title": ""
+      "code": "30.02",
+      "title": "wymagane wspólne modyfikacje układów hamowania i przyspieszenia",
+      "sub_title": "pedały na tym samym lub prawie na tym samym poziomie"
     },
     {
-      "code": "",
-      "title": "",
-      "sub_title": ""
+      "code": "30.03",
+      "title": "wymagane wspólne modyfikacje układów hamowania i przyspieszenia",
+      "sub_title": "przesuwne pedały hamowania i przyspieszenia"
     },
     {
-      "code": "",
-      "title": "",
-      "sub_title": ""
+      "code": "30.04",
+      "title": "wymagane wspólne modyfikacje układów hamowania i przyspieszenia",
+      "sub_title": "pedały hamowania i przyspieszenia z przesuwem i szyną"
     },
     {
-      "code": "",
-      "title": "",
-      "sub_title": ""
+      "code": "30.05",
+      "title": "wymagane wspólne modyfikacje układów hamowania i przyspieszenia",
+      "sub_title": "składane lub odkręcane pedały hamowania i przyspieszenia"
     },
     {
-      "code": "",
-      "title": "",
-      "sub_title": ""
+      "code": "30.06",
+      "title": "wymagane wspólne modyfikacje układów hamowania i przyspieszenia",
+      "sub_title": "wypiętrzona podłoga"
     },
     {
-      "code": "",
-      "title": "",
-      "sub_title": ""
+      "code": "30.07",
+      "title": "wymagane wspólne modyfikacje układów hamowania i przyspieszenia",
+      "sub_title": "przegroda z boku pedału hamulca"
     },
     {
-      "code": "",
-      "title": "",
-      "sub_title": ""
+      "code": "30.08",
+      "title": "wymagane wspólne modyfikacje układów hamowania i przyspieszenia",
+      "sub_title": "przegroda na protezę lub szynę z boku pedału hamulca"
     },
     {
-      "code": "",
-      "title": "",
-      "sub_title": ""
+      "code": "30.09",
+      "title": "wymagane wspólne modyfikacje układów hamowania i przyspieszenia",
+      "sub_title": "przegroda pod pedałami hamowania i przyspieszenia"
     },
     {
-      "code": "",
-      "title": "",
-      "sub_title": ""
+      "code": "30.10",
+      "title": "wymagane wspólne modyfikacje układów hamowania i przyspieszenia",
+      "sub_title": "podparcie pięty lub nogi"
     },
     {
-      "code": "",
-      "title": "",
-      "sub_title": ""
+      "code": "30.11",
+      "title": "wymagane wspólne modyfikacje układów hamowania i przyspieszenia",
+      "sub_title": "elektryczne sterowanie hamowaniem i przyspieszaniem"
     },
     {
-      "code": "",
-      "title": "",
+      "code": "35",
+      "title": "wymagane modyfikacje urządzeń sterowania (przełączniki świateł, wycieraczki szyby przedniej, spryskiwacz,\nsygnał dźwiękowy, kierunkowskazy)",
       "sub_title": ""
     },
     {
-      "code": "",
-      "title": "",
-      "sub_title": ""
+      "code": "35.01",
+      "title": "wymagane modyfikacje urządzeń sterowania (przełączniki świateł, wycieraczki szyby przedniej, spryskiwacz,\nsygnał dźwiękowy, kierunkowskazy)",
+      "sub_title": "urządzenia sterowania obsługiwane bez negatywnego wpływu na kierowanie i obsługę"
     },
     {
-      "code": "",
-      "title": "",
-      "sub_title": ""
+      "code": "35.02",
+      "title": "wymagane modyfikacje urządzeń sterowania (przełączniki świateł, wycieraczki szyby przedniej, spryskiwacz,\nsygnał dźwiękowy, kierunkowskazy)",
+      "sub_title": "urządzenia sterowania obsługiwane bez konieczności puszczenia kierownicy i akcesoriów (w tym gałek, dźwigni)"
     },
     {
-      "code": "",
-      "title": "",
-      "sub_title": ""
+      "code": "35.03",
+      "title": "wymagane modyfikacje urządzeń sterowania (przełączniki świateł, wycieraczki szyby przedniej, spryskiwacz,\nsygnał dźwiękowy, kierunkowskazy)",
+      "sub_title": "urządzenia sterowania obsługiwane bez konieczności puszczenia kierownicy i akcesoriów lewą ręką"
     },
     {
-      "code": "",
-      "title": "",
-      "sub_title": ""
+      "code": "35.04",
+      "title": "wymagane modyfikacje urządzeń sterowania (przełączniki świateł, wycieraczki szyby przedniej, spryskiwacz,\nsygnał dźwiękowy, kierunkowskazy)",
+      "sub_title": "urządzenia sterowania obsługiwane bez konieczności puszczenia kierownicy i akcesoriów prawą ręką"
     },
     {
-      "code": "",
-      "title": "",
-      "sub_title": ""
+      "code": "35.05",
+      "title": "wymagane modyfikacje urządzeń sterowania (przełączniki świateł, wycieraczki szyby przedniej, spryskiwacz,\nsygnał dźwiękowy, kierunkowskazy)",
+      "sub_title": "urządzenia sterowania obsługiwane bez konieczności puszczenia kierownicy i akcesoriów ze wspólnymi mechanizmami\nhamowania i przyspieszenia"
     },
     {
-      "code": "",
-      "title": "",
+      "code": "40",
+      "title": "wymagane modyfikacje w układzie kierowniczym",
       "sub_title": ""
     },
     {
-      "code": "",
-      "title": "",
-      "sub_title": ""
+      "code": "40.01",
+      "title": "wymagane modyfikacje w układzie kierowniczym",
+      "sub_title": "zwykły układ kierowniczy ze wspomaganiem"
     },
     {
-      "code": "",
-      "title": "",
-      "sub_title": ""
+      "code": "40.02",
+      "title": "wymagane modyfikacje w układzie kierowniczym",
+      "sub_title": "układ kierowniczy z aktywnym wspomaganiem"
     },
     {
-      "code": "",
-      "title": "",
-      "sub_title": ""
+      "code": "40.03",
+      "title": "wymagane modyfikacje w układzie kierowniczym",
+      "sub_title": "układ kierowniczy z systemem rezerwowym (sprzężeniem zwrotnym)"
     },
     {
-      "code": "",
-      "title": "",
-      "sub_title": ""
+      "code": "40.04",
+      "title": "wymagane modyfikacje w układzie kierowniczym",
+      "sub_title": "wydłużona kolumna kierownicy"
     },
     {
-      "code": "",
-      "title": "",
-      "sub_title": ""
+      "code": "40.05",
+      "title": "wymagane modyfikacje w układzie kierowniczym",
+      "sub_title": "zmodyfikowana kierownica (grubszy lub cieńszy przekrój koła kierownicy, kierownica o mniejszej średnicy)"
     },
     {
-      "code": "",
-      "title": "",
-      "sub_title": ""
+      "code": "40.06",
+      "title": "wymagane modyfikacje w układzie kierowniczym",
+      "sub_title": "wychylne koło kierownicy"
     },
     {
-      "code": "",
-      "title": "",
-      "sub_title": ""
+      "code": "40.07",
+      "title": "wymagane modyfikacje w układzie kierowniczym",
+      "sub_title": "pionowe koło kierownicy"
     },
     {
-      "code": "",
-      "title": "",
-      "sub_title": ""
+      "code": "40.08",
+      "title": "wymagane modyfikacje w układzie kierowniczym",
+      "sub_title": "poziome koło kierownicy"
     },
     {
-      "code": "",
-      "title": "",
-      "sub_title": ""
+      "code": "40.09",
+      "title": "wymagane modyfikacje w układzie kierowniczym",
+      "sub_title": "kierowanie nożne"
+    },
+    {
+      "code": "40.10",
+      "title": "wymagane modyfikacje w układzie kierowniczym",
+      "sub_title": "alternatywny system kierownicy (drążek)"
+    },
+    {
+      "code": "40.11",
+      "title": "wymagane modyfikacje w układzie kierowniczym",
+      "sub_title": "gałka na kierownicy,"
+    },
+    {
+      "code": "40.12",
+      "title": "wymagane modyfikacje w układzie kierowniczym",
+      "sub_title": "szyna ortopedyczna ręki na kole kierownicy"
+    },
+    {
+      "code": "40.13",
+      "title": "wymagane modyfikacje w układzie kierowniczym",
+      "sub_title": "ze stawem szynowym"
     },
     {
-      "code": "",
-      "title": "",
+      "code": "42",
+      "title": "wymagane modyfikacje lusterka wstecznego (lusterek)",
       "sub_title": ""
+    },
+    {
+      "code": "42.01",
+      "title": "wymagane modyfikacje lusterka wstecznego (lusterek)",
+      "sub_title": "zmodyfikowane zewnętrzne lusterko prawe lub lewe"
+    },
+    {
+      "code": "42.02",
+      "title": "wymagane modyfikacje lusterka wstecznego (lusterek)",
+      "sub_title": "zewnętrzne lusterko na wysięgniku"
+    },
+    {
+      "code": "42.03",
+      "title": "wymagane modyfikacje lusterka wstecznego (lusterek)",
+      "sub_title": "dodatkowe zewnętrzne lusterko pozwalające na obserwację ruchu"
+    },
+    {
+      "code": "42.04",
+      "title": "wymagane modyfikacje lusterka wstecznego (lusterek)",
+      "sub_title": "panoramiczne wewnętrzne lusterko"
+    },
+    {
+      "code": "42.05",
+      "title": "wymagane modyfikacje lusterka wstecznego (lusterek)",
+      "sub_title": "lusterko do obserwacji martwych pól"
+    },
+    {
+      "code": "42.06",
+      "title": "wymagane modyfikacje lusterka wstecznego (lusterek)",
+      "sub_title": "elektrycznie sterowane zewnętrzne lusterko (lusterka)"
     },
     {
-      "code": "",
-      "title": "",
+      "code": "43",
+      "title": "wymagane modyfikacje fotela kierowcy",
       "sub_title": ""
+    },
+    {
+      "code": "43.01",
+      "title": "wymagane modyfikacje fotela kierowcy",
+      "sub_title": "fotel kierowcy na dobrej wysokości obserwacyjnej i w normalnej odległości od kierownicy i pedałów"
+    },
+    {
+      "code": "43.02",
+      "title": "wymagane modyfikacje fotela kierowcy",
+      "sub_title": "fotel kierowcy dostosowany do kształtu ciała"
+    },
+    {
+      "code": "43.03",
+      "title": "wymagane modyfikacje fotela kierowcy",
+      "sub_title": "fotel kierowcy z oparciem bocznym stabilizującym pozycję"
+    },
+    {
+      "code": "43.04",
+      "title": "wymagane modyfikacje fotela kierowcy",
+      "sub_title": "fotel kierowcy z podłokietnikiem"
+    },
+    {
+      "code": "43.05",
+      "title": "wymagane modyfikacje fotela kierowcy",
+      "sub_title": "wydłużone szyny prowadzące fotela kierowcy"
+    },
+    {
+      "code": "43.06",
+      "title": "wymagane modyfikacje fotela kierowcy",
+      "sub_title": "zmodyfikowany pas bezpieczeństwa"
+    },
+    {
+      "code": "43.07",
+      "title": "wymagane modyfikacje fotela kierowcy",
+      "sub_title": "pas bezpieczeństwa szelkowy"
     },
     {
-      "code": "",
-      "title": "",
+      "code": "44",
+      "title": "wymagane modyfikacje motocykli i motorowerów (obowiązkowe stosowanie subkodów)",
       "sub_title": ""
+    },
+    {
+      "code": "44.01",
+      "title": "wymagane modyfikacje motocykli i motorowerów (obowiązkowe stosowanie subkodów)",
+      "sub_title": "hamulec z pojedynczym sterowaniem"
+    },
+    {
+      "code": "44.02",
+      "title": "wymagane modyfikacje motocykli i motorowerów (obowiązkowe stosowanie subkodów)",
+      "sub_title": "zmodyfikowany hamulec ręczny"
+    },
+    {
+      "code": "44.03",
+      "title": "wymagane modyfikacje motocykli i motorowerów (obowiązkowe stosowanie subkodów)",
+      "sub_title": "zmodyfikowany hamulec nożny"
+    },
+    {
+      "code": "44.04",
+      "title": "wymagane modyfikacje motocykli i motorowerów (obowiązkowe stosowanie subkodów)",
+      "sub_title": "zmodyfikowana rączka przyspieszenia"
+    },
+    {
+      "code": "44.05",
+      "title": "wymagane modyfikacje motocykli i motorowerów (obowiązkowe stosowanie subkodów)",
+      "sub_title": "ręczna zmiana biegów i ręczne sprzęgło,"
+    },
+    {
+      "code": "44.06",
+      "title": "wymagane modyfikacje motocykli i motorowerów (obowiązkowe stosowanie subkodów)",
+      "sub_title": "zmodyfikowane lusterko (lusterka) wsteczne"
+    },
+    {
+      "code": "44.07",
+      "title": "wymagane modyfikacje motocykli i motorowerów (obowiązkowe stosowanie subkodów)",
+      "sub_title": "zmodyfikowane wskaźniki kontrolne (kierunkowskazy, lampy hamulca)"
+    },
+    {
+      "code": "44.08",
+      "title": "wymagane modyfikacje motocykli i motorowerów (obowiązkowe stosowanie subkodów)",
+      "sub_title": "wysokość siedzenia pozwalająca kierowcy na oparcie dwóch stóp na ziemi jednocześnie w pozycji siedzącej"
     },
     {
-      "code": "",
-      "title": "",
+      "code": "45",
+      "title": "wyłącznie motocykle z koszem",
       "sub_title": ""
     },
     {
-      "code": "",
-      "title": "",
+      "code": "50",
+      "title": "dla określonego pojazdu lub nadwozia (numer identyfikacyjny pojazdu, VIN)",
       "sub_title": ""
     },
     {
-      "code": "",
-      "title": "",
+      "code": "51",
+      "title": "dla określonego pojazdu lub tablicy rejestracyjnej (numer rejestracyjny pojazdu, VRN)",
       "sub_title": ""
     },
     {
-      "code": "",
-      "title": "",
+      "code": "70",
+      "title": "wymiana prawa jazdy numer ..... wydanego przez ....... (wyróżnik UE/ONZ w przypadku państwa trzeciego, np.:70.0123456789.NL)",
       "sub_title": ""
     },
     {
-      "code": "",
-      "title": "",
+      "code": "71",
+      "title": "wtórnik prawa jazdy numer ...... (wyróżnik UE/ONZ w przypadku państwa trzeciego, np.: 71.987654321.HR)",
       "sub_title": ""
     },
     {
-      "code": "",
-      "title": "",
+      "code": "72",
+      "title": "wyłącznie dla pojazdów kategorii A z maksymalną pojemnością skokową cylindra 125 cm3 oraz maksymalną mocą\n11 Kw (A1)",
       "sub_title": ""
     },
     {
-      "code": "",
-      "title": "",
+      "code": "73",
+      "title": "wyłącznie dla pojazdów kategorii B z silnikiem, typów trójkołowych lub czterokołowych (B1)",
       "sub_title": ""
     },
     {
-      "code": "",
-      "title": "",
+      "code": "74",
+      "title": "wyłącznie dla pojazdów kategorii C, których dopuszczalna masa całkowita nie przekracza 7500 kg (C1)",
       "sub_title": ""
     },
     {
-      "code": "",
-      "title": "",
+      "code": "75",
+      "title": "wyłącznie dla pojazdów kategorii D z nie więcej niż 16 miejscami siedzącymi, wyłączając siedzenie kierowcy (D1)",
       "sub_title": ""
     },
     {
-      "code": "",
-      "title": "",
+      "code": "76",
+      "title": "wyłącznie dla pojazdów kategorii C, których dopuszczalna masa całkowita nie przekracza 7500 kg (C1), połączonych\nz przyczepą, której dopuszczalna masa całkowita przekracza 750 kg, o ile dopuszczalna masa całkowita utworzonego\nw ten sposób zespołu pojazdów nie przekracza 12 000 kg, a dopuszczalna masa całkowita przyczepy nie przekracza\nmasy własnej pojazdu ciągnącego (C1+E)",
       "sub_title": ""
     },
     {
-      "code": "",
-      "title": "",
+      "code": "77",
+      "title": "wyłącznie dla pojazdów kategorii D z nie więcej niż 16 miejscami siedzącymi bez siedzenia kierowcy (D1) połączonych\nz przyczepą, której dopuszczalna masa całkowita przekracza 750 kg, o ile (a) dopuszczalna masa całkowita utworzonego\nw ten sposób zespołu pojazdów nie przekracza 12 000 kg, a dopuszczalna masa całkowita przyczepy nie przekracza\nmasy własnej pojazdu ciągnącego oraz (b) przyczepa nie jest wykorzystywana do przewozu pasażerów (D1+E)",
       "sub_title": ""
     },
     {
-      "code": "",
-      "title": "",
+      "code": "78",
+      "title": "wyłącznie pojazdy bez pedału sprzęgła (albo dźwigni ręcznej dla kategorii AM, A1, A2 i A )",
       "sub_title": ""
     },
     {
-      "code": "",
-      "title": "",
+      "code": "79",
+      "title": "ograniczenie do pojazdów, które spełniają wymogi specyfikacji wskazanej w nawiasach – kod stosuje się wyłącznie\nw przypadku przeniesienia ograniczeń z wymienianego prawa jazdy wydanego za granicą, np.: 79(…)",
       "sub_title": ""
     },
     {
-      "code": "",
-      "title": "",
+      "code": "95",
+      "title": "potwierdzenie posiadania świadectwa kwalifikacji zawodowej",
       "sub_title": ""
     },
     {
-      "code": "",
-      "title": "",
+      "code": "96",
+      "title": "potwierdzenie posiadania uprawnień do kierowania zespołem pojazdów",
       "sub_title": ""
     },
     {
-      "code": "",
-      "title": "",
+      "code": "101",
+      "title": "wymagane dodatkowe oznakowanie pojazdu",
       "sub_title": ""
     },
     {
-      "code": "",
-      "title": "",
+      "code": "102",
+      "title": "wymiana uzyskanego przed dniem 1 lipca 1999 r. prawa jazdy kategorii C bez posiadania kategorii B prawa jazdy",
       "sub_title": ""
     },
     {
-      "code": "",
-      "title": "",
+      "code": "103",
+      "title": "wymiana uzyskanego przed dniem 1 lipca 1999 r. prawa jazdy kategorii D bez posiadania kategorii B prawa jazdy",
       "sub_title": ""
     },
     {
-      "code": "",
-      "title": "",
+      "code": "104",
+      "title": "wymiana prawa jazdy kategorii M z ograniczeniem do kierowania tylko pojazdami wolnobieżnymi",
       "sub_title": ""
     },
     {
-      "code": "",
-      "title": "",
+      "code": "105",
+      "title": "wymiana prawa jazdy kategorii trolejbusowej z ograniczeniem do kierowania tylko trolejbusami",
       "sub_title": ""
     },
     {
-      "code": "",
-      "title": "",
+      "code": "106",
+      "title": "zakaz w zakresie kategorii B prawa jazdy przy posiadaniu kategorii C1, C, D1 lub D prawa jazdy",
       "sub_title": ""
     },
     {
-      "code": "",
-      "title": "",
+      "code": "107",
+      "title": "wymagane dostosowanie pojazdu do rodzaju schorzenia",
       "sub_title": ""
     }
   ]

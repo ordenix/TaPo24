@@ -233,7 +233,7 @@
       "points": null,
       "code": "null",
       "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
-      "paragraph": "",
+      "paragraph": "art. 15a ust. 1 PRD Osoba poruszająca się przy użyciu urządzenia wspomagającego ruch jest obowiązana korzystać z chodnika, drogi dla pieszych lub drogi dla rowerów. Osobę poruszającą się przy użyciu urządzenia wspomagającego ruch na drodze dla rowerów obowiązuje ruch prawostronny",
       "path": null
     },
     {
@@ -244,7 +244,7 @@
       "points": null,
       "code": "null",
       "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
-      "paragraph": "",
+      "paragraph": "art. 15a ust. 1 PRD Osoba poruszająca się przy użyciu urządzenia wspomagającego ruch jest obowiązana korzystać z chodnika, drogi dla pieszych lub drogi dla rowerów. Osobę poruszającą się przy użyciu urządzenia wspomagającego ruch na drodze dla rowerów obowiązuje ruch prawostronny",
       "path": null
     },
     {
@@ -255,7 +255,7 @@
       "points": null,
       "code": "null",
       "law": "art. 86a KW Kto, kierując rowerem, hulajnogą elektryczną lub urządzeniem transportu osobistego albo poruszając się przy użyciu urządzenia wspomagającego ruch na chodniku lub drodze dla pieszych, nie porusza się z prędkością zbliżoną do prędkości pieszego lub nie ustępuje pierwszeństwa pieszemu, podlega karze grzywny albo karze nagany.",
-      "paragraph": "",
+      "paragraph": "art. 15a ust. 3 PRD Osoba poruszająca się przy użyciu urządzenia wspomagającego ruch, korzystając z chodnika albo drogi dla pieszych, jest obowiązana poruszać się z prędkością zbliżoną do prędkości pieszego, zachować szczególną ostrożność, ustępować pierwszeństwa pieszemu oraz nie utrudniać jego ruchu",
       "path": null
     },
     {
@@ -266,7 +266,7 @@
       "points": null,
       "code": "null",
       "law": "art. 86a KW Kto, kierując rowerem, hulajnogą elektryczną lub urządzeniem transportu osobistego albo poruszając się przy użyciu urządzenia wspomagającego ruch na chodniku lub drodze dla pieszych, nie porusza się z prędkością zbliżoną do prędkości pieszego lub nie ustępuje pierwszeństwa pieszemu, podlega karze grzywny albo karze nagany.",
-      "paragraph": "",
+      "paragraph": "art. 15a ust. 3 PRD Osoba poruszająca się przy użyciu urządzenia wspomagającego ruch, korzystając z chodnika albo drogi dla pieszych, jest obowiązana poruszać się z prędkością zbliżoną do prędkości pieszego, zachować szczególną ostrożność, ustępować pierwszeństwa pieszemu oraz nie utrudniać jego ruchu",
       "path": null
     },
     {
@@ -419,7 +419,6 @@
       "points": 0,
       "code": "Z 01",
       "law": "art. 86b § 1 pkt. 1 KW Kto na drodze publicznej, w strefie zamieszkania lub strefie ruchu, prowadząc pojazd mechaniczny wbrew obowiązkowi nie ustępuje pierwszeństwa pieszemu\"",
-      "paragraph": "",
       "paragraph_sub": {
         "1": "art. 26 ust. 4 PRD Kierujący pojazdem, przejeżdżając przez chodnik lub drogę dla pieszych, jest obowiązany jechać powoli i ustąpić pierwszeństwa pieszemu",
         "2": "art. 26 ust. 5 PRD Przepis ust. 4 stosuje się odpowiednio podczas jazdy po placu, na którym ze względu na brak wyodrębnienia jezdni i chodników ruch pieszych i pojazdów odbywa się po tej samej powierzchni."
@@ -456,7 +455,6 @@
       "points": 0,
       "code": "Z 01",
       "law": "art. 86b § 1 pkt. 1 KW Kto na drodze publicznej, w strefie zamieszkania lub strefie ruchu, prowadząc pojazd mechaniczny wbrew obowiązkowi nie ustępuje pierwszeństwa pieszemu\"",
-      "paragraph": "",
       "paragraph_sub": {
         "1": "art. 11 ust. 1 PRD Pieszy jest obowiązany korzystać z chodnika lub drogi dla pieszych, a w razie ich braku – z pobocza. Jeżeli nie ma pobocza lub czasowo nie można z niego korzystać, pieszy może korzystać z jezdni, pod warunkiem zajmowania miejsca jak najbliżej jej krawędzi i ustępowania miejsca nadjeżdżającemu pojazdowi ",
         "2": "art. 11 ust. 2 PRD Pieszy idący po poboczu lub jezdni jest obowiązany iść lewą stroną drogi",
@@ -508,7 +506,6 @@
       "points": 0,
       "code": "K 04",
       "law": "art. 86b § 1 pkt. 5 KW Kto na drodze publicznej, w strefie zamieszkania lub strefie ruchu, prowadząc pojazd mechaniczny narusza zakaz jazdy wzdłuż po chodniku lub przejściu dla pieszych,\npodlega karze grzywny nie niższej niż 1500 złotych.",
-      "paragraph": "",
       "paragraph_sub": {
         "1": "art. 26 ust. 3 pkt 2 PRD Kierującemu pojazdem zabrania się jazdy wzdłuż po chodniku lub przejściu dla pieszych, z zastrzeżeniem art. 33 ust. 6, art. 33a ust. 2 oraz art. 33b ust. 2 ",
         "2": "art. 33 ust. 6 PRD Kierujący rowerem, korzystając z chodnika albo drogi dla pieszych, jest obowiązany jechać z prędkością zbliżoną do prędkości pieszego, zachować szczególną ostrożność, ustępować pierwszeństwa pieszemu oraz nie utrudniać jego ruchu",
@@ -539,7 +536,10 @@
         "1": "art. 86b § 2 KW Kto dopuszcza się wykroczenia określonego w § 1, prowadząc inny pojazd\nniż określony w tym przepisie,\npodlega karze grzywny albo karze nagany",
         "2": "art. 86b § 1 pkt. 1 KW Kto na drodze publicznej, w strefie zamieszkania lub strefie ruchu,\nprowadząc pojazd mechaniczny wbrew obowiązkowi nie ustępuje pierwszeństwa pieszemu"
       },
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "art. 26 ust. 1 PRD Kierujący pojazdem, zbliżając się do przejścia dla pieszych, jest obowiązany zachować szczególną ostrożność, zmniejszyć prędkość tak, aby nie narazić na niebezpieczeństwo pieszego znajdującego się na tym przejściu albo na nie wchodzącego i ustąpić pierwszeństwa pieszemu znajdującemu się na tym przejściu albo wchodzącemu na to przejście, z zastrzeżeniem ust. 1a",
+        "2": "art. 26 ust. 1a PRD Kierujący tramwajem, zbliżając się do przejścia dla pieszych, jest obowiązany zachować szczególną ostrożność, zmniejszyć prędkość tak, aby nie narazić na niebezpieczeństwo pieszego znajdującego się na tym przejściu i ustąpić pierwszeństwa pieszemu znajdującemu się na tym przejściu"
+      },
       "path": null
     },
     {
@@ -553,7 +553,7 @@
         "1": "art. 86b § 2 KW Kto dopuszcza się wykroczenia określonego w § 1, prowadząc inny pojazd\nniż określony w tym przepisie,\npodlega karze grzywny albo karze nagany",
         "2": "art. 86b § 1 pkt. 1 KW Kto na drodze publicznej, w strefie zamieszkania lub strefie ruchu,\nprowadząc pojazd mechaniczny wbrew obowiązkowi nie ustępuje pierwszeństwa pieszemu"
       },
-      "paragraph": "",
+      "paragraph": "art. 26 ust. 2 PRD Kierujący pojazdem, który skręca w drogę poprzeczną, jest obowiązany ustąpić pierwszeństwa pieszemu przechodzącemu na skrzyżowaniu przez jezdnię drogi, na którą wjeżdża",
       "path": null
     },
     {
@@ -567,7 +567,11 @@
         "1": "art. 86b § 2 KW Kto dopuszcza się wykroczenia określonego w § 1, prowadząc inny pojazd\nniż określony w tym przepisie,\npodlega karze grzywny albo karze nagany",
         "2": "art. 86b § 1 pkt. 1 KW Kto na drodze publicznej, w strefie zamieszkania lub strefie ruchu,\nprowadząc pojazd mechaniczny wbrew obowiązkowi nie ustępuje pierwszeństwa pieszemu"
       },
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "art. 26 ust. 1 PRD Kierujący pojazdem, zbliżając się do przejścia dla pieszych, jest obowiązany zachować szczególną ostrożność, zmniejszyć prędkość tak, aby nie narazić na niebezpieczeństwo pieszego znajdującego się na tym przejściu albo na nie wchodzącego i ustąpić pierwszeństwa pieszemu znajdującemu się na tym przejściu albo wchodzącemu na to przejście, z zastrzeżeniem ust. 1a",
+        "2": "art. 26 ust. 5 PRD Przepis ust. 4 stosuje się odpowiednio podczas jazdy po placu, na którym ze względu na brak wyodrębnienia jezdni i chodników ruch pieszych i pojazdów odbywa się po tej samej powierzchni",
+        "3": "art. 26 ust. 4 PRD Kierujący pojazdem, przejeżdżając przez chodnik lub drogę dla pieszych, jest obowiązany jechać powoli i ustąpić pierwszeństwa pieszemu."
+      },
       "path": null
     },
     {
@@ -581,7 +585,7 @@
       "1": "art. 86b § 2 KW Kto dopuszcza się wykroczenia określonego w § 1, prowadząc inny pojazd\nniż określony w tym przepisie,\npodlega karze grzywny albo karze nagany",
       "2": "art. 86b § 1 pkt. 1 KW Kto na drodze publicznej, w strefie zamieszkania lub strefie ruchu,\nprowadząc pojazd mechaniczny wbrew obowiązkowi nie ustępuje pierwszeństwa pieszemu"
     },
-      "paragraph": "",
+      "paragraph": "art. 17 ust. 2 PRD Kierujący pojazdem, włączając się do ruchu, jest obowiązany zachować szczególną ostrożność oraz ustąpić pierwszeństwa innemu pojazdowi lub uczestnikowi ruchu",
       "path": null
     },
     {
@@ -595,7 +599,13 @@
         "1": "art. 86b § 2 KW Kto dopuszcza się wykroczenia określonego w § 1, prowadząc inny pojazd\nniż określony w tym przepisie,\npodlega karze grzywny albo karze nagany",
         "2": "art. 86b § 1 pkt. 1 KW Kto na drodze publicznej, w strefie zamieszkania lub strefie ruchu,\nprowadząc pojazd mechaniczny wbrew obowiązkowi nie ustępuje pierwszeństwa pieszemu"
       },
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": " art. 11 ust. 1 PRD Pieszy jest obowiązany korzystać z chodnika lub drogi dla pieszych, a w razie ich braku – z pobocza. Jeżeli nie ma pobocza lub czasowo nie można z niego korzystać, pieszy może korzystać z jezdni, pod warunkiem zajmowania miejsca jak najbliżej jej krawędzi i ustępowania miejsca nadjeżdżającemu pojazdowi",
+        "2": " art. 11 ust. 2 PRD Pieszy idący po poboczu lub jezdni jest obowiązany iść lewą stroną drogi",
+        "3": " art. 11 ust. 3 PRD Piesi idący jezdnią są obowiązani iść jeden za drugim. Na drodze o małym ruchu, w warunkach dobrej widoczności, dwóch pieszych może iść obok siebie",
+        "4": " art. 11 ust. 4a PRD Pieszy poruszający się po drodze po zmierzchu poza obszarem zabudowanym jest obowiązany używać elementów odblaskowych w sposób widoczny dla innych uczestników ruchu, chyba że porusza się po drodze przeznaczonej wyłącznie dla pieszych lub po chodniku",
+        "5": " art. 11 ust. 5 PRD Przepisów ust. 1–4a nie stosuje się w strefie zamieszkania. W strefie tej pieszy korzysta z całej szerokości drogi i ma pierwszeństwo przed pojazdem oraz osobą poruszającą się przy użyciu urządzenia wspomagającego ruch"
+      },
       "path": null
     },
     {
@@ -609,7 +619,7 @@
         "1": "art. 86b § 2 KW Kto dopuszcza się wykroczenia określonego w § 1, prowadząc inny pojazd\nniż określony w tym przepisie,\npodlega karze grzywny albo karze nagany",
         "2": "art. 86b § 1 pkt. 2 KW Kto na drodze publicznej, w strefie zamieszkania lub strefie ruchu,\nprowadząc pojazd mechaniczny nie zatrzymuje pojazdu w celu umożliwienia przejścia przez jezdnię osobie\nniepełnosprawnej, używającej specjalnego znaku, lub osobie o widocznej\nograniczonej sprawności ruchowej"
       },
-      "paragraph": "",
+      "paragraph": "art. 26 ust. 7 PRD W razie przechodzenia przez jezdnię osoby niepełnosprawnej, używającej specjalnego znaku, lub osoby o widocznej ograniczonej sprawności ruchowej, kierujący jest obowiązany zatrzymać pojazd w celu umożliwienia jej przejścia",
       "path": null
     },
     {
@@ -673,7 +683,11 @@
       "points": 5,
       "code": "D 09",
       "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "art. 9 ust. 2 pkt. 1  PRD W warunkach zwiększonego natężenia ruchu pojazdów utrudniającego swobodny przejazd pojazdu uprzywilejowanego w celu umożliwienia swobodnego przejazdu tego pojazdu  na jezdni z dwoma pasami ruchu w tym samym kierunku kierujący pojazdem poruszający się lewym pasem ruchu jest obowiązany usunąć się z drogi przejazdu pojazdu uprzywilejowanego przez zjechanie jak najbliżej lewej krawędzi pasa ruchu, a kierujący pojazdem poruszający się prawym pasem ruchu jest obowiązany usunąć się z drogi przejazdu pojazdu uprzywilejowanego przez zjechanie jak najbliżej prawej krawędzi pasa ruchu",
+        "2": "art. 9 ust. 2 pkt. 2  PRD W warunkach zwiększonego natężenia ruchu pojazdów utrudniającego swobodny przejazd pojazdu uprzywilejowanego w celu umożliwienia swobodnego przejazdu tego pojazdu na jezdni z więcej niż dwoma pasami ruchu w tym samym kierunku kierujący pojazdem poruszający się skrajnym lewym pasem ruchu jest obowiązany usunąć się z drogi przejazdu pojazdu uprzywilejowanego przez zjechanie jak najbliżej lewej krawędzi pasa ruchu, a kierujący pojazdami poruszający się pozostałymi pasami ruchu są obowiązani usunąć się z drogi przejazdu pojazdu uprzywilejowanego przez zjechanie jak najbliżej prawej krawędzi pasów ruchu",
+        "3": "art. 9 ust. 2 pkt. 3  PRD W warunkach zwiększonego natężenia ruchu pojazdów utrudniającego swobodny przejazd pojazdu uprzywilejowanego w celu umożliwienia swobodnego przejazdu tego pojazdu Kierującemu pojazdem innym niż uprzywilejowany zabrania się korzystania z drogi przejazdu pojazdu uprzywilejowanego utworzonej w sposób, o którym mowa w ust. 2. Kierujący pojazdem może kontynuować jazdę po uprzednio zajmowanym pasie ruchu po przejeździe pojazdu uprzywilejowanego"
+      },
       "path": null
     },
     {
@@ -710,7 +724,6 @@
       "points": 6,
       "code": "J 01",
       "law": "97KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
-      "paragraph": "",
       "paragraph_sub": {
         "1": "art. 45 ust. 2 pkt 3 PRD Kierującemu pojazdem zabrania się przewożenia pasażera w sposób niezgodny z art. 39 ust. 3 , 3a-3c PRD",
         "2": "art. 39 ust. 3 PRD W pojeździe kategorii M1, N1, N2 i N3, o których mowa w załączniku nr 2 do\nustawy, wyposażonym w pasy bezpieczeństwa lub urządzenia przytrzymujące dla\ndzieci, dziecko mające mniej niż 150 cm wzrostu jest przewożone, z wyjątkiem\nprzypadku, o którym mowa w ust. 3b, w foteliku bezpieczeństwa dla dziecka lub\ninnym urządzeniu przytrzymującym dla dzieci, zgodnym z:\n1) masą i wzrostem dziecka oraz\n2) właściwymi warunkami technicznymi określonymi w przepisach Unii\nEuropejskiej lub w regulaminach EKG ONZ dotyczących urządzeń\nprzytrzymujących dla dzieci w pojeździe",
@@ -832,7 +845,6 @@
       "points": 0,
       "code": "Z 01",
       "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
-      "paragraph": "",
       "paragraph_sub": {
         "1": "art. 45 ust. 2 pkt. 2 PRD Kierującemu pojazdem zabrania się przewożenia osoby, o której mowa w ust. 1 pkt 1, na rowerze lub motorowerze albo motocyklu, chyba że jest przewożona w bocznym wózku   ",
         "2": "art. 45 ust. 1 pkt. 1 PRD Zabrania się kierowania pojazdem, prowadzenia kolumny pieszych, jazdy wierzchem lub pędzenia zwierząt osobie w stanie nietrzeźwości, w stanie po użyciu alkoholu lub środka działającego podobnie do alkoholu"
@@ -858,7 +870,16 @@
       "points": 0,
       "code": "Z 01",
       "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "art. 44 ust. 1 pkt. 1 PRD Kierujący pojazdem w razie uczestniczenia w wypadku drogowym jest obowiązany zatrzymać pojazd, nie powodując przy tym zagrożenia bezpieczeństwa ruchu drogowego;",
+        "2": "art. 44 ust. 1 pkt. 2 PRD Kierujący pojazdem w razie uczestniczenia w wypadku drogowym jest obowiązany przedsięwziąć odpowiednie środki w celu zapewnienia bezpieczeństwa ruchu w miejscu wypadku",
+        "3": "art. 44 ust. 1 pkt. 3 PRD Kierujący pojazdem w razie uczestniczenia w wypadku drogowym jest obowiązany niezwłocznie usunąć pojazd z miejsca wypadku, aby nie powodował zagrożenia lub tamowania ruchu, jeżeli nie ma zabitego lub rannego",
+        "4": "art. 44 ust. 1 pkt. 4 PRD Kierujący pojazdem w razie uczestniczenia w wypadku drogowym jest obowiązany podać swoje dane personalne, dane personalne właściciela lub posiadacza pojazdu oraz dane dotyczące zakładu ubezpieczeń, z którym zawarta jest umowa obowiązkowego ubezpieczenia odpowiedzialności cywilnej, na żądanie osoby uczestniczącej w wypadku",
+        "5": "art. 44 ust. 2 pkt. 1 PRD Jeżeli w wypadku jest zabity lub ranny, kierujący pojazdem jest obowiązany ponadto udzielić niezbędnej pomocy ofiarom wypadku oraz wezwać zespół ratownictwa medycznego i Policję",
+        "6": "art. 44 ust. 2 pkt. 2 PRD Jeżeli w wypadku jest zabity lub ranny, kierujący pojazdem jest obowiązany ponadto nie podejmować czynności, które mogłyby utrudnić ustalenie przebiegu wypadku",
+        "7": "art. 44 ust. 2 pkt. 3 PRD Jeżeli w wypadku jest zabity lub ranny, kierujący pojazdem jest obowiązany ponadto pozostać na miejscu wypadku, a jeżeli wezwanie zespołu ratownictwa medycznego lub Policji wymaga oddalenia się – niezwłocznie powrócić na to miejsce",
+        "8":"art. 44 ust. 3 PRD Przepisy ust. 1 i 2 stosuje się odpowiednio do innych osób uczestniczących w wypadku."
+      },
       "path": null
     },
     {
@@ -1080,7 +1101,10 @@
       "points": 0,
       "code": "Z 01",
       "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "art. 22 ust. 2 pkt 1 PRD Kierujący pojazdem jest obowiązany zbliżyć się do prawej krawędzi jezdni – jeżeli zamierza skręcić w prawo",
+        "2": "art. 22 ust. 2 pkt 2 PRD Kierujący pojazdem jest obowiązany zbliżyć się do środka jezdni lub na jezdni o ruchu jednokierunkowym do lewej jej krawędzi – jeżeli zamierza skręcić w lewo"
+      },
       "path": null
     },
     {
@@ -1124,7 +1148,6 @@
       "points": 3,
       "code": "F 10",
       "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
-      "paragraph": "",
       "paragraph_sub": {
         "1": "art. 24 ust. 6 PRD Kierującemu pojazdem wyprzedzanym zabrania się w czasie wyprzedzania i bezpośrednio po nim zwiększania prędkości. Kierujący pojazdem wolnobieżnym, ciągnikiem rolniczym lub pojazdem bez silnika jest obowiązany zjechać jak najbardziej na prawo w celu ułatwienia wyprzedzania. Przepisu nie stosuje się w przypadku, o którym mowa w ust. 12",
         "2": "art. 24 ust. 12 PRD Kierujący rowerem może wyprzedzać inne niż rower powoli jadące pojazdy z ich prawej strony"
@@ -1139,7 +1162,6 @@
       "points": 0,
       "code": "Z 01",
       "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
-      "paragraph": "",
       "paragraph_sub": {
         "1": "art. 24 ust. 6 PRD Kierującemu pojazdem wyprzedzanym zabrania się w czasie wyprzedzania i bezpośrednio po nim zwiększania prędkości. Kierujący pojazdem wolnobieżnym, ciągnikiem rolniczym lub pojazdem bez silnika jest obowiązany zjechać jak najbardziej na prawo w celu ułatwienia wyprzedzania. Przepisu nie stosuje się w przypadku, o którym mowa w ust. 12",
         "2": "art. 24 ust. 12 PRD Kierujący rowerem może wyprzedzać inne niż rower powoli jadące pojazdy z ich prawej strony"
@@ -1241,8 +1263,21 @@
       "tax": "1000/[2000]",
       "points": 3,
       "code": "F 02",
-      "law": "art. 92b KW Kto, prowadząc pojazd mechaniczny, nie stosuje się do zakazu wyprzedzania określonego ustawą lub znakiem drogowym,podlega karze grzywny nie niższej niż 1000 złotych.",
-      "paragraph": "",
+      "law": "art. 92b KW Kto, prowadząc pojazd mechaniczny, nie stosuje się do zakazu wyprzedzania określonego ustawą lub znakiem drogowym,podlega karze grzywny nie niższej niż 1000 złotych",
+      "paragraph_sub": {
+        "1": "art. 24 ust. 1 pkt 1 PRD Kierujący pojazdem jest obowiązany przed wyprzedzaniem upewnić się w szczególności, czy ma odpowiednią widoczność i dostateczne miejsce do wyprzedzania bez utrudnienia komukolwiek ruchu",
+        "2": "art. 24 ust. 1 pkt 2 PRD Kierujący pojazdem jest obowiązany przed wyprzedzaniem upewnić się w szczególności, czy kierujący, jadący za nim, nie rozpoczął wyprzedzania",
+        "3": "art. 24 ust. 1 pkt 3 PRD Kierujący pojazdem jest obowiązany przed wyprzedzaniem upewnić się w szczególności, czy kierujący, jadący przed nim na tym samym pasie ruchu, nie zasygnalizował zamiaru wyprzedzania innego pojazdu, zmiany kierunku jazdy lub zmiany pasa ruchu",
+        "4": "art. 24 ust. 3 PRD Kierujący pojazdem jest obowiązany przy wyprzedzaniu przejeżdżać z lewej strony wyprzedzanego pojazdu, z zastrzeżeniem ust. 4, 5, 10 i 12",
+        "5": "art. 4 ust. 4 PRD Pojazd szynowy może być wyprzedzany tylko z prawej strony, chyba że położenie torów uniemożliwia takie wyprzedzanie lub wyprzedzanie odbywa się na jezdni jednokierunkowej",
+        "6": "art. 24 ust. 5 PRD Wyprzedzanie pojazdu lub uczestnika ruchu, który sygnalizuje zamiar skręcenia w lewo, może odbywać się tylko z jego prawej strony",
+        "7": "art. 24 ust. 7 pkt 1 PRD Zabrania się wyprzedzania pojazdu silnikowego jadącego po jezdni przy dojeżdżaniu do wierzchołka wzniesienia",
+        "8": "art. 24 ust. 7 pkt 2 PRD Zabrania się wyprzedzania pojazdu silnikowego jadącego po jezdni na zakręcie oznaczonym znakami ostrzegawczymi",
+        "9": "art. 24 ust. 7 pkt 3 PRD Zabrania się wyprzedzania pojazdu silnikowego jadącego po jezdni na skrzyżowaniu, z wyjątkiem skrzyżowania o ruchu okrężnym lub na którym ruch jest kierowany",
+        "10": "art. 24 ust. 10 pkt 1 PRD Dopuszcza się wyprzedzanie z prawej strony na odcinku drogi z wyznaczonymi pasami ruchu, przy zachowaniu warunków określonych w ust. 1 i 7 PRD na jezdni jednokierunkowej ",
+        "11": "art. 24 ust. 10 PRD pkt 2 PRD Dopuszcza się wyprzedzanie z prawej strony na odcinku drogi z wyznaczonymi pasami ruchu, przy zachowaniu warunków określonych w ust. 1 i 7 PRD na jezdni dwukierunkowej, jeżeli co najmniej dwa pasy ruchu na obszarze zabudowanym lub trzy pasy ruchu poza obszarem zabudowanym przeznaczone są do jazdy w tym samym kierunku",
+        "12": "art. 24 ust. 12 PRD Kierujący rowerem może wyprzedzać inne niż rower powoli jadące pojazdy z ich prawej strony"
+      },
       "path": null
     },
     {
