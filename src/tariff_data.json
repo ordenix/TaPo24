@@ -7,7 +7,7 @@
       "tax": "",
       "points": null,
       "code": "null",
-      "law": "",
+      "law": "none",
       "paragraph": "",
       "path": null,
       "visible": false
@@ -75,7 +75,6 @@
       "points": null,
       "code": "null",
       "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
-      "paragraph": "",
       "paragraph_sub": {
         "1": "art. 13 ust. 1. PRD Pieszy wchodzący na jezdnię lub torowisko albo przechodzący przez jezdnię lub torowisko jest obowiązany zachować szczególną ostrożność oraz, z zastrzeżeniem ust. 2 i 3, korzystać z przejścia dla pieszych.",
         "2": "art. 13 ust. 2. PRD Przechodzenie przez jezdnię poza przejściem dla pieszych jest dozwolone, gdy\nodległość od przejścia przekracza 100 m. Jeżeli jednak skrzyżowanie znajduje się\nw odległości mniejszej niż 100 m od wyznaczonego przejścia, przechodzenie jest\ndozwolone również na tym skrzyżowaniu",
@@ -277,7 +276,6 @@
       "tax": "200",
       "points": null,
       "code": "null",
-      "law": "",
       "law_sub": {
         "1": "art. 90§1 KW Kto tamuje lub utrudnia ruch na drodze publicznej, w strefie zamieszkania lub strefie ruchu,\npodlega karze grzywny do 500 złotych lub karze nagany",
         "2": "art. 90§2 KW Jeżeli wykroczenia, o którym mowa w § 1, dopuszcza się prowadzący pojazd mechaniczny,\npodlega karze grzywny nie niższej niż 500 złotych"
@@ -314,7 +312,6 @@
       "tax": "200",
       "points": null,
       "code": "null",
-      "law": "",
       "law_sub": {
         "1": "art. 90§1 KW Kto tamuje lub utrudnia ruch na drodze publicznej, w strefie zamieszkania lub strefie ruchu,\npodlega karze grzywny do 500 złotych lub karze nagany",
         "2": "art. 90§2 KW Jeżeli wykroczenia, o którym mowa w § 1, dopuszcza się prowadzący pojazd mechaniczny,\npodlega karze grzywny nie niższej niż 500 złotych"
@@ -538,7 +535,6 @@
       "tax": "50-500",
       "points": null,
       "code": "null",
-      "law": "",
       "law_sub": {
         "1": "art. 86b § 2 KW Kto dopuszcza się wykroczenia określonego w § 1, prowadząc inny pojazd\nniż określony w tym przepisie,\npodlega karze grzywny albo karze nagany",
         "2": "art. 86b § 1 pkt. 1 KW Kto na drodze publicznej, w strefie zamieszkania lub strefie ruchu,\nprowadząc pojazd mechaniczny wbrew obowiązkowi nie ustępuje pierwszeństwa pieszemu"
@@ -553,7 +549,6 @@
       "tax": "50-300",
       "points": null,
       "code": "null",
-      "law": "",
       "law_sub": {
         "1": "art. 86b § 2 KW Kto dopuszcza się wykroczenia określonego w § 1, prowadząc inny pojazd\nniż określony w tym przepisie,\npodlega karze grzywny albo karze nagany",
         "2": "art. 86b § 1 pkt. 1 KW Kto na drodze publicznej, w strefie zamieszkania lub strefie ruchu,\nprowadząc pojazd mechaniczny wbrew obowiązkowi nie ustępuje pierwszeństwa pieszemu"
@@ -568,7 +563,6 @@
       "tax": "50-300",
       "points": null,
       "code": "null",
-      "law": "",
       "law_sub": {
         "1": "art. 86b § 2 KW Kto dopuszcza się wykroczenia określonego w § 1, prowadząc inny pojazd\nniż określony w tym przepisie,\npodlega karze grzywny albo karze nagany",
         "2": "art. 86b § 1 pkt. 1 KW Kto na drodze publicznej, w strefie zamieszkania lub strefie ruchu,\nprowadząc pojazd mechaniczny wbrew obowiązkowi nie ustępuje pierwszeństwa pieszemu"
@@ -583,7 +577,6 @@
       "tax": "50-200",
       "points": null,
       "code": "null",
-      "law": "",
       "law_sub": {
       "1": "art. 86b § 2 KW Kto dopuszcza się wykroczenia określonego w § 1, prowadząc inny pojazd\nniż określony w tym przepisie,\npodlega karze grzywny albo karze nagany",
       "2": "art. 86b § 1 pkt. 1 KW Kto na drodze publicznej, w strefie zamieszkania lub strefie ruchu,\nprowadząc pojazd mechaniczny wbrew obowiązkowi nie ustępuje pierwszeństwa pieszemu"
@@ -598,7 +591,6 @@
       "tax": "50-100",
       "points": null,
       "code": "null",
-      "law": "",
       "law_sub": {
         "1": "art. 86b § 2 KW Kto dopuszcza się wykroczenia określonego w § 1, prowadząc inny pojazd\nniż określony w tym przepisie,\npodlega karze grzywny albo karze nagany",
         "2": "art. 86b § 1 pkt. 1 KW Kto na drodze publicznej, w strefie zamieszkania lub strefie ruchu,\nprowadząc pojazd mechaniczny wbrew obowiązkowi nie ustępuje pierwszeństwa pieszemu"
@@ -613,7 +605,6 @@
       "tax": "50-500",
       "points": null,
       "code": "null",
-      "law": "",
       "law_sub": {
         "1": "art. 86b § 2 KW Kto dopuszcza się wykroczenia określonego w § 1, prowadząc inny pojazd\nniż określony w tym przepisie,\npodlega karze grzywny albo karze nagany",
         "2": "art. 86b § 1 pkt. 2 KW Kto na drodze publicznej, w strefie zamieszkania lub strefie ruchu,\nprowadząc pojazd mechaniczny nie zatrzymuje pojazdu w celu umożliwienia przejścia przez jezdnię osobie\nniepełnosprawnej, używającej specjalnego znaku, lub osobie o widocznej\nograniczonej sprawności ruchowej"
@@ -628,7 +619,6 @@
       "tax": "50-500",
       "points": null,
       "code": "null",
-      "law": "",
       "law_sub": {
         "1": "art. 86b § 2 KW Kto dopuszcza się wykroczenia określonego w § 1, prowadząc inny pojazd\nniż określony w tym przepisie,\npodlega karze grzywny albo karze nagany",
         "2": "art. 86b § 1 pkt. 3 KW Kto na drodze publicznej, w strefie zamieszkania lub strefie ruchu,\nprowadząc pojazd mechaniczny wyprzedza pojazd na przejściu dla pieszych, na którym ruch nie jest kierowany,\nlub bezpośrednio przed tym przejściem"
@@ -643,7 +633,6 @@
       "tax": "50-500",
       "points": null,
       "code": "null",
-      "law": "",
       "law_sub": {
         "1": "art. 86b § 2 KW Kto dopuszcza się wykroczenia określonego w § 1, prowadząc inny pojazd\nniż określony w tym przepisie,\npodlega karze grzywny albo karze nagany",
         "2": "art. 86b § 1 pkt. 4 KW Kto na drodze publicznej, w strefie zamieszkania lub strefie ruchu,\nprowadząc pojazd mechaniczny omija pojazd, który jechał w tym samym kierunku, lecz zatrzymał się w celu\nustąpienia pierwszeństwa pieszemu,"
@@ -658,7 +647,6 @@
       "tax": "50-100",
       "points": null,
       "code": "null",
-      "law": "",
       "law_sub": {
         "1": "art. 86b § 2 KW Kto dopuszcza się wykroczenia określonego w § 1, prowadząc inny pojazd\nniż określony w tym przepisie,\npodlega karze grzywny albo karze nagany",
         "2": "art. 86b § 1 pkt. 5 KW Kto na drodze publicznej, w strefie zamieszkania lub strefie ruchu,\nprowadząc pojazd mechaniczny narusza zakaz jazdy wzdłuż po chodniku lub przejściu dla pieszych"
@@ -1829,7 +1817,6 @@
       "tax": "2000",
       "points": 0,
       "code": "Z 01",
-      "law": "",
       "law_sub": {
       "1": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
       "2": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału\nlub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu\ndrogowego,\npodlega karze grzywny albo karze nagany"
@@ -2130,7 +2117,6 @@
       "tax": "150",
       "points": 1,
       "code": "H 04",
-      "law": "",
       "law_sub": {
         "1": "art. 84 KW Kto wbrew obowiązkowi nie oznacza w sposób odpowiadający\nwymaganiom i łatwo dostrzegalny, zarówno w dzień, jak i w porze nocnej,\njakiejkolwiek przeszkody w ruchu drogowym, urządzenia lub przedmiotu znajdujących się na drodze lub też miejsca prowadzonych robót, jeżeli to może\nzagrozić bezpieczeństwu ruchu albo utrudnić ruch na drodze,\npodlega karze aresztu albo grzywny",
         "2": "art. 91 KW . Kto zanieczyszcza drogę publiczną lub na tej drodze pozostawia pojazd\nlub inny przedmiot albo zwierzę w okolicznościach, w których może to spowodować\nniebezpieczeństwo lub stanowić utrudnienie w ruchu drogowym,\npodlega karze grzywny do 1500 złotych albo karze nagany "
@@ -2695,7 +2681,6 @@
       "tax": "2500",
       "points": null,
       "code": "null",
-      "law": "",
       "law_sub": {
       "1": "87 § 1 KW Kto, znajdując się w stanie po użyciu alkoholu lub podobnie\ndziałającego środka, prowadzi pojazd mechaniczny w ruchu lądowym, wodnym lub\npowietrznym,\npodlega karze aresztu albo grzywny nie niższej niż 2500 złotych",
       "2": "87 § 1a KW Tej samej karze podlega, kto, znajdując się w stanie nietrzeźwości lub pod\nwpływem podobnie działającego środka, prowadzi na drodze publicznej, w strefie\nzamieszkania lub w strefie ruchu inny pojazd niż określony w § 1"
@@ -2710,7 +2695,6 @@
       "tax": "1000",
       "points": null,
       "code": "null",
-      "law": "",
       "law_sub": {
       "1": "art. 87 § 1 KW Kto, znajdując się w stanie po użyciu alkoholu lub podobnie\ndziałającego środka, prowadzi pojazd mechaniczny w ruchu lądowym, wodnym lub\npowietrznym,\npodlega karze aresztu albo grzywny nie niższej niż 2500 złotych",
       "2": "art. 87 § 2 KW Kto, znajdując się w stanie po użyciu alkoholu lub podobnie działającego\nśrodka, prowadzi na drodze publicznej, w strefie zamieszkania lub strefie ruchu inny\npojazd niż określony w § 1 "
@@ -2780,7 +2764,6 @@
       "tax": "od 4000",
       "points": null,
       "code": "null",
-      "law": "",
       "law_sub": {
         "1": "art. 96 § 1 pkt 1 KW Właściciel, posiadacz, użytkownik lub prowadzący pojazd, który na\ndrodze publicznej, w strefie zamieszkania lub strefie ruchu dopuszcza do prowadzenia pojazdu osobę niemającą sprawności fizycznej lub psychicznej\nw stopniu umożliwiającym należyte prowadzenie pojazdu podlega karze grzywny",
         "2": "art. 96 § 1 pkt 2 KW Właściciel, posiadacz, użytkownik lub prowadzący pojazd, który na\ndrodze publicznej, w strefie zamieszkania lub strefie ruchu dopuszcza do prowadzenia pojazdu osobę niemającą wymaganych uprawnień podlega karze grzywny",
@@ -2799,7 +2782,6 @@
       "tax": "od 2000",
       "points": null,
       "code": "null",
-      "law": "",
       "law_sub": {
         "1": "art. 96 § 1 pkt 1 KW Właściciel, posiadacz, użytkownik lub prowadzący pojazd, który na\ndrodze publicznej, w strefie zamieszkania lub strefie ruchu dopuszcza do prowadzenia pojazdu osobę niemającą sprawności fizycznej lub psychicznej\nw stopniu umożliwiającym należyte prowadzenie pojazdu podlega karze grzywny",
         "2": "art. 96 § 1 pkt 2 KW Właściciel, posiadacz, użytkownik lub prowadzący pojazd, który na\ndrodze publicznej, w strefie zamieszkania lub strefie ruchu dopuszcza do prowadzenia pojazdu osobę niemającą wymaganych uprawnień podlega karze grzywny",
@@ -2819,7 +2801,6 @@
       "tax": "2x przewidziana grzywna z wykr. nie mniej niż 800",
       "points": null,
       "code": "null",
-      "law": "",
       "law_sub": {
         "1": "art. 96 § 1 pkt 1 KW Właściciel, posiadacz, użytkownik lub prowadzący pojazd, który na\ndrodze publicznej, w strefie zamieszkania lub strefie ruchu dopuszcza do prowadzenia pojazdu osobę niemającą sprawności fizycznej lub psychicznej\nw stopniu umożliwiającym należyte prowadzenie pojazdu podlega karze grzywny",
         "2": "art. 96 § 1 pkt 2 KW Właściciel, posiadacz, użytkownik lub prowadzący pojazd, który na\ndrodze publicznej, w strefie zamieszkania lub strefie ruchu dopuszcza do prowadzenia pojazdu osobę niemającą wymaganych uprawnień podlega karze grzywny",
@@ -2839,7 +2820,6 @@
       "tax": "od 500",
       "points": null,
       "code": "null",
-      "law": "",
       "law_sub": {
         "1": "art. 96 § 1 pkt 1 KW Właściciel, posiadacz, użytkownik lub prowadzący pojazd, który na\ndrodze publicznej, w strefie zamieszkania lub strefie ruchu dopuszcza do prowadzenia pojazdu osobę niemającą sprawności fizycznej lub psychicznej\nw stopniu umożliwiającym należyte prowadzenie pojazdu podlega karze grzywny",
         "2": "art. 96 § 1 pkt 2 KW Właściciel, posiadacz, użytkownik lub prowadzący pojazd, który na\ndrodze publicznej, w strefie zamieszkania lub strefie ruchu dopuszcza do prowadzenia pojazdu osobę niemającą wymaganych uprawnień podlega karze grzywny",
@@ -2936,7 +2916,6 @@
       "tax": "650",
       "points": null,
       "code": "null",
-      "law": "",
       "law_sub": {
         "1": "art. 96b § 1 pkt 1 KW Kto, nie będąc do tego uprawnionym, posługuje się kartą parkingową,\no której mowa w art. 8 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym\n(Dz. U. z 2021 r. poz. 450, 463, 694, 720 i 1641),\npodlega karze grzywny do 2000 złotych",
         "2": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału\nlub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu\ndrogowego,\npodlega karze grzywny albo karze nagany"
@@ -2951,7 +2930,6 @@
       "tax": "500",
       "points": null,
       "code": "null",
-      "law": "",
       "law_sub": {
         "1": "art. 96b § 1 pkt 1 KW Kto, nie będąc do tego uprawnionym, posługuje się kartą parkingową,\no której mowa w art. 8 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym\n(Dz. U. z 2021 r. poz. 450, 463, 694, 720 i 1641),\npodlega karze grzywny do 2000 złotych",
         "2": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału\nlub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu\ndrogowego,\npodlega karze grzywny albo karze nagany"
@@ -2966,7 +2944,6 @@
       "tax": "500",
       "points": null,
       "code": "null",
-      "law": "",
       "paragraph": "",
       "path": "pictogram/invalid-3.png"
     },
@@ -2977,7 +2954,6 @@
       "tax": "500",
       "points": null,
       "code": "null",
-      "law": "",
       "law_sub": {
         "1": "art. 96b § 1 pkt 1 KW Kto, nie będąc do tego uprawnionym, posługuje się kartą parkingową,\no której mowa w art. 8 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym\n(Dz. U. z 2021 r. poz. 450, 463, 694, 720 i 1641),\npodlega karze grzywny do 2000 złotych",
         "2": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału\nlub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu\ndrogowego,\npodlega karze grzywny albo karze nagany"
@@ -2992,7 +2968,6 @@
       "tax": "1200",
       "points": null,
       "code": "null",
-      "law": "",
       "law_sub": {
         "1": "art. 96b § 1 pkt 1 KW Kto, nie będąc do tego uprawnionym, posługuje się kartą parkingową,\no której mowa w art. 8 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym\n(Dz. U. z 2021 r. poz. 450, 463, 694, 720 i 1641),\npodlega karze grzywny do 2000 złotych",
         "2": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału\nlub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu\ndrogowego,\npodlega karze grzywny albo karze nagany"
@@ -3007,7 +2982,6 @@
       "tax": "1200",
       "points": null,
       "code": "null",
-      "law": "",
       "law_sub": {
         "1": "art. 96b § 1 pkt 1 KW Kto, nie będąc do tego uprawnionym, posługuje się kartą parkingową,\no której mowa w art. 8 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym\n(Dz. U. z 2021 r. poz. 450, 463, 694, 720 i 1641),\npodlega karze grzywny do 2000 złotych",
         "2": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału\nlub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu\ndrogowego,\npodlega karze grzywny albo karze nagany"
@@ -3022,7 +2996,6 @@
       "tax": "",
       "points": null,
       "code": "null",
-      "law": "",
       "paragraph": "",
       "path": null,
       "visible": false
@@ -3034,7 +3007,7 @@
       "tax": "",
       "points": null,
       "code": "null",
-      "law": "",
+      "law": "none",
       "paragraph": "",
       "path": null,
       "visible": false
@@ -3057,7 +3030,7 @@
       "tax": "",
       "points": null,
       "code": "null",
-      "law": "",
+      "law": "none",
       "paragraph": "",
       "path": null,
       "visible": false
@@ -3069,7 +3042,7 @@
       "tax": "",
       "points": null,
       "code": "null",
-      "law": "",
+      "law": "none",
       "paragraph": "",
       "path": null,
       "visible": false
@@ -3081,7 +3054,7 @@
       "tax": "",
       "points": null,
       "code": "null",
-      "law": "",
+      "law": "none",
       "paragraph": "",
       "path": null,
       "visible": false
@@ -3148,7 +3121,7 @@
       "tax": "",
       "points": null,
       "code": "null",
-      "law": "",
+      "law": "none",
       "paragraph": "",
       "path": null,
       "visible": false
@@ -3171,7 +3144,7 @@
       "tax": "",
       "points": null,
       "code": "null",
-      "law": "",
+      "law": "none",
       "paragraph": "",
       "path": null,
       "visible": false
@@ -3337,7 +3310,7 @@
       "tax": "",
       "points": null,
       "code": "null",
-      "law": "",
+      "law": "none",
       "paragraph": "",
       "path": null,
       "visible": false
@@ -3360,7 +3333,7 @@
       "tax": "",
       "points": null,
       "code": "null",
-      "law": "",
+      "law": "none",
       "paragraph": "",
       "path": null,
       "visible": false
@@ -3372,7 +3345,7 @@
       "tax": "",
       "points": null,
       "code": "null",
-      "law": "",
+      "law": "none",
       "paragraph": "",
       "path": null,
       "visible": false
@@ -3483,7 +3456,6 @@
       "tax": "kwota za naruszenie + 1000",
       "points": 6,
       "code": "A 02",
-      "law": "",
       "law_sub": {
         "1": "art. 86 §1 KW Kto na drodze publicznej, w strefie zamieszkania lub strefie ruchu,\nnie zachowując należytej ostrożności, powoduje zagrożenie bezpieczeństwa w ruchu\ndrogowym,\npodlega karze grzywny",
         "3": "art. 86 §2 KW Kto dopuszcza się wykroczenia określonego w § 1, znajdując się w stanie po\nużyciu alkoholu lub podobnie działającego środka,\npodlega karze aresztu, ograniczenia wolności albo grzywny w wysokości nie\nniższej niż 2500 złotych",
@@ -3499,7 +3471,6 @@
       "tax": "kwota za naruszenie + 500",
       "points": null,
       "code": "null",
-      "law": "",
       "law_sub": {
         "1": "art. 86 §1 KW Kto na drodze publicznej, w strefie zamieszkania lub strefie ruchu,\nnie zachowując należytej ostrożności, powoduje zagrożenie bezpieczeństwa w ruchu\ndrogowym,\npodlega karze grzywny",
         "2": "art. 86 §2 KW Kto dopuszcza się wykroczenia określonego w § 1, znajdując się w stanie po\nużyciu alkoholu lub podobnie działającego środka,\npodlega karze aresztu, ograniczenia wolności albo grzywny w wysokości nie\nniższej niż 2500 złotych",
@@ -3515,7 +3486,6 @@
       "tax": "1500/[3000]",
       "points": 6,
       "code": "A02",
-      "law": "",
       "law_sub": {
         "1": "art. 86 §1 KW Kto na drodze publicznej, w strefie zamieszkania lub strefie ruchu,\nnie zachowując należytej ostrożności, powoduje zagrożenie bezpieczeństwa w ruchu\ndrogowym,\npodlega karze grzywny",
         "2": "art. 86 §1a KW Jeżeli następstwem wykroczenia, o którym mowa w § 1, jest\nspowodowanie naruszenia czynności narządu ciała lub rozstrój zdrowia innej osoby,\nsprawca\npodlega karze grzywny",
@@ -3532,7 +3502,6 @@
       "tax": "kwota za naruszenie +1000 nie więceij niż 1500",
       "points": null,
       "code": "null",
-      "law": "",
       "law_sub": {
         "1": "art. 86 §1 KW Kto na drodze publicznej, w strefie zamieszkania lub strefie ruchu,\nnie zachowując należytej ostrożności, powoduje zagrożenie bezpieczeństwa w ruchu\ndrogowym,\npodlega karze grzywny",
         "2": "art. 86 §1a KW Jeżeli następstwem wykroczenia, o którym mowa w § 1, jest\nspowodowanie naruszenia czynności narządu ciała lub rozstrój zdrowia innej osoby,\nsprawca\npodlega karze grzywny",
@@ -3549,7 +3518,6 @@
       "tax": "2500",
       "points": null,
       "code": "null",
-      "law": "",
       "law_sub": {
         "1": "art. 86 §1 KW Kto na drodze publicznej, w strefie zamieszkania lub strefie ruchu,\nnie zachowując należytej ostrożności, powoduje zagrożenie bezpieczeństwa w ruchu\ndrogowym,\npodlega karze grzywny",
         "2": "art. 86 §1a KW Jeżeli następstwem wykroczenia, o którym mowa w § 1, jest\nspowodowanie naruszenia czynności narządu ciała lub rozstrój zdrowia innej osoby,\nsprawca\npodlega karze grzywny",
@@ -3566,7 +3534,6 @@
       "tax": "od 500",
       "points": 0,
       "code": "Z 01",
-      "law": "",
       "law_sub": {
         "1": "art. 90 §1 KW Kto tamuje lub utrudnia ruch na drodze publicznej, w strefie\nzamieszkania lub strefie ruchu,\npodlega karze grzywny do 500 złotych lub karze nagany",
         "2": "art. 90 §2 KW Jeżeli wykroczenia, o którym mowa w § 1, dopuszcza się prowadzący\npojazd mechaniczny,\npodlega karze grzywny nie niższej niż 500 złotych"
@@ -3933,7 +3900,6 @@
       "tax": "500-5000",
       "points": 5,
       "code": "D 05",
-      "law": "",
       "law_sub": {
         "1": "art. 90§1 KW Kto tamuje lub utrudnia ruch na drodze publicznej, w strefie zamieszkania lub strefie ruchu,\npodlega karze grzywny do 500 złotych lub karze nagany",
         "2": "art. 90§2 KW Jeżeli wykroczenia, o którym mowa w § 1, dopuszcza się prowadzący pojazd mechaniczny,\npodlega karze grzywny nie niższej niż 500 złotych"
@@ -4168,7 +4134,6 @@
       "tax": "1500-5000",
       "points": 1,
       "code": "H 05",
-      "law": "",
       "law_sub": {
         "1": "art. 94§1 KW Kto na drodze publicznej, w strefie zamieszkania lub strefie ruchu\nprowadzi pojazd mechaniczny, nie mając do tego uprawnienia,\npodlega karze aresztu, ograniczenia wolności albo grzywny nie niższej niż\n1500 złotych",
         "2": "art. 94§2 KW Tej samej karze podlega, kto prowadzi na drodze publicznej, w strefie\nzamieszkania lub strefie ruchu pojazd pomimo braku dopuszczenia pojazdu do ruchuKW"
@@ -4282,7 +4247,6 @@
       "tax": "1500/[3000]",
       "points": 0,
       "code": "Z 01",
-      "law": "",
       "law_sub": {
         "1": "art. 86b § 2 KW Kto dopuszcza się wykroczenia określonego w § 1, prowadząc inny pojazd\nniż określony w tym przepisie,\npodlega karze grzywny albo karze nagany",
         "2": "art. 86b § 1 pkt. 5 KW Kto na drodze publicznej, w strefie zamieszkania lub strefie ruchu,\nprowadząc pojazd mechaniczny narusza zakaz jazdy wzdłuż po chodniku lub przejściu dla pieszych"
@@ -4495,7 +4459,6 @@
       "tax": "500-5000",
       "points": 6,
       "code": "D 01",
-      "law": "",
       "law_sub": {
         "1": "art. 90§1 KW Kto tamuje lub utrudnia ruch na drodze publicznej, w strefie zamieszkania lub strefie ruchu,\npodlega karze grzywny do 500 złotych lub karze nagany",
         "2": "art. 90§2 KW Jeżeli wykroczenia, o którym mowa w § 1, dopuszcza się prowadzący pojazd mechaniczny,\npodlega karze grzywny nie niższej niż 500 złotych"
@@ -4510,7 +4473,6 @@
       "tax": "500-5000",
       "points": 6,
       "code": "D 02",
-      "law": "",
       "law_sub": {
         "1": "art. 90§1 KW Kto tamuje lub utrudnia ruch na drodze publicznej, w strefie zamieszkania lub strefie ruchu,\npodlega karze grzywny do 500 złotych lub karze nagany",
         "2": "art. 90§2 KW Jeżeli wykroczenia, o którym mowa w § 1, dopuszcza się prowadzący pojazd mechaniczny,\npodlega karze grzywny nie niższej niż 500 złotych"
@@ -4525,7 +4487,6 @@
       "tax": "500-5000",
       "points": 6,
       "code": "D 03",
-      "law": "",
       "law_sub": {
         "1": "art. 90§1 KW Kto tamuje lub utrudnia ruch na drodze publicznej, w strefie zamieszkania lub strefie ruchu,\npodlega karze grzywny do 500 złotych lub karze nagany",
         "2": "art. 90§2 KW Jeżeli wykroczenia, o którym mowa w § 1, dopuszcza się prowadzący pojazd mechaniczny,\npodlega karze grzywny nie niższej niż 500 złotych"
@@ -4540,7 +4501,6 @@
       "tax": "500-5000",
       "points": 6,
       "code": "D 04",
-      "law": "",
       "law_sub": {
         "1": "art. 90§1 KW Kto tamuje lub utrudnia ruch na drodze publicznej, w strefie zamieszkania lub strefie ruchu,\npodlega karze grzywny do 500 złotych lub karze nagany",
         "2": "art. 90§2 KW Jeżeli wykroczenia, o którym mowa w § 1, dopuszcza się prowadzący pojazd mechaniczny,\npodlega karze grzywny nie niższej niż 500 złotych"
@@ -4555,7 +4515,6 @@
       "tax": "500-5000",
       "points": 5,
       "code": "D 06",
-      "law": "",
       "law_sub": {
         "1": "art. 90§1 KW Kto tamuje lub utrudnia ruch na drodze publicznej, w strefie zamieszkania lub strefie ruchu,\npodlega karze grzywny do 500 złotych lub karze nagany",
         "2": "art. 90§2 KW Jeżeli wykroczenia, o którym mowa w § 1, dopuszcza się prowadzący pojazd mechaniczny,\npodlega karze grzywny nie niższej niż 500 złotych"
@@ -4570,7 +4529,6 @@
       "tax": "500-5000",
       "points": 5,
       "code": "D 07",
-      "law": "",
       "law_sub": {
         "1": "art. 90§1 KW Kto tamuje lub utrudnia ruch na drodze publicznej, w strefie zamieszkania lub strefie ruchu,\npodlega karze grzywny do 500 złotych lub karze nagany",
         "2": "art. 90§2 KW Jeżeli wykroczenia, o którym mowa w § 1, dopuszcza się prowadzący pojazd mechaniczny,\npodlega karze grzywny nie niższej niż 500 złotych"
@@ -4585,7 +4543,6 @@
       "tax": "500-5000",
       "points": 4,
       "code": "D 08",
-      "law": "",
       "law_sub": {
         "1": "art. 90§1 KW Kto tamuje lub utrudnia ruch na drodze publicznej, w strefie zamieszkania lub strefie ruchu,\npodlega karze grzywny do 500 złotych lub karze nagany",
         "2": "art. 90§2 KW Jeżeli wykroczenia, o którym mowa w § 1, dopuszcza się prowadzący pojazd mechaniczny,\npodlega karze grzywny nie niższej niż 500 złotych"
@@ -4611,7 +4568,6 @@
       "tax": "500-5000",
       "points": 2,
       "code": "E 07",
-      "law": "",
       "law_sub": {
         "1": "art. 90§1 KW Kto tamuje lub utrudnia ruch na drodze publicznej, w strefie zamieszkania lub strefie ruchu,\npodlega karze grzywny do 500 złotych lub karze nagany",
         "2": "art. 90§2 KW Jeżeli wykroczenia, o którym mowa w § 1, dopuszcza się prowadzący pojazd mechaniczny,\npodlega karze grzywny nie niższej niż 500 złotych"
@@ -4626,7 +4582,6 @@
       "tax": "500-5000",
       "points": 5,
       "code": "F 01",
-      "law": "",
       "law_sub": {
         "1": "art. 90§1 KW Kto tamuje lub utrudnia ruch na drodze publicznej, w strefie zamieszkania lub strefie ruchu,\npodlega karze grzywny do 500 złotych lub karze nagany",
         "2": "art. 90§2 KW Jeżeli wykroczenia, o którym mowa w § 1, dopuszcza się prowadzący pojazd mechaniczny,\npodlega karze grzywny nie niższej niż 500 złotych"
@@ -4721,6 +4676,1255 @@
       "law": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego,podlega karze grzywny albo karze nagany",
       "paragraph": "",
       "path": "road_sign/F/F-16.png"
+    },
+    {
+      "info_tab_a_lp": "1",
+      "category": "prevention",
+      "name": "Zakłócenie spokoju, porządku publicznego, spoczynku nocnego albo wywoływanie\nzgorszenia w miejscu publicznym",
+      "text": "art. 51 § 1 lub 2 KW",
+      "tax": "100-500",
+      "points": 0,
+      "code": "null",
+      "law_sub": {
+        "1": "art. 51 § 1 KW Kto krzykiem, hałasem, alarmem lub innym wybrykiem zakłóca spokój, porządek publiczny, spoczynek nocny albo wywołuje zgorszenie w miejscu publicznym,\npodlega karze aresztu, ograniczenia wolności albo grzywny",
+        "2": "art. 51 § 2 KW Jeżeli czyn określony w § 1 ma charakter chuligański lub sprawca dopuszcza się go, będąc pod wpływem alkoholu, środka odurzającego lub innej podobnie działającej substancji lub środka,\npodlega karze aresztu, ograniczenia wolności albo grzywny",
+        "3": "art. 51 § 3 KW Podżeganie i pomocnictwo są karalne"
+      },
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "info_tab_a_lp": "2",
+      "category": "prevention",
+      "name": "Nieumieszczenie przez właściciela, administratora, dozorcę lub użytkownika\nnieruchomości tabliczki z numerem porządkowym nieruchomości,\nnazwą ulicy lub placu albo miejscowości",
+      "text": "art. 64 § 1 KW",
+      "tax": "100",
+      "points": 0,
+      "code": "null",
+      "law_sub": {
+        "1": "art. 64 § 1 KW Kto, będąc właścicielem, administratorem, dozorcą lub użytkownikiem nieruchomości, nie dopełnia obowiązku umieszczenia w odpowiednim miejscu albo utrzymania w należytym stanie tabliczki z numerem porządkowym nieruchomości, nazwą ulicy lub placu albo miejscowości,\npodlega karze grzywny do 250 złotych albo karze nagany.",
+        "2": "art. 64 § 2 KW Tej samej karze podlega, kto nie dopełnia obowiązku oświetlenia tabliczki z numerem porządkowym nieruchomości"
+      },
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "info_tab_a_lp": "3",
+      "category": "prevention",
+      "name": "Umyślne wprowadzenie w błąd co do danych osobowych organu państwowego\nlub instytucji upoważnionej do legitymowania",
+      "text": "art. 65 § 1 i 2 KW",
+      "tax": "200-500",
+      "points": 0,
+      "code": "null",
+      "law_sub": {
+        "1": "art. 65 § 1 pkt. 1 KW Kto umyślnie wprowadza w błąd organ państwowy lub instytucję upoważnioną z mocy ustawy do legitymowania co do tożsamości własnej lub innej osoby podlega karze ograniczenia wolności albo grzywny.",
+        "2": "art. 65 § 2 pkt. 1 KW Kto umyślnie wprowadza w błąd organ państwowy lub instytucję upoważnioną z mocy ustawy do legitymowania co do swego obywatelstwa, zawodu, miejsca zatrudnienia lub zamieszkania,\npodlega karze ograniczenia wolności albo grzywny.",
+        "3": "art. 65 § 2 KW Tej samej karze podlega, kto wbrew obowiązkowi nie udziela właściwemu organowi państwowemu lub instytucji, upoważnionej z mocy ustawy do legitymowania, wiadomości lub dokumentów co do okoliczności wymienionych w § 1"
+      },
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "info_tab_a_lp": "4",
+      "category": "prevention",
+      "name": "Umyślne uszkodzenie lub usunięcie ogłoszenia wystawionego publicznie\nprzez instytucję państwową, samorządową albo organizację społeczną",
+      "text": "art. 67 § 1 KW",
+      "tax": "150",
+      "points": 0,
+      "code": "null",
+      "law_sub": {
+        "1": "art. 67 § 1 KW Kto umyślnie uszkadza lub usuwa ogłoszenie wystawione publicznie przez instytucję państwową, samorządową albo organizację społeczną lub też w inny sposób umyślnie uniemożliwia zaznajomienie się z takim ogłoszeniem,\npodlega karze aresztu albo grzywny",
+        "2": "art. 67 § 2 KW Kto umyślnie uszkadza lub usuwa ogłoszenie, afisz lub plakat wystawiony publicznie przez instytucję artystyczną, rozrywkową lub sportową albo w inny sposób umyślnie uniemożliwia zaznajomienie się z takim ogłoszeniem, afiszem lub plakatem,\npodlega karze grzywny do 1000 złotych albo karze nagany"
+      },
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "info_tab_a_lp": "5",
+      "category": "prevention",
+      "name": "Niezachowanie zwykłych lub nakazanych środków ostrożności przy trzyma-niu zwierzęcia",
+      "text": "art. 77 § 1 KW",
+      "tax": "50-250",
+      "points": 0,
+      "code": "null",
+      "law": "art. 77 § 1 KW Kto nie zachowuje zwykłych lub nakazanych środków ostrożności przy trzymaniu zwierzęcia,\npodlega karze ograniczenia wolności, grzywny do 1000 złotych albo karze nagany",
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "info_tab_a_lp": "5a",
+      "category": "prevention",
+      "name": "Niezachowanie zwykłych lub nakazanych środków ostrożności przy trzymaniu zwierzęcia, które swoim zachowaniem stwarza niebezpieczeństwo dla życia lub zdrowia człowieka",
+      "text": "art. 77 § 2 KW",
+      "tax": "500",
+      "points": 0,
+      "code": "null",
+      "law_sub": {
+        "1": "art. 77 § 1 KW Kto nie zachowuje zwykłych lub nakazanych środków ostrożności przy trzymaniu zwierzęcia,\npodlega karze ograniczenia wolności, grzywny do 1000 złotych albo karze nagany",
+        "2": "art. 77 § 1 KW Kto dopuszcza się czynu określonego w § 1 przy trzymaniu zwierzęcia, które swoim zachowaniem stwarza niebezpieczeństwo dla życia lub zdrowia człowieka,\npodlega karze ograniczenia wolności, grzywny albo karze nagany"
+      },
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "info_tab_a_lp": "6",
+      "category": "prevention",
+      "name": "Doprowadzenie zwierzęcia poprzez drażnienie lub płoszenie do tego,\nże staje się niebezpieczne",
+      "text": "art. 78 KW",
+      "tax": "250-500",
+      "points": 0,
+      "code": "null",
+      "law": " art. 78 KW Kto przez drażnienie lub płoszenie doprowadza zwierzę do tego, że staje się niebezpieczne,\npodlega karze ograniczenia wolności, grzywny do 1000 złotych albo karze nagany",
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "info_tab_a_lp": "7",
+      "category": "prevention",
+      "name": "Niszczenie roślinności ochronnej na brzegach wód morskich i śródlądowych",
+      "text": "art. 81 KW",
+      "tax": "100",
+      "points": 0,
+      "code": "null",
+      "law": "art. 81 KW Kto niszczy lub uszkadza urządzenia służące do ochrony brzegów wód morskich lub śródlądowych, a w szczególności wszelkie umocnienia lub roślinność ochronną,\npodlega karze grzywny do 1000 złotych albo karze nagany",
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "info_tab_a_lp": "8",
+      "category": "prevention",
+      "name": "Niszczenie płotków faszynowych",
+      "text": "art. 81 KW",
+      "tax": "100",
+      "points": 0,
+      "code": "null",
+      "law": "art. 81 KW Kto niszczy lub uszkadza urządzenia służące do ochrony brzegów wód morskich lub śródlądowych, a w szczególności wszelkie umocnienia lub roślinność ochronną,\npodlega karze grzywny do 1000 złotych albo karze nagany",
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "info_tab_a_lp": "9",
+      "category": "prevention",
+      "name": "Zdejmowanie chrustu z wydm",
+      "text": "art. 81 KW",
+      "tax": "100",
+      "points": 0,
+      "code": "null",
+      "law": "art. 81 KW Kto niszczy lub uszkadza urządzenia służące do ochrony brzegów wód morskich lub śródlądowych, a w szczególności wszelkie umocnienia lub roślinność ochronną,\npodlega karze grzywny do 1000 złotych albo karze nagany",
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "info_tab_a_lp": "10",
+      "category": "prevention",
+      "name": "Chodzenie lub przebywanie na wydmach",
+      "text": "art. 81 KW",
+      "tax": "50",
+      "points": 0,
+      "code": "null",
+      "law": "art. 81 KW Kto niszczy lub uszkadza urządzenia służące do ochrony brzegów wód morskich lub śródlądowych, a w szczególności wszelkie umocnienia lub roślinność ochronną,\npodlega karze grzywny do 1000 złotych albo karze nagany",
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "info_tab_a_lp": "11",
+      "category": "prevention",
+      "name": "Niszczenie ogrodzeń wydm i lasu",
+      "text": "art. 81 KW",
+      "tax": "200",
+      "points": 0,
+      "code": "null",
+      "law": "art. 81 KW Kto niszczy lub uszkadza urządzenia służące do ochrony brzegów wód morskich lub śródlądowych, a w szczególności wszelkie umocnienia lub roślinność ochronną,\npodlega karze grzywny do 1000 złotych albo karze nagany",
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "info_tab_a_lp": "12",
+      "category": "prevention",
+      "name": "Biwakowanie na wydmach",
+      "text": "art. 81 KW",
+      "tax": "300",
+      "points": 0,
+      "code": "null",
+      "law": "art. 81 KW Kto niszczy lub uszkadza urządzenia służące do ochrony brzegów wód morskich lub śródlądowych, a w szczególności wszelkie umocnienia lub roślinność ochronną,\npodlega karze grzywny do 1000 złotych albo karze nagany",
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "info_tab_a_lp": "13",
+      "category": "prevention",
+      "name": "Niszczenie tablic informacyjno-ostrzegawczych na wydmach i w lasach",
+      "text": "art. 81 KW",
+      "tax": "100",
+      "points": 0,
+      "code": "null",
+      "law": "art. 81 KW Kto niszczy lub uszkadza urządzenia służące do ochrony brzegów wód morskich lub śródlądowych, a w szczególności wszelkie umocnienia lub roślinność ochronną,\npodlega karze grzywny do 1000 złotych albo karze nagany",
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "info_tab_a_lp": "14",
+      "category": "prevention",
+      "name": "Niszczenie umocnień brzegowych",
+      "text": "art. 81 KW",
+      "tax": "500",
+      "points": 0,
+      "code": "null",
+      "law": "art. 81 KW Kto niszczy lub uszkadza urządzenia służące do ochrony brzegów wód morskich lub śródlądowych, a w szczególności wszelkie umocnienia lub roślinność ochronną,\npodlega karze grzywny do 1000 złotych albo karze nagany",
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "info_tab_a_lp": "15",
+      "category": "prevention",
+      "name": "Naruszenie przepisów o ochronie przeciwpożarowej",
+      "text": "art. 82 § 1–5 KW",
+      "tax": "50-500",
+      "points": 0,
+      "code": "null",
+      "law_sub": {
+        "1": "art. 82 § 1 pkt. 1 KW Kto dokonuje czynności, które mogą spowodować pożar, jego rozprzestrzenianie się, utrudnienie prowadzenia działania ratowniczego lub ewakuacji, polegających na niedozwolonym używaniu otwartego ognia, paleniu tytoniu i stosowaniu innych czynników mogących zainicjować zapłon materiałów palnych podlega karze aresztu, grzywny albo karze nagany",
+        "2": "art. 82 § 1 pkt. 2 KW Kto dokonuje czynności, które mogą spowodować pożar, jego rozprzestrzenianie się, utrudnienie prowadzenia działania ratowniczego lub ewakuacji, polegających na wykonywaniu prac niebezpiecznych pod względem pożarowym bez ich wymaganego zabezpieczenia podlega karze aresztu, grzywny albo karze nagany",
+        "3": "art. 82 § 1 pkt. 3 KW Kto dokonuje czynności, które mogą spowodować pożar, jego rozprzestrzenianie się, utrudnienie prowadzenia działania ratowniczego lub ewakuacji, polegających na używaniu instalacji, urządzeń i narzędzi niepoddanych wymaganej kontroli lub niesprawnych technicznie albo użytkowaniu ich w sposób niezgodny z przeznaczeniem lub warunkami określonymi przez producenta, jeżeli może się to przyczynić do powstania pożaru, wybuchu lub rozprzestrzeniania ognia podlega karze aresztu, grzywny albo karze nagany",
+        "4": "art. 82 § 1 pkt. 4 KW Kto dokonuje czynności, które mogą spowodować pożar, jego rozprzestrzenianie się, utrudnienie prowadzenia działania ratowniczego lub ewakuacji, polegających na napełnianiu gazem płynnym butli na stacjach paliw, stacjach gazu płynnego i w innych obiektach nieprzeznaczonych do tego celu podlega karze aresztu, grzywny albo karze nagany",
+        "5": "art. 82 § 1 pkt. 5 KW Kto dokonuje czynności, które mogą spowodować pożar, jego rozprzestrzenianie się, utrudnienie prowadzenia działania ratowniczego lub ewakuacji, polegających na nieprzestrzeganiu zasad bezpieczeństwa przy używaniu lub przechowywaniu materiałów niebezpiecznych pożarowo, w tym gazu płynnego w butlach podlega karze aresztu, grzywny albo karze nagany",
+        "6": "art. 82 § 1 pkt. 6 KW Kto dokonuje czynności, które mogą spowodować pożar, jego rozprzestrzenianie się, utrudnienie prowadzenia działania ratowniczego lub ewakuacji, polegających na garażowaniu pojazdu silnikowego w obiektach i pomieszczeniach nieprzeznaczonych do tego celu z nieopróżnionym zbiornikiem paliwa i nieodłączonym na stałe zasilaniem akumulatorowym podlega karze aresztu, grzywny albo karze nagany",
+        "7": "art. 82 § 1 pkt. 7 KW Kto dokonuje czynności, które mogą spowodować pożar, jego rozprzestrzenianie się, utrudnienie prowadzenia działania ratowniczego lub ewakuacji, polegających na składowaniu materiałów palnych na drogach komunikacji ogólnej służących ewakuacji lub umieszczaniu przedmiotów na tych drogach w sposób zmniejszający ich szerokość albo wysokość poniżej wymaganych wartości podlega karze aresztu, grzywny albo karze nagany",
+        "8": "art. 82 § 1 pkt. 8 KW Kto dokonuje czynności, które mogą spowodować pożar, jego rozprzestrzenianie się, utrudnienie prowadzenia działania ratowniczego lub ewakuacji, polegających na składowaniu materiałów palnych na nieużytkowych poddaszach lub na drogach komunikacji ogólnej w piwnicach podlega karze aresztu, grzywny albo karze nagany",
+        "9": "art. 82 § 1 pkt. 9 KW Kto dokonuje czynności, które mogą spowodować pożar, jego rozprzestrzenianie się, utrudnienie prowadzenia działania ratowniczego lub ewakuacji, polegających na składowaniu materiałów palnych pod ścianami obiektu bądź przy granicy działki, w sposób naruszający zasady bezpieczeństwa pożarowego podlega karze aresztu, grzywny albo karze nagany",
+        "10": "art. 82 § 1 pkt. 10 KW Kto dokonuje czynności, które mogą spowodować pożar, jego rozprzestrzenianie się, utrudnienie prowadzenia działania ratowniczego lub ewakuacji, polegających na uniemożliwianiu lub ograniczaniu dostępu do urządzeń przeciwpożarowych, gaśnic, urządzeń uruchamiających instalacje gaśnicze i sterujących takimi instalacjami oraz innymi instalacjami wpływającymi na stan bezpieczeństwa pożarowego obiektu, wyłączników i tablic rozdzielczych prądu elektrycznego, kurków głównej instalacji gazowej, a także wyjść ewakuacyjnych oraz okien dla ekip ratowniczych podlega karze aresztu, grzywny albo karze nagany",
+        "11": "art. 82 § 1 pkt. 11 KW Kto dokonuje czynności, które mogą spowodować pożar, jego rozprzestrzenianie się, utrudnienie prowadzenia działania ratowniczego lub ewakuacji, polegających na uniemożliwianiu lub ograniczaniu dostępu do źródeł wody do celów przeciwpożarowych podlega karze aresztu, grzywny albo karze nagany",
+        "12": "art. 82 § 2 pkt. 1 KW Kto, będąc obowiązany na podstawie przepisów o ochronie przeciwpożarowej do zapewnienia warunków ochrony przeciwpożarowej obiektu lub terenu, nie dopełnia obowiązków polegających na zapewnieniu osobom przebywającym w obiekcie lub na terenie odpowiednich warunków ewakuacji podlega karze aresztu, grzywny albo karze nagany",
+        "13": "art. 82 § 2 pkt. 2 KW Kto, będąc obowiązany na podstawie przepisów o ochronie przeciwpożarowej do zapewnienia warunków ochrony przeciwpożarowej obiektu lub terenu, nie dopełnia obowiązków polegających na wyposażaniu obiektu lub terenu w urządzenia przeciwpożarowe i gaśnice podlega karze aresztu, grzywny albo karze nagany",
+        "14": "art. 82 § 2 pkt. 3 KW Kto, będąc obowiązany na podstawie przepisów o ochronie przeciwpożarowej do zapewnienia warunków ochrony przeciwpożarowej obiektu lub terenu, nie dopełnia obowiązków polegających na utrzymywaniu urządzeń przeciwpożarowych i gaśnic w stanie pełnej sprawności technicznej i funkcjonalnej podlega karze aresztu, grzywny albo karze nagany",
+        "15": "art. 82 § 2 pkt. 4 KW Kto, będąc obowiązany na podstawie przepisów o ochronie przeciwpożarowej do zapewnienia warunków ochrony przeciwpożarowej obiektu lub terenu, nie dopełnia obowiązków polegających na umieszczeniu w widocznych miejscach instrukcji postępowania na wypadek pożaru wraz z wykazem telefonów alarmowych oraz wymaganych informacji podlega karze aresztu, grzywny albo karze nagany",
+        "16": "art. 82 § 2 pkt. 5 KW Kto, będąc obowiązany na podstawie przepisów o ochronie przeciwpożarowej do zapewnienia warunków ochrony przeciwpożarowej obiektu lub terenu, nie dopełnia obowiązków polegających na oznakowaniu obiektu odpowiednimi znakami bezpieczeństwa podlega karze aresztu, grzywny albo karze nagany",
+        "17": "art. 82 § 2 pkt. 6 KW Kto, będąc obowiązany na podstawie przepisów o ochronie przeciwpożarowej do zapewnienia warunków ochrony przeciwpożarowej obiektu lub terenu, nie dopełnia obowiązków polegających na utrzymywaniu dróg pożarowych w stanie umożliwiającym wykorzystanie tych dróg przez pojazdy jednostek ochrony przeciwpożarowej podlega karze aresztu, grzywny albo karze nagany",
+        "18": "art. 82 § 2 pkt. 7 KW Kto, będąc obowiązany na podstawie przepisów o ochronie przeciwpożarowej do zapewnienia warunków ochrony przeciwpożarowej obiektu lub terenu, nie dopełnia obowiązków polegających na zapewnieniu usuwania zanieczyszczeń z przewodów dymowych i spalinowych podlega karze aresztu, grzywny albo karze nagany",
+        "19": "art. 82 § 2 pkt. 8 KW Kto, będąc obowiązany na podstawie przepisów o ochronie przeciwpożarowej do zapewnienia warunków ochrony przeciwpożarowej obiektu lub terenu, nie dopełnia obowiązków polegających na zachowaniu pasa ochronnego o szerokości minimum 2 m i nawierzchni z materiałów niepalnych lub gruntowej oczyszczonej, wokół placów składowych, składowisk przy obiektach oraz przy obiektach tymczasowych o konstrukcji palnej podlega karze aresztu, grzywny albo karze nagany",
+        "20": "art. 82 § 2 pkt. 9 KW Kto, będąc obowiązany na podstawie przepisów o ochronie przeciwpożarowej do zapewnienia warunków ochrony przeciwpożarowej obiektu lub terenu, nie dopełnia obowiązków polegających na przestrzeganiu zasad zabezpieczenia przeciwpożarowego podczas zbioru, transportu lub składowania palnych płodów rolnych podlega karze aresztu, grzywny albo karze nagany",
+        "21": "art. 82 § 2 pkt. 10 KW Kto, będąc obowiązany na podstawie przepisów o ochronie przeciwpożarowej do zapewnienia warunków ochrony przeciwpożarowej obiektu lub terenu, nie dopełnia obowiązków polegających na zapobieganiu powstawaniu i rozprzestrzenianiu się pożarów w lesie poprzez wykonywanie wymaganych zabiegów ochronnych,\npodlega karze aresztu, grzywny albo karze nagany podlega karze aresztu, grzywny albo karze nagany",
+        "22": "art. 82 § 3 KW Kto na terenie lasu, na terenach śródleśnych, na obszarze łąk, torfowisk i wrzosowisk, jak również w odległości do 100 m od nich roznieca ogień poza miejscami wyznaczonymi do tego celu albo pali tytoń, z wyjątkiem miejsc na drogach utwardzonych i miejsc wyznaczonych do pobytu ludzi,\npodlega karze aresztu, grzywny albo karze nagany.",
+        "23": "art. 82 § 4 KW Kto wypala trawy, słomę lub pozostałości roślinne na polach w odległości mniejszej niż 100 m od zabudowań, lasów, zboża na pniu i miejsc ustawienia stert lub stogów bądź w sposób powodujący zakłócenia w ruchu drogowym, a także bez zapewnienia stałego nadzoru miejsca wypalania,\npodlega karze aresztu, grzywny albo karze nagany.",
+        "24": "art. 82 § 5 KW Kto w inny sposób nieostrożnie obchodzi się z ogniem,\npodlega karze aresztu, grzywny albo karze nagany",
+        "25": "art. 82 § 6 KW Kto zostawia małoletniego do lat 7 w okolicznościach, w których istnieje prawdopodobieństwo wzniecenia przez niego pożaru,\npodlega karze grzywny albo karze nagany [od 20- 5000]"
+      },
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "info_tab_a_lp": "16",
+      "category": "prevention",
+      "name": "Niewykonywanie obowiązku utrzymania czystości i porządku w obrębie nieruchomości lub niestosowanie się do wskazań i nakazów wydanych przez właściwe organy w celu zabezpieczenia należytego stanu sanitarnego i zwal-czania chorób zakaźnych",
+      "text": "art. 117 § 1 KW",
+      "tax": "100-250",
+      "points": 0,
+      "code": "null",
+      "law": "art. 117 § 1 KW Kto, mając obowiązek utrzymania czystości i porządku w obrębie nieruchomości, nie wykonuje swoich obowiązków lub nie stosuje się do wskazań i nakazów wydanych przez właściwe organy w celu zabezpieczenia należytego stanu sanitarnego i zwalczania chorób zakaźnych,\npodlega karze grzywny do 1500 złotych albo karze nagany",
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "info_tab_a_lp": "16a",
+      "category": "prevention",
+      "name": "Nieutrzymywanie przez przewoźnika obowiązanego do zapewnienia po-dróżnym odpowiednich warunków higieny, środka transportu we właściwym stanie sanitarnym",
+      "text": "art. 117 § 2 KW",
+      "tax": "100-250",
+      "points": 0,
+      "code": "null",
+      "law_sub": {
+        "1": "art. 117 § 1 KW Kto, mając obowiązek utrzymania czystości i porządku w obrębie nieruchomości, nie wykonuje swoich obowiązków lub nie stosuje się do wskazań i nakazów wydanych przez właściwe organy w celu zabezpieczenia należytego stanu sanitarnego i zwalczania chorób zakaźnych,\npodlega karze grzywny do 1500 złotych albo karze nagany",
+        "2": "art. 117 § 2 KW Tej samej karze podlega przewoźnik obowiązany do zapewnienia podróżnym odpowiednich warunków higieny, który nie utrzymuje środka transportu we właściwym stanie sanitarnym"
+      },
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "info_tab_a_lp": "17",
+      "category": "prevention",
+      "name": "Publiczne dopuszczenie się nieobyczajnego wybryku",
+      "text": "art. 140 KW",
+      "tax": "50-100",
+      "points": 0,
+      "code": "null",
+      "law": "art. 140 KW Kto publicznie dopuszcza się nieobyczajnego wybryku,\npodlega karze aresztu, ograniczenia wolności, grzywny do 1500 złotych albo karze nagany",
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "info_tab_a_lp": "18",
+      "category": "prevention",
+      "name": "Umieszczenie w miejscu publicznym nieprzyzwoitego ogłoszenia, napisu\nlub rysunku albo używanie słów nieprzyzwoitych",
+      "text": "art. 141 KW",
+      "tax": "50-100",
+      "points": 0,
+      "code": "null",
+      "law": "art. 141 KW Kto w miejscu publicznym umieszcza nieprzyzwoite ogłoszenie, napis lub rysunek albo używa słów nieprzyzwoitych,\npodlega karze ograniczenia wolności, grzywny do 1500 złotych albo karze nagany",
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "info_tab_a_lp": "19",
+      "category": "prevention",
+      "name": "Zanieczyszczanie lub zaśmiecanie miejsca dostępnego dla publiczności",
+      "text": "art. 145 KW",
+      "tax": "50-500",
+      "points": 0,
+      "code": "null",
+      "law": "art. 145 KW Kto zanieczyszcza lub zaśmieca miejsca dostępne dla publiczności, a w szczególności drogę, ulicę, plac, ogród, trawnik lub zieleniec,\npodlega karze grzywny do 500 złotych albo karze nagany",
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "info_tab_a_lp": "20",
+      "category": "prevention",
+      "name": "Niewyposażenie nieruchomości w pojemniki służące do zbierania odpadów\nkomunalnych",
+      "text": "art. art. 10 ust. 2 u.u.c.p.g.",
+      "tax": "100",
+      "points": 0,
+      "code": "null",
+      "law_sub": {
+        "1": "art. art. 10 ust. 2 u.u.c.p.g. Kto nie wykonuje obowiązków wymienionych w art. 5 ust. 1 lub 1a\n– podlega karze grzywny",
+        "2": "art. art. 5 ust. 1 pkt 1 u.u.c.p.g. Właściciele nieruchomości zapewniają utrzymanie czystości\ni porządku przez wyposażenie nieruchomości w worki lub pojemniki, przeznaczone do zbierania\nodpadów komunalnych, utrzymanie tych pojemników w odpowiednim stanie\nsanitarnym, porządkowym i technicznym oraz utrzymanie w odpowiednim stanie\nsanitarnym i porządkowym miejsc gromadzenia odpadów, chyba że na mocy\nuchwały rady gminy, o której mowa w art. 6r ust. 3, obowiązki te w całości lub\nw części przejmie gmina jako część usługi w zakresie odbierania odpadów\nkomunalnych od właścicieli nieruchomości w zamian za uiszczoną przez\nwłaściciela opłatę za gospodarowanie odpadami komunalnymi",
+        "3": "art. art. 5 ust. 1 pkt 2 u.u.c.p.g. Właściciele nieruchomości zapewniają utrzymanie czystości\ni porządku przez przyłączenie nieruchomości do istniejącej sieci kanalizacyjnej lub, w przypadku\ngdy budowa sieci kanalizacyjnej jest technicznie lub ekonomicznie\nnieuzasadniona, wyposażenie nieruchomości w zbiornik bezodpływowy\nnieczystości ciekłych lub w przydomową oczyszczalnię ścieków bytowych,\nspełniające wymagania określone w przepisach odrębnych; przyłączenie\nnieruchomości do sieci kanalizacyjnej nie jest obowiązkowe, jeżeli\nnieruchomość jest wyposażona w przydomową oczyszczalnię ścieków\nspełniającą wymagania określone w przepisach odrębnych",
+        "4": "art. art. 5 ust. 1 pkt 3 u.u.c.p.g. Właściciele nieruchomości zapewniają utrzymanie czystości\ni porządku przez zbieranie w sposób selektywny powstałych na terenie nieruchomości odpadów\nkomunalnych zgodnie z wymaganiami określonymi w regulaminie oraz\nsposobem określonym w przepisach wydanych na podstawie art. 4a ust. 1",
+        "5": "art. art. 5 ust. 1 pkt 3a u.u.c.p.g. Właściciele nieruchomości zapewniają utrzymanie czystości\ni porządku przez pozbywanie się zebranych na terenie nieruchomości odpadów komunalnych oraz\nnieczystości ciekłych w sposób zgodny z przepisami ustawy i przepisami\nodrębnymi",
+        "6": "art. art. 5 ust. 1 pkt 4 u.u.c.p.g. Właściciele nieruchomości zapewniają utrzymanie czystości\ni porządku przez uprzątnięcie błota, śniegu, lodu i innych zanieczyszczeń z chodników\npołożonych wzdłuż nieruchomości, przy czym za taki chodnik uznaje się\nwydzieloną część drogi publicznej służącą dla ruchu pieszego położoną\nbezpośrednio przy granicy nieruchomości; właściciel nieruchomości nie jest\nobowiązany do uprzątnięcia chodnika, na którym jest dopuszczony płatny postój\nlub parkowanie pojazdów samochodowych",
+        "7": "art. art. 5 ust. 1 pkt 5 u.u.c.p.g. Właściciele nieruchomości zapewniają utrzymanie czystości\ni porządku przez realizację innych obowiązków określonych w regulaminie",
+        "8": "art. art. 5 ust. 1a u.u.c.p.g.  Niesegregowane (zmieszane) odpady komunalne są przekazywane przez\nwłaścicieli nieruchomości gminnej jednostce organizacyjnej lub przedsiębiorcy\nodbierającemu odpady komunalne wpisanemu do rejestru działalności regulowanej, o\nktórym mowa w art. 9b ust. 2"
+      },
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "info_tab_a_lp": "21",
+      "category": "prevention",
+      "name": "Niezbieranie powstałych na terenie nieruchomości odpadów komunalnych",
+      "text": "art. art. 10 ust. 2 u.u.c.p.g.",
+      "tax": "100",
+      "points": 0,
+      "code": "null",
+      "law_sub": {
+        "1": "art. art. 10 ust. 2 u.u.c.p.g. Kto nie wykonuje obowiązków wymienionych w art. 5 ust. 1 lub 1a\n– podlega karze grzywny",
+        "2": "art. art. 5 ust. 1 pkt 1 u.u.c.p.g. Właściciele nieruchomości zapewniają utrzymanie czystości\ni porządku przez wyposażenie nieruchomości w worki lub pojemniki, przeznaczone do zbierania\nodpadów komunalnych, utrzymanie tych pojemników w odpowiednim stanie\nsanitarnym, porządkowym i technicznym oraz utrzymanie w odpowiednim stanie\nsanitarnym i porządkowym miejsc gromadzenia odpadów, chyba że na mocy\nuchwały rady gminy, o której mowa w art. 6r ust. 3, obowiązki te w całości lub\nw części przejmie gmina jako część usługi w zakresie odbierania odpadów\nkomunalnych od właścicieli nieruchomości w zamian za uiszczoną przez\nwłaściciela opłatę za gospodarowanie odpadami komunalnymi",
+        "3": "art. art. 5 ust. 1 pkt 2 u.u.c.p.g. Właściciele nieruchomości zapewniają utrzymanie czystości\ni porządku przez przyłączenie nieruchomości do istniejącej sieci kanalizacyjnej lub, w przypadku\ngdy budowa sieci kanalizacyjnej jest technicznie lub ekonomicznie\nnieuzasadniona, wyposażenie nieruchomości w zbiornik bezodpływowy\nnieczystości ciekłych lub w przydomową oczyszczalnię ścieków bytowych,\nspełniające wymagania określone w przepisach odrębnych; przyłączenie\nnieruchomości do sieci kanalizacyjnej nie jest obowiązkowe, jeżeli\nnieruchomość jest wyposażona w przydomową oczyszczalnię ścieków\nspełniającą wymagania określone w przepisach odrębnych",
+        "4": "art. art. 5 ust. 1 pkt 3 u.u.c.p.g. Właściciele nieruchomości zapewniają utrzymanie czystości\ni porządku przez zbieranie w sposób selektywny powstałych na terenie nieruchomości odpadów\nkomunalnych zgodnie z wymaganiami określonymi w regulaminie oraz\nsposobem określonym w przepisach wydanych na podstawie art. 4a ust. 1",
+        "5": "art. art. 5 ust. 1 pkt 3a u.u.c.p.g. Właściciele nieruchomości zapewniają utrzymanie czystości\ni porządku przez pozbywanie się zebranych na terenie nieruchomości odpadów komunalnych oraz\nnieczystości ciekłych w sposób zgodny z przepisami ustawy i przepisami\nodrębnymi",
+        "6": "art. art. 5 ust. 1 pkt 4 u.u.c.p.g. Właściciele nieruchomości zapewniają utrzymanie czystości\ni porządku przez uprzątnięcie błota, śniegu, lodu i innych zanieczyszczeń z chodników\npołożonych wzdłuż nieruchomości, przy czym za taki chodnik uznaje się\nwydzieloną część drogi publicznej służącą dla ruchu pieszego położoną\nbezpośrednio przy granicy nieruchomości; właściciel nieruchomości nie jest\nobowiązany do uprzątnięcia chodnika, na którym jest dopuszczony płatny postój\nlub parkowanie pojazdów samochodowych",
+        "7": "art. art. 5 ust. 1 pkt 5 u.u.c.p.g. Właściciele nieruchomości zapewniają utrzymanie czystości\ni porządku przez realizację innych obowiązków określonych w regulaminie",
+        "8": "art. art. 5 ust. 1a u.u.c.p.g.  Niesegregowane (zmieszane) odpady komunalne są przekazywane przez\nwłaścicieli nieruchomości gminnej jednostce organizacyjnej lub przedsiębiorcy\nodbierającemu odpady komunalne wpisanemu do rejestru działalności regulowanej, o\nktórym mowa w art. 9b ust. 2"
+      },
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "info_tab_a_lp": "22",
+      "category": "prevention",
+      "name": "Nieuprzątanie błota, śniegu, lodu i innych zanieczyszczeń z chodników położonych\nwzdłuż nieruchomości",
+      "text": "art. art. 10 ust. 2 u.u.c.p.g.",
+      "tax": "100",
+      "points": 0,
+      "code": "null",
+      "law_sub": {
+        "1": "art. art. 10 ust. 2 u.u.c.p.g. Kto nie wykonuje obowiązków wymienionych w art. 5 ust. 1 lub 1a\n– podlega karze grzywny",
+        "2": "art. art. 5 ust. 1 pkt 1 u.u.c.p.g. Właściciele nieruchomości zapewniają utrzymanie czystości\ni porządku przez wyposażenie nieruchomości w worki lub pojemniki, przeznaczone do zbierania\nodpadów komunalnych, utrzymanie tych pojemników w odpowiednim stanie\nsanitarnym, porządkowym i technicznym oraz utrzymanie w odpowiednim stanie\nsanitarnym i porządkowym miejsc gromadzenia odpadów, chyba że na mocy\nuchwały rady gminy, o której mowa w art. 6r ust. 3, obowiązki te w całości lub\nw części przejmie gmina jako część usługi w zakresie odbierania odpadów\nkomunalnych od właścicieli nieruchomości w zamian za uiszczoną przez\nwłaściciela opłatę za gospodarowanie odpadami komunalnymi",
+        "3": "art. art. 5 ust. 1 pkt 2 u.u.c.p.g. Właściciele nieruchomości zapewniają utrzymanie czystości\ni porządku przez przyłączenie nieruchomości do istniejącej sieci kanalizacyjnej lub, w przypadku\ngdy budowa sieci kanalizacyjnej jest technicznie lub ekonomicznie\nnieuzasadniona, wyposażenie nieruchomości w zbiornik bezodpływowy\nnieczystości ciekłych lub w przydomową oczyszczalnię ścieków bytowych,\nspełniające wymagania określone w przepisach odrębnych; przyłączenie\nnieruchomości do sieci kanalizacyjnej nie jest obowiązkowe, jeżeli\nnieruchomość jest wyposażona w przydomową oczyszczalnię ścieków\nspełniającą wymagania określone w przepisach odrębnych",
+        "4": "art. art. 5 ust. 1 pkt 3 u.u.c.p.g. Właściciele nieruchomości zapewniają utrzymanie czystości\ni porządku przez zbieranie w sposób selektywny powstałych na terenie nieruchomości odpadów\nkomunalnych zgodnie z wymaganiami określonymi w regulaminie oraz\nsposobem określonym w przepisach wydanych na podstawie art. 4a ust. 1",
+        "5": "art. art. 5 ust. 1 pkt 3a u.u.c.p.g. Właściciele nieruchomości zapewniają utrzymanie czystości\ni porządku przez pozbywanie się zebranych na terenie nieruchomości odpadów komunalnych oraz\nnieczystości ciekłych w sposób zgodny z przepisami ustawy i przepisami\nodrębnymi",
+        "6": "art. art. 5 ust. 1 pkt 4 u.u.c.p.g. Właściciele nieruchomości zapewniają utrzymanie czystości\ni porządku przez uprzątnięcie błota, śniegu, lodu i innych zanieczyszczeń z chodników\npołożonych wzdłuż nieruchomości, przy czym za taki chodnik uznaje się\nwydzieloną część drogi publicznej służącą dla ruchu pieszego położoną\nbezpośrednio przy granicy nieruchomości; właściciel nieruchomości nie jest\nobowiązany do uprzątnięcia chodnika, na którym jest dopuszczony płatny postój\nlub parkowanie pojazdów samochodowych",
+        "7": "art. art. 5 ust. 1 pkt 5 u.u.c.p.g. Właściciele nieruchomości zapewniają utrzymanie czystości\ni porządku przez realizację innych obowiązków określonych w regulaminie",
+        "8": "art. art. 5 ust. 1a u.u.c.p.g.  Niesegregowane (zmieszane) odpady komunalne są przekazywane przez\nwłaścicieli nieruchomości gminnej jednostce organizacyjnej lub przedsiębiorcy\nodbierającemu odpady komunalne wpisanemu do rejestru działalności regulowanej, o\nktórym mowa w art. 9b ust. 2"
+      },
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "info_tab_a_lp": "23",
+      "category": "prevention",
+      "name": "Wykonywanie prac geologicznych bez posiadania wymaganych kwalifikacji",
+      "text": "art. 178 u.p.g.g.",
+      "tax": "300",
+      "points": 0,
+      "code": "null",
+      "law": "art. 178 u.p.g.g. Kto wykonuje lub dozoruje prace geologiczne lub kieruje tymi\npracami, nie posiadając wymaganych do tego kwalifikacji,\npodlega karze grzywny",
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "info_tab_a_lp": "24",
+      "category": "prevention",
+      "name": "Dozorowanie prac geologicznych bez posiadania wymaganych kwalifikacji",
+      "text": "art. 178 u.p.g.g.",
+      "tax": "300",
+      "points": 0,
+      "code": "null",
+      "law": "art. 178 u.p.g.g. Kto wykonuje lub dozoruje prace geologiczne lub kieruje tymi\npracami, nie posiadając wymaganych do tego kwalifikacji,\npodlega karze grzywny",
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "info_tab_a_lp": "25",
+      "category": "prevention",
+      "name": "Kierowanie pracami geologicznymi bez posiadania wymaganych kwalifikacji",
+      "text": "art. 178 u.p.g.g.",
+      "tax": "300",
+      "points": 0,
+      "code": "null",
+      "law": "art. 178 u.p.g.g. Kto wykonuje lub dozoruje prace geologiczne lub kieruje tymi\npracami, nie posiadając wymaganych do tego kwalifikacji,\npodlega karze grzywny",
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "info_tab_a_lp": "26",
+      "category": "prevention",
+      "name": "Wykonywanie robót geologicznych w celach innych niż poszukiwanie\nlub rozpoznawanie złóż kopalin bez zatwierdzonego projektu robót geologicznych",
+      "text": "art. 179 pkt 1\nu.p.g.g.",
+      "tax": "300",
+      "points": 0,
+      "code": "null",
+      "law": "art. 179 pkt 1 u.p.g.g. Kto w celach innych niż poszukiwanie lub rozpoznawanie złóż kopalin albo\nposzukiwanie lub rozpoznawanie kompleksu podziemnego składowania\ndwutlenku węgla wykonuje roboty geologiczne bez zatwierdzonego projektu\nrobót geologicznych lub z naruszeniem określonych w nim warunków albo bez\nprzedłożenia projektu robót geologicznych, który nie podlega zatwierdzeniu, lub\nz naruszeniem określonych w nim warunków podlega karze grzywny",
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "info_tab_a_lp": "27",
+      "category": "prevention",
+      "name": "Wykonywanie robót geologicznych w celach innych niż poszukiwanie\nlub rozpoznawanie złóż kopalin z naruszeniem warunków określonych w projekcie robót geologicznych",
+      "text": "art. 179 pkt 1\nu.p.g.g.",
+      "tax": "200",
+      "points": 0,
+      "code": "null",
+      "law": "art. 179 pkt 1 u.p.g.g. Kto w celach innych niż poszukiwanie lub rozpoznawanie złóż kopalin albo\nposzukiwanie lub rozpoznawanie kompleksu podziemnego składowania\ndwutlenku węgla wykonuje roboty geologiczne bez zatwierdzonego projektu\nrobót geologicznych lub z naruszeniem określonych w nim warunków albo bez\nprzedłożenia projektu robót geologicznych, który nie podlega zatwierdzeniu, lub\nz naruszeniem określonych w nim warunków podlega karze grzywny",
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "info_tab_a_lp": "28",
+      "category": "prevention",
+      "name": "Wykonywanie robót geologicznych w celach innych niż poszukiwanie\nlub rozpoznawanie złóż kopalin bez przedłożenia projektu robót geologicznych, który nie podlega zatwierdzeniu",
+      "text": "art. 179 pkt 1\nu.p.g.g.",
+      "tax": "300",
+      "points": 0,
+      "code": "null",
+      "law": "art. 179 pkt 1 u.p.g.g. Kto w celach innych niż poszukiwanie lub rozpoznawanie złóż kopalin albo\nposzukiwanie lub rozpoznawanie kompleksu podziemnego składowania\ndwutlenku węgla wykonuje roboty geologiczne bez zatwierdzonego projektu\nrobót geologicznych lub z naruszeniem określonych w nim warunków albo bez\nprzedłożenia projektu robót geologicznych, który nie podlega zatwierdzeniu, lub\nz naruszeniem określonych w nim warunków podlega karze grzywny",
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "info_tab_a_lp": "29",
+      "category": "prevention",
+      "name": "Wykonywanie robót geologicznych w celach innych niż poszukiwanie\nlub rozpoznawanie złóż kopalin z naruszeniem warunków określonych w projekcie robót geologicznych,\nktóry nie podlega zatwierdzeniu",
+      "text": "art. 179 pkt 1\nu.p.g.g.",
+      "tax": "200",
+      "points": 0,
+      "code": "null",
+      "law": "art. 179 pkt 1 u.p.g.g. Kto w celach innych niż poszukiwanie lub rozpoznawanie złóż kopalin albo\nposzukiwanie lub rozpoznawanie kompleksu podziemnego składowania\ndwutlenku węgla wykonuje roboty geologiczne bez zatwierdzonego projektu\nrobót geologicznych lub z naruszeniem określonych w nim warunków albo bez\nprzedłożenia projektu robót geologicznych, który nie podlega zatwierdzeniu, lub\nz naruszeniem określonych w nim warunków podlega karze grzywny",
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "info_tab_a_lp": "30",
+      "category": "prevention",
+      "name": "Niezawiadomienie właściwych organów o zamiarze rozpoczęcia wykonywania\nrobót geologicznych",
+      "text": "art. 179 pkt 2 u.p.g.g.",
+      "tax": "300",
+      "points": 0,
+      "code": "null",
+      "law": "art. 179 pkt 2 u.p.g.g. Kto nie zawiadamia właściwych organów o zamiarze rozpoczęcia wykonywania\nrobót geologicznych,\npodlega karze grzywny",
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "info_tab_a_lp": "31",
+      "category": "prevention",
+      "name": "Wykonywanie bez posiadania wymaganych kwalifikacji czynności kierownictwa ruchu zakładu górniczego",
+      "text": "art. 181 pkt 1\nu.p.g.g.",
+      "tax": "300",
+      "points": 0,
+      "code": "null",
+      "law": "art. 181 pkt 1\nu.p.g.g. Kto wykonuje czynności kierownictwa lub dozoru ruchu zakładu górniczego lub inne czynności w ruchu\nzakładu górniczego nie posiadając wymaganych do tego kwalifikacji,\npodlega karze grzywny",
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "info_tab_a_lp": "32",
+      "category": "prevention",
+      "name": "Wykonywanie bez posiadania wymaganych kwalifikacji czynności dozoru ruchu zakładu górniczego",
+      "text": "art. 181 pkt 1\nu.p.g.g.",
+      "tax": "300",
+      "points": 0,
+      "code": "null",
+      "law": "art. 181 pkt 1\nu.p.g.g. Kto wykonuje czynności kierownictwa lub dozoru ruchu zakładu górniczego lub inne czynności w ruchu\nzakładu górniczego nie posiadając wymaganych do tego kwalifikacji,\npodlega karze grzywny",
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "info_tab_a_lp": "33",
+      "category": "prevention",
+      "name": "Wykonywanie bez posiadania wymaganych kwalifikacji innych czynności w ruchu zakładu górniczego",
+      "text": "art. 181 pkt 1\nu.p.g.g.",
+      "tax": "300",
+      "points": 0,
+      "code": "null",
+      "law": "art. 181 pkt 1\nu.p.g.g. Kto wykonuje czynności kierownictwa lub dozoru ruchu zakładu górniczego lub inne czynności w ruchu\nzakładu górniczego nie posiadając wymaganych do tego kwalifikacji,\npodlega karze grzywny",
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "info_tab_a_lp": "34",
+      "category": "prevention",
+      "name": "Wykonywanie bez posiadania wymaganych kwalifikacji czynności kierownictwa w podmiotach zawodowo trudniących się\nratownictwem górniczym",
+      "text": "art. 181 pkt 2\nu.p.g.g.",
+      "tax": "300",
+      "points": 0,
+      "code": "null",
+      "law": "art. 181 pkt 2\nu.p.g.g. Kto wykonuje czynności kierownictwa w podmiotach zawodowo trudniących się ratownictwem\ngórniczym nie posiadając wymaganych do tego kwalifikacji,\npodlega karze grzywny",
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "info_tab_a_lp": "35",
+      "category": "prevention",
+      "name": "Wykonywanie bez posiadania wymaganych kwalifikacji czynności specjalistów w podmiotach zawodowo trudniących się\nratownictwem górniczym",
+      "text": "art. 181 pkt 2\nu.p.g.g.",
+      "tax": "300",
+      "points": 0,
+      "code": "null",
+      "law": "art. 181 pkt 2\nu.p.g.g. Kto wykonuje czynności kierownictwa w podmiotach zawodowo trudniących się ratownictwem\ngórniczym nie posiadając wymaganych do tego kwalifikacji,\npodlega karze grzywny",
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "info_tab_a_lp": "36",
+      "category": "prevention",
+      "name": "Niedopełnienie obowiązków w zakresie prowadzenia ewidencji zasobów złoża kopaliny",
+      "text": "art. 183 u.p.g.g.",
+      "tax": "300",
+      "points": 0,
+      "code": "null",
+      "law": "art. 183 u.p.g.g. Kto nie dopełnia ciążących na nim obowiązków w zakresie\nprowadzenia ewidencji zasobów złoża kopaliny, w zakresie przedkładania informacji\no zmianach zasobów złoża kopaliny, w zakresie posiadania, sporządzania,\naktualizowania i uzupełniania wymaganej dokumentacji mierniczo-geologicznej oraz\nprzekazywania danych geologicznych i próbek oraz wyników ich badań, uzyskanych\nw wyniku robót geologicznych,\npodlega karze grzywny",
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "info_tab_a_lp": "37",
+      "category": "prevention",
+      "name": "Niedopełnienie obowiązków w zakresie przedkładania informacji o zmianach zasobów złoża kopaliny",
+      "text": "art. 183 u.p.g.g.",
+      "tax": "300",
+      "points": 0,
+      "code": "null",
+      "law": "art. 183 u.p.g.g. Kto nie dopełnia ciążących na nim obowiązków w zakresie\nprowadzenia ewidencji zasobów złoża kopaliny, w zakresie przedkładania informacji\no zmianach zasobów złoża kopaliny, w zakresie posiadania, sporządzania,\naktualizowania i uzupełniania wymaganej dokumentacji mierniczo-geologicznej oraz\nprzekazywania danych geologicznych i próbek oraz wyników ich badań, uzyskanych\nw wyniku robót geologicznych,\npodlega karze grzywny",
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "info_tab_a_lp": "38",
+      "category": "prevention",
+      "name": "Niedopełnienie obowiązków w zakresie posiadania wymaganej dokumentacji mierniczo-geologicznej",
+      "text": "art. 183 u.p.g.g.",
+      "tax": "300",
+      "points": 0,
+      "code": "null",
+      "law": "art. 183 u.p.g.g. Kto nie dopełnia ciążących na nim obowiązków w zakresie\nprowadzenia ewidencji zasobów złoża kopaliny, w zakresie przedkładania informacji\no zmianach zasobów złoża kopaliny, w zakresie posiadania, sporządzania,\naktualizowania i uzupełniania wymaganej dokumentacji mierniczo-geologicznej oraz\nprzekazywania danych geologicznych i próbek oraz wyników ich badań, uzyskanych\nw wyniku robót geologicznych,\npodlega karze grzywny",
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "info_tab_a_lp": "39",
+      "category": "prevention",
+      "name": "Niedopełnienie obowiązków w zakresie sporządzania wymaganej dokumentacji mierniczo-geologicznej",
+      "text": "art. 183 u.p.g.g.",
+      "tax": "300",
+      "points": 0,
+      "code": "null",
+      "law": "art. 183 u.p.g.g. Kto nie dopełnia ciążących na nim obowiązków w zakresie\nprowadzenia ewidencji zasobów złoża kopaliny, w zakresie przedkładania informacji\no zmianach zasobów złoża kopaliny, w zakresie posiadania, sporządzania,\naktualizowania i uzupełniania wymaganej dokumentacji mierniczo-geologicznej oraz\nprzekazywania danych geologicznych i próbek oraz wyników ich badań, uzyskanych\nw wyniku robót geologicznych,\npodlega karze grzywny",
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "info_tab_a_lp": "40",
+      "category": "prevention",
+      "name": "Niedopełnienie obowiązków w zakresie aktualizowania wymaganej dokumentacji mierniczo-geologicznej",
+      "text": "art. 183 u.p.g.g.",
+      "tax": "250",
+      "points": 0,
+      "code": "null",
+      "law": "art. 183 u.p.g.g. Kto nie dopełnia ciążących na nim obowiązków w zakresie\nprowadzenia ewidencji zasobów złoża kopaliny, w zakresie przedkładania informacji\no zmianach zasobów złoża kopaliny, w zakresie posiadania, sporządzania,\naktualizowania i uzupełniania wymaganej dokumentacji mierniczo-geologicznej oraz\nprzekazywania danych geologicznych i próbek oraz wyników ich badań, uzyskanych\nw wyniku robót geologicznych,\npodlega karze grzywny",
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "info_tab_a_lp": "41",
+      "category": "prevention",
+      "name": "Niedopełnienie obowiązków w zakresie uzupełniania wymaganej dokumentacji mierniczo-geologicznej",
+      "text": "art. 183 u.p.g.g.",
+      "tax": "250",
+      "points": 0,
+      "code": "null",
+      "law": "art. 183 u.p.g.g. Kto nie dopełnia ciążących na nim obowiązków w zakresie\nprowadzenia ewidencji zasobów złoża kopaliny, w zakresie przedkładania informacji\no zmianach zasobów złoża kopaliny, w zakresie posiadania, sporządzania,\naktualizowania i uzupełniania wymaganej dokumentacji mierniczo-geologicznej oraz\nprzekazywania danych geologicznych i próbek oraz wyników ich badań, uzyskanych\nw wyniku robót geologicznych,\npodlega karze grzywny",
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "info_tab_a_lp": "42",
+      "category": "prevention",
+      "name": "Wykonywanie czynności w ruchu zakładu górniczego, w sposób mogący\nwywołać niebezpieczeństwo dla życia lub zdrowia człowieka lub ruchu zakładu\ngórniczego, w warunkach innych niż warunki zagrożeń pożarowych, tąpaniami, gazowych, pyłowych,\nklimatycznych, wodnych",
+      "text": "art. 184 ust. 3\npkt 1 u.p.g.g.",
+      "tax": "400",
+      "points": 0,
+      "code": "null",
+      "law": "art. 184 ust. 3 pkt 1 u.p.g.g.Kto w ruchu zakładu górniczego wykonuje lub dopuszcza do wykonywania\nczynności w warunkach innych niż określone w ust. 1, w sposób mogący\nwywołać niebezpieczeństwo dla życia lub zdrowia człowieka lub ruchu zakładu\ngórniczego podlega karze grzywny",
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "info_tab_a_lp": "43",
+      "category": "prevention",
+      "name": "Wykonywanie czynności w ruchu zakładu górniczego, w sposób mogący\nwywołać niebezpieczeństwo dla życia lub zdrowia człowieka lub ruchu zakładu\ngórniczego, w warunkach niepozostających w związku z jazdą ludzi szybem",
+      "text": "art. 184 ust. 3\npkt 1 u.p.g.g.",
+      "tax": "400",
+      "points": 0,
+      "code": "null",
+      "law": "art. 184 ust. 3 pkt 1 u.p.g.g.Kto w ruchu zakładu górniczego wykonuje lub dopuszcza do wykonywania\nczynności w warunkach innych niż określone w ust. 1, w sposób mogący\nwywołać niebezpieczeństwo dla życia lub zdrowia człowieka lub ruchu zakładu\ngórniczego podlega karze grzywny",
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "info_tab_a_lp": "44",
+      "category": "prevention",
+      "name": "Wykonywanie czynności w ruchu zakładu górniczego, w sposób mogący\nwywołać niebezpieczeństwo dla życia lub zdrowia człowieka lub ruchu zakładu\ngórniczego, w warunkach niepozostających w związku z przechowywaniem lub używaniem środków\nstrzałowych i sprzętu strzałowego",
+      "text": "art. 184 ust. 3\npkt 1 u.p.g.g.",
+      "tax": "400",
+      "points": 0,
+      "code": "null",
+      "law": "art. 184 ust. 3 pkt 1 u.p.g.g.Kto w ruchu zakładu górniczego wykonuje lub dopuszcza do wykonywania\nczynności w warunkach innych niż określone w ust. 1, w sposób mogący\nwywołać niebezpieczeństwo dla życia lub zdrowia człowieka lub ruchu zakładu\ngórniczego podlega karze grzywny",
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "info_tab_a_lp": "45",
+      "category": "prevention",
+      "name": "Dopuszczanie do wykonywania czynności w ruchu zakładu górniczego,\nw sposób mogący wywołać niebezpieczeństwo dla życia lub zdrowia człowieka\nlub ruchu zakładu górniczego, w warunkach innych niż warunki zagrożeń pożarowych, tąpaniami, gazowych, pyłowych,\nklimatycznych, wodnych",
+      "text": "art. 184 ust. 3 pkt 1 u.p.g.g.",
+      "tax": "500",
+      "points": 0,
+      "code": "null",
+      "law": "art. 184 ust. 3 pkt 1 u.p.g.g.Kto w ruchu zakładu górniczego wykonuje lub dopuszcza do wykonywania\nczynności w warunkach innych niż określone w ust. 1, w sposób mogący\nwywołać niebezpieczeństwo dla życia lub zdrowia człowieka lub ruchu zakładu\ngórniczego podlega karze grzywny",
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "info_tab_a_lp": "46",
+      "category": "prevention",
+      "name": "Dopuszczanie do wykonywania czynności w ruchu zakładu górniczego,\nw sposób mogący wywołać niebezpieczeństwo dla życia lub zdrowia człowieka\nlub ruchu zakładu górniczego, w warunkach niepozostających w związku z jazdą ludzi szybem",
+      "text": "art. 184 ust. 3 pkt 1 u.p.g.g.",
+      "tax": "500",
+      "points": 0,
+      "code": "null",
+      "law": "art. 184 ust. 3 pkt 1 u.p.g.g.Kto w ruchu zakładu górniczego wykonuje lub dopuszcza do wykonywania\nczynności w warunkach innych niż określone w ust. 1, w sposób mogący\nwywołać niebezpieczeństwo dla życia lub zdrowia człowieka lub ruchu zakładu\ngórniczego podlega karze grzywny",
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "info_tab_a_lp": "47",
+      "category": "prevention",
+      "name": "Dopuszczanie do wykonywania czynności w ruchu zakładu górniczego,\nw sposób mogący wywołać niebezpieczeństwo dla życia lub zdrowia człowieka\nlub ruchu zakładu górniczego, w warunkach niepozostających w związku z przechowywaniem lub używaniem\nśrodków strzałowych i sprzętu strzałowego",
+      "text": "art. 184 ust. 3 pkt 1 u.p.g.g.",
+      "tax": "500",
+      "points": 0,
+      "code": "null",
+      "law": "art. 184 ust. 3 pkt 1 u.p.g.g.Kto w ruchu zakładu górniczego wykonuje lub dopuszcza do wykonywania\nczynności w warunkach innych niż określone w ust. 1, w sposób mogący\nwywołać niebezpieczeństwo dla życia lub zdrowia człowieka lub ruchu zakładu\ngórniczego podlega karze grzywny",
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "info_tab_a_lp": "48",
+      "category": "prevention",
+      "name": "Niedopełnienie obowiązku w zakresie rozpoznawania zagrożeń związanych z ruchem zakładu górniczego\ni podejmowania środków zmierzających do zapobiegania i usuwania\ntych zagrożeń",
+      "text": "art. 184 ust. 3\npkt 2 u.p.g.g.",
+      "tax": "400",
+      "points": 0,
+      "code": "null",
+      "law": "",
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "info_tab_a_lp": "49",
+      "category": "prevention",
+      "name": "Niedopełnienie obowiązku w zakresie posiadania odpowiednich środków materialnych i technicznych\noraz służb ruchu zapewniających bezpieczeństwo pracowników i ruchu\nzakładu górniczego",
+      "text": "art. 184 ust. 3\npkt 2 u.p.g.g.",
+      "tax": "300",
+      "points": 0,
+      "code": "null",
+      "law": "",
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "info_tab_a_lp": "50",
+      "category": "prevention",
+      "name": "Niedopełnienie obowiązku w zakresie prowadzenia ewidencji osób przebywających w zakładzie górniczym,\nprzez wskazanie imienia i nazwiska oraz stanowiska służbowego",
+      "text": "art. 184 ust. 3\npkt 2 u.p.g.g.",
+      "tax": "300",
+      "points": 0,
+      "code": "null",
+      "law": "",
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "info_tab_a_lp": "51",
+      "category": "prevention",
+      "name": "Niedopełnienie obowiązku w zakresie oceniania i dokumentowania ryzyka zawodowego oraz stosowania\nniezbędnych rozwiązań zmniejszających to ryzyko, w tym przez sporządzenie\ndokumentu bezpieczeństwa i ochrony zdrowia",
+      "text": "art. 184 ust. 3\npkt 2 u.p.g.g.",
+      "tax": "400",
+      "points": 0,
+      "code": "null",
+      "law": "",
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "info_tab_a_lp": "52",
+      "category": "prevention",
+      "name": "Niedopełnienie obowiązku w zakresie posiadania i odpowiedniego przechowywania dokumentacji prowadzenia\nruchu zakładu górniczego",
+      "text": "art. 184 ust. 3\npkt 2 u.p.g.g.",
+      "tax": "300",
+      "points": 0,
+      "code": "null",
+      "law": "",
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "info_tab_a_lp": "53",
+      "category": "prevention",
+      "name": "Niedopełnienie obowiązku w zakresie posiadania dowodu sprawdzenia rozwiązań technicznych przez rzeczoznawcę\ndo spraw ruchu zakładu górniczego",
+      "text": "art. 184 ust. 3\npkt 2 u.p.g.g.",
+      "tax": "300",
+      "points": 0,
+      "code": "null",
+      "law": "",
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "info_tab_a_lp": "54",
+      "category": "prevention",
+      "name": "Niedopełnienie obowiązku w zakresie prowadzenia dokumentacji w zakresie ratownictwa górniczego",
+      "text": "art. 184 ust. 3\npkt 2 u.p.g.g.",
+      "tax": "300",
+      "points": 0,
+      "code": "null",
+      "law": "",
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "info_tab_a_lp": "55",
+      "category": "prevention",
+      "name": "Niedopełnienie obowiązku w zakresie przeprowadzania specjalistycznych badań lekarskich, specjalistycznych\nbadań psychologicznych oraz specjalistycznych szkoleń",
+      "text": "art. 184 ust. 3\npkt 2 u.p.g.g.",
+      "tax": "400",
+      "points": 0,
+      "code": "null",
+      "law": "",
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "info_tab_a_lp": "56",
+      "category": "prevention",
+      "name": "Niedopełnienie obowiązku w zakresie posiadania własnych służb ratownictwa górniczego albo powierzenia\nrealizacji tego obowiązku w całości lub w części innym podmiotom",
+      "text": "art. 184 ust. 3\npkt 2 u.p.g.g.",
+      "tax": "500",
+      "points": 0,
+      "code": "null",
+      "law": "",
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "info_tab_a_lp": "57",
+      "category": "prevention",
+      "name": "Niedopełnienie obowiązku w zakresie sporządzania, posiadania, zatwierdzania i aktualizowania odpowiedniego\nplanu ratownictwa górniczego",
+      "text": "art. 184 ust. 3\npkt 2 u.p.g.g.",
+      "tax": "300",
+      "points": 0,
+      "code": "null",
+      "law": "",
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "info_tab_a_lp": "58",
+      "category": "prevention",
+      "name": "Niedopełnienie obowiązku w zakresie organizowania drużyny ratowniczej oraz odpowiednio wyposażonej\nkopalnianej stacji ratownictwa górniczego albo utrzymywania zakładowej\nstacji ratownictwa górniczego",
+      "text": "art. 184 ust. 3\npkt 2 u.p.g.g.",
+      "tax": "500",
+      "points": 0,
+      "code": "null",
+      "law": "",
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "info_tab_a_lp": "59",
+      "category": "prevention",
+      "name": "Niedopełnienie obowiązku w zakresie zatwierdzania dokumentacji prac profilaktycznych",
+      "text": "art. 184 ust. 3\npkt 2 u.p.g.g.",
+      "tax": "300",
+      "points": 0,
+      "code": "null",
+      "law": "",
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "info_tab_a_lp": "60",
+      "category": "prevention",
+      "name": "Niedopełnienie obowiązku w zakresie podejmowania decyzji o podjęciu, wykonywania oraz podejmowania\ndecyzji o zakończeniu prac profilaktycznych",
+      "text": "art. 184 ust. 3\npkt 2 u.p.g.g.",
+      "tax": "400",
+      "points": 0,
+      "code": "null",
+      "law": "",
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "info_tab_a_lp": "61",
+      "category": "prevention",
+      "name": "Niedopełnienie obowiązku w zakresie podejmowania i prowadzenia akcji ratowniczej",
+      "text": "art. 184 ust. 3\npkt 2 u.p.g.g.",
+      "tax": "500",
+      "points": 0,
+      "code": "null",
+      "law": "",
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "info_tab_a_lp": "62",
+      "category": "prevention",
+      "name": "Niedopełnienie obowiązku w zakresie likwidacji zakładu górniczego lub jego części, polegającego na zabezpieczeniu niewykorzystanej części złoża kopaliny",
+      "text": "art. 184 ust. 3\npkt 2 u.p.g.g.",
+      "tax": "350",
+      "points": 0,
+      "code": "null",
+      "law": "",
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "info_tab_a_lp": "63",
+      "category": "prevention",
+      "name": "Niedopełnienie obowiązku w zakresie likwidacji zakładu górniczego lub jego części, polegającego na zabezpieczeniu niewykorzystanej części złoża kopaliny",
+      "text": "art. 184 ust. 3\npkt 2 u.p.g.g.",
+      "tax": "350",
+      "points": 0,
+      "code": "null",
+      "law": "",
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "info_tab_a_lp": "64",
+      "category": "prevention",
+      "name": "Niedopełnienie obowiązku w zakresie likwidacji zakładu górniczego lub jego części, polegającego na zabezpieczeniu sąsiednich złóż kopalin",
+      "text": "art. 184 ust. 3\npkt 2 u.p.g.g.",
+      "tax": "350",
+      "points": 0,
+      "code": "null",
+      "law": "",
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "info_tab_a_lp": "65",
+      "category": "prevention",
+      "name": "Niedopełnienie obowiązku w zakresie likwidacji zakładu górniczego lub jego części, polegającego na przedsięwzięciu niezbędnych środków chroniących wyrobiska\nsąsiednich zakładów górniczych",
+      "text": "art. 184 ust. 3\npkt 2 u.p.g.g.",
+      "tax": "350",
+      "points": 0,
+      "code": "null",
+      "law": "",
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "info_tab_a_lp": "66",
+      "category": "prevention",
+      "name": "Niedopełnienie obowiązku w zakresie likwidacji zakładu górniczego lub jego części, polegającego na przedsięwzięciu niezbędnych środków w celu ochrony środowiska\noraz rekultywacji gruntów po działalności górniczej",
+      "text": "art. 184 ust. 3\npkt 2 u.p.g.g.",
+      "tax": "350",
+      "points": 0,
+      "code": "null",
+      "law": "",
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "info_tab_a_lp": "67",
+      "category": "prevention",
+      "name": "Niedopełnienie obowiązku szkolenia osób wykonujących czynności w ruchu\nzakładu górniczego w zakresie znajomości przepisów i zasad bezpieczeństwa\ni higieny pracy, w tym bezpiecznego wykonywania powierzonych\nim czynności",
+      "text": "art. 184 ust. 3\npkt 3 u.p.g.g.",
+      "tax": "400",
+      "points": 0,
+      "code": "null",
+      "law": "",
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "info_tab_a_lp": "68",
+      "category": "prevention",
+      "name": "Dopuszczenie do pracy w ruchu zakładu górniczego osób, które nie wykażą\nsię dostateczną znajomością przepisów i zasad bezpieczeństwa i higieny\npracy, w tym bezpiecznego wykonywania powierzonych im czynności",
+      "text": "art. 184 ust. 3\npkt 3 u.p.g.g.",
+      "tax": "300",
+      "points": 0,
+      "code": "null",
+      "law": "",
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "info_tab_a_lp": "69",
+      "category": "prevention",
+      "name": "Dopuszczenie do wykonywania czynności w ruchu zakładu górniczego\nosób, które nie posiadają wymaganych do tego kwalifikacji",
+      "text": "art. 184 ust. 3\npkt 4 u.p.g.g.",
+      "tax": "300",
+      "points": 0,
+      "code": "null",
+      "law": "",
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "info_tab_a_lp": "70",
+      "category": "prevention",
+      "name": "Niedopełnienie obowiązku w zakresie tworzenia funduszu likwidacji zakładu górniczego",
+      "text": "art. 187 u.p.g.g.",
+      "tax": "200",
+      "points": 0,
+      "code": "null",
+      "law": "",
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "info_tab_a_lp": "71",
+      "category": "prevention",
+      "name": "Niedopełnienie obowiązku w zakresie gromadzenia środków na funduszu likwidacji zakładu górniczego",
+      "text": "art. 187 u.p.g.g.",
+      "tax": "200",
+      "points": 0,
+      "code": "null",
+      "law": "",
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "info_tab_a_lp": "72",
+      "category": "prevention",
+      "name": "Niedopełnienie obowiązku w zakresie przedstawiania na żądanie właściwych organów aktualnych wyciągów\nz rachunku bankowego, na którym podmiot gromadzi środki funduszu\nlikwidacji zakładu górniczego",
+      "text": "art. 187 u.p.g.g.",
+      "tax": "200",
+      "points": 0,
+      "code": "null",
+      "law": "",
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "info_tab_a_lp": "73",
+      "category": "prevention",
+      "name": "Niedopełnienie obowiązku w zakresie przedstawiania na żądanie właściwych organów informacji o sposobie\nwykorzystania środków gromadzonych na funduszu likwidacji zakładu\ngórniczego",
+      "text": "art. 187 u.p.g.g.",
+      "tax": "200",
+      "points": 0,
+      "code": "null",
+      "law": "",
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "info_tab_a_lp": "74",
+      "category": "prevention",
+      "name": "Niewykonywanie decyzji organu nadzoru górniczego dotyczącej zakazu wykonywania określonych czynności przez osoby, które wykonują\nte czynności z rażącym niedbalstwem, z naruszeniem ustawy\nlub rażącym naruszeniem wydanych na jej podstawie przepisów",
+      "text": "art. 188 u.p.g.g.",
+      "tax": "300",
+      "points": 0,
+      "code": "null",
+      "law": "",
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "info_tab_a_lp": "75",
+      "category": "prevention",
+      "name": "Niewykonywanie decyzji organu nadzoru górniczego dotyczącej nakazu niezwłocznego sporządzenia lub poprawy operatu ewidencyjnego",
+      "text": "art. 188 u.p.g.g.",
+      "tax": "300",
+      "points": 0,
+      "code": "null",
+      "law": "",
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "info_tab_a_lp": "76",
+      "category": "prevention",
+      "name": "Niewykonywanie decyzji organu nadzoru górniczego dotyczącej nakazu wstrzymania działalności wykonywanej bez wymaganej koncesji",
+      "text": "art. 188 u.p.g.g.",
+      "tax": "300",
+      "points": 0,
+      "code": "null",
+      "law": "",
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "info_tab_a_lp": "77",
+      "category": "prevention",
+      "name": "Spożywanie napojów alkoholowych w miejscach objętych zakazem spożywania\nnapojów alkoholowych",
+      "text": "art. 43(1) ust. 1\nu.w.t.p.a.",
+      "tax": "100",
+      "points": 0,
+      "code": "null",
+      "law_sub": {
+        "1": "art. 43(1) ust. 1 u.w.t.p.a. Kto spożywa napoje alkoholowe wbrew zakazom określonym\nw art. 14 ust. 1 i 2a–6 albo nabywa lub spożywa napoje alkoholowe w miejscach\nnielegalnej sprzedaży, albo spożywa napoje alkoholowe przyniesione przez siebie\nlub inną osobę w miejscach wyznaczonych do ich sprzedaży lub podawania,\npodlega karze grzywny",
+        "2": "art. 43(1) ust. 2 u.w.t.p.a. Usiłowanie wykroczenia określonego w ust. 1 jest karalne",
+        "3": "art. 43(1) ust. 2 u.w.t.p.a. W razie popełnienia wykroczenia określonego w ust. 1 można orzec\nprzepadek napojów alkoholowych, chociażby nie były własnością sprawcy, jeżeli\nich właściciel lub inna osoba uprawniona, nie zachowując ostrożności wymaganej\nw danych okolicznościach, przewidywała albo mogła przewidzieć, że mogą one\nsłużyć lub być przeznaczone do popełnienia wykroczenia",
+        "4": "art. 14 ust. 1 pkt 1 u.w.t.p.a. Zabrania się sprzedaży, podawania i spożywania napojów\nalkoholowych na terenie szkół oraz innych zakładów i placówek oświatowo-\n-wychowawczych, opiekuńczych i domów studenckich",
+        "5": "art. 14 ust. 1 pkt 2 u.w.t.p.a. Zabrania się sprzedaży, podawania i spożywania napojów\nalkoholowych na terenie zakładów pracy oraz miejsc zbiorowego żywienia pracowników",
+        "6": "art. 14 ust. 1 pkt 3 u.w.t.p.a. Zabrania się sprzedaży, podawania i spożywania napojów\nalkoholowych w miejscach i czasie masowych zgromadzeń",
+        "7": "art. 14 ust. 1 pkt 4 lit. a u.w.t.p.a. Zabrania się sprzedaży, podawania i spożywania napojów\nalkoholowych w środkach i obiektach transportu publicznego, z wyjątkiem wagonów restauracyjnych i bufetów w pociągach komunikacji krajowej,\nw których dopuszcza się sprzedaż, podawanie i spożywanie napojów\nalkoholowych o zawartości do 4,5% alkoholu oraz piwa",
+        "8": "art. 14 ust. 1 pkt 4 lit. b u.w.t.p.a. Zabrania się sprzedaży, podawania i spożywania napojów\nalkoholowych w środkach i obiektach transportu publicznego, z wyjątkiem pociągów komunikacji międzynarodowej, w których dopuszcza się\nsprzedaż, podawanie i spożywanie:\n– napojów alkoholowych o zawartości do 4,5% alkoholu oraz piwa\nw wagonach restauracyjnych i bufetach oraz w wagonach\nsypialnych i z miejscami do leżenia| - napojów alkoholowych o zawartości powyżej 4,5% alkoholu przy\nstolikach w wagonach restauracyjnych, w tym napojów o zawartości\npowyżej 18% alkoholu tylko do posiłków ",
+        "9": "art. 14 ust. 1 pkt 4 lit. c u.w.t.p.a. Zabrania się sprzedaży, podawania i spożywania napojów\nalkoholowych w środkach i obiektach transportu publicznego, z wyjątkiem międzynarodowych portów lotniczych i samolotów komunikacji\nmiędzynarodowej",
+        "10": "art. 14 ust. 1 pkt 4 lit. d u.w.t.p.a. Zabrania się sprzedaży, podawania i spożywania napojów\nalkoholowych w środkach i obiektach transportu publicznego, z wyjątkiem statków i portów morskich",
+        "11": "art. 14 ust. 1 pkt 6 u.w.t.p.a. Zabrania się sprzedaży, podawania i spożywania napojów\nalkoholowych w obiektach zajmowanych przez organy wojskowe i spraw wewnętrznych, jak\nrównież w rejonie obiektów koszarowych i zakwaterowania przejściowego\njednostek wojskowych",
+        "12": "art. 14 ust. 2a u.w.t.p.a. Zabrania się spożywania napojów alkoholowych w miejscu publicznym,\nz wyjątkiem miejsc przeznaczonych do ich spożycia na miejscu, w punktach\nsprzedaży tych napojów",
+        "13": "art. 14 ust. 2b u.w.t.p.a.  Rada gminy może wprowadzić, w drodze uchwały, w określonym miejscu\npublicznym na terenie gminy odstępstwo od zakazu spożywania napojów\nalkoholowych, jeżeli uzna, że nie będzie to miało negatywnego wpływu na\nodpowiednie kształtowanie polityki społecznej w zakresie przeciwdziałania\nalkoholizmowi, o której mowa w art. 2 ust. 1, i nie będzie zakłócało\nbezpieczeństwa i porządku publicznego",
+        "14": "art. 14 ust. 3 u.w.t.p.a. Zabrania się sprzedaży, podawania i spożywania napojów zawierających\nwięcej niż 18% alkoholu w ośrodkach szkoleniowych",
+        "15": "art. 14 ust. 4 u.w.t.p.a. Zabrania się sprzedaży i podawania napojów zawierających więcej niż 18%\nalkoholu w domach wypoczynkowych",
+        "16": "art. 14 ust. 5 u.w.t.p.a. Sprzedaż, podawanie i spożywanie napojów zawierających więcej niż 4,5%\nalkoholu może się odbywać na imprezach na otwartym powietrzu oraz na\nstadionach i innych obiektach sportowych tylko za zezwoleniem i tylko\nw miejscach do tego wyznaczonych",
+        "17": "art. 14 ust. 6 u.w.t.p.a. W innych niewymienionych miejscach, obiektach lub na określonych\nobszarach gminy, ze względu na ich charakter, rada gminy może wprowadzić\nczasowy lub stały zakaz sprzedaży, podawania, spożywania oraz wnoszenia\nnapojów alkoholowych"
+      },
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "info_tab_a_lp": "78",
+      "category": "prevention",
+      "name": "Nieuwidacznianie informacji o szkodliwości spożywania alkoholu w punkcie\nsprzedaży",
+      "text": "art. 45 pkt 2\nu.w.t.p.a.",
+      "tax": "150",
+      "points": 0,
+      "code": "null",
+      "law": "art. 45 pkt 2\nu.w.t.p.a. Kto wbrew postanowieniom zawartym w art. 13 ust. 1 i 2 nie uwidacznia informacji o szkodliwości spożywania alkoholu,\npodlega karze grzywny",
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "info_tab_a_lp": "79",
+      "category": "prevention",
+      "name": "Udostępnianie wyrobów tytoniowych, papierosów elektronicznych lub po-jemników zapasowych osobom do lat 18",
+      "text": "art. 13 ust. 1 pkt 1 u.o.z.t.",
+      "tax": "500",
+      "points": 0,
+      "code": "null",
+      "law": "art. 13 ust. 1 pkt 1 u.o.z.t. Kto wprowadza do obrotu wyroby tytoniowe, papierosy elektroniczne lub pojemniki\nzapasowe lub nie umieszcza informacji o zakazie ich sprzedaży wbrew\nprzepisom art. 6 ust. 1, 2–5 podlega karze grzywny do 2000 zł",
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "info_tab_a_lp": "80",
+      "category": "prevention",
+      "name": "Wprowadzanie do obrotu wyrobów tytoniowych, papierosów elektronicznych lub pojemników zapasowych na terenie podmiotów wykonujących działalność leczniczą w rozumieniu przepisów o działalności leczniczej, szkół i placówek oświatowo-wychowawczych oraz obiektów sportowo-rekreacyjnych",
+      "text": "art. 13 ust. 1 pkt 1 u.o.z.t.",
+      "tax": "500",
+      "points": 0,
+      "code": "null",
+      "law": "art. 13 ust. 1 pkt 1 u.o.z.t. Kto wprowadza do obrotu wyroby tytoniowe, papierosy elektroniczne lub pojemniki\nzapasowe lub nie umieszcza informacji o zakazie ich sprzedaży wbrew\nprzepisom art. 6 ust. 1, 2–5 podlega karze grzywny do 2000 zł",
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "info_tab_a_lp": "81",
+      "category": "prevention",
+      "name": "Sprzedawanie papierosów w opakowaniach zawierających mniej niż dwa-dzieścia sztuk oraz luzem bez opakowania",
+      "text": "art. 13 ust. 1 pkt 1 u.o.z.t.",
+      "tax": "100",
+      "points": 0,
+      "code": "null",
+      "law": "art. 13 ust. 1 pkt 1 u.o.z.t. Kto wprowadza do obrotu wyroby tytoniowe, papierosy elektroniczne lub pojemniki\nzapasowe lub nie umieszcza informacji o zakazie ich sprzedaży wbrew\nprzepisom art. 6 ust. 1, 2–5 podlega karze grzywny do 2000 zł",
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "info_tab_a_lp": "82",
+      "category": "prevention",
+      "name": "Wprowadzanie do obrotu wyrobów tytoniowych, papierosów elektronicz-nych lub pojemników zapasowych oraz ich części w systemie samoobsłu-gowym, z wyjątkiem sklepów wolnocłowych",
+      "text": "art. 13 ust. 1 pkt 1 u.o.z.t.",
+      "tax": "100",
+      "points": 0,
+      "code": "null",
+      "law": "art. 13 ust. 1 pkt 1 u.o.z.t. Kto wprowadza do obrotu wyroby tytoniowe, papierosy elektroniczne lub pojemniki\nzapasowe lub nie umieszcza informacji o zakazie ich sprzedaży wbrew\nprzepisom art. 6 ust. 1, 2–5 podlega karze grzywny do 2000 zł",
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "info_tab_a_lp": "83",
+      "category": "prevention",
+      "name": "Nieumieszczenie w punkcie detalicznym widocznej i czytelnej informacji o treści: „Zakaz sprzedaży wyrobów tytoniowych, papierosów elektronicz-nych lub pojemników zapasowych osobom do lat 18 (art. 6 ust. 1 ustawy z dnia 9 listopada 1995 r. o ochronie zdrowia przed następstwami używania tytoniu i wyrobów tytoniowych)”",
+      "text": "art. 13 ust. 1 pkt 1 u.o.z.t.",
+      "tax": "150",
+      "points": 0,
+      "code": "null",
+      "law": "art. 13 ust. 1 pkt 1 u.o.z.t. Kto wprowadza do obrotu wyroby tytoniowe, papierosy elektroniczne lub pojemniki\nzapasowe lub nie umieszcza informacji o zakazie ich sprzedaży wbrew\nprzepisom art. 6 ust. 1, 2–5 podlega karze grzywny do 2000 zł",
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "info_tab_a_lp": "84",
+      "category": "prevention",
+      "name": "Nieumieszczenie przez właściciela lub zarządzającego obiektem lub środ-kiem transportu informacji o zakazie palenia",
+      "text": "t. 13 ust. 1 pkt 2 u.o.z.t.",
+      "tax": "150",
+      "points": 0,
+      "code": "null",
+      "law": "art. 13 ust. 1 pkt 2 u.o.z.t. Kto będąc właścicielem lub zarządzającym obiektem lub środkiem transportu, wbrew\nprzepisom art. 5 ust. 1a nie umieszcza informacji o zakazie palenia,\npodlega karze grzywny do 2000 z",
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "category": "prevention",
+      "name": "Nieopuszczenie zbiegowiska publicznego",
+      "text": "art. 50 KW",
+      "tax": "20-5000",
+      "points": 0,
+      "code": "null",
+      "law": "art. 50 KW Kto nie opuszcza zbiegowiska publicznego pomimo wezwania właściwego organu,\npodlega karze aresztu albo grzywny.",
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "category": "prevention",
+      "name": "Publiczne nawoływanie do popełnienia przestępstwa",
+      "text": "art. 52a KW",
+      "tax": "20-5000",
+      "points": 0,
+      "code": "null",
+      "law_sub": {
+        "1": "art. 52a pkt. 1 KW publicznie nawołuje do popełnienia przestępstwa lub przestępstwa skarbowego jeżeli zasięg czynu albo jego skutki nie były znaczne\n– podlega karze aresztu, ograniczenia wolności albo grzywny.",
+        "2": "art. 52a pkt. 2 KW publicznie nawołuje do przeciwdziałania przemocą aktowi stanowiącemu źródło powszechnie obowiązującego prawa Rzeczypospolitej Polskiej jeżeli zasięg czynu albo jego skutki nie były znaczne\n– podlega karze aresztu, ograniczenia wolności albo grzywny.",
+        "3": "art. 52a pkt. 3 KW publicznie pochwala popełnienie przestępstwa jeżeli zasięg czynu albo jego skutki nie były znaczne\n– podlega karze aresztu, ograniczenia wolności albo grzywny."
+      },
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "category": "prevention",
+      "name": "Zużycie oleju opałowego do celów napędowych",
+      "text": "art. 52b KW",
+      "tax": "20-500",
+      "points": 0,
+      "code": "null",
+      "law": "art. 52b KW Kto zużywa olej opałowy do celów napędowych, podlega karze grzywny do 500 zł.",
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "category": "prevention",
+      "name": "Zachowanie się w miejscu publicznym- inne ustawy szczególne",
+      "text": "art. 54 KW",
+      "tax": "20-500",
+      "points": 0,
+      "code": "null",
+      "law": "art. 54 KW Kto wykracza przeciwko wydanym z upoważnienia ustawy przepisom porządkowym o zachowaniu się w miejscach publicznych,\npodlega karze grzywny do 500 złotych albo karze nagany",
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "category": "prevention",
+      "name": "Kąpiel w miejscu zabronionym",
+      "text": "art. 55 KW",
+      "tax": "20-250",
+      "points": 0,
+      "code": "null",
+      "law": "art. 55 KW Kto kąpie się w miejscu, w którym jest to zabronione,\npodlega karze grzywny do 250 złotych albo karze nagany",
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "category": "prevention",
+      "name": "Żebranie w miejscu publicznym",
+      "text": "art. 58 KW",
+      "tax": "20-1500",
+      "points": 0,
+      "code": "null",
+      "law_sub": {
+        "1": "art. 58 § 1 KW Kto, mając środki egzystencji lub będąc zdolny do pracy, żebrze w miejscu publicznym,\npodlega karze ograniczenia wolności, grzywny do 1500 złotych albo karze nagany",
+        "2": "art. 58 § 2 KW Kto żebrze w miejscu publicznym w sposób natarczywy lub oszukańczy,\npodlega karze aresztu albo ograniczenia wolności"
+      },
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "category": "prevention",
+      "name": "Niestosowanie sie do poleceń Policji lub Straży Granicznej",
+      "text": "art. 65a KW",
+      "tax": "20-5000",
+      "points": 0,
+      "code": "null",
+      "law": "art. 65a KW Kto umyślnie, nie stosując się do wydawanych przez funkcjonariusza Policji lub Straży Granicznej, na podstawie prawa, poleceń określonego zachowania się, uniemożliwia lub istotnie utrudnia wykonanie czynności służbowych, podlega karze aresztu, ograniczenia wolności albo grzywny",
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "category": "prevention",
+      "name": "Wywołanie niepotrzebnej czynności, umyślne bezcelowe blokowanie nr alarmowego/ bezpodstawna interwencja",
+      "text": "art. 66 KW",
+      "tax": "20-1500",
+      "points": 0,
+      "code": "null",
+      "law_sub": {
+        "1": "art. 66 § 1 pkt. 1 KW Kto chcąc wywołać niepotrzebną czynność, fałszywą informacją lub w inny sposób wprowadza w błąd instytucję użyteczności publicznej albo organ ochrony bezpieczeństwa, porządku publicznego lub zdrowia podlega karze aresztu, ograniczenia wolności albo grzywny do 1500 zł",
+        "2": "art. 66 § 1 pkt. 2 KW Kto umyślnie, bez uzasadnionej przyczyny, blokuje telefoniczny numer alarmowy, utrudniając prawidłowe funkcjonowanie centrum powiadamiania ratunkowego podlega karze aresztu, ograniczenia wolności albo grzywny do 1500 zł",
+        "3": "art. 66 § 2 KW Jeżeli wykroczenie spowodowało niepotrzebną czynność, można orzec nawiązkę do wysokości 1000 złotych"
+      },
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "category": "prevention",
+      "name": "Wywołanie niebezpieczeństwa dla życia lub zdrowia/ podjęcie pracy wbrew obowiązkowi zachowania trzeźwości",
+      "text": "art. 70 KW",
+      "tax": "20-5000",
+      "points": 0,
+      "code": "null",
+      "law_sub": {
+        "1": "art. 70 § 1 KW Kto, będąc niezdolny do czynności, której nieumiejętne wykonanie może wywołać niebezpieczeństwo dla życia lub zdrowia człowieka, taką czynność przedsiębierze albo kto porucza ją osobie do jej wykonania niezdolnej lub wbrew obowiązkowi nadzoru dopuszcza do wykonania takiej czynności przez osobę niezdolną,\npodlega karze aresztu albo grzywny",
+        "2": "art. 70 § 2 KW Tej samej karze podlega, kto wbrew obowiązkowi zachowania trzeźwości znajduje się w stanie po użyciu alkoholu, środka odurzającego lub innej podobnie działającej substancji lub środka i podejmuje w tym stanie czynności zawodowe lub służbowe",
+        "3": "art. 70 § 3 KW W razie popełnienia wykroczenia określonego w § 1 lub 2, można orzec podanie orzeczenia do publicznej wiadomości w szczególny sposób"
+      },
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "visible": false,
+      "category": "prevention",
+      "name": "xxxxxxxxxx",
+      "text": "art. xxxxxxxxxxxxxxxxxxxxxx KW",
+      "tax": "xxxxxxxxxxxxxxxxxxxxxxxxxx",
+      "points": 0,
+      "code": "null",
+      "law": "art. xxxxxxxxxxxxxxxx KW xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+      "paragraph": "",
+      "path": null
     }
   ]
 }

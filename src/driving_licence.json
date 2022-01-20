@@ -1,0 +1,719 @@
+{
+  "category_array": [
+    {
+      "category": "AM",
+      "vehicle_table": [
+        {
+          "1": "motorowerem",
+          "2": "czterokołowcem lekkim"
+        }
+      ],
+      "requirements": [
+        {
+          "1": "14 lat"
+        }
+      ]
+    },
+    {
+      "category": "",
+      "vehicle_table": [
+        {
+          "1": ""
+        }
+      ],
+      "requirements": [
+        {
+          "1": ""
+        }
+      ]
+    },
+    {
+      "category": "",
+      "vehicle_table": [
+        {
+          "1": ""
+        }
+      ],
+      "requirements": [
+        {
+          "1": ""
+        }
+      ]
+    },
+    {
+      "category": "",
+      "vehicle_table": [
+        {
+          "1": ""
+        }
+      ],
+      "requirements": [
+        {
+          "1": ""
+        }
+      ]
+    },
+    {
+      "category": "",
+      "vehicle_table": [
+        {
+          "1": ""
+        }
+      ],
+      "requirements": [
+        {
+          "1": ""
+        }
+      ]
+    },
+    {
+      "category": "",
+      "vehicle_table": [
+        {
+          "1": ""
+        }
+      ],
+      "requirements": [
+        {
+          "1": ""
+        }
+      ]
+    },
+    {
+      "category": "",
+      "vehicle_table": [
+        {
+          "1": ""
+        }
+      ],
+      "requirements": [
+        {
+          "1": ""
+        }
+      ]
+    },
+    {
+      "category": "",
+      "vehicle_table": [
+        {
+          "1": ""
+        }
+      ],
+      "requirements": [
+        {
+          "1": ""
+        }
+      ]
+    },
+    {
+      "category": "",
+      "vehicle_table": [
+        {
+          "1": ""
+        }
+      ],
+      "requirements": [
+        {
+          "1": ""
+        }
+      ]
+    },
+    {
+      "category": "",
+      "vehicle_table": [
+        {
+          "1": ""
+        }
+      ],
+      "requirements": [
+        {
+          "1": ""
+        }
+      ]
+    },
+    {
+      "category": "",
+      "vehicle_table": [
+        {
+          "1": ""
+        }
+      ],
+      "requirements": [
+        {
+          "1": ""
+        }
+      ]
+    },
+    {
+      "category": "",
+      "vehicle_table": [
+        {
+          "1": ""
+        }
+      ],
+      "requirements": [
+        {
+          "1": ""
+        }
+      ]
+    }
+  ],
+  "code": [
+    {
+      "code": "01",
+      "title": "wymagana korekta lub ochrona wzroku",
+      "sub_title": ""
+    },
+    {
+      "code": "01.01",
+      "title": "wymagana korekta lub ochrona wzroku",
+      "sub_title": "okulary"
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    },
+    {
+      "code": "",
+      "title": "",
+      "sub_title": ""
+    }
+  ]
+}
+

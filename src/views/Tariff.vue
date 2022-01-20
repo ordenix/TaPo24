@@ -13,9 +13,9 @@
       <hr>
       <div class="qualification">Kwalifikacja prawna</div>
       <div class="qualification_container">
-        <div v-if="selected_data.law!==''">{{selected_data.law}}</div>
+        <div v-if="selected_data.law!=='' && selected_data.law">{{selected_data.law}}</div>
         <div v-for="(element , index) in selected_data.law_sub" :key="index">{{element}}</div>
-        <div v-if="selected_data.paragraph!==''">{{selected_data.paragraph}}</div>
+        <div v-if="selected_data.paragraph!=='' && selected_data.paragraph">{{selected_data.paragraph}}</div>
         <div v-for="(element , index) in selected_data.paragraph_sub" :key="index+100">{{element}}</div>
       </div>
       <hr>
@@ -101,7 +101,8 @@ export default {
         { value: 'stop', text: 'Postój/Zatrzymanie/ Cofanie/ Zawracanie/ Holowanie' },
         { value: 'allow', text: 'Dopuszczenie/ Kierowanie' },
         { value: 'package', text: 'Przewóz ładunku/ Tablice/ Przejazd Kolejowy lub tramw.' },
-        { value: 'others', text: 'Pozostałe' }
+        { value: 'others', text: 'Pozostałe' },
+        { value: 'prevention', text: 'Prewencja' }
       ],
       tariff_array: tariffdata.tariff_array,
       selected_option: 'all',
