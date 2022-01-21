@@ -189,7 +189,30 @@
       "points": null,
       "code": "null",
       "law": "art. 97a KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także kierujący pojazdem, który narusza zakaz objeżdżania opuszczonych zapór lub półzapór na przejeździe kolejowym, wjeżdżania na przejazd, jeśli opuszczanie zapór lub półzapór zostało rozpoczęte lub podnoszenie ich nie zostało zakończone, oraz wejścia lub wjazdu na przejazd kolejowy za sygnalizator lub za inne urządzenie nadające sygnały, przy sygnale czerwonym, czerwonym migającym lub dwóch na przemian migających sygnałach czerwonych podlega karze aresztu, ograniczenia wolności albo grzywny w wysokości nie niższej niż 2000 złotych",
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "§ 100 ZSD Sygnały świetlne, o których mowa w § 95–97 i § 98 ust. 1, 4 i 5, dotyczą także kolumn pieszych, jeźdźców i poganiaczy",
+        "2": "§ 95 ust. 1 pkt. 1 ZSD Sygnały świetlne nadawane przez sygnalizator S-1 oznaczają: sygnał zielony – zezwolenie na wjazd za sygnalizator",
+        "3": "§ 95 ust. 1 pkt. 2 ZSD Sygnały świetlne nadawane przez sygnalizator S-1 oznaczają: sygnał żółty – zakaz wjazdu za sygnalizator, chyba że w chwili zapalenia tego sygnału pojazd znajduje się tak blisko\nsygnalizatora, że nie może być zatrzymany przed nim bez gwałtownego hamowania; sygnał ten oznacza jednocześnie,że za chwilę zapali się sygnał czerwony;",
+        "4": "§ 95 ust. 1 pkt. 3 ZSD Sygnały świetlne nadawane przez sygnalizator S-1 oznaczają: sygnał czerwony – zakaz wjazdu za sygnalizator",
+        "5": "§ 95 ust. 1 pkt. 4 ZSD Sygnały świetlne nadawane przez sygnalizator S-1 oznaczają: sygnały czerwony i żółty, nadawane jednocześnie – zakaz wjazdu za sygnalizator; sygnały te oznaczają także, że za\nchwilę zapali się sygnał zielony",
+        "6": "§ 95 ust. 2 pkt. 1 ZSD Sygnał zielony nie zezwala na wjazd za sygnalizator, jeżeli ruch pojazdu utrudniłby opuszczenie jezdni pieszym lub rowerzystom",
+        "7": "§ 95 ust. 2 pkt. 2 ZSD Sygnał zielony nie zezwala na wjazd za sygnalizator, jeżeli ze względu na warunki ruchu na skrzyżowaniu lub za nim opuszczenie skrzyżowania nie byłoby możliwe przed zakończeniem\nnadawania sygnału zielonego",
+        "8": "§ 95 ust. 2 pkt. 3 ZSD Sygnalizator używany poza skrzyżowaniem do kierowania ruchem na zwężonym odcinku drogi może nadawać sygnały\no dwóch barwach – zielonej i czerwonej",
+        "9": "§ 95 ust. 2 pkt. 4 ZSD Kierujący pojazdem szynowym skręcający na skrzyżowaniu o ruchu kierowanym sygnałami świetlnymi może je opuścić, z zastrzeżeniem ust. 1 pkt 2–4, pod warunkiem ustąpienia pierwszeństwa uczestnikom ruchu poruszającym się na\nwprost. Przepisu nie stosuje się na skrzyżowaniu o ruchu okrężnym oznaczonym znakami C-12",
+        "10": "§ 95a ust 1 ZSD Sygnały świetlne nadawane przez sygnalizator S-1a dotyczą kierujących rowerem, znajdujących się na części drogi przeznaczonej tylko do ruchu rowerów lub wjeżdżających na tę część drogi",
+        "11": "§ 95a ust 2 ZSD Przepisy § 95 ust. 1 i 2 stosuje się odpowiednio do sygnałów nadawanych przez sygnalizator S-1a.",
+        "12": "§ 96 ust 1 ZSD Nadawany przez sygnalizator S-2 sygnał czerwony wraz z sygnałem w kształcie zielonej strzałki oznacza, że\ndozwolone jest skręcanie w kierunku wskazanym strzałką w najbliższą jezdnię na skrzyżowaniu, z zastrzeżeniem ust. 3",
+        "13": "§ 96 ust 2 ZSD Sygnał w kształcie zielonej strzałki, nadawany przez sygnalizator S-2, zezwalający na skręcanie w lewo, zezwala\nrównież na zawracanie z lewego skrajnego pasa ruchu, chyba że jest to zabronione znakiem B-23",
+        "14": "§ 96 ust 3 ZSD Skręcanie lub zawracanie, o których mowa w ust. 1 i 2, jest dozwolone pod warunkiem, że kierujący zatrzyma się\nprzed sygnalizatorem i nie spowoduje utrudnienia ruchu innym jego uczestnikom",
+        "15": "§ 97 ust 1 ZSD Sygnały świetlne nadawane przez sygnalizator kierunkowy S-3 dotyczą kierujących jadących w kierunkach\nwskazanych strzałką (strzałkami)",
+        "16": "§ 97 ust 2 ZSD Przepisy § 95 ust. 1 i 2 stosuje się odpowiednio do sygnałów nadawanych przez sygnalizator kierunkowy S-3",
+        "17": "§ 97 ust 3 ZSD Sygnał zielony nadawany przez sygnalizator kierunkowy S-3 oznacza, że podczas jazdy we wskazanym kierunku nie\nwystępuje kolizja z innymi uczestnikami ruchu",
+        "18": "§ 97 ust 4 ZSD Sygnalizatory kierunkowe S-3 nadające sygnały przeznaczone tylko dla pojazdów skręcających w lewo mogą nie być\numieszczone po prawej stronie drogi",
+        "19": "§ 98 ust 1 pkt 1 ZSD Sygnały świetlne nadawane przez sygnalizator S-4 oznaczają: sygnał zielony – zezwolenie na wjazd na pas ruchu, nad którym sygnalizator jest umieszczony",
+        "20": "§ 98 ust 1 pkt 2 ZSD Sygnały świetlne nadawane przez sygnalizator S-4 oznaczają: sygnał czerwony – zakaz wjazdu na pas ruchu, nad którym sygnalizator jest umieszczony",
+        "21": "§ 98 ust 4 ZSD Sygnał świetlny stały lub migający, nadawany przez sygnalizator S-7, oznacza nakaz opuszczenia pasa ruchu, nad\nktórym sygnalizator jest umieszczony, i wjazdu na część jezdni znajdującą się po stronie wskazanej strzałką",
+        "22": "§ 98 ust 5 ZSD Sygnał czerwony migający lub dwa na przemian migające sygnały czerwone oznaczają zakaz wjazdu za sygnalizator\nlub inne urządzenie nadające te sygnały"
+      },
       "path": "pictogram/red_train_crossing_pedestrian.png"
     },
     {
@@ -222,7 +245,12 @@
       "points": null,
       "code": "null",
       "law": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego,podlega karze grzywny albo karze nagany",
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "§ 30 ZSD Znak B-41 „zakaz ruchu pieszych” oznacza zakaz ruchu pieszych po tej stronie drogi, po której znak jest umieszczony",
+        "2": "§ 39 ust. 1 ZSD Znak C-16 „droga dla pieszych” oznacza drogę lub jej część przeznaczoną dla pieszych, którzy są obowiązani\nz niej korzystać.",
+        "3": "§ 39 ust. 1a ZSD Nakaz wyrażony znakiem C-16 obowiązuje do odwołania albo do miejsca umieszczenia znaku B-41 (zakaz ruchu pieszych), C-13 (droga dla rowerów) albo D-40 (strefa zamieszkania)",
+        "4": "§ 39 ust. 2 ZSD Znak C-16a „koniec drogi dla pieszych” oznacza koniec drogi przeznaczonej dla pieszych"
+      },
       "path": "pictogram/pedestrian_sign.png"
     },
     {
@@ -393,7 +421,6 @@
       "points": 10,
       "code": "B 03",
       "law": "art. 86b § 1 pkt. 1 KW Kto na drodze publicznej, w strefie zamieszkania lub strefie ruchu, prowadząc pojazd mechaniczny wbrew obowiązkowi nie ustępuje pierwszeństwa pieszemu\"",
-      "paragraph": "",
       "paragraph_sub": {
         "1": "art. 26 ust. 1 PRD Kierujący pojazdem, zbliżając się do przejścia dla pieszych, jest obowiązany zachować szczególną ostrożność, zmniejszyć prędkość tak, aby nie narazić na niebezpieczeństwo pieszego znajdującego się na tym przejściu albo na nie wchodzącego i ustąpić pierwszeństwa pieszemu znajdującemu się na tym przejściu albo wchodzącemu na to przejście, z zastrzeżeniem ust. 1a",
         "2": "art. 26 ust. 1a PRD Kierujący tramwajem, zbliżając się do przejścia dla pieszych, jest obowiązany zachować szczególną ostrożność, zmniejszyć prędkość tak, aby nie narazić na niebezpieczeństwo pieszego znajdującego się na tym przejściu i ustąpić pierwszeństwa pieszemu znajdującemu się na tym przejściu"
@@ -444,7 +471,10 @@
       "points": 6,
       "code": "B 06",
       "law": "art. 86b § 1 pkt. 1 KW Kto na drodze publicznej, w strefie zamieszkania lub strefie ruchu, prowadząc pojazd mechaniczny wbrew obowiązkowi nie ustępuje pierwszeństwa pieszemu\"",
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "art. 23 ust. 1 pkt. 3 lit. a PRD Kierujący pojazdem jest obowiązany przy cofaniu ustąpić pierwszeństwa innemu pojazdowi lub uczestnikowi ruchu i zachować szczególną ostrożność, a w szczególności sprawdzić, czy wykonywany manewr nie spowoduje zagrożenia bezpieczeństwa ruchu lub jego utrudnienia",
+        "2": "art. 23 ust. 1 pkt. 2 lit. b PRD Kierujący pojazdem jest obowiązany przy cofaniu ustąpić pierwszeństwa innemu pojazdowi lub uczestnikowi ruchu i zachować szczególną ostrożność, a w szczególności upewnić się, czy za pojazdem nie znajduje się przeszkoda; w razie trudności w osobistym upewnieniu się kierujący jest obowiązany zapewnić sobie pomoc innej osoby"
+      },
       "path": null
     },
     {
@@ -633,7 +663,7 @@
         "1": "art. 86b § 2 KW Kto dopuszcza się wykroczenia określonego w § 1, prowadząc inny pojazd\nniż określony w tym przepisie,\npodlega karze grzywny albo karze nagany",
         "2": "art. 86b § 1 pkt. 3 KW Kto na drodze publicznej, w strefie zamieszkania lub strefie ruchu,\nprowadząc pojazd mechaniczny wyprzedza pojazd na przejściu dla pieszych, na którym ruch nie jest kierowany,\nlub bezpośrednio przed tym przejściem"
       },
-      "paragraph": "",
+      "paragraph": "art. 26 ust. 3 pkt. 1 PRD Kierującemu pojazdem zabrania się wyprzedzania pojazdu na przejściu dla pieszych i bezpośrednio przed nim, z wyjątkiem przejścia, na którym ruch jest kierowany",
       "path": null
     },
     {
@@ -647,7 +677,7 @@
         "1": "art. 86b § 2 KW Kto dopuszcza się wykroczenia określonego w § 1, prowadząc inny pojazd\nniż określony w tym przepisie,\npodlega karze grzywny albo karze nagany",
         "2": "art. 86b § 1 pkt. 4 KW Kto na drodze publicznej, w strefie zamieszkania lub strefie ruchu,\nprowadząc pojazd mechaniczny omija pojazd, który jechał w tym samym kierunku, lecz zatrzymał się w celu\nustąpienia pierwszeństwa pieszemu,"
       },
-      "paragraph": "",
+      "paragraph": "art. 26 ust. 3 pkt. 2 PRD Kierującemu pojazdem zabrania się omijania pojazdu, który jechał w tym samym kierunku, lecz zatrzymał się w celu ustąpienia pierwszeństwa pieszemu",
       "path": null
     },
     {
@@ -774,7 +804,7 @@
       "points": 6,
       "code": "J 01",
       "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
-      "paragraph": "",
+      "paragraph": "art. 39 ust. 3a PRD Foteliki bezpieczeństwa dla dziecka oraz inne urządzenia przytrzymujące dla dzieci są instalowane w pojeździe, zgodnie z zaleceniami producenta urządzenia, wskazującymi, w jaki sposób urządzenie może być bezpiecznie stosowane",
       "path": null
     },
     {
@@ -785,7 +815,13 @@
       "points": 2,
       "code": "H 09",
       "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "art. 39 ust. 1 PRD Kierujący pojazdem samochodowym oraz osoba przewożona takim pojazdem wyposażonym w pasy bezpieczeństwa są obowiązani korzystać z tych pasów podczas jazdy, z zastrzeżeniem ust. 3, 3b i 3c",
+        "2": "art. 39 ust. 3 pkt. 1 PRD W pojeździe kategorii M1, N1, N2 i N3, o których mowa w załączniku nr 2 do ustawy, wyposażonym w pasy bezpieczeństwa lub urządzenia przytrzymujące dla dzieci, dziecko mające mniej niż 150 cm wzrostu jest przewożone, z wyjątkiem przypadku, o którym mowa w ust. 3b, w foteliku bezpieczeństwa dla dziecka lub innym urządzeniu przytrzymującym dla dzieci, zgodnym z masą i wzrostem dziecka",
+        "3": "art. 39 ust. 3 pkt. 2 PRD W pojeździe kategorii M1, N1, N2 i N3, o których mowa w załączniku nr 2 do ustawy, wyposażonym w pasy bezpieczeństwa lub urządzenia przytrzymujące dla dzieci, dziecko mające mniej niż 150 cm wzrostu jest przewożone, z wyjątkiem przypadku, o którym mowa w ust. 3b, w foteliku bezpieczeństwa dla dziecka lub innym urządzeniu przytrzymującym dla dzieci, zgodnym z właściwymi warunkami technicznymi określonymi w przepisach Unii Europejskiej lub w regulaminach EKG ONZ dotyczących urządzeń przytrzymujących dla dzieci w pojeździe",
+        "4": "art. 39 ust. 3b PRD Zezwala się na przewożenie w pojeździe kategorii M1, N1, N2 i N3, o których mowa w załączniku nr 2 do ustawy, na tylnym siedzeniu pojazdu, dziecka mającego co najmniej 135 cm wzrostu przytrzymywanego za pomocą pasów bezpieczeństwa w przypadkach, kiedy ze względu na masę i wzrost dziecka nie jest możliwe zapewnienie fotelika bezpieczeństwa dla dziecka lub innego urządzenia przytrzymującego dla dzieci zgodnego z warunkami, o których mowa w ust. 3.",
+        "5": "art. 39 ust. 3c PRD Zezwala się na przewożenie w pojeździe kategorii M1 i N1, o których mowa w załączniku nr 2 do ustawy, na tylnym siedzeniu pojazdu, trzeciego dziecka w wieku co najmniej 3 lat, przytrzymywanego za pomocą pasów bezpieczeństwa, w przypadku gdy dwoje dzieci jest przewożonych w fotelikach bezpieczeństwa dla dziecka lub innych urządzeniach przytrzymujących dla dzieci, zainstalowanych na tylnych siedzeniach pojazdu i nie ma możliwości zainstalowania trzeciego fotelika bezpieczeństwa dla dziecka lub innego urządzenia przytrzymującego dla dzieci"
+      },
       "path": null
     },
     {
@@ -807,7 +843,6 @@
       "points": 2,
       "code": "H 12",
       "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
-      "paragraph": "",
       "paragraph_sub": {
         "1": "art. 40 ust. 1 PRD Kierujący motocyklem, czterokołowcem lub motorowerem oraz osoba przewożona takimi pojazdami są obowiązani używać w czasie jazdy kasków ochronnych odpowiadających właściwym warunkom technicznym",
         "2": "art. 40 ust. 2 PRD Przepisu ust. 1 nie stosuje się do motocykli fabrycznie wyposażonych w pasy bezpieczeństwa",
@@ -1242,7 +1277,16 @@
       "points": 5,
       "code": "F 08",
       "law": "art. 92b KW Kto, prowadząc pojazd mechaniczny, nie stosuje się do zakazu wyprzedzania określonego ustawą lub znakiem drogowym,podlega karze grzywny nie niższej niż 1000 złotych.",
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "art. 28 ust. 6 PRD Przepisy ust. 1–4 stosuje się odpowiednio przy przejeżdżaniu przez tory tramwajowe; przepis ust. 3 pkt 3 nie dotyczy skrzyżowania lub przejazdu tramwajowego, na którym ruch jest kierowany",
+        "2": "art. 28 ust. 1 PRD Kierujący pojazdem, zbliżając się do przejazdu kolejowego oraz przejeżdżając przez przejazd, jest obowiązany zachować szczególną ostrożność. Przed wjechaniem na tory jest on obowiązany upewnić się, czy nie zbliża się pojazd szynowy, oraz przedsięwziąć odpowiednie środki ostrożności, zwłaszcza jeżeli wskutek mgły lub z innych powodów przejrzystość powietrza jest zmniejszona",
+        "3": "art. 28 ust. 2 PRD Kierujący jest obowiązany prowadzić pojazd z taką prędkością, aby mógł go zatrzymać w bezpiecznym miejscu, gdy nadjeżdża pojazd szynowy lub gdy urządzenie zabezpieczające albo dawany sygnał zabrania wjazdu na przejazd ",
+        "4": "art. 28 ust. 3 PRD pkt 1 Kierującemu pojazdem zabrania się objeżdżania opuszczonych zapór lub półzapór oraz wjeżdżania na przejazd, jeżeli opuszczanie ich zostało rozpoczęte lub podnoszenie nie zostało zakończone",
+        "5": "art. 28 ust. 3 PRD pkt 2 Kierującemu pojazdem zabrania się wjeżdżania na przejazd, jeżeli po drugiej stronie przejazdu nie ma miejsca do kontynuowania jazdy",
+        "6": "art. 28 ust. 3 PRD pkt 3 Kierującemu pojazdem zabrania się wyprzedzania pojazdu na przejeździe kolejowym i bezpośrednio przed nim",
+        "7": "art. 28 ust. 3 PRD pkt 4 Kierującemu pojazdem zabrania się omijania pojazdu oczekującego na otwarcie ruchu przez przejazd, jeżeli wymagałoby to wjechania na część jezdni przeznaczoną dla przeciwnego kierunku ruchu",
+        "8": "art. 28 ust. 4 PRD W razie unieruchomienia pojazdu na przejeździe kolejowym, kierujący jest obowiązany niezwłocznie usunąć go z przejazdu, a jeżeli nie jest to możliwe, ostrzec kierującego pojazdem szynowym o niebezpieczeństwie"
+      },
       "path": null
     },
     {
@@ -1253,7 +1297,22 @@
       "points": 5,
       "code": "F 09",
       "law": "art. 92b KW Kto, prowadząc pojazd mechaniczny, nie stosuje się do zakazu wyprzedzania określonego ustawą lub znakiem drogowym,podlega karze grzywny nie niższej niż 1000 złotych.",
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "§ 23 ust. 1 ZSD Znak B-25 „zakaz wyprzedzania” zabrania kierującym pojazdami silnikowymi wyprzedzania pojazdów silnikowych wielośladowych ",
+        "2": "§ 23 ust. 2 pkt. 1 ZSD Umieszczona pod znakiem B-25 tabliczka wskazuje, że zakaz wyprzedzania dotyczy kierującego pojazdem, którego symbol znajduje się na tabliczce: T-23a – motocykl",
+        "3": "§ 23 ust. 2 pkt. 2 ZSD Umieszczona pod znakiem B-25 tabliczka wskazuje, że zakaz wyprzedzania dotyczy kierującego pojazdem, którego symbol znajduje się na tabliczce: T-23b – samochód ciężarowy, pojazd specjalny, pojazd używany do celów specjalnych, o dopuszczalnej masie całkowitej\nprzekraczającej 3,5 t oraz ciągnik samochodowy",
+        "4": "§ 23 ust. 2 pkt. 3 ZSD Umieszczona pod znakiem B-25 tabliczka wskazuje, że zakaz wyprzedzania dotyczy kierującego pojazdem, którego symbol znajduje się na tabliczce: T-23c – ciągnik rolniczy i pojazd wolnobieżny",
+        "5": "§ 23 ust. 2 pkt. 4 ZSD Umieszczona pod znakiem B-25 tabliczka wskazuje, że zakaz wyprzedzania dotyczy kierującego pojazdem, którego symbol znajduje się na tabliczce: T-23d – pojazd silnikowy z przyczepą, z wyjątkiem pojazdów z przyczepą jednoosiową lub naczepą",
+        "6": "§ 23 ust. 2 pkt. 5 ZSD Umieszczona pod znakiem B-25 tabliczka wskazuje, że zakaz wyprzedzania dotyczy kierującego pojazdem, którego symbol znajduje się na tabliczce: T-23e – pojazd z przyczepą kempingową",
+        "7": "§ 23 ust. 2 pkt. 6 ZSD Umieszczona pod znakiem B-25 tabliczka wskazuje, że zakaz wyprzedzania dotyczy kierującego pojazdem, którego symbol znajduje się na tabliczce: T-23f – autobus",
+        "8": "§ 23 ust. 2 pkt. 7 ZSD Umieszczona pod znakiem B-25 tabliczka wskazuje, że zakaz wyprzedzania dotyczy kierującego pojazdem, którego symbol znajduje się na tabliczce: T-23g – trolejbus",
+        "9": "§ 23 ust. 2 pkt. 8 ZSD Umieszczona pod znakiem B-25 tabliczka wskazuje, że zakaz wyprzedzania dotyczy kierującego pojazdem, którego symbol znajduje się na tabliczce: T-23h – pojazd przewożący towary niebezpieczne (towary niebezpieczne w ilościach, dla których jest wymagane oznakowanie pojazdu tablicami ostrzegawczymi barwy pomarańczowej)",
+        "10": "§ 23 ust. 2 pkt. 9 ZSD Umieszczona pod znakiem B-25 tabliczka wskazuje, że zakaz wyprzedzania dotyczy kierującego pojazdem, którego symbol znajduje się na tabliczce: T-23i – pojazd przewożący towary wybuchowe lub łatwo zapalne (towary niebezpieczne klas: 1, 3, 4.1, 4.2, 4.3, 5.1, 5.2 lub gazy palne klasy 2 w ilościach, dla których jest wymagane oznakowanie pojazdu tablicami\nostrzegawczymi barwy pomarańczowej)",
+        "11": "§ 23 ust. 2 pkt. 10 ZSD Umieszczona pod znakiem B-25 tabliczka wskazuje, że zakaz wyprzedzania dotyczy kierującego pojazdem, którego symbol znajduje się na tabliczce: T-23j – pojazd przewożący towary, które mogą skazić wodę (towary niebezpieczne klas: 3, 4.3, 6.1, 6.2, 8,\ngazy trujące lub gazy żrące klasy 2, lub towary niebezpieczne zagrażające środowisku klasy 9 w ilościach, dla których jest\nwymagane oznakowanie pojazdu tablicami ostrzegawczymi barwy pomarańczowej)",
+        "12":"§ 23 ust. 3 pkt. 1 ZSD Znak B-26 „zakaz wyprzedzania przez samochody ciężarowe” zabrania wyprzedzania pojazdów silnikowych wielośladowych kierującemu samochodem ciężarowym o dopuszczalnej masie całkowitej przekraczającej 3,5 t",
+        "13":"§ 23 ust. 3 pkt. 2 ZSD Znak B-26 „zakaz wyprzedzania przez samochody ciężarowe” zabrania wyprzedzania pojazdów silnikowych wielośladowych kierującemu ciągnikiem samochodowym",
+        "14":"§ 23 ust. 3 pkt. 3 ZSD Znak B-26 „zakaz wyprzedzania przez samochody ciężarowe” zabrania wyprzedzania pojazdów silnikowych wielośladowych kierującemupojazdem specjalnym lub używanym do celów specjalnych – o dopuszczalnej masie całkowitej przekraczającej 3,5 t"
+      },
       "path": null
     },
     {
@@ -1310,7 +1369,7 @@
       "points": 6,
       "code": "C 02",
       "law": "art. 97a KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także kierujący pojazdem, który narusza zakaz objeżdżania opuszczonych zapór lub półzapór na przejeździe kolejowym, wjeżdżania na przejazd, jeśli opuszczanie zapór lub półzapór zostało rozpoczęte lub podnoszenie ich nie zostało zakończone, oraz wejścia lub wjazdu na przejazd kolejowy za sygnalizator lub za inne urządzenie nadające sygnały, przy sygnale czerwonym, czerwonym migającym lub dwóch na przemian migających sygnałach czerwonych podlega karze aresztu, ograniczenia wolności albo grzywny w wysokości nie niższej niż 2000 złotych",
-      "paragraph": "",
+      "paragraph": "§ 98 ust. 5 ZSD Sygnał czerwony migający lub dwa na przemian migające sygnały czerwone oznaczają zakaz wjazdu za sygnalizator\nlub inne urządzenie nadające te sygnały",
       "path": null
     },
     {
@@ -1332,7 +1391,17 @@
       "points": null,
       "code": "null",
       "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "art. 28 ust. 6 PRD Przepisy ust. 1–4 stosuje się odpowiednio przy przejeżdżaniu przez tory tramwajowe; przepis ust. 3 pkt 3 nie dotyczy skrzyżowania lub przejazdu tramwajowego, na którym ruch jest kierowany",
+        "2": "art. 28 ust. 1 PRD Kierujący pojazdem, zbliżając się do przejazdu kolejowego oraz przejeżdżając przez przejazd, jest obowiązany zachować szczególną ostrożność. Przed wjechaniem na tory jest on obowiązany upewnić się, czy nie zbliża się pojazd szynowy, oraz przedsięwziąć odpowiednie środki ostrożności, zwłaszcza jeżeli wskutek mgły lub z innych powodów przejrzystość powietrza jest zmniejszona",
+        "3": "art. 28 ust. 2 PRD Kierujący jest obowiązany prowadzić pojazd z taką prędkością, aby mógł go zatrzymać w bezpiecznym miejscu, gdy nadjeżdża pojazd szynowy lub gdy urządzenie zabezpieczające albo dawany sygnał zabrania wjazdu na przejazd ",
+        "4": "art. 28 ust. 3 PRD pkt 1 Kierującemu pojazdem zabrania się objeżdżania opuszczonych zapór lub półzapór oraz wjeżdżania na przejazd, jeżeli opuszczanie ich zostało rozpoczęte lub podnoszenie nie zostało zakończone",
+        "5": "art. 28 ust. 3 PRD pkt 2 Kierującemu pojazdem zabrania się wjeżdżania na przejazd, jeżeli po drugiej stronie przejazdu nie ma miejsca do kontynuowania jazdy",
+        "6": "art. 28 ust. 3 PRD pkt 3 Kierującemu pojazdem zabrania się wyprzedzania pojazdu na przejeździe kolejowym i bezpośrednio przed nim",
+        "7": "art. 28 ust. 3 PRD pkt 4 Kierującemu pojazdem zabrania się omijania pojazdu oczekującego na otwarcie ruchu przez przejazd, jeżeli wymagałoby to wjechania na część jezdni przeznaczoną dla przeciwnego kierunku ruchu",
+        "8": "art. 28 ust. 4 PRD W razie unieruchomienia pojazdu na przejeździe kolejowym, kierujący jest obowiązany niezwłocznie usunąć go z przejazdu, a jeżeli nie jest to możliwe, ostrzec kierującego pojazdem szynowym o niebezpieczeństwie",
+        "9": "art. 28 ust. 3 pkt. 2 PRD Kierującemu pojazdem zabrania się wjeżdżania na przejazd, jeżeli po drugiej stronie przejazdu nie ma miejsca do kontynuowania jazdy"
+      },
       "path": null
     },
     {
@@ -1343,7 +1412,17 @@
       "points": null,
       "code": "null",
       "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "art. 28 ust. 6 PRD Przepisy ust. 1–4 stosuje się odpowiednio przy przejeżdżaniu przez tory tramwajowe; przepis ust. 3 pkt 3 nie dotyczy skrzyżowania lub przejazdu tramwajowego, na którym ruch jest kierowany",
+        "2": "art. 28 ust. 1 PRD Kierujący pojazdem, zbliżając się do przejazdu kolejowego oraz przejeżdżając przez przejazd, jest obowiązany zachować szczególną ostrożność. Przed wjechaniem na tory jest on obowiązany upewnić się, czy nie zbliża się pojazd szynowy, oraz przedsięwziąć odpowiednie środki ostrożności, zwłaszcza jeżeli wskutek mgły lub z innych powodów przejrzystość powietrza jest zmniejszona",
+        "3": "art. 28 ust. 2 PRD Kierujący jest obowiązany prowadzić pojazd z taką prędkością, aby mógł go zatrzymać w bezpiecznym miejscu, gdy nadjeżdża pojazd szynowy lub gdy urządzenie zabezpieczające albo dawany sygnał zabrania wjazdu na przejazd ",
+        "4": "art. 28 ust. 3 PRD pkt 1 Kierującemu pojazdem zabrania się objeżdżania opuszczonych zapór lub półzapór oraz wjeżdżania na przejazd, jeżeli opuszczanie ich zostało rozpoczęte lub podnoszenie nie zostało zakończone",
+        "5": "art. 28 ust. 3 PRD pkt 2 Kierującemu pojazdem zabrania się wjeżdżania na przejazd, jeżeli po drugiej stronie przejazdu nie ma miejsca do kontynuowania jazdy",
+        "6": "art. 28 ust. 3 PRD pkt 3 Kierującemu pojazdem zabrania się wyprzedzania pojazdu na przejeździe kolejowym i bezpośrednio przed nim",
+        "7": "art. 28 ust. 3 PRD pkt 4 Kierującemu pojazdem zabrania się omijania pojazdu oczekującego na otwarcie ruchu przez przejazd, jeżeli wymagałoby to wjechania na część jezdni przeznaczoną dla przeciwnego kierunku ruchu",
+        "8": "art. 28 ust. 4 PRD W razie unieruchomienia pojazdu na przejeździe kolejowym, kierujący jest obowiązany niezwłocznie usunąć go z przejazdu, a jeżeli nie jest to możliwe, ostrzec kierującego pojazdem szynowym o niebezpieczeństwie",
+        "9": "art. 28 ust. 3 pkt. 2 PRD Kierującemu pojazdem zabrania się wjeżdżania na przejazd, jeżeli po drugiej stronie przejazdu nie ma miejsca do kontynuowania jazdy"
+      },
       "path": null
     },
     {
@@ -1354,7 +1433,17 @@
       "points": 0,
       "code": "Z 01",
       "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "art. 28 ust. 6 PRD Przepisy ust. 1–4 stosuje się odpowiednio przy przejeżdżaniu przez tory tramwajowe; przepis ust. 3 pkt 3 nie dotyczy skrzyżowania lub przejazdu tramwajowego, na którym ruch jest kierowany",
+        "2": "art. 28 ust. 1 PRD Kierujący pojazdem, zbliżając się do przejazdu kolejowego oraz przejeżdżając przez przejazd, jest obowiązany zachować szczególną ostrożność. Przed wjechaniem na tory jest on obowiązany upewnić się, czy nie zbliża się pojazd szynowy, oraz przedsięwziąć odpowiednie środki ostrożności, zwłaszcza jeżeli wskutek mgły lub z innych powodów przejrzystość powietrza jest zmniejszona",
+        "3": "art. 28 ust. 2 PRD Kierujący jest obowiązany prowadzić pojazd z taką prędkością, aby mógł go zatrzymać w bezpiecznym miejscu, gdy nadjeżdża pojazd szynowy lub gdy urządzenie zabezpieczające albo dawany sygnał zabrania wjazdu na przejazd ",
+        "4": "art. 28 ust. 3 PRD pkt 1 Kierującemu pojazdem zabrania się objeżdżania opuszczonych zapór lub półzapór oraz wjeżdżania na przejazd, jeżeli opuszczanie ich zostało rozpoczęte lub podnoszenie nie zostało zakończone",
+        "5": "art. 28 ust. 3 PRD pkt 2 Kierującemu pojazdem zabrania się wjeżdżania na przejazd, jeżeli po drugiej stronie przejazdu nie ma miejsca do kontynuowania jazdy",
+        "6": "art. 28 ust. 3 PRD pkt 3 Kierującemu pojazdem zabrania się wyprzedzania pojazdu na przejeździe kolejowym i bezpośrednio przed nim",
+        "7": "art. 28 ust. 3 PRD pkt 4 Kierującemu pojazdem zabrania się omijania pojazdu oczekującego na otwarcie ruchu przez przejazd, jeżeli wymagałoby to wjechania na część jezdni przeznaczoną dla przeciwnego kierunku ruchu",
+        "8": "art. 28 ust. 4 PRD W razie unieruchomienia pojazdu na przejeździe kolejowym, kierujący jest obowiązany niezwłocznie usunąć go z przejazdu, a jeżeli nie jest to możliwe, ostrzec kierującego pojazdem szynowym o niebezpieczeństwie",
+        "9": "art. 28 ust. 3 pkt. 4 PRD Kierującemu pojazdem zabrania się omijania pojazdu oczekującego na otwarcie ruchu przez przejazd, jeżeli wymagałoby to wjechania na część jezdni przeznaczoną dla przeciwnego kierunku ruchu"
+      },
       "path": null
     },
     {
@@ -1365,7 +1454,16 @@
       "points": 0,
       "code": "Z 01",
       "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "art. 28 ust. 6 PRD Przepisy ust. 1–4 stosuje się odpowiednio przy przejeżdżaniu przez tory tramwajowe; przepis ust. 3 pkt 3 nie dotyczy skrzyżowania lub przejazdu tramwajowego, na którym ruch jest kierowany",
+        "2": "art. 28 ust. 1 PRD Kierujący pojazdem, zbliżając się do przejazdu kolejowego oraz przejeżdżając przez przejazd, jest obowiązany zachować szczególną ostrożność. Przed wjechaniem na tory jest on obowiązany upewnić się, czy nie zbliża się pojazd szynowy, oraz przedsięwziąć odpowiednie środki ostrożności, zwłaszcza jeżeli wskutek mgły lub z innych powodów przejrzystość powietrza jest zmniejszona",
+        "3": "art. 28 ust. 2 PRD Kierujący jest obowiązany prowadzić pojazd z taką prędkością, aby mógł go zatrzymać w bezpiecznym miejscu, gdy nadjeżdża pojazd szynowy lub gdy urządzenie zabezpieczające albo dawany sygnał zabrania wjazdu na przejazd ",
+        "4": "art. 28 ust. 3 PRD pkt 1 Kierującemu pojazdem zabrania się objeżdżania opuszczonych zapór lub półzapór oraz wjeżdżania na przejazd, jeżeli opuszczanie ich zostało rozpoczęte lub podnoszenie nie zostało zakończone",
+        "5": "art. 28 ust. 3 PRD pkt 2 Kierującemu pojazdem zabrania się wjeżdżania na przejazd, jeżeli po drugiej stronie przejazdu nie ma miejsca do kontynuowania jazdy",
+        "6": "art. 28 ust. 3 PRD pkt 3 Kierującemu pojazdem zabrania się wyprzedzania pojazdu na przejeździe kolejowym i bezpośrednio przed nim",
+        "7": "art. 28 ust. 3 PRD pkt 4 Kierującemu pojazdem zabrania się omijania pojazdu oczekującego na otwarcie ruchu przez przejazd, jeżeli wymagałoby to wjechania na część jezdni przeznaczoną dla przeciwnego kierunku ruchu",
+        "8": "art. 28 ust. 4 PRD W razie unieruchomienia pojazdu na przejeździe kolejowym, kierujący jest obowiązany niezwłocznie usunąć go z przejazdu, a jeżeli nie jest to możliwe, ostrzec kierującego pojazdem szynowym o niebezpieczeństwie"
+      },
       "path": null
     },
     {
@@ -1376,7 +1474,10 @@
       "points": 2,
       "code": "G 02",
       "law": "art. 88 KW Kto na drodze publicznej, w strefie zamieszkania lub strefie ruchu prowadzi pojazd bez wymaganych przepisami świateł lub pozostawia pojazd bez wymaganego przepisami oświetlenia,podlega karze grzywny.",
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "art. 30 ust. 1 pkt 1 lit. a PRD Kierujący pojazdem jest obowiązany zachować szczególną ostrożność w czasie jazdy w warunkach zmniejszonej przejrzystości powietrza, spowodowanej mgłą, opadami atmosferycznymi lub innymi przyczynami, a ponadto kierujący pojazdem silnikowym jest obowiązany włączyć światła mijania lub przeciwmgłowe przednie albo oba te światła jednocześnie",
+        "2": "art. 30 ust. 1 pkt 2 lit. a PRD kierujący innym pojazdem niż pojazd, o którym mowa w pkt 1, jest obowiązany włączyć światła, w które pojazd jest wyposażony"
+      },
       "path": null
     },
     {
@@ -1387,7 +1488,7 @@
       "points": null,
       "code": "null",
       "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
-      "paragraph": "",
+      "paragraph": "art. 30 ust. 1 pkt 2 lit. b PRD kierujący innym pojazdem niż pojazd silnikowy jest obowiązany korzystać z pobocza drogi, a jeżeli nie jest to możliwe, jechać jak najbliżej krawędzi jezdni i nie wyprzedzać innego pojazdu",
       "path": null
     },
     {
@@ -1497,7 +1598,7 @@
       "points": 0,
       "code": "Z 01",
       "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
-      "paragraph": "",
+      "paragraph": "art. 31 ust. 1 pkt 2 PRD Kierujący może holować pojazd silnikowy tylko pod warunkiem, że pojazd holujący ma włączone światła mijania również w okresie dostatecznej widoczności",
       "path": null
     },
     {
@@ -1574,7 +1675,12 @@
       "points": null,
       "code": "null",
       "law": "art. 90 § 1 KW Kto tamuje lub utrudnia ruch na drodze publicznej, w strefie zamieszkania lub strefie ruchu,podlega karze grzywny do 500 złotych lub karze nagany",
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "art. 33 ust. 1a PRD Kierujący rowerem lub hulajnogą elektryczną może zatrzymać się w śluzie rowerowej obok innych kierujących tymi pojazdami. Jest obowiązany opuścić ją, kiedy zaistnieje możliwość kontynuowania jazdy w zamierzonym kierunku i zająć miejsce na jezdni zgodnie z odpowiednio art. 33 ust. 1 lub art. 16 ust. 4 i 5",
+        "2": "art. 33 ust. 1 PRD Kierujący rowerem lub hulajnogą elektryczną jest obowiązany korzystać z drogi dla rowerów lub pasa ruchu dla rowerów, jeżeli są one wyznaczone dla kierunku, w którym się porusza lub zamierza skręcić. Kierujący rowerem lub hulajnogą elektryczną, korzystając z drogi dla rowerów i pieszych, jest obowiązany zachować szczególną ostrożność i ustępować pierwszeństwa pieszemu",
+        "3": "art. 16 ust. 4 PRD Kierujący pojazdem jest obowiązany jechać możliwie blisko prawej krawędzi jezdni. Jeżeli pasy ruchu na jezdni są wyznaczone, nie może zajmować więcej niż jednego pasa",
+        "4": "art. 16 ust. 5 PRD Kierujący pojazdem zaprzęgowym, rowerem, wózkiem rowerowym, motorowerem, wózkiem ręcznym oraz osoba prowadząca pojazd napędzany silnikiem są obowiązani poruszać się po poboczu, chyba że nie nadaje się ono do jazdy lub ruch pojazdu utrudniałby ruch pieszych"
+      },
       "path": null
     },
     {
@@ -1596,7 +1702,6 @@
       "points": null,
       "code": "null",
       "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
-      "paragraph": "",
       "paragraph_sub": {
         "1": "art. 33 ust. 3 pkt 1 PRD Kierującemu rowerem, hulajnogą elektryczną lub motorowerem zabrania się jazdy po jezdni obok innego uczestnika ruchu, z zastrzeżeniem ust. 3a",
         "2": "art. 33 ust. 3a PRD Dopuszcza się wyjątkowo jazdę po jezdni kierującego rowerem obok innego roweru lub motoroweru, jeżeli nie utrudnia to poruszania się innym uczestnikom ruchu albo w inny sposób nie zagraża bezpieczeństwu ruchu drogowego."
@@ -1611,7 +1716,10 @@
       "points": null,
       "code": "null",
       "law": "art. 90 § 1 KW Kto tamuje lub utrudnia ruch na drodze publicznej, w strefie zamieszkania lub strefie ruchu,podlega karze grzywny do 500 złotych lub karze nagany",
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "art. 33 ust. 3 pkt 1 PRD Kierującemu rowerem, hulajnogą elektryczną lub motorowerem zabrania się jazdy po jezdni obok innego uczestnika ruchu, z zastrzeżeniem ust. 3a",
+        "2": "art. 33 ust. 3a PRD Dopuszcza się wyjątkowo jazdę po jezdni kierującego rowerem obok innego roweru lub motoroweru, jeżeli nie utrudnia to poruszania się innym uczestnikom ruchu albo w inny sposób nie zagraża bezpieczeństwu ruchu drogowego."
+      },
       "path": null
     },
     {
@@ -1644,7 +1752,15 @@
       "points": null,
       "code": "null",
       "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "art. 33 ust. 5 pkt. 1 PRD Korzystanie z chodnika lub drogi dla pieszych przez kierującego rowerem jest dozwolone wyjątkowo, gdy opiekuje się on osobą w wieku do lat 10 kierującą rowerem",
+        "2": "art. 33 ust. 5 pkt. 2 PRD Korzystanie z chodnika lub drogi dla pieszych przez kierującego rowerem jest dozwolone wyjątkowo, gdy szerokość chodnika wzdłuż drogi, po której ruch pojazdów jest dozwolony z prędkością większą niż 50 km/h, wynosi co najmniej 2 m i brakuje wydzielonej drogi dla rowerów oraz pasa ruchu dla rowerów",
+        "3": "art. 33 ust. 5 pkt. 3 PRD Korzystanie z chodnika lub drogi dla pieszych przez kierującego rowerem jest dozwolone wyjątkowo, gdy warunki pogodowe zagrażają bezpieczeństwu rowerzysty na jezdni (śnieg, silny wiatr, ulewa, gołoledź, gęsta mgła), z zastrzeżeniem ust. 6",
+        "4": "art. 33 ust. 6 PRD Kierujący rowerem, korzystając z chodnika albo drogi dla pieszych, jest obowiązany jechać z prędkością zbliżoną do prędkości pieszego, zachować szczególną ostrożność, ustępować pierwszeństwa pieszemu oraz nie utrudniać jego ruchu",
+        "5": "art. 33a ust. 2 PRD Korzystanie z chodnika lub drogi dla pieszych przez kierującego hulajnogą elektryczną jest dozwolone wyjątkowo, gdy chodnik jest usytuowany wzdłuż jezdni, po której ruch pojazdów jest dozwolony z prędkością większą niż 30 km/h, i brakuje wydzielonej drogi dla rowerów oraz pasa ruchu dla rowerów",
+        "6": "art. 33b ust. 2 PRD Korzystanie z chodnika lub drogi dla pieszych przez kierującego urządzeniem transportu osobistego jest dozwolone wyjątkowo, gdy brakuje wydzielonej drogi dla rowerów",
+        "7": ""
+      },
       "path": null
     },
     {
@@ -1655,7 +1771,10 @@
       "points": null,
       "code": "null",
       "law": "art. 86a KW Kto, kierując rowerem, hulajnogą elektryczną lub urządzeniem transportu osobistego albo poruszając się przy użyciu urządzenia wspomagającego ruch na chodniku lub drodze dla pieszych, nie porusza się z prędkością zbliżoną do prędkości pieszego lub nie ustępuje pierwszeństwa pieszemu, podlega karze grzywny albo karze nagany.",
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "art. 33 ust. 6 PRD Kierujący rowerem, korzystając z chodnika albo drogi dla pieszych, jest obowiązany jechać z prędkością zbliżoną do prędkości pieszego, zachować szczególną ostrożność, ustępować pierwszeństwa pieszemu oraz nie utrudniać jego ruchu",
+        "2": "art. 33c PRD Kierujący hulajnogą elektryczną lub urządzeniem transportu osobistego, korzystając z chodnika albo drogi dla pieszych, jest obowiązany jechać prędkością zbliżoną do prędkości pieszego, zachować szczególną ostrożność, ustępować pierwszeństwa pieszemu oraz nie utrudniać jego ruchu"
+      },
       "path": null
     },
     {
@@ -1666,7 +1785,10 @@
       "points": null,
       "code": "null",
       "law": "art. 86a KW Kto, kierując rowerem, hulajnogą elektryczną lub urządzeniem transportu osobistego albo poruszając się przy użyciu urządzenia wspomagającego ruch na chodniku lub drodze dla pieszych, nie porusza się z prędkością zbliżoną do prędkości pieszego lub nie ustępuje pierwszeństwa pieszemu, podlega karze grzywny albo karze nagany.",
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "art. 33 ust. 6 PRD Kierujący rowerem, korzystając z chodnika albo drogi dla pieszych, jest obowiązany jechać z prędkością zbliżoną do prędkości pieszego, zachować szczególną ostrożność, ustępować pierwszeństwa pieszemu oraz nie utrudniać jego ruchu",
+        "2": "art. 33c PRD Kierujący hulajnogą elektryczną lub urządzeniem transportu osobistego, korzystając z chodnika albo drogi dla pieszych, jest obowiązany jechać prędkością zbliżoną do prędkości pieszego, zachować szczególną ostrożność, ustępować pierwszeństwa pieszemu oraz nie utrudniać jego ruchu"
+      },
       "path": null
     },
     {
@@ -1677,7 +1799,10 @@
       "points": null,
       "code": "null",
       "law": "art. 90§1 KW Kto tamuje lub utrudnia ruch na drodze publicznej, w strefie zamieszkania lub strefie ruchu,\npodlega karze grzywny do 500 złotych lub karze nagany",
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "art. 33 ust. 6 PRD Kierujący rowerem, korzystając z chodnika albo drogi dla pieszych, jest obowiązany jechać z prędkością zbliżoną do prędkości pieszego, zachować szczególną ostrożność, ustępować pierwszeństwa pieszemu oraz nie utrudniać jego ruchu",
+        "2": "art. 33c PRD Kierujący hulajnogą elektryczną lub urządzeniem transportu osobistego, korzystając z chodnika albo drogi dla pieszych, jest obowiązany jechać prędkością zbliżoną do prędkości pieszego, zachować szczególną ostrożność, ustępować pierwszeństwa pieszemu oraz nie utrudniać jego ruchu"
+      },
       "path": null
     },
     {
@@ -1856,7 +1981,12 @@
       "1": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
       "2": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału\nlub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu\ndrogowego,\npodlega karze grzywny albo karze nagany"
       },
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "art. 16 ust. 2 PRD Kierujący pojazdem, korzystając z drogi dwujezdniowej, jest obowiązany jechać po prawej jezdni; do jezdni tych nie wlicza się jezdni przeznaczonej do dojazdu do nieruchomości położonej przy drodze",
+        "2": "art. 22 ust. 6 pkt 2 PRD Zabrania się zawracania na autostradzie",
+        "3": "art. 22 ust. 6 pkt 3 PRD Zabrania się zawracania na drodze ekspresowej, z wyjątkiem skrzyżowania lub miejsca do tego przeznaczonego",
+        "4": "§ 17 ust. 1 ZSD Znak B-2 „zakaz wjazdu” oznacza zakaz wjazdu pojazdów na drogę lub jezdnię od strony jego umieszczenia, zakaz dotyczy również kolumn pieszych oraz jeźdźców i poganiaczy"
+      },
       "path": null
     },
     {
