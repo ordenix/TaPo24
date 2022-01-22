@@ -5,9 +5,7 @@
       <div class="category">
         {{data.category}}
       </div>
-      <div>
-        $$GRAFIKA$$
-      </div>
+      <img v-if="data.path" :src="require(`../assets/${data.path}`)" alt="img"/>
     </div>
     <hr>
     <div class="more" @click="toggle_more_info">
@@ -21,18 +19,18 @@
     <div id="more_info" ref="more_info">
       <div class="title" ref="more_info_title">Uprawnia do kierowania:</div>
       <div v-if="show_more_delay">
-        <div v-for="(element, index) in data.vehicle_table" :key="index+100">
-          <li> {{element.vehicle}}</li>
-        </div>
+          <div v-for="(element, index) in data.vehicle_table" :key="index+100">
+            <ul><li> {{element.vehicle}}</li></ul>
+          </div>
       </div>
       <div class="title" ref="more_info_title2">Wymagania:</div>
       <div v-if="show_more_delay">
-        <div v-for="(element, index) in data.requirements" :key="index"><li> {{element.age}}</li></div>
+        <div v-for="(element, index) in data.requirements" :key="index"><ul><li> {{element.age}}</li></ul></div>
       </div>
       <div v-show="data.remarks">
         <div class="title" ref="more_info_title3">Uwagi:</div>
       <div v-if="show_more_delay">
-        <div v-for="(element, index) in data.remarks" :key="index"> <li> {{element.remark}}</li></div>
+        <div v-for="(element, index) in data.remarks" :key="index"> <ul><li> {{element.remark}}</li></ul></div>
       </div>
       </div>
     </div>
@@ -125,5 +123,12 @@ export default {
 li {
   padding: 5px 5px;
   list-style-type: square;
+}
+ul {
+  padding-inline-start: 15px;
+}
+img {
+  width: 80px;
+  padding: 10px;
 }
 </style>

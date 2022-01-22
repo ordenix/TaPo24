@@ -15,6 +15,7 @@ import QualificationsAccident2 from '@/views/Qualifications_Accident2'
 import TypeAccident from '@/views/Type_Accident'
 import ControlList from '@/views/ControlList'
 import DrivingLicence from '@/views/Driving_Licence'
+import DrivingLicenceCode from '@/views/Driving_Licence_Code'
 Vue.use(VueRouter)
 
 const routes = [
@@ -94,6 +95,11 @@ const routes = [
     component: DrivingLicence
   },
   {
+    path: '/DrivingLicenceCode/',
+    name: 'DrivingLicenceCode',
+    component: DrivingLicenceCode
+  },
+  {
     path: '/about',
     name: 'About',
     // route level code-splitting
@@ -118,7 +124,7 @@ router.beforeEach((to, from, next) => {
   }
 })
 const DEFAULT_TITLE = 'TaPo24'
-router.afterEach((to, from) => {
+router.afterEach((to) => {
   // Use next tick to handle router history correctly
   // see: https://github.com/vuejs/vue-router/issues/914#issuecomment-384477609
   Vue.nextTick(() => {

@@ -17,7 +17,7 @@
         <div class="icon"><i class="fas fa-id-card"></i></div>
         <div class="label">Kategorie prawa jazdy</div>
       </div>
-      <div class="element" @click="goto('//')">
+      <div class="element" @click="goto('/DrivingLicenceCode/')">
         <div class="icon"><i class="fas fa-glasses"></i></div>
         <div class="label">Kody ograniczeń prawa jazdy</div>
       </div>

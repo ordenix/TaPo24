@@ -17,7 +17,8 @@
         {
           "age": "14 lat"
         }
-      ]
+      ],
+      "path": "category/AM.png"
     },
     {
       "category": "A1",
@@ -42,7 +43,8 @@
         {
           "age": "16 lat"
         }
-      ]
+      ],
+      "path": "category/A1.png"
     },
     {
       "category": "A2",
@@ -67,7 +69,8 @@
         {
           "age": "18 lat"
         }
-      ]
+      ],
+      "path": "category/A2.png"
     },
     {
       "category": "A",
@@ -117,7 +120,8 @@
         {
           "age": "16 lat"
         }
-      ]
+      ],
+      "path": "category/B1.png"
     },
     {
       "category": "B",
@@ -156,7 +160,8 @@
         {
           "remark": "Kierowca może kierować kolejką turystyczną o ile posiada uprawnienia co najmniej 2 lata i ma skończone 21 lat"
         }
-      ]
+      ],
+      "path": "category/B.png"
     },
     {
       "category": "C1",
@@ -225,7 +230,8 @@
         {
           "remark": "Kierowca może kierować kolejką turystyczną o ile posiada uprawnienia co najmniej 2 lata"
         }
-      ]
+      ],
+      "path": "category/C.png"
     },
     {
       "category": "D1",
@@ -255,7 +261,8 @@
         {
           "remark": "Kierowca może kierować kolejką turystyczną o ile posiada uprawnienia co najmniej 2 lata"
         }
-      ]
+      ],
+      "path": "category/D1.png"
     },
     {
       "category": "D",
@@ -294,7 +301,8 @@
         {
           "remark": "Kierowca może kierować kolejką turystyczną o ile posiada uprawnienia co najmniej 2 lata"
         }
-      ]
+      ],
+      "path": "category/D.png"
     },
     {
       "category": "T",
@@ -321,7 +329,8 @@
         {
           "remark": "Kierowca może kierować kolejką turystyczną o ile posiada uprawnienia co najmniej 2 lata"
         }
-      ]
+      ],
+      "path": "category/T.png"
     },
     {
       "category": "B+E",
@@ -351,7 +360,8 @@
         {
           "remark": "Jeżeli kierowca posiada kategorię B i D+E to uprawnia to do kierowania pojazdami w kategorii B+E"
         }
-      ]
+      ],
+      "path": "category/BE.png"
     },
     {
       "category": "C+E",
@@ -373,7 +383,8 @@
         {
           "age": "21 lat"
         }
-      ]
+      ],
+      "path": "category/CE.png"
     },
     {
       "category": "D+E",
@@ -397,7 +408,8 @@
         {
           "remark": "Jeżeli kierowca posiada kategorię D i C+E to uprawnia to do kierowania pojazdami w kategorii D+E"
         }
-      ]
+      ],
+      "path": "category/DE.png"
     },
     {
       "category": "C1+E",
@@ -413,7 +425,8 @@
         {
           "age": "18 lat"
         }
-      ]
+      ],
+      "path": "category/C1E.png"
     },
     {
       "category": "D1+E",
@@ -429,7 +442,8 @@
         {
           "age": "21 lat"
         }
-      ]
+      ],
+      "path": "category/D1E.png"
     }
   ],
   "code": [
