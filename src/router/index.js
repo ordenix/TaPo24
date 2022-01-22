@@ -14,6 +14,7 @@ import PointsCalc from '@/views/Points_Calc'
 import QualificationsAccident2 from '@/views/Qualifications_Accident2'
 import TypeAccident from '@/views/Type_Accident'
 import ControlList from '@/views/ControlList'
+import DrivingLicence from '@/views/Driving_Licence'
 Vue.use(VueRouter)
 
 const routes = [
@@ -86,6 +87,11 @@ const routes = [
     path: '/ControlList/',
     name: 'ControlList',
     component: ControlList
+  },
+  {
+    path: '/DrivingLicence/',
+    name: 'DrivingLicence',
+    component: DrivingLicence
   },
   {
     path: '/about',

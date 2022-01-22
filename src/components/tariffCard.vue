@@ -1,6 +1,9 @@
 <template>
     <div class="container">
-      <div class="title">{{ data.name }}</div>
+      <div class="header">
+        <div class="title">{{ data.name }}</div>
+        <div v-if="favorites_array.indexOf(data.name)!=-1">★</div>
+      </div>
       <div v-for="(element , index) in data.sub_name" :key="index" class="title"><br>- {{index}}. {{element}}</div>
       <div class="description">{{ data.text }}</div>
       <hr>
@@ -19,8 +22,14 @@
 </template>
 
 <script>
+import { mapState } from 'vuex'
 export default {
   name: 'tariffCard.vue',
+  computed: {
+    ...mapState([
+      'favorites_array'
+    ])
+  },
   props: {
     data: {
       category: null,
@@ -70,5 +79,9 @@ img {
 .description {
   font-size: 12px;
   margin: 5px 10px;
+}
+.header {
+  display: flex;
+  justify-content: space-between
 }
 </style>

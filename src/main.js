@@ -17,5 +17,12 @@ Vue.component('font-awesome-icon', FontAwesomeIcon)
 new Vue({
   router,
   store,
+  created () {
+    const favoritesData = localStorage.getItem('favorites_array')
+    if (favoritesData) {
+      const favorites = JSON.parse(favoritesData)
+      this.$store.commit('SET_FAVORITES', favorites)
+    }
+  },
   render: h => h(App)
 }).$mount('#app')

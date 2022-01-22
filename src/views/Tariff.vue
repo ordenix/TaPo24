@@ -3,7 +3,15 @@
     <div id="overlay" @click="click_on_overlay"></div>
       <div id="overlay_container" @click="click_on_overlay">
     <div id="more_info" @click="click_on_overlay">
-      <div class="category">Kategoria: {{ category_filter(selected_data.category) }}</div>
+      <div class="header">
+        <div class="category">Kategoria: {{ category_filter(selected_data.category) }}</div>
+        <div class="favorites" @click="click_on_favorites">
+          <div v-if="favorites_array.indexOf(selected_data.name)!=-1">★</div>
+          <div v-if="favorites_array.indexOf(selected_data.name)==-1">☆</div>
+          <div class="favorites-label" v-if="favorites_array.indexOf(selected_data.name)==-1">Dodaj do ulubionych</div>
+          <div class="favorites-label" v-if="favorites_array.indexOf(selected_data.name)!=-1">Usuń z ulubionych</div>
+        </div>
+      </div>
       <hr>
       <div id="title_box">
         <div class="title">{{selected_data.name}}</div>
@@ -57,11 +65,13 @@ export default {
   computed: {
     ...mapState([
       'scroll_pos_tariff',
-      'selected_tariff_data'
+      'selected_tariff_data',
+      'favorites_array'
     ]),
     filtered_data () {
       // TODO remove comment here and work filter
       if (this.selected_option === 'work') return this.tariff_array.filter(element => element.category === '').filter(name => name.name.toLowerCase().includes(this.search_text.toLowerCase()))
+      if (this.selected_option === 'favorites') return this.tariff_array.filter(element => this.favorites_array.includes(element.name)).filter(name => name.name.toLowerCase().includes(this.search_text.toLowerCase()))
       if (!isNaN(parseInt(this.search_text))) return this.tariff_array.filter(limit => limit.min_speed <= parseInt(this.search_text)).filter(limit => limit.max_speed >= parseInt(this.search_text)).filter(visible => visible.visible !== false)
       if (this.selected_option === 'all') return this.tariff_array.filter(name => name.name.toLowerCase().includes(this.search_text.toLowerCase()) || name.code.toLowerCase().includes(this.search_text.toLowerCase())).filter(visible => visible.visible !== false)
       return this.tariff_array.filter(name => name.category.toLowerCase().includes(this.selected_option.toLowerCase())).filter(name => name.name.toLowerCase().includes(this.search_text.toLowerCase()) || name.code.toLowerCase().includes(this.search_text.toLowerCase())).filter(visible => visible.visible !== false)
@@ -88,6 +98,7 @@ export default {
       open_special_card: false,
       options_category: [
         { value: 'all', text: 'Wszystkie wykroczenia' },
+        { value: 'favorites', text: 'Ulubione' },
         { value: 'accident', text: 'Kolizja' },
         { value: 'pedestrian', text: 'Wykroczenia pieszych' },
         { value: 'support', text: 'Wykroczenia pieszych z urz. wsp. ruch/ rowerzystów' },
@@ -117,7 +128,8 @@ export default {
         paragraph: null
       },
       search_text: '',
-      focus: false
+      focus: false,
+      on_favorites: false
     }
   },
   methods: {
@@ -150,10 +162,26 @@ export default {
         document.getElementById('overlay_container').style.opacity = '100%'
       }
     },
+    click_on_favorites () {
+      this.on_favorites = true
+      setTimeout(this.change_on_favourites, 300)
+      if (this.favorites_array.indexOf(this.selected_data.name) === -1) {
+        // add to favor
+        this.$store.commit('ADD_FAVORITES_TO_ARRAY', this.selected_data.name)
+      } else {
+        // remove from favor
+        this.$store.commit('REMOVE_FAVORITES_FROM_ARRAY', this.selected_data.name)
+      }
+    },
+    change_on_favourites () {
+      this.on_favorites = false
+    },
     click_on_overlay () {
-      setTimeout(this.delay_close, 300)
-      document.getElementById('overlay').style.opacity = '0%'
-      document.getElementById('overlay_container').style.opacity = '0%'
+      if (!this.on_favorites) {
+        setTimeout(this.delay_close, 300)
+        document.getElementById('overlay').style.opacity = '0%'
+        document.getElementById('overlay_container').style.opacity = '0%'
+      }
     },
     delay_close () {
       this.open_special_card = false
@@ -245,6 +273,23 @@ export default {
 }
 .qualification_container div{
   padding: 10px 2px;
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.favorites {
+  width: auto;
+  color: #e0fbfc;
+  font-family: $text-family;
+  font-weight: bold;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.favorites-label {
+  font-size: 10px;
 }
 @media only screen and (min-width: 560px) {
   input {

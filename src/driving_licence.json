@@ -4,14 +4,18 @@
       "category": "AM",
       "vehicle_table": [
         {
-          "1": "motorowerem",
-          "2": "czterokołowcem lekkim",
-          "3": "motorower lub czterokołowiec lekki wraz z przyczepą"
+          "vehicle": "motorowerem"
+        },
+        {
+          "vehicle": "czterokołowcem lekkim"
+        },
+        {
+          "vehicle": "motorower lub czterokołowiec lekki wraz z przyczepą"
         }
       ],
       "requirements": [
         {
-          "1": "14 lat"
+          "age": "14 lat"
         }
       ]
     },
@@ -19,16 +23,24 @@
       "category": "A1",
       "vehicle_table": [
         {
-          "1": "motocyklem o pojemności skokowej silnika nieprzekraczającej 125 cm3, mocy nieprzekraczającej 11 kW i stosunku mocy do masy własnej nieprzekraczającym 0,1 kW/kg",
-          "2": "motocyklem trójkołowym o mocy nieprzekraczającej 15 kW",
-          "3": "motorowerem",
-          "4": "czterokołowcem lekkim",
-          "5": "zespół pojazdów złożonych z pojazdu określonego dla tej kategorii wraz z przyczepą"
+          "vehicle": "motocyklem o pojemności skokowej silnika nieprzekraczającej 125 cm3, mocy nieprzekraczającej 11 kW i stosunku mocy do masy własnej nieprzekraczającym 0,1 kW/kg"
+        },
+        {
+          "vehicle": "motocyklem trójkołowym o mocy nieprzekraczającej 15 kW"
+        },
+        {
+          "vehicle": "motorowerem"
+        },
+        {
+          "vehicle": "czterokołowcem lekkim"
+        },
+        {
+          "vehicle": "zespół pojazdów złożonych z pojazdu określonego dla tej kategorii wraz z przyczepą"
         }
       ],
       "requirements": [
         {
-          "1": "16 lat"
+          "age": "16 lat"
         }
       ]
     },
@@ -36,16 +48,24 @@
       "category": "A2",
       "vehicle_table": [
         {
-          "1": "motocyklem o mocy nieprzekraczającej 35 kW i stosunku mocy do masy własnej nieprzekraczającym 0,2 kW/kg, przy czym nie może on powstać w wyniku wprowadzenia zmian w pojeździe o mocy przekraczającej dwukrotność mocy tego motocykla",
-          "2": "motocyklem trójkołowym o mocy nieprzekraczającej 15 kW",
-          "3": "motorowerem",
-          "4": "czterokołowcem lekkim",
-          "5": "zespół pojazdów złożonych z pojazdu określonego dla tej kategorii wraz z przyczepą"
+          "vehicle": "motocyklem o mocy nieprzekraczającej 35 kW i stosunku mocy do masy własnej nieprzekraczającym 0,2 kW/kg, przy czym nie może on powstać w wyniku wprowadzenia zmian w pojeździe o mocy przekraczającej dwukrotność mocy tego motocykla"
+        },
+        {
+          "vehicle": "motocyklem trójkołowym o mocy nieprzekraczającej 15 kW"
+        },
+        {
+          "vehicle": "motorowerem"
+        },
+        {
+          "vehicle": "czterokołowcem lekkim"
+        },
+        {
+          "vehicle": "zespół pojazdów złożonych z pojazdu określonego dla tej kategorii wraz z przyczepą"
         }
       ],
       "requirements": [
         {
-          "1": "18 lat"
+          "age": "18 lat"
         }
       ]
     },
@@ -53,18 +73,30 @@
       "category": "A",
       "vehicle_table": [
         {
-          "1": "motocyklem",
-          "2": "motorowerem",
-          "3": "czterokołowcem lekkim",
-          "4": "zespół pojazdów złożonych z pojazdu określonego dla tej kategorii wraz z przyczepą"
+          "vehicle": "motocyklem"
+        },
+        {
+          "vehicle": "motorowerem"
+        },
+        {
+          "vehicle": "czterokołowcem lekkim"
+        },
+        {
+          "vehicle": "zespół pojazdów złożonych z pojazdu określonego dla tej kategorii wraz z przyczepą"
         }
       ],
       "requirements": [
         {
-          "1": "20 lat ( jeśli od co najmniej 2 lat posiada kategorię A2)",
-          "2": "24 lata ( jeśli od co najmniej 2 lat NIE posiada kategorii A2)",
-          "3": "18 lat (dla żołnierzy kierujących pojazdami Sił Zbrojnych Rzeczypospolitej Polskiej)",
-          "4": "18 lat (dla funkcjonariuszy kierujących pojazdami Policji oraz Straży Granicznej)"
+          "age": "20 lat ( jeśli od co najmniej 2 lat posiada kategorię A2)"
+        },
+        {
+          "age": "24 lata ( jeśli od co najmniej 2 lat NIE posiada kategorii A2)"
+        },
+        {
+          "age": "18 lat (dla żołnierzy kierujących pojazdami Sił Zbrojnych Rzeczypospolitej Polskiej)"
+        },
+        {
+          "age": "18 lat (dla funkcjonariuszy kierujących pojazdami Policji oraz Straży Granicznej)"
         }
       ]
     },
@@ -72,14 +104,18 @@
       "category": "B1",
       "vehicle_table": [
         {
-          "1": "czterokołowcem",
-          "2": "motorowerem",
-          "3": "czterokołowcem lekkim"
+          "vehicle": "czterokołowcem"
+        },
+        {
+          "vehicle": "motorowerem"
+        },
+        {
+          "vehicle": "czterokołowcem lekkim"
         }
       ],
       "requirements": [
         {
-          "1": "16 lat"
+          "age": "16 lat"
         }
       ]
     },
@@ -87,24 +123,38 @@
       "category": "B",
       "vehicle_table": [
         {
-          "1": "pojazdem samochodowym o dopuszczalnej masie całkowitej nieprzekraczającej 3,5 t, z wyjątkiem autobusu i motocykla",
-          "2": "zespołem pojazdów złożonym z pojazdu samochodowego o dopuszczalnej masie całkowitej nieprzekraczającej 3,5 t, z wyjątkiem autobusu i motocykla oraz z przyczepy lekkiej",
-          "3": "zespołem pojazdów złożonym z pojazdu samochodowego o dopuszczalnej masie całkowitej nieprzekraczającej 3,5 t, z wyjątkiem autobusu i motocykla oraz z przyczepy innej niż lekka, o ile łączna dopuszczalna masa całkowita zespołu tych pojazdów nie przekracza 4250 kg o ile posiada zdaną część praktyczną egzaminu państwowego, potwierdzoną wpisem do prawa jazdy (kod 96)",
-          "4": "motorowerem",
-          "5": "czterokołowcem lekkim",
-          "6": "ciągnikiem rolniczym, pojazdem wolnobieżnym oraz zespołem złożonym z tego pojazdu i przyczepy lekkiej",
-          "7": "motocyklem o pojemności skokowej silnika nieprzekraczającej 125 cm3, mocy nieprzekraczającej 11 kW i stosunku mocy do masy własnej nieprzekraczającym 0,1 kW/kg, lub motocyklem trójkołowym, pod warunkiem że osoba posiada prawo jazdy kategorii B od co najmniej 3 lat",
-          "8": "pojazdem samochodowym zasilanym paliwami alternatywnymi o dopuszczalnej masie całkowitej przekraczającej 3,5 t oraz nieprzekraczającej 4250 kg, jeżeli przekroczenie dopuszczalnej masy całkowitej 3,5 t wynika z zastosowania paliw alternatywnych, a informacja o tym przekroczeniu jest odnotowana w dowodzie rejestracyjnym, pod warunkiem że osoba posiada prawo jazdy kategorii B od co najmniej 2 lat"
+          "vehicle": "pojazdem samochodowym o dopuszczalnej masie całkowitej nieprzekraczającej 3,5 t, z wyjątkiem autobusu i motocykla"
+        },
+        {
+          "vehicle": "zespołem pojazdów złożonym z pojazdu samochodowego o dopuszczalnej masie całkowitej nieprzekraczającej 3,5 t, z wyjątkiem autobusu i motocykla oraz z przyczepy lekkiej"
+        },
+        {
+          "vehicle": "zespołem pojazdów złożonym z pojazdu samochodowego o dopuszczalnej masie całkowitej nieprzekraczającej 3,5 t, z wyjątkiem autobusu i motocykla oraz z przyczepy innej niż lekka, o ile łączna dopuszczalna masa całkowita zespołu tych pojazdów nie przekracza 4250 kg o ile posiada zdaną część praktyczną egzaminu państwowego, potwierdzoną wpisem do prawa jazdy (kod 96)"
+        },
+        {
+          "vehicle": "motorowerem"
+        },
+        {
+          "vehicle": "czterokołowcem lekkim"
+        },
+        {
+          "vehicle": "ciągnikiem rolniczym, pojazdem wolnobieżnym oraz zespołem złożonym z tego pojazdu i przyczepy lekkiej"
+        },
+        {
+          "vehicle": "motocyklem o pojemności skokowej silnika nieprzekraczającej 125 cm3, mocy nieprzekraczającej 11 kW i stosunku mocy do masy własnej nieprzekraczającym 0,1 kW/kg, lub motocyklem trójkołowym, pod warunkiem że osoba posiada prawo jazdy kategorii B od co najmniej 3 lat"
+        },
+        {
+          "vehicle": "pojazdem samochodowym zasilanym paliwami alternatywnymi o dopuszczalnej masie całkowitej przekraczającej 3,5 t oraz nieprzekraczającej 4250 kg, jeżeli przekroczenie dopuszczalnej masy całkowitej 3,5 t wynika z zastosowania paliw alternatywnych, a informacja o tym przekroczeniu jest odnotowana w dowodzie rejestracyjnym, pod warunkiem że osoba posiada prawo jazdy kategorii B od co najmniej 2 lat"
         }
       ],
       "requirements": [
         {
-          "1": "18 lat"
+          "age": "18 lat"
         }
       ],
       "remarks": [
         {
-          "1": "Kierowca może kierować kolejką turystyczną o ile posiada uprawnienia co najmniej 2 lata i ma skończone 21 lat"
+          "remark": "Kierowca może kierować kolejką turystyczną o ile posiada uprawnienia co najmniej 2 lata i ma skończone 21 lat"
         }
       ]
     },
@@ -112,21 +162,29 @@
       "category": "C1",
       "vehicle_table": [
         {
-          "1": "pojazdem samochodowym o dopuszczalnej masie całkowitej przekraczającej 3,5 t i nieprzekraczającej 7,5 t, z wyjątkiem autobusu",
-          "2": "zespołem pojazdów złożonym z pojazdu samochodowego o dopuszczalnej masie całkowitej przekraczającej 3,5 t i nieprzekraczającej 7,5 t, z wyjątkiem autobusu oraz z przyczepy lekkiej",
-          "3": "motorowerem",
-          "4": "czterokołowcem lekkim",
-          "5": "ciągnikiem rolniczym, pojazdem wolnobieżnym oraz zespołem złożonym z tego pojazdu i przyczepy lekkiej"
+          "vehicle": "pojazdem samochodowym o dopuszczalnej masie całkowitej przekraczającej 3,5 t i nieprzekraczającej 7,5 t, z wyjątkiem autobusu"
+        },
+        {
+          "vehicle": "zespołem pojazdów złożonym z pojazdu samochodowego o dopuszczalnej masie całkowitej przekraczającej 3,5 t i nieprzekraczającej 7,5 t, z wyjątkiem autobusu oraz z przyczepy lekkiej"
+        },
+        {
+          "vehicle": "motorowerem"
+        },
+        {
+          "vehicle": "czterokołowcem lekkim"
+        },
+        {
+          "vehicle": "ciągnikiem rolniczym, pojazdem wolnobieżnym oraz zespołem złożonym z tego pojazdu i przyczepy lekkiej"
         }
       ],
       "requirements": [
         {
-          "1": "18 lat"
+          "age": "18 lat"
         }
       ],
       "remarks": [
         {
-          "1": "Kierowca może kierować kolejką turystyczną o ile posiada uprawnienia co najmniej 2 lata"
+          "remark": "Kierowca może kierować kolejką turystyczną o ile posiada uprawnienia co najmniej 2 lata"
         }
       ]
     },
@@ -134,24 +192,38 @@
       "category": "C",
       "vehicle_table": [
         {
-          "1": "pojazdem samochodowym o dopuszczalnej masie całkowitej przekraczającej 3,5 t, z wyjątkiem autobusu",
-          "2": "zespołem pojazdów złożonym z pojazdu samochodowego o dopuszczalnej masie całkowitej przekraczającej 3,5 t, z wyjątkiem autobusu oraz z przyczepy lekkiej",
-          "3": "motorowerem",
-          "4": "czterokołowcem lekkim",
-          "5": "ciągnikiem rolniczym, pojazdem wolnobieżnym oraz zespołem złożonym z tego pojazdu i przyczepy lekkiej"
+          "vehicle": "pojazdem samochodowym o dopuszczalnej masie całkowitej przekraczającej 3,5 t, z wyjątkiem autobusu"
+        },
+        {
+          "vehicle": "zespołem pojazdów złożonym z pojazdu samochodowego o dopuszczalnej masie całkowitej przekraczającej 3,5 t, z wyjątkiem autobusu oraz z przyczepy lekkiej"
+        },
+        {
+          "vehicle": "motorowerem"
+        },
+        {
+          "vehicle": "czterokołowcem lekkim"
+        },
+        {
+          "vehicle": "ciągnikiem rolniczym, pojazdem wolnobieżnym oraz zespołem złożonym z tego pojazdu i przyczepy lekkiej"
         }
       ],
       "requirements": [
         {
-          "1": "21 lat",
-          "2": "18 lat (dla żołnierzy kierujących pojazdami Sił Zbrojnych Rzeczypospolitej Polskiej)",
-          "3": "19 lat (dla funkcjonariuszy kierujących pojazdami Państwowej Straży Pożarnej, Policji, Straży Granicznej oraz Służby Ochrony Państwa)",
-          "4": "18 lat (dla osób, które uzyskały kwalifikację wstępną)"
+          "age": "21 lat"
+        },
+        {
+          "age": "18 lat (dla żołnierzy kierujących pojazdami Sił Zbrojnych Rzeczypospolitej Polskiej)"
+        },
+        {
+          "age": "19 lat (dla funkcjonariuszy kierujących pojazdami Państwowej Straży Pożarnej, Policji, Straży Granicznej oraz Służby Ochrony Państwa)"
+        },
+        {
+          "age": "18 lat (dla osób, które uzyskały kwalifikację wstępną)"
         }
       ],
       "remarks": [
         {
-          "1": "Kierowca może kierować kolejką turystyczną o ile posiada uprawnienia co najmniej 2 lata"
+          "remark": "Kierowca może kierować kolejką turystyczną o ile posiada uprawnienia co najmniej 2 lata"
         }
       ]
     },
@@ -159,21 +231,29 @@
       "category": "D1",
       "vehicle_table": [
         {
-          "1": "autobusem przeznaczonym konstrukcyjnie do przewozu nie więcej niż 17 osób łącznie z kierowcą, o długości nieprzekraczającej 8 m",
-          "2": "zespołem pojazdów złożonym z autobusu przeznaczonym konstrukcyjnie do przewozu nie więcej niż 17 osób łącznie z kierowcą, o długości nieprzekraczającej 8 m oraz z przyczepy lekkiej",
-          "3": "motorowerem",
-          "4": "czterokołowcem lekkim",
-          "5": "ciągnikiem rolniczym, pojazdem wolnobieżnym oraz zespołem złożonym z tego pojazdu i przyczepy lekkiej"
+          "vehicle": "autobusem przeznaczonym konstrukcyjnie do przewozu nie więcej niż 17 osób łącznie z kierowcą, o długości nieprzekraczającej 8 m"
+        },
+        {
+          "vehicle": "zespołem pojazdów złożonym z autobusu przeznaczonym konstrukcyjnie do przewozu nie więcej niż 17 osób łącznie z kierowcą, o długości nieprzekraczającej 8 m oraz z przyczepy lekkiej"
+        },
+        {
+          "vehicle": "motorowerem"
+        },
+        {
+          "vehicle": "czterokołowcem lekkim"
+        },
+        {
+          "vehicle": "ciągnikiem rolniczym, pojazdem wolnobieżnym oraz zespołem złożonym z tego pojazdu i przyczepy lekkiej"
         }
       ],
       "requirements": [
         {
-          "1": "21 lat"
+          "age": "21 lat"
         }
       ],
       "remarks": [
         {
-          "1": "Kierowca może kierować kolejką turystyczną o ile posiada uprawnienia co najmniej 2 lata"
+          "remark": "Kierowca może kierować kolejką turystyczną o ile posiada uprawnienia co najmniej 2 lata"
         }
       ]
     },
@@ -181,24 +261,38 @@
       "category": "D",
       "vehicle_table": [
         {
-          "1": "autobusem",
-          "2": "zespołem pojazdów złożonym z autobusu oraz z przyczepy lekkiej",
-          "3": "motorowerem",
-          "4": "czterokołowcem lekkim",
-          "5": "ciągnikiem rolniczym, pojazdem wolnobieżnym oraz zespołem złożonym z tego pojazdu i przyczepy lekkiej"
+          "vehicle": "autobusem"
+        },
+        {
+          "vehicle": "zespołem pojazdów złożonym z autobusu oraz z przyczepy lekkiej"
+        },
+        {
+          "vehicle": "motorowerem"
+        },
+        {
+          "vehicle": "czterokołowcem lekkim"
+        },
+        {
+          "vehicle": "ciągnikiem rolniczym, pojazdem wolnobieżnym oraz zespołem złożonym z tego pojazdu i przyczepy lekkiej"
         }
       ],
       "requirements": [
         {
-          "1": "24 lata",
-          "2": "21 lat (dla funkcjonariuszy kierujących pojazdami Państwowej Straży Pożarnej, Policji, Straży Granicznej oraz Służby Ochrony Państwa)",
-          "3": "21 lat (dla osób, które uzyskały kwalifikację wstępną przyśpieszoną)",
-          "4": "19 lat (dla żołnierzy kierujących pojazdami Sił Zbrojnych Rzeczypospolitej Polskiej)"
+          "age": "24 lata"
+        },
+        {
+          "age": "21 lat (dla funkcjonariuszy kierujących pojazdami Państwowej Straży Pożarnej, Policji, Straży Granicznej oraz Służby Ochrony Państwa)"
+        },
+        {
+          "age": "21 lat (dla osób, które uzyskały kwalifikację wstępną przyśpieszoną)"
+        },
+        {
+          "age": "19 lat (dla żołnierzy kierujących pojazdami Sił Zbrojnych Rzeczypospolitej Polskiej)"
         }
       ],
       "remarks": [
         {
-          "1": "Kierowca może kierować kolejką turystyczną o ile posiada uprawnienia co najmniej 2 lata"
+          "remark": "Kierowca może kierować kolejką turystyczną o ile posiada uprawnienia co najmniej 2 lata"
         }
       ]
     },
@@ -206,20 +300,26 @@
       "category": "T",
       "vehicle_table": [
         {
-          "1": "ciągnikiem rolniczym lub pojazdem wolnobieżnym",
-          "2": "zespołem pojazdów złożonym z ciągnika rolniczego z przyczepą (przyczepami) lub pojazdem wolnobieżnym z przyczepą (przyczepami)",
-          "3": "motorowerem",
-          "4": "czterokołowcem lekkim"
+          "vehicle": "ciągnikiem rolniczym lub pojazdem wolnobieżnym"
+        },
+        {
+          "vehicle": "zespołem pojazdów złożonym z ciągnika rolniczego z przyczepą (przyczepami) lub pojazdem wolnobieżnym z przyczepą (przyczepami)"
+        },
+        {
+          "vehicle": "motorowerem"
+        },
+        {
+          "vehicle": "czterokołowcem lekkim"
         }
       ],
       "requirements": [
         {
-          "1": "16 lat"
+          "age": "16 lat"
         }
       ],
       "remarks": [
         {
-          "1": "Kierowca może kierować kolejką turystyczną o ile posiada uprawnienia co najmniej 2 lata"
+          "remark": "Kierowca może kierować kolejką turystyczną o ile posiada uprawnienia co najmniej 2 lata"
         }
       ]
     },
@@ -227,21 +327,29 @@
       "category": "B+E",
       "vehicle_table": [
         {
-          "1": "pojazdem kategorii B łącznie z przyczepą (przyczepami), przy czym dopuszczalna masa całkowita ciągniętej przyczepy nie może przekraczać 3,5 t",
-          "2": "zespołem pojazdów złożonym z ciągnika rolniczego z przyczepą (przyczepami) lub pojazdu wolnobieżnego z przyczepą (przyczepami)"
+          "vehicle": "pojazdem kategorii B łącznie z przyczepą (przyczepami), przy czym dopuszczalna masa całkowita ciągniętej przyczepy nie może przekraczać 3,5 t"
+        },
+        {
+          "vehicle": "zespołem pojazdów złożonym z ciągnika rolniczego z przyczepą (przyczepami) lub pojazdu wolnobieżnego z przyczepą (przyczepami)"
         }
       ],
       "requirements": [
         {
-          "1": "18 lat"
+          "age": "18 lat"
         }
       ],
       "remarks": [
         {
-          "1": "Jeżeli kierowca posiada kategorię B i C1+E to uprawnia to do kierowania pojazdami w kategorii B+E",
-          "2": "Jeżeli kierowca posiada kategorię B i D1+E to uprawnia to do kierowania pojazdami w kategorii B+E",
-          "3": "Jeżeli kierowca posiada kategorię B i C+E to uprawnia to do kierowania pojazdami w kategorii B+E",
-          "4": "Jeżeli kierowca posiada kategorię B i D+E to uprawnia to do kierowania pojazdami w kategorii B+E"
+          "remark": "Jeżeli kierowca posiada kategorię B i C1+E to uprawnia to do kierowania pojazdami w kategorii B+E"
+        },
+        {
+          "remark": "Jeżeli kierowca posiada kategorię B i D1+E to uprawnia to do kierowania pojazdami w kategorii B+E"
+        },
+        {
+          "remark": "Jeżeli kierowca posiada kategorię B i C+E to uprawnia to do kierowania pojazdami w kategorii B+E"
+        },
+        {
+          "remark": "Jeżeli kierowca posiada kategorię B i D+E to uprawnia to do kierowania pojazdami w kategorii B+E"
         }
       ]
     },
@@ -249,15 +357,21 @@
       "category": "C+E",
       "vehicle_table": [
         {
-          "1": "pojazdem kategorii C łącznie z przyczepą (przyczepami)",
-          "2": "zespołem pojazdów złożonym z ciągnika rolniczego z przyczepą (przyczepami) lub pojazdu wolnobieżnego z przyczepą (przyczepami)"
+          "vehicle": "pojazdem kategorii C łącznie z przyczepą (przyczepami)"
+        },
+        {
+          "vehicle": "zespołem pojazdów złożonym z ciągnika rolniczego z przyczepą (przyczepami) lub pojazdu wolnobieżnego z przyczepą (przyczepami)"
         }
       ],
       "requirements": [
         {
-          "1": "18 lat (dla żołnierzy kierujących pojazdami Sił Zbrojnych Rzeczypospolitej Polskiej)",
-          "2": "18 lat (dla osób, które uzyskały kwalifikację wstępną)",
-          "3": "21 lat"
+          "age": "18 lat (dla żołnierzy kierujących pojazdami Sił Zbrojnych Rzeczypospolitej Polskiej)"
+        },
+        {
+          "age": "18 lat (dla osób, które uzyskały kwalifikację wstępną)"
+        },
+        {
+          "age": "21 lat"
         }
       ]
     },
@@ -265,19 +379,23 @@
       "category": "D+E",
       "vehicle_table": [
         {
-          "1": "pojazdem kategorii D łącznie z przyczepą (przyczepami)",
-          "2": "zespołem pojazdów złożonym z ciągnika rolniczego z przyczepą (przyczepami) lub pojazdu wolnobieżnego z przyczepą (przyczepami)"
+          "vehicle": "pojazdem kategorii D łącznie z przyczepą (przyczepami)"
+        },
+        {
+          "vehicle": "zespołem pojazdów złożonym z ciągnika rolniczego z przyczepą (przyczepami) lub pojazdu wolnobieżnego z przyczepą (przyczepami)"
         }
       ],
       "requirements": [
         {
-          "1": "21 lat - (21 lat (dla osób, które uzyskały kwalifikację wstępną przyśpieszoną)",
-          "2": "24 lata "
+          "age": "21 lat - (21 lat (dla osób, które uzyskały kwalifikację wstępną przyśpieszoną)"
+        },
+        {
+          "age": "24 lata "
         }
       ],
       "remarks": [
         {
-          "1": "Jeżeli kierowca posiada kategorię D i C+E to uprawnia to do kierowania pojazdami w kategorii D+E"
+          "remark": "Jeżeli kierowca posiada kategorię D i C+E to uprawnia to do kierowania pojazdami w kategorii D+E"
         }
       ]
     },
@@ -285,13 +403,15 @@
       "category": "C1+E",
       "vehicle_table": [
         {
-          "1": "zespołem pojazdów o dopuszczalnej masie całkowitej nieprzekraczającej 12 t, składającym się z pojazdu ciągnącego określonego w prawie jazdy kategorii C1 i przyczepy",
-          "2": "zespołem pojazdów złożonym z ciągnika rolniczego z przyczepą (przyczepami) lub pojazdu wolnobieżnego z przyczepą (przyczepami)"
+          "vehicle": "zespołem pojazdów o dopuszczalnej masie całkowitej nieprzekraczającej 12 t, składającym się z pojazdu ciągnącego określonego w prawie jazdy kategorii C1 i przyczepy"
+        },
+        {
+          "vehicle": "zespołem pojazdów złożonym z ciągnika rolniczego z przyczepą (przyczepami) lub pojazdu wolnobieżnego z przyczepą (przyczepami)"
         }
       ],
       "requirements": [
         {
-          "1": "18 lat"
+          "age": "18 lat"
         }
       ]
     },
@@ -299,91 +419,15 @@
       "category": "D1+E",
       "vehicle_table": [
         {
-          "1": "zespołem pojazdów składającym się z pojazdu ciągnącego określonego w prawie jazdy kategorii D1 i przyczepy",
-          "2": "zespołem pojazdów złożonym z ciągnika rolniczego z przyczepą (przyczepami) lub pojazdu wolnobieżnego z przyczepą (przyczepami)"
+          "vehicle": "zespołem pojazdów składającym się z pojazdu ciągnącego określonego w prawie jazdy kategorii D1 i przyczepy"
+        },
+        {
+          "vehicle": "zespołem pojazdów złożonym z ciągnika rolniczego z przyczepą (przyczepami) lub pojazdu wolnobieżnego z przyczepą (przyczepami)"
         }
       ],
       "requirements": [
         {
-          "1": "21 lat"
-        }
-      ]
-    },
-    {
-      "category": "",
-      "vehicle_table": [
-        {
-          "1": ""
-        }
-      ],
-      "requirements": [
-        {
-          "1": ""
-        }
-      ]
-    },
-    {
-      "category": "",
-      "vehicle_table": [
-        {
-          "1": ""
-        }
-      ],
-      "requirements": [
-        {
-          "1": ""
-        }
-      ]
-    },
-    {
-      "category": "",
-      "vehicle_table": [
-        {
-          "1": ""
-        }
-      ],
-      "requirements": [
-        {
-          "1": ""
-        }
-      ]
-    },
-    {
-      "category": "",
-      "vehicle_table": [
-        {
-          "1": ""
-        }
-      ],
-      "requirements": [
-        {
-          "1": ""
-        }
-      ]
-    },
-    {
-      "category": "",
-      "vehicle_table": [
-        {
-          "1": ""
-        }
-      ],
-      "requirements": [
-        {
-          "1": ""
-        }
-      ]
-    },
-    {
-      "category": "",
-      "vehicle_table": [
-        {
-          "1": ""
-        }
-      ],
-      "requirements": [
-        {
-          "1": ""
+          "age": "21 lat"
         }
       ]
     }

@@ -17,6 +17,10 @@
         <div class="icon"><i class="fas fa-history"></i></div>
         <div class="label">Link do historii pojazdu</div>
       </div>
+      <div class="element" @click="goto_web('https://ckt.uc.ost112.gov.pl/')">
+        <div class="icon"><i class="fas fa-tty"></i></div>
+        <div class="label">Link do książki telefonicznej (Policja)</div>
+      </div>
       <div class="element" @click="goto('/Points_Calc/')">
         <div class="icon"><i class="fas fa-calculator"></i></div>
         <div class="label">Kalkulator punktów</div>

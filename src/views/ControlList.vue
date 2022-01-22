@@ -74,6 +74,18 @@ export default {
             array = element.standard
           } else {
             array = element.standard.filter(e => e.name.toLowerCase().includes(this.search_text.toLowerCase()))
+            for (const faults of element.standard) {
+              if (array.length === 0 && faults.name_2) {
+                if (faults.name_2.toLowerCase().includes(this.search_text.toLowerCase())) {
+                  array.push(faults)
+                }
+              }
+              if (array.length === 0 && faults.name_3) {
+                if (faults.name_3.toLowerCase().includes(this.search_text.toLowerCase())) {
+                  array.push(faults)
+                }
+              }
+            }
           }
           const a = {
             title_id: element.title_id,
@@ -105,8 +117,6 @@ export default {
       return this.title_list.filter(element => element.id === id)[0].name
     },
     add_item (id, faults) {
-      console.log(id)
-      console.log(faults)
       document.getElementById('footer').style.left = '0'
       if (this.faults_array.search(id) === -1) {
         if (this.faults_array === '') {

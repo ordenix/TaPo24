@@ -13,6 +13,14 @@
         <div class="icon"><i class="fas fa-exclamation-triangle"></i></div>
         <div class="label">Kody usterek</div>
       </div>
+      <div class="element" @click="goto('/DrivingLicence/')">
+        <div class="icon"><i class="fas fa-id-card"></i></div>
+        <div class="label">Kategorie prawa jazdy</div>
+      </div>
+      <div class="element" @click="goto('//')">
+        <div class="icon"><i class="fas fa-glasses"></i></div>
+        <div class="label">Kody ograniczeń prawa jazdy</div>
+      </div>
     </div>
   </div>
 </template>
