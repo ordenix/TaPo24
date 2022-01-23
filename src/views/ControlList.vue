@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div id="search_top_bar">
+    <div id="search_top_bar2">
       <input type="text" placeholder="Wprowadź opis" v-model="search_text">
       <div class="checkBox" v-if="false">
         <input type="checkbox" class="checkBox_box">
@@ -116,7 +116,7 @@ export default {
     filter_title (id) {
       return this.title_list.filter(element => element.id === id)[0].name
     },
-    add_item (id, faults) {
+    add_item (id) {
       document.getElementById('footer').style.left = '0'
       if (this.faults_array.search(id) === -1) {
         if (this.faults_array === '') {
