@@ -1,4 +1,5 @@
 <template>
+  <div class="test">
   <div class="navbar">
     <router-link :to="{name: 'Home'}"><div class="desktop"><div :class="[$route.name==='Home' ? 'nav_element_selected' : 'nav_element']"><div class="icon"><i class="fas fa-home"></i></div> Home</div></div></router-link>
     <router-link :to="{path: '/tariff/'}"><div :class="[$route.name==='Tariff' ? 'nav_element_selected' : 'nav_element']"><div class="icon"><i class="fas fa-book-reader"></i></div>Taryfikator</div></router-link>
@@ -6,6 +7,7 @@
     <router-link :to="{path: '/law'}"><div :class="[$route.name==='Law' ? 'nav_element_selected' : 'nav_element']"><div class="icon"><i class="fas fa-gavel"></i></div>Przepisy</div></router-link>
     <router-link :to="{path: '/helpers/'}"><div :class="[$route.name==='Helpers' ? 'nav_element_selected' : 'nav_element']"><div class="icon"><i class="far fa-life-ring"></i></div>Pomoce</div></router-link>
     <router-link :to="{path: '/about/'}"><div class="desktop"><div :class="[$route.name==='About' ? 'nav_element_selected' : 'nav_element']"><div class="icon"><i class="fas fa-info"></i></div> Aplikacji</div></div></router-link>
+  </div>
   </div>
 </template>
 
@@ -25,6 +27,7 @@ export default {
   top: 0;
   left: 0;
   width: 100%;
+  height: 72px;
 }
 .desktop {
   display: none;
@@ -32,6 +35,11 @@ export default {
 a {
   color: unset;
   text-decoration: unset;
+}
+.tesst{
+  position: sticky;
+  top: 0px;
+  z-index: 10;
 }
 .nav_element {
   background-color: #EE6C4D;
@@ -79,6 +87,9 @@ a {
   }
   .nav_element_selected > .icon {
     margin: 0px 5px;
+  }
+  .navbar{
+    height: 52px;
   }
 }
 </style>

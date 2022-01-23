@@ -6,10 +6,10 @@
       <div class="header">
         <div class="category">Kategoria: {{ category_filter(selected_data.category) }}</div>
         <div class="favorites" @click="click_on_favorites">
-          <div v-if="favorites_array.indexOf(selected_data.name)!=-1">★</div>
-          <div v-if="favorites_array.indexOf(selected_data.name)==-1">☆</div>
-          <div class="favorites-label" v-if="favorites_array.indexOf(selected_data.name)==-1">Dodaj do ulubionych</div>
-          <div class="favorites-label" v-if="favorites_array.indexOf(selected_data.name)!=-1">Usuń z ulubionych</div>
+          <div v-if="favorites_array.indexOf(selected_data.name)!==-1">★</div>
+          <div v-if="favorites_array.indexOf(selected_data.name)===-1">☆</div>
+          <div class="favorites-label" v-if="favorites_array.indexOf(selected_data.name)===-1">Dodaj do ulubionych</div>
+          <div class="favorites-label" v-if="favorites_array.indexOf(selected_data.name)!==-1">Usuń z ulubionych</div>
         </div>
       </div>
       <hr>
@@ -35,7 +35,7 @@
       </div>
     </div>
     </div>
-    <div id="search_top_bar">
+    <div id="search_top_bar2">
       <select v-model="selected_option">
         <option v-for="(option, index) in options_category" v-bind:value="option.value" :key="index">
           {{ option.text }}
@@ -150,7 +150,7 @@ export default {
     click_on_tariff_card (data) {
       this.open_special_card = true
       this.selected_data = data
-      const form = document.getElementById('search_top_bar')
+      const form = document.getElementById('search_top_bar2')
       form.addEventListener('focusout', () => {
         this.focus = true
         setTimeout(this.focus_delay, 300)
