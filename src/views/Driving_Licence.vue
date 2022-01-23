@@ -1,5 +1,5 @@
 <template>
-  <div class="main">
+  <div>
     <div v-for="(element, index) in licence_list" :key="index">
       <LicenceCard :data="element" />
     </div>
@@ -24,8 +24,5 @@ export default {
 </script>
 
 <style scoped lang="scss">
-.main {
-  margin: 0 0;
-  padding: 5px 0;
-}
+
 </style>
