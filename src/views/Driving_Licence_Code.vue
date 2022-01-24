@@ -4,10 +4,10 @@
       <input type="text" placeholder="Wrowadź kod lub nazwę ograniczenia" v-model="search_text">
     </div>
     <div class="master_container">
-      <div v-for="(element, index) in filter_data" :key="index" class="code_element">
-        <div class="code">{{element.code}}</div>
-        <div v-if="element.sub_title===''" class="title">{{element.title}}</div>
-        <div class="sub_title" v-if="element.sub_title!==''">{{element.sub_title}}</div>
+      <div v-for="(element, index) in filter_data" :key="index" :class="element.sub_title==='' ? 'code_element_title': 'code_element'">
+          <div class="code">{{element.code}}</div>
+          <div v-if="element.sub_title===''" class="title">{{element.title}}</div>
+          <div class="sub_title" v-if="element.sub_title!==''">{{element.sub_title}}</div>
       </div>
     </div>
   </div>
@@ -43,6 +43,11 @@ export default {
   font-weight: bold;
 }
 .code_element{
+  display: flex;
+  padding: 8px 0;
+  align-items: center;
+}
+.code_element_title{
   display: flex;
   border-bottom: 2px solid #EE6C4D;
   padding: 8px 0;
