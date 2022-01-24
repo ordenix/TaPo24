@@ -21,6 +21,10 @@
         <div class="icon"><i class="fas fa-glasses"></i></div>
         <div class="label">Kody ograniczeń prawa jazdy</div>
       </div>
+      <div class="element" @click="goto('/DocumentHolding/')">
+        <div class="icon"><i class="fas fa-hand-holding"></i></div>
+        <div class="label">Zatrzymywanie dokumentów</div>
+      </div>
     </div>
   </div>
 </template>

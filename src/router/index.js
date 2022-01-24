@@ -16,6 +16,7 @@ import TypeAccident from '@/views/Type_Accident'
 import ControlList from '@/views/ControlList'
 import DrivingLicence from '@/views/Driving_Licence'
 import DrivingLicenceCode from '@/views/Driving_Licence_Code'
+import DocumentHolding from '@/views/Document_holding'
 Vue.use(VueRouter)
 
 const routes = [
@@ -98,6 +99,11 @@ const routes = [
     path: '/DrivingLicenceCode/',
     name: 'DrivingLicenceCode',
     component: DrivingLicenceCode
+  },
+  {
+    path: '/DocumentHolding/',
+    name: 'DocumentHolding',
+    component: DocumentHolding
   },
   {
     path: '/about',
