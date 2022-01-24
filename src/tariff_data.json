@@ -5072,7 +5072,7 @@
         "22": "art. 82 § 3 KW Kto na terenie lasu, na terenach śródleśnych, na obszarze łąk, torfowisk i wrzosowisk, jak również w odległości do 100 m od nich roznieca ogień poza miejscami wyznaczonymi do tego celu albo pali tytoń, z wyjątkiem miejsc na drogach utwardzonych i miejsc wyznaczonych do pobytu ludzi,\npodlega karze aresztu, grzywny albo karze nagany.",
         "23": "art. 82 § 4 KW Kto wypala trawy, słomę lub pozostałości roślinne na polach w odległości mniejszej niż 100 m od zabudowań, lasów, zboża na pniu i miejsc ustawienia stert lub stogów bądź w sposób powodujący zakłócenia w ruchu drogowym, a także bez zapewnienia stałego nadzoru miejsca wypalania,\npodlega karze aresztu, grzywny albo karze nagany.",
         "24": "art. 82 § 5 KW Kto w inny sposób nieostrożnie obchodzi się z ogniem,\npodlega karze aresztu, grzywny albo karze nagany",
-        "25": "art. 82 § 6 KW Kto zostawia małoletniego do lat 7 w okolicznościach, w których istnieje prawdopodobieństwo wzniecenia przez niego pożaru,\npodlega karze grzywny albo karze nagany [od 20- 5000]"
+        "25": "art. 82 § 6 KW Kto zostawia małoletniego do lat 7 w okolicznościach, w których istnieje prawdopodobieństwo wzniecenia przez niego pożaru,\npodlega karze grzywny albo karze nagany [od 20- 500]"
       },
       "paragraph": "",
       "path": null
@@ -5969,7 +5969,7 @@
       "category": "prevention",
       "name": "Nieopuszczenie zbiegowiska publicznego",
       "text": "art. 50 KW",
-      "tax": "20-5000",
+      "tax": "20-500",
       "points": 0,
       "code": "null",
       "law": "art. 50 KW Kto nie opuszcza zbiegowiska publicznego pomimo wezwania właściwego organu,\npodlega karze aresztu albo grzywny.",
@@ -5980,7 +5980,7 @@
       "category": "prevention",
       "name": "Publiczne nawoływanie do popełnienia przestępstwa",
       "text": "art. 52a KW",
-      "tax": "20-5000",
+      "tax": "20-500",
       "points": 0,
       "code": "null",
       "law_sub": {
@@ -6042,7 +6042,7 @@
       "category": "prevention",
       "name": "Niestosowanie sie do poleceń Policji lub Straży Granicznej",
       "text": "art. 65a KW",
-      "tax": "20-5000",
+      "tax": "20-500",
       "points": 0,
       "code": "null",
       "law": "art. 65a KW Kto umyślnie, nie stosując się do wydawanych przez funkcjonariusza Policji lub Straży Granicznej, na podstawie prawa, poleceń określonego zachowania się, uniemożliwia lub istotnie utrudnia wykonanie czynności służbowych, podlega karze aresztu, ograniczenia wolności albo grzywny",
@@ -6068,7 +6068,7 @@
       "category": "prevention",
       "name": "Wywołanie niebezpieczeństwa dla życia lub zdrowia/ podjęcie pracy wbrew obowiązkowi zachowania trzeźwości",
       "text": "art. 70 KW",
-      "tax": "20-5000",
+      "tax": "20-500",
       "points": 0,
       "code": "null",
       "law_sub": {
