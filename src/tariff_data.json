@@ -6440,7 +6440,7 @@
       "category": "prevention",
       "name": "Żebranie w miejscu publicznym",
       "text": "art. 58 KW",
-      "tax": "20-1500",
+      "tax": "20-500",
       "points": 0,
       "code": "null",
       "law_sub": {
@@ -6465,7 +6465,7 @@
       "category": "prevention",
       "name": "Wywołanie niepotrzebnej czynności, umyślne bezcelowe blokowanie nr alarmowego/ bezpodstawna interwencja",
       "text": "art. 66 KW",
-      "tax": "20-1500",
+      "tax": "20-500",
       "points": 0,
       "code": "null",
       "law_sub": {
