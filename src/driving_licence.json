@@ -101,7 +101,8 @@
         {
           "age": "18 lat (dla funkcjonariuszy kierujących pojazdami Policji oraz Straży Granicznej)"
         }
-      ]
+      ],
+      "path": "category/A.png"
     },
     {
       "category": "B1",
@@ -191,7 +192,8 @@
         {
           "remark": "Kierowca może kierować kolejką turystyczną o ile posiada uprawnienia co najmniej 2 lata"
         }
-      ]
+      ],
+      "path": "category/C1.png"
     },
     {
       "category": "C",

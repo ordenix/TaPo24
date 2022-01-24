@@ -16,41 +16,68 @@ export default {
   components: {
     navBar
   },
+  data () {
+    return {
+      timer: null
+    }
+  },
   mounted () {
     const nav = document.querySelector('.navbar')
     const searchBox = document.querySelector('#search_top_bar2')
     let lastScrollY = window.scrollY
     if (searchBox != null) {
       window.addEventListener('scroll', () => {
-        if (lastScrollY > 70) {
-          if (lastScrollY < window.scrollY) {
-            nav.classList.add('navbar--hidden')
-            searchBox.classList.add('search_top_bar2--hidden')
-          } else {
-            nav.classList.remove('navbar--hidden')
-            searchBox.classList.remove('search_top_bar2--hidden')
+        if (window.scrollY > lastScrollY + 50 || window.scrollY < lastScrollY - 50) {
+          if (lastScrollY > 70) {
+            if (lastScrollY < window.scrollY) {
+              nav.classList.add('navbar--hidden')
+              searchBox.classList.add('search_top_bar2--hidden')
+            } else {
+              this.clear_timeout()
+              nav.classList.remove('navbar--hidden')
+              searchBox.classList.remove('search_top_bar2--hidden')
+              this.timer = setTimeout(this.hide_top_bar, 2000)
+            }
           }
+          lastScrollY = window.scrollY
         }
-        lastScrollY = window.scrollY
       })
     }
   },
+  methods: {
+    hide_top_bar () {
+      const nav = document.querySelector('.navbar')
+      const searchBox = document.querySelector('#search_top_bar2')
+      if (window.scrollY > 70) {
+        nav.classList.add('navbar--hidden')
+        searchBox.classList.add('search_top_bar2--hidden')
+      }
+    },
+    clear_timeout () {
+      window.clearTimeout(this.timer)
+    }
+  },
   updated () {
+    // do bartka co by nie marudził
     const nav = document.querySelector('.navbar')
     const searchBox = document.querySelector('#search_top_bar2')
     let lastScrollY = window.scrollY
     if (searchBox != null) {
       window.addEventListener('scroll', () => {
-        if (lastScrollY > 70) {
-          if (lastScrollY < window.scrollY) {
-            nav.classList.add('navbar--hidden')
-            searchBox.classList.add('search_top_bar2--hidden')
-          } else {
-            nav.classList.remove('navbar--hidden')
-            searchBox.classList.remove('search_top_bar2--hidden')
+        if (window.scrollY > lastScrollY + 50 || window.scrollY < lastScrollY - 50) {
+          if (lastScrollY > 70) {
+            if (lastScrollY < window.scrollY) {
+              nav.classList.add('navbar--hidden')
+              searchBox.classList.add('search_top_bar2--hidden')
+            } else {
+              this.clear_timeout()
+              nav.classList.remove('navbar--hidden')
+              searchBox.classList.remove('search_top_bar2--hidden')
+              this.timer = setTimeout(this.hide_top_bar, 2000)
+            }
           }
+          lastScrollY = window.scrollY
         }
-        lastScrollY = window.scrollY
       })
     }
   }
@@ -72,7 +99,7 @@ body {
 }
 .navbar {
   position: fixed;
-  top: 0px;
+  top: 0;
   z-index: 10;
   transition: transform 0.2s;
 }

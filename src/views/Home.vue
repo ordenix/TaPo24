@@ -1,5 +1,5 @@
 <template>
-  <div class="view">
+  <div class="view2">
     <div class="home">
       <div class="title"> TAryfikator POlicyjny24 </div>
       <div class="whats_news">Instalacja</div>
@@ -116,7 +116,7 @@ export default {
 </script>
 
 <style scoped lang="scss">
-.view {
+.view2 {
   padding: 8px;
   display: flex;
   flex-wrap: wrap;
