@@ -31,7 +31,7 @@
           </div>
           <div class="remarks"
                v-if="element.time_to!=='0' && element.time_to!=='' && selected_module==='proof_of_registration'">
-                Pokwitowanie zezwala na dalsze używanie pojazdu do {{element.time_to}}
+                Pokwitowanie może zezwalać na dalsze używanie pojazdu do {{element.time_to}}
           </div>
           <div class="remarks"
                v-if="element.time_to==='0' && selected_module==='driving_licence'">
