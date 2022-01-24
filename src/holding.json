@@ -1,11 +1,11 @@
 {
   "proof_of_registration_array": [
     {
-      "law": "",
-      "law_text": "",
-      "description": "",
-      "time_from": "",
-      "time_to": "",
+      "law": "Art. 132 ust. 1 pkt. 1 lit a",
+      "law_text": "Policjant,  funkcjonariusz  Straży  Granicznej  albo  funkcjonariusz Służby  Celno-Skarbowej  zatrzyma  dowód  rejestracyjny  (pozwolenie  czasowe) w razie stwierdzenia lub uzasadnionego przypuszczenia, że pojazd zagraża  bezpieczeństwu  w  szczególności  po  wypadku  drogowym, w którym  zostały  uszkodzone  zasadnicze  elementy  nośne  konstrukcji nadwozia,  podwozia lub  ramy",
+      "description": "zagrożenie bezpieczeństwa",
+      "time_from": "0",
+      "time_to": "0",
       "remarks": "",
       "comment": ""
     },
