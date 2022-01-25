@@ -75,6 +75,7 @@ export default {
         { name: 'Ustawa o Policji', path: 'UOP.pdf', icon: 'fas fa-bookmark', short: 'UOP' },
         { name: 'Ustawa o kierujących', path: 'UOK.pdf', icon: 'fas fa-id-card', short: 'UOK' },
         { name: 'Kodeks Karny', path: 'KK.pdf', icon: 'fas fa-mask', short: 'KK' },
+        { name: 'Rozp. znaki i sygnały', path: 'ZSD.pdf', icon: 'fas fa-traffic-light', short: 'zsd' },
         { name: 'Rozp. ws. usuwania pojazdów', path: 'UPOJ.pdf', icon: 'fas fas fa-car-battery', short: 'none' },
         { name: 'Rozp. ws. badań alk. w organizmie', path: 'AL.pdf', icon: 'fas fa-glass-cheers', short: 'alko' },
         { name: 'Rozp. ws. badań na substancje', path: 'KRNARK.pdf', icon: 'fas fa-cannabis', short: 'narko' },

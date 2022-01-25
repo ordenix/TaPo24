@@ -2,7 +2,7 @@
   <div>
     <div id="search_top_bar2"  v-show="selected_module!==''">
       <input type="text" placeholder="Wprowadź opis" v-model="input_text">
-      <select v-model="selected_option" v-if="false">
+      <select v-model="selected_option">
         <option v-for="(option, index) in options_list" v-bind:value="option.value" :key="index">
           {{ option.text }}
         </option>
@@ -44,6 +44,10 @@
           <div class="remarks"
                v-if="element.time_to==='24 godziny' && selected_module==='driving_licence'">
             Pokwitowanie uprawnia  do  kierowania  pojazdem  w  okresie 24  godzin od chwili zatrzymania
+          </div>
+          <div class="remarks"
+               v-if="element.time_to==='24 godziny/ 72 godziny*' && selected_module==='driving_licence'">
+            Pokwitowanie uprawnia  do  kierowania  pojazdem  w  okresie 24 lub 72 (w przypadku gdy kierujący  pojazdem  nie  ma  miejsca  zamieszkania  na  terenie Polski)  godzin od chwili zatrzymania
           </div>
         </div>
       </div>

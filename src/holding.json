@@ -215,7 +215,7 @@
     {
       "law": "Art. 135 ust. 1 pkt. 1 lit f PRD",
       "law_text": "Policjant zatrzyma wydane w kraju prawo jazdy za pokwitowaniem w przypadku stwierdzenia popełnienia w okresie próbnym, o którym mowa w art. 91 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami, trzech wykroczeń przeciwko bezpieczeństwu w komunikacji lub jednego przestępstwa przeciwko bezpieczeństwu w komunikacji",
-      "description": "młody kierowca !!!!????",
+      "description": "młody kierowca",
       "time_from": "24 godziny",
       "time_to": "24 godziny",
       "remarks": "",
@@ -291,6 +291,186 @@
       "remarks": "",
       "comment": "",
       "other_country": false
+    },
+    {
+      "law": "Art. 135a ust. 1 pkt. 1 lit a PRD",
+      "law_text": "Policjant zatrzyma  prawo  jazdy  wydane  przez  państwo  inne  niż  Rzeczpospolita  Polska  za pokwitowaniem  w  przypadku uzasadnionego  podejrzenia,  że  kierujący  pojazdem  znajduje  się  w  stanie nietrzeźwości  lub  w  stanie  po  użyciu  alkoholu  albo  środka  działającego podobnie  do  alkoholu",
+      "description": "alkohol / substancje",
+      "time_from": "0",
+      "time_to": "0",
+      "remarks": "",
+      "comment": "",
+      "other_country": true
+    },
+    {
+      "law": "Art. 135a ust. 1 pkt. 1 lit b PRD",
+      "law_text": "Policjant zatrzyma  prawo  jazdy  wydane  przez  państwo  inne  niż  Rzeczpospolita  Polska  za pokwitowaniem  w  przypadku stwierdzenia  zniszczenia  prawa  jazdy  w  stopniu  powodującym  jego nieczytelność",
+      "description": "zniszczenie dokumentu / nieczytelność",
+      "time_from": "0",
+      "time_to": "7 dni",
+      "remarks": "",
+      "comment": "",
+      "other_country": true
+    },
+    {
+      "law": "Art. 135a ust. 1 pkt. 1 lit c PRD",
+      "law_text": "Policjant zatrzyma  prawo  jazdy  wydane  przez  państwo  inne  niż  Rzeczpospolita  Polska  za pokwitowaniem  w  przypadku podejrzenia  podrobienia lub przerobienia  prawa jazdy",
+      "description": "podrobienie / przerobienie",
+      "time_from": "0",
+      "time_to": "7 dni",
+      "remarks": "",
+      "comment": "",
+      "other_country": true
+    },
+    {
+      "law": "Art. 135a ust. 1 pkt. 1 lit d PRD",
+      "law_text": "Policjant zatrzyma  prawo  jazdy  wydane  przez  państwo  inne  niż  Rzeczpospolita  Polska  za pokwitowaniem  w  przypadku gdy upłynął  termin ważności prawa  jazdy",
+      "description": "upłynął termin ważności",
+      "time_from": "0",
+      "time_to": "7 dni",
+      "remarks": "",
+      "comment": "",
+      "other_country": true
+    },
+    {
+      "law": "Art. 135a ust. 1 pkt. 1 lit e PRD",
+      "law_text": "Policjant zatrzyma  prawo  jazdy  wydane  przez  państwo  inne  niż  Rzeczpospolita  Polska  za pokwitowaniem  w  przypadku gdy  wobec  kierującego  pojazdem  wydane  zostało  postanowienie  lub decyzja o  zatrzymaniu  prawa jazdy",
+      "description": "postanowienie lub decyzja o zatrzymaniu",
+      "time_from": "0",
+      "time_to": "0",
+      "remarks": "",
+      "comment": "",
+      "other_country": true
+    },
+    {
+      "law": "Art. 135a ust. 1 pkt. 1 lit f PRD",
+      "law_text": "Policjant zatrzyma  prawo  jazdy  wydane  przez  państwo  inne  niż  Rzeczpospolita  Polska  za pokwitowaniem  w  przypadku gdy  wobec  kierującego  pojazdem  orzeczono  zakaz  prowadzenia  pojazdów lub wydano decyzję o  cofnięciu uprawnienia do  kierowania  pojazdami",
+      "description": "decyzja o cofnięciu uprawnień",
+      "time_from": "0",
+      "time_to": "0",
+      "remarks": "",
+      "comment": "",
+      "other_country": true
+    },
+    {
+      "law": "Art. 135a ust. 1 pkt. 1 lit g PRD",
+      "law_text": "Policjant zatrzyma  prawo  jazdy  wydane  przez  państwo  inne  niż  Rzeczpospolita  Polska  za pokwitowaniem  w  przypadku przekroczenia  przez  kierującego  pojazdem  liczby  24  punktów  za  naruszenie przepisów  ruchu  drogowego  w  okresie  5  lat  od  wydania  skierowania  na  kurs reedukacyjny,  o  którym  mowa  w  art.  99  ust.  1  pkt  4  lit.  a  ustawy  z  dnia 5  stycznia 2011  r. o  kierujących pojazdami",
+      "description": "przekroczenie 24 punktów karnych",
+      "time_from": "24 godziny/ 72 godziny*",
+      "time_to": "24 godziny/ 72 godziny*",
+      "remarks": "",
+      "comment": "",
+      "other_country": true
+    },
+    {
+      "law": "Art. 135a ust. 1 pkt. 1 lit h PRD",
+      "law_text": "Policjant zatrzyma  prawo  jazdy  wydane  przez  państwo  inne  niż  Rzeczpospolita  Polska  za pokwitowaniem  w  przypadku   przekroczenia  przez  kierującego  pojazdem  w  okresie  1  roku  od  dnia wydania  po  raz  pierwszy  prawa  jazdy  liczby  20  punktów  za  naruszenie przepisów  ruchu  drogowego  lub  stwierdzenia,  na  podstawie  prawomocnych rozstrzygnięć,  że  w  okresie  2  lat  od  dnia  wydania  po  raz  pierwszy  prawa jazdy  popełnił  on  przestępstwo  przeciwko  bezpieczeństwu  w  komunikacji lub  trzy  wykroczenia  określone  w  art.  86  §  1  lub  2,  art.  87  §  1,  art.  92a  w przypadku  przekroczenia  dopuszczalnej  prędkości  o  ponad  30  km/h  lub art.  98 ustawy z  dnia 20  maja 1971  r.  –  Kodeks wykroczeń,",
+      "description": "młody kierowca",
+      "time_from": "0",
+      "time_to": "0",
+      "remarks": "",
+      "comment": "",
+      "other_country": true
+    },
+    {
+      "law": "Art. 135a ust. 1 pkt. 1 lit h PRD",
+      "law_text": "Policjant zatrzyma  prawo  jazdy  wydane  przez  państwo  inne  niż  Rzeczpospolita  Polska  za pokwitowaniem  w  przekroczenia  przez  kierującego  pojazdem  w  okresie  1  roku  od  dnia wydania  po  raz  pierwszy  prawa  jazdy  liczby  20  punktów  za  naruszenie przepisów  ruchu  drogowego  lub  stwierdzenia,  na  podstawie prawomocnych  rozstrzygnięć,  że  w  okresie  2  lat  od  dnia  wydania  po  raz pierwszy  prawa  jazdy  popełnił  on  przestępstwo  przeciwko bezpieczeństwu  w  komunikacji  lub  trzy  wykroczenia  określone w art.  86  §  1,  1a  lub  2,  art.  86b  §  1,  art.  87  §  1,  art.  92a  §  2,  art.  92b art.  97a  lub  art.  98  ustawy  z  dnia  20  maja  1971  r.  –  Kodeks wykroczeń",
+      "description": "młody kierowca - wejdzie  w  życie  z dn.  17.09.2022  r. (Dz. U.  z  2021  r. poz. 2328)",
+      "time_from": "0",
+      "time_to": "0",
+      "remarks": "",
+      "comment": "",
+      "other_country": true
+    },
+    {
+      "law": "Art. 135a ust. 1 pkt. 1 lit i PRD",
+      "law_text": "Policjant zatrzyma  prawo  jazdy  wydane  przez  państwo  inne  niż  Rzeczpospolita  Polska  za pokwitowaniem  w  przypadku stwierdzenia  braku  dokumentu,  o  którym  mowa  w  art.  38  ust.  1  pkt  3a  lub 4a,  lub  prowadzenia  pojazdu  niewyposażonego  w  blokadę  alkoholową w przypadku,  o  którym  mowa  w art.  13  ust.  5  pkt  7  ustawy  z  dnia 5  stycznia 2011  r. o  kierujących pojazdami",
+      "description": "blokada alkoholowa",
+      "time_from": "0",
+      "time_to": "0",
+      "remarks": "",
+      "comment": "",
+      "other_country": true
+    },
+    {
+      "law": "Art. 135a ust. 1 pkt. 1 lit j PRD",
+      "law_text": "Policjant zatrzyma  prawo  jazdy  wydane  przez  państwo  inne  niż  Rzeczpospolita  Polska  za pokwitowaniem  w  przypadku popełnienia  w  okresie  próbnym,  o  którym  mowa  w  art.  91  ustawy  z  dnia 5  stycznia  2011  r.  o  kierujących  pojazdami,  trzech  wykroczeń  przeciwko bezpieczeństwu  w  komunikacji  lub  jednego  przestępstwa  przeciwko bezpieczeństwu w  komunikacji",
+      "description": "młody kierowca",
+      "time_from": "24 godziny/ 72 godziny*",
+      "time_to": "24 godziny/ 72 godziny*",
+      "remarks": "",
+      "comment": "",
+      "other_country": true
+    },
+    {
+      "law": "Art. 135a ust. 1 pkt. 2 lit a PRD",
+      "law_text": "Policjant zatrzyma  prawo  jazdy  wydane  przez  państwo  inne  niż  Rzeczpospolita  Polska  za pokwitowaniem  w  przypadku ujawnienia  czynu polegającego  na kierowaniu  pojazdem  z  prędkością  przekraczającą  dopuszczalną  o  więcej niż 50  km/h na obszarze  zabudowanym",
+      "description": "przekroczenie prędkości o więcej niz 50 km/h",
+      "time_from": "24 godziny/ 72 godziny*",
+      "time_to": "24 godziny/ 72 godziny*",
+      "remarks": "",
+      "comment": "",
+      "other_country": true
+    },
+    {
+      "law": "Art. 135a ust. 1 pkt. 2 lit b PRD",
+      "law_text": "Policjant zatrzyma  prawo  jazdy  wydane  przez  państwo  inne  niż  Rzeczpospolita  Polska  za pokwitowaniem  w  przypadku ujawnienia  czynu polegającego  na przewożeniu  osób  w  liczbie  przekraczającej  liczbę  miejsc  określoną w dowodzie  rejestracyjnym  (pozwoleniu  czasowym)  lub  wynikającą z  konstrukcyjnego  przeznaczenia  pojazdu  niepodlegającego  rejestracji; przepis  nie  dotyczy  przewozu  osób  autobusem  w  publicznym  transporcie zbiorowym  w  gminnych,  powiatowych  i  wojewódzkich  przewozach pasażerskich  w  rozumieniu  ustawy  z  dnia  16  grudnia  2010  r.  o  publicznym transporcie  zbiorowym,  o  ile w  pojeździe  przewidziane są miejsca stojące",
+      "description": "przewożeniu osób w liczbie przekraczającej liczbę miejsc określoną w dowodzie rejestracyjnym",
+      "time_from": "24 godziny/ 72 godziny",
+      "time_to": "24 godziny/ 72 godziny",
+      "remarks": "Nie stosuje się, jeżeli liczba przewożonych osób nie przekracza: 5 – w przypadku przewożenia ich autobusem lub 2 – w przypadku przewożenia ich samochodem osobowym, samochodem ciężarowym lub w przyczepie ciągniętej przez ciągnik rolniczy lub pojazd wolnobieżny ||",
+      "comment": "",
+      "other_country": true
+    },
+    {
+      "law": "Art. 135a ust. 1 pkt. 2a lit a PRD",
+      "law_text": "Policjant zatrzyma  prawo  jazdy  wydane  przez  państwo  inne  niż  Rzeczpospolita  Polska za  pokwitowaniem  w  przypadku  ujawnienia  podczas  kontroli  drogowej,  że kierowca  wykonujący  przewóz  drogowy,  do  którego  mają  zastosowanie  przepisy rozporządzenia  (WE)  nr  561/2006  Parlamentu  Europejskiego  i  Rady  z  dnia 15  marca  2006  r.  w  sprawie  harmonizacji  niektórych  przepisów  socjalnych odnoszących  się  do  transportu  drogowego  oraz  zmieniającego  rozporządzenia Rady  (EWG)  nr  3821/85  i  (WE)  2135/98,  jak  również  uchylającego rozporządzenie  Rady  (EWG)  nr  3820/85  lub  umowy  europejskiej  dotyczącej pracy  załóg  pojazdów  wykonujących  międzynarodowe  przewozy  drogowe (AETR),  sporządzonej  w  Genewie  dnia  1  lipca  1970  r.,  podczas  bieżącego dziennego  czasu  prowadzenia  pojazdu  wykonywał  ten  przewóz  pojazdem wyposażonym w  tachograf wbrew  obowiązkowi  nie  rejestrując  za  pomocą  tachografu  na  wykresówce lub  karcie  kierowcy  wskazań  w  zakresie  prędkości  pojazdu,  aktywności kierowcy lub przebytej  drogi",
+      "description": "tachograf, karta kierowcy",
+      "time_from": "24 godziny/ 72 godziny*",
+      "time_to": "24 godziny/ 72 godziny*",
+      "remarks": "",
+      "comment": "",
+      "other_country": true
+    },
+    {
+      "law": "Art. 135a ust. 1 pkt. 2a lit b PRD",
+      "law_text": "Policjant zatrzyma  prawo  jazdy  wydane  przez  państwo  inne  niż  Rzeczpospolita  Polska za  pokwitowaniem  w  przypadku  ujawnienia  podczas  kontroli  drogowej,  że kierowca  wykonujący  przewóz  drogowy,  do  którego  mają  zastosowanie  przepisy rozporządzenia  (WE)  nr  561/2006  Parlamentu  Europejskiego  i  Rady  z  dnia 15  marca  2006  r.  w  sprawie  harmonizacji  niektórych  przepisów  socjalnych odnoszących  się  do  transportu  drogowego  oraz  zmieniającego  rozporządzenia Rady  (EWG)  nr  3821/85  i  (WE)  2135/98,  jak  również  uchylającego rozporządzenie  Rady  (EWG)  nr  3820/85  lub  umowy  europejskiej  dotyczącej pracy  załóg  pojazdów  wykonujących  międzynarodowe  przewozy  drogowe (AETR),  sporządzonej  w  Genewie  dnia  1  lipca  1970  r.,  podczas  bieżącego dziennego  czasu  prowadzenia  pojazdu  wykonywał  ten  przewóz  pojazdem wyposażonym w  tachograf używając  cudzej  karty  kierowcy,  używając  co  najmniej  dwóch  własnych kart  kierowcy,  używając  cudzej  wykresówki,  używając  jednocześnie  kilku wykresówek",
+      "description": "używanie cudzej karty kierowcy, cudzej wykresówki",
+      "time_from": "24 godziny/ 72 godziny*",
+      "time_to": "24 godziny/ 72 godziny*",
+      "remarks": "",
+      "comment": "",
+      "other_country": true
+    },
+    {
+      "law": "Art. 135a ust. 1 pkt. 2a lit c PRD",
+      "law_text": "Policjant zatrzyma  prawo  jazdy  wydane  przez  państwo  inne  niż  Rzeczpospolita  Polska za  pokwitowaniem  w  przypadku  ujawnienia  podczas  kontroli  drogowej,  że kierowca  wykonujący  przewóz  drogowy,  do  którego  mają  zastosowanie  przepisy rozporządzenia  (WE)  nr  561/2006  Parlamentu  Europejskiego  i  Rady  z  dnia 15  marca  2006  r.  w  sprawie  harmonizacji  niektórych  przepisów  socjalnych odnoszących  się  do  transportu  drogowego  oraz  zmieniającego  rozporządzenia Rady  (EWG)  nr  3821/85  i  (WE)  2135/98,  jak  również  uchylającego rozporządzenie  Rady  (EWG)  nr  3820/85  lub  umowy  europejskiej  dotyczącej pracy  załóg  pojazdów  wykonujących  międzynarodowe  przewozy  drogowe (AETR),  sporządzonej  w  Genewie  dnia  1  lipca  1970  r.,  podczas  bieżącego dziennego  czasu  prowadzenia  pojazdu  wykonywał  ten  przewóz  pojazdem wyposażonym w  tachograf korzystając  z  niedozwolonego  urządzenia,  przedmiotu  lub  zmienionego oprogramowania  umożliwiającego  lub  powodującego  podrabianie  lub przerabianie  danych rejestrowanych przez tachograf",
+      "description": "ingerencja w tachograf",
+      "time_from": "24 godziny/ 72 godziny*",
+      "time_to": "24 godziny/ 72 godziny*",
+      "remarks": "",
+      "comment": "",
+      "other_country": true
+    },
+    {
+      "law": "Art. 135a ust. 1 pkt. 2a lit d PRD",
+      "law_text": "Policjant zatrzyma  prawo  jazdy  wydane  przez  państwo  inne  niż  Rzeczpospolita  Polska za  pokwitowaniem  w  przypadku  ujawnienia  podczas  kontroli  drogowej,  że kierowca  wykonujący  przewóz  drogowy,  do  którego  mają  zastosowanie  przepisy rozporządzenia  (WE)  nr  561/2006  Parlamentu  Europejskiego  i  Rady  z  dnia 15  marca  2006  r.  w  sprawie  harmonizacji  niektórych  przepisów  socjalnych odnoszących  się  do  transportu  drogowego  oraz  zmieniającego  rozporządzenia Rady  (EWG)  nr  3821/85  i  (WE)  2135/98,  jak  również  uchylającego rozporządzenie  Rady  (EWG)  nr  3820/85  lub  umowy  europejskiej  dotyczącej pracy  załóg  pojazdów  wykonujących  międzynarodowe  przewozy  drogowe (AETR),  sporządzonej  w  Genewie  dnia  1  lipca  1970  r.,  podczas  bieżącego dziennego  czasu  prowadzenia  pojazdu  wykonywał  ten  przewóz  pojazdem wyposażonym w  tachograf jeżeli  tachograf został odłączony",
+      "description": "odłączenie tachografu",
+      "time_from": "24 godziny/ 72 godziny*",
+      "time_to": "24 godziny/ 72 godziny*",
+      "remarks": "",
+      "comment": "",
+      "other_country": true
+    },
+    {
+      "law": "Art. 135a ust. 1 pkt. 3 PRD",
+      "law_text": "Policjant może  zatrzymać  prawo  jazdy  wydane  przez  państwo  inne  niż  Rzeczpospolita Polska  za  pokwitowaniem  w  przypadku  uzasadnionego  podejrzenia,  że  kierowca popełnił  przestępstwo  lub  wykroczenie,  za  które  może  być  orzeczony  zakaz prowadzenia pojazdów",
+      "description": "popełnienie przestępstwa lub wykroczenia, za które można orzec zakaz",
+      "time_from": "0",
+      "time_to": "7 dni",
+      "remarks": "",
+      "comment": "",
+      "other_country": true
     }
   ]
 }

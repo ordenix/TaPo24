@@ -2831,7 +2831,7 @@
       "code": "Z 01",
       "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
       "paragraph": "art. 55 ust. 1 PRD Pojazd do nauki jazdy lub przeprowadzania egzaminu państwowego oznacza się tablicą kwadratową barwy niebieskiej z białą literą „L”, umieszczoną na pojeździe. W warunkach niedostatecznej widoczności tablica umieszczona na pojeździe, z wyłączeniem tablicy na motocyklu, powinna być oświetlona. Tablica, którą oznaczony jest motocykl, powinna być wykonana z materiału odblaskowego",
-      "path": null
+      "path": "pictogram/brak_l.png"
     },
     {
       "category": "package",
@@ -2875,7 +2875,7 @@
       "code": "H 17",
       "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
       "paragraph": "art. 60 ust. 1 pkt 2 PRD Zabrania się zakrywania świateł oraz urządzeń sygnalizacyjnych, tablic rejestracyjnych lub innych wymaganych tablic albo znaków, które powinny być widoczne",
-      "path": null
+      "path": "pictogram/zakrywanie_tablic.png"
     },
     {
       "category": "package",
@@ -3083,7 +3083,7 @@
       "code": "J 03",
       "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
       "paragraph": "art. 57a ust. 3  PRD Jeżeli autobus szkolny przewozi inne osoby lub nie przewozi żadnych osób, tablice z napisem „autobus szkolny” powinny być zdjęte, zasłonięte lub złożone",
-      "path": null
+      "path": "pictogram/autobus_szkolny.png"
     },
     {
       "category": "invalid",
@@ -4039,7 +4039,7 @@
         "2": "art. 86 §3 KW W razie popełnienia wykroczenia określonego w § 1 przez osobę\nprowadzącą pojazd można orzec zakaz prowadzenia pojazdów"
       },
       "paragraph": "",
-      "path": null
+      "path": "pictogram/6.png"
     },
     {
       "category": "accident",
@@ -4054,7 +4054,7 @@
         "3": "art. 86 §3 KW W razie popełnienia wykroczenia określonego w § 1 przez osobę\nprowadzącą pojazd można orzec zakaz prowadzenia pojazdów"
       },
       "paragraph": "",
-      "path": null
+      "path": "pictogram/7.png"
     },
     {
       "category": "accident",
@@ -4070,7 +4070,7 @@
         "4": "art. 86 §3 KW W razie popełnienia wykroczenia określonego w § 1 przez osobę\nprowadzącą pojazd można orzec zakaz prowadzenia pojazdów"
       },
       "paragraph": "",
-      "path": null
+      "path": "pictogram/art.86par1akw.png"
     },
     {
       "category": "accident",
@@ -4086,7 +4086,7 @@
         "4": "art. 86 §3 KW W razie popełnienia wykroczenia określonego w § 1 przez osobę\nprowadzącą pojazd można orzec zakaz prowadzenia pojazdów"
       },
       "paragraph": "",
-      "path": null
+      "path": "pictogram/8.png"
     },
     {
       "category": "accident",
@@ -4102,7 +4102,7 @@
         "4": "art. 86 §3 KW W razie popełnienia wykroczenia określonego w § 1 przez osobę\nprowadzącą pojazd można orzec zakaz prowadzenia pojazdów"
       },
       "paragraph": "",
-      "path": null
+      "path": "pictogram/9.png"
     },
     {
       "category": "others",
@@ -4785,7 +4785,7 @@
       "path": null
     },
     {
-      "category": "sign",
+      "category": "invalid",
       "name": "Niestosowanie się do znaku D-18 \"parking\"  z umieszczoną pod znakiem tabliczką T-29",
       "text": "art. 92 §1 KW w zw. z § 52 ust. 6 w zw. z § 2 ust. 4 albo § 52 ust. 4 w zw. z § 2 ust. 4  ZSD",
       "tax": "800",
@@ -4796,7 +4796,7 @@
       "path": null
     },
     {
-      "category": "sign",
+      "category": "invalid",
       "name": "Niestosowanie się do znaku D-18a \"parking – miejsce zastrzeżone\"  z umieszczoną pod znakiem tabliczką T-29",
       "text": "art. 92 §1 KW w zw. z § 52 ust. 6 w zw. z § 2 ust. 4 albo § 52 ust. 4 w zw. z § 2 ust. 4  ZSD",
       "tax": "800",
@@ -4807,10 +4807,10 @@
       "path": null
     },
     {
-      "category": "sign",
+      "category": "invalid",
       "name": "Niestosowanie się do znaku D-18b \"parking zadaszony\"  z umieszczoną pod znakiem tabliczką T-29",
       "text": "art. 92 §1 KW w zw. z § 52 ust. 6 w zw. z § 2 ust. 4 albo § 52 ust. 4 w zw. z § 2 ust. 4  ZSD",
-      "tax": "100",
+      "tax": "800",
       "points": 5,
       "code": "C 17",
       "law": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego,podlega karze grzywny albo karze nagany",
