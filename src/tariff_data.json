@@ -691,7 +691,7 @@
         "1": "art. 86b § 2 KW Kto dopuszcza się wykroczenia określonego w § 1, prowadząc inny pojazd\nniż określony w tym przepisie,\npodlega karze grzywny albo karze nagany",
         "2": "art. 86b § 1 pkt. 5 KW Kto na drodze publicznej, w strefie zamieszkania lub strefie ruchu,\nprowadząc pojazd mechaniczny narusza zakaz jazdy wzdłuż po chodniku lub przejściu dla pieszych"
       },
-      "paragraph": "",
+      "paragraph": "art. 26 ust. 3 pkt. 2 PRD Kierującemu pojazdem zabrania się omijania pojazdu, który jechał w tym samym kierunku, lecz zatrzymał się w celu ustąpienia pierwszeństwa pieszemu",
       "path": null
     },
     {
@@ -804,8 +804,55 @@
       "points": 6,
       "code": "J 01",
       "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
-      "paragraph": "art. 39 ust. 3a PRD Foteliki bezpieczeństwa dla dziecka oraz inne urządzenia przytrzymujące dla dzieci są instalowane w pojeździe, zgodnie z zaleceniami producenta urządzenia, wskazującymi, w jaki sposób urządzenie może być bezpiecznie stosowane",
-      "path": null
+      "paragraph_sub": {
+        "1": "art. 45 ust. 2 pkt. 3 PRD Kierującemu pojazdem zabrania się przewożenia pasażera w sposób niezgodny z art. 39, 40 lub 63 ust. 1 PRD.",
+        "2": "art. 40 ust. 1 PRD Kierujący motocyklem, czterokołowcem lub motorowerem oraz osoba przewożona takimi pojazdami są obowiązani używać w czasie jazdy kasków ochronnych odpowiadających właściwym warunkom technicznym",
+        "3": "art. 40 ust. 2 PRD Przepisu ust. 1 nie stosuje się do motocykli fabrycznie wyposażonych w pasy bezpieczeństwa.",
+        "4": "art. 40 ust. 3 PRD Przepisu ust. 1 nie stosuje się do czterokołowców fabrycznie wyposażonych w nadwozie zamknięte i pasy bezpieczeństwa.",
+        "5": "art. 63 ust. 1 PRD Przewóz osób może odbywać się tylko pojazdem do tego przeznaczonym lub przystosowanym. Liczba przewożonych osób nie może przekraczać liczby miejsc określonych w dowodzie rejestracyjnym, z zastrzeżeniem ust. 4. W pojeździe niepodlegającym rejestracji liczba przewożonych osób wynika z konstrukcyjnego przeznaczenia pojazdu",
+        "6": "art. 63 ust. 2 pkt. 1 PRD Dopuszcza się przewóz osób samochodem ciężarowym poza kabiną kierowcy, pod warunkiem że pojazd odpowiada wymaganym warunkom technicznym do przewozu osób",
+        "7": "art. 63 ust. 2 pkt. 2 PRD Dopuszcza się przewóz osób samochodem ciężarowym poza kabiną kierowcy, pod warunkiem że osoby nie znajdują się między ładunkiem a kabiną kierowcy",
+        "8": "art. 63 ust. 2 pkt. 3 PRD Dopuszcza się przewóz osób samochodem ciężarowym poza kabiną kierowcy, pod warunkiem że osoby przewożone są na miejscach siedzących",
+        "9": "art. 63 ust. 2 pkt. 4 PRD Dopuszcza się przewóz osób samochodem ciężarowym poza kabiną kierowcy, pod warunkiem że pojazd nie przekracza prędkości 50 km/h",
+        "10": "art. 63 ust. 3 pkt. 1 PRD Zabrania się przewozu osób w przyczepie, z tym że dopuszcza się przewóz dzieci do szkół lub przedszkoli i z powrotem w przyczepie dostosowanej do przewozu osób, ciągniętej przez ciągnik rolniczy",
+        "11": "art. 63 ust. 3 pkt. 2 lit. a PRD Zabrania się przewozu osób w przyczepie, z tym że dopuszcza się przewóz konwojentów, drużyn roboczych i osób wykonujących czynności ładunkowe w przyczepie ciągniętej przez ciągnik rolniczy pod warunkiem, że liczba przewożonych osób nie przekracza 5",
+        "12": "art. 63 ust. 3 pkt. 2 lit. b PRD Zabrania się przewozu osób w przyczepie, z tym że dopuszcza się przewóz konwojentów, drużyn roboczych i osób wykonujących czynności ładunkowe w przyczepie ciągniętej przez ciągnik rolniczy pod warunkiem, że osoby stojące trzymają się uchwytów",
+        "13": "art. 63 ust. 3 pkt. 2 lit. c PRD Zabrania się przewozu osób w przyczepie, z tym że dopuszcza się przewóz konwojentów, drużyn roboczych i osób wykonujących czynności ładunkowe w przyczepie ciągniętej przez ciągnik rolniczy pod warunkiem, że osoby nie znajdują się pomiędzy ładunkiem a przednią ścianą przyczepy",
+        "14": "art. 63 ust. 3 pkt. 2 lit. d PRD Zabrania się przewozu osób w przyczepie, z tym że dopuszcza się przewóz konwojentów, drużyn roboczych i osób wykonujących czynności ładunkowe w przyczepie ciągniętej przez ciągnik rolniczy pod warunkiem, że prędkość zespołu pojazdów nie przekracza 20 km/h",
+        "15": "art. 63 ust. 3 pkt. 3 PRD Zabrania się przewozu osób w przyczepie, z tym że dopuszcza się przewóz osób w przyczepie (przyczepach) kolejki turystycznej pod warunkiem, że osoby te przewożone są wyłącznie na miejscach siedzących",
+        "16": "art. 63 ust. 3 pkt. 4 PRD Zabrania się przewozu osób w przyczepie, z tym że dopuszcza się przewóz dzieci w przyczepie przystosowanej konstrukcyjnie do przewozu osób, ciągniętej przez rower lub wózek rowerowy",
+        "17": "art. 63 ust. 4 PRD Przepisów ust. 1–3 nie stosuje się do przewozu pojazdami Sił Zbrojnych Rzeczypospolitej Polskiej, Policji, Straży Granicznej, Służby Więziennej oraz jednostek ochrony przeciwpożarowej",
+        "18": "art. 39 ust. 1 PRD Kierujący pojazdem samochodowym oraz osoba przewożona takim pojazdem wyposażonym w pasy bezpieczeństwa są obowiązani korzystać z tych pasów podczas jazdy, z zastrzeżeniem ust. 3, 3b i 3c",
+        "19": "art. 39 ust. 2 pkt. 1 PRD Obowiązek korzystania z pasów bezpieczeństwa nie dotyczy osoby mającej zaświadczenie lekarskie o przeciwwskazaniu do używania pasów bezpieczeństwa",
+        "20": "art. 39 ust. 2 pkt. 2 PRD Obowiązek korzystania z pasów bezpieczeństwa nie dotyczy kobiety o widocznej ciąży",
+        "21": "art. 39 ust. 2 pkt. 3 PRD Obowiązek korzystania z pasów bezpieczeństwa nie dotyczy kierującego taksówką podczas przewożenia pasażera",
+        "22": "art. 39 ust. 2 pkt. 4 PRD Obowiązek korzystania z pasów bezpieczeństwa nie dotyczy instruktora lub egzaminatora podczas szkolenia lub egzaminowania",
+        "23": "art. 39 ust. 2 pkt. 5 PRD Obowiązek korzystania z pasów bezpieczeństwa nie dotyczy policjanta, funkcjonariusza Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Służby Celno--Skarbowej i Służby Więziennej, żołnierza Sił Zbrojnych Rzeczypospolitej Polskiej – podczas przewożenia osoby (osób) zatrzymanej",
+        "24": "art. 39 ust. 2 pkt. 6 PRD Obowiązek korzystania z pasów bezpieczeństwa nie dotyczy funkcjonariusza Służby Ochrony Państwa podczas wykonywania czynności służbowych",
+        "25": "art. 39 ust. 2 pkt. 6a PRD Obowiązek korzystania z pasów bezpieczeństwa nie dotyczy żołnierza Żandarmerii Wojskowej podczas wykonywania czynności ochronnych",
+        "26": "art. 39 ust. 2 pkt. 7 PRD Obowiązek korzystania z pasów bezpieczeństwa nie dotyczy zespołu medycznego w czasie udzielania pomocy medycznej",
+        "27": "art. 39 ust. 2 pkt. 8 PRD Obowiązek korzystania z pasów bezpieczeństwa nie dotyczy konwojenta podczas przewożenia wartości pieniężnych",
+        "28": "art. 39 ust. 2 pkt. 9 PRD Obowiązek korzystania z pasów bezpieczeństwa nie dotyczy osoby chorej lub niepełnosprawnej przewożonej na noszach lub w wózku inwalidzkim",
+        "29": "art. 39 ust. 2 pkt. 10 PRD Obowiązek korzystania z pasów bezpieczeństwa nie dotyczy dziecka w wieku poniżej 3 lat przewożonego pojazdem kategorii M2 i M3",
+        "30": "art. 39 ust. 2 pkt. 11 PRD Obowiązek korzystania z pasów bezpieczeństwa nie dotyczy dziecka przewożonego na zasadach przewidzianych w art. 2 ust. 2 ustawy z dnia 20 czerwca 1992 r. o uprawnieniach do ulgowych przejazdów środkami publicznego transportu zbiorowego (Dz. U. z 2018 r. poz. 295)",
+        "31":" art. 39 ust. 2a pkt. 1 PRD Kierujący pojazdem kategorii M2 i M3, o których mowa w załączniku nr 2 do ustawy, wyposażonym w pasy bezpieczeństwa jest obowiązany do poinformowania osób przewożonych pojazdem o obowiązku korzystania z tych pasów podczas jazdy, chyba że zostały one o tym obowiązku poinformowane przez znajdującą się w pojeździe osobę kierującą przewożoną grupą",
+        "32": "art. 39 ust. 2a pkt. 2 PRD Kierujący pojazdem kategorii M2 i M3, o których mowa w załączniku nr 2 do ustawy, wyposażonym w pasy bezpieczeństwa jest obowiązany do poinformowania osób przewożonych pojazdem o obowiązku korzystania z tych pasów podczas jazdy, chyba że zostały one o tym obowiązku poinformowane za pomocą urządzenia audiowizualnego ",
+        "33": "art. 39 ust. 2a pkt. 3 PRD Kierujący pojazdem kategorii M2 i M3, o których mowa w załączniku nr 2 do ustawy, wyposażonym w pasy bezpieczeństwa jest obowiązany do poinformowania osób przewożonych pojazdem o obowiązku korzystania z tych pasów podczas jazdy, chyba że zostały one o tym obowiązku poinformowane za pomocą znaku umieszczonego w widoczny sposób przy każdym miejscu siedzącym, zgodnego ze wzorem określonym w załączniku do dyrektywy Rady z dnia 16 grudnia 1991 r. odnoszącej się do obowiązkowego stosowania pasów bezpieczeństwa i urządzeń przytrzymujących dla dzieci w pojazdach (91/671/EWG) (Dz. Urz. WE L 373 z 31.12.1991, str. 26, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 1, str. 353, z późn. zm.), zwanej dalej „dyrektywą nr 91/671/EWG”",
+        "34": "art. 39 ust. 3 pkt. 1 PRD W pojeździe kategorii M1, N1, N2 i N3, o których mowa w załączniku nr 2 do ustawy, wyposażonym w pasy bezpieczeństwa lub urządzenia przytrzymujące dla dzieci, dziecko mające mniej niż 150 cm wzrostu jest przewożone, z wyjątkiem przypadku, o którym mowa w ust. 3b, w foteliku bezpieczeństwa dla dziecka lub innym urządzeniu przytrzymującym dla dzieci, zgodnym z masą i wzrostem dziecka",
+        "35": "art. 39 ust. 3 pkt. 2 PRD W pojeździe kategorii M1, N1, N2 i N3, o których mowa w załączniku nr 2 do ustawy, wyposażonym w pasy bezpieczeństwa lub urządzenia przytrzymujące dla dzieci, dziecko mające mniej niż 150 cm wzrostu jest przewożone, z wyjątkiem przypadku, o którym mowa w ust. 3b, w foteliku bezpieczeństwa dla dziecka lub innym urządzeniu przytrzymującym dla dzieci, zgodnym z właściwymi warunkami technicznymi określonymi w przepisach Unii Europejskiej lub w regulaminach EKG ONZ dotyczących urządzeń przytrzymujących dla dzieci w pojeździe",
+        "36": "art. 39 ust. 3a PRD Foteliki bezpieczeństwa dla dziecka oraz inne urządzenia przytrzymujące dla dzieci są instalowane w pojeździe, zgodnie z zaleceniami producenta urządzenia, wskazującymi, w jaki sposób urządzenie może być bezpiecznie stosowane",
+        "37": "art. 39 ust. 3b PRD Zezwala się na przewożenie w pojeździe kategorii M1, N1, N2 i N3, o których mowa w załączniku nr 2 do ustawy, na tylnym siedzeniu pojazdu, dziecka mającego co najmniej 135 cm wzrostu przytrzymywanego za pomocą pasów bezpieczeństwa w przypadkach, kiedy ze względu na masę i wzrost dziecka nie jest możliwe zapewnienie fotelika bezpieczeństwa dla dziecka lub innego urządzenia przytrzymującego dla dzieci zgodnego z warunkami, o których mowa w ust. 3",
+        "38": "art. 39 ust. 3c PRD Zezwala się na przewożenie w pojeździe kategorii M1 i N1, o których mowa w załączniku nr 2 do ustawy, na tylnym siedzeniu pojazdu, trzeciego dziecka w wieku co najmniej 3 lat, przytrzymywanego za pomocą pasów bezpieczeństwa, w przypadku gdy dwoje dzieci jest przewożonych w fotelikach bezpieczeństwa dla dziecka lub innych urządzeniach przytrzymujących dla dzieci, zainstalowanych na tylnych siedzeniach pojazdu i nie ma możliwości zainstalowania trzeciego fotelika bezpieczeństwa dla dziecka lub innego urządzenia przytrzymującego dla dzieci",
+        "39": "art. 39 ust. 4 pkt. 1 PRD Przepis ust. 3 nie dotyczy przewozu dziecka taksówką",
+        "40": "art. 39 ust. 4 pkt. 2 PRD Przepis ust. 3 nie dotyczy przewozu dziecka specjalistycznym środkiem transportu sanitarnego, o którym mowa w art. 36 ust. 2 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2020 r. poz. 882, 2112 i 2401 oraz z 2021 r. poz. 159",
+        "41": "art. 39 ust. 4 pkt. 3 PRD Przepis ust. 3 nie dotyczy przewozu dziecka pojazdem Policji, Straży Granicznej lub straży gminnej (miejskiej)",
+        "42": "art. 39 ust. 4 pkt. 4 PRD Przepis ust. 3 nie dotyczy przewozu dziecka mającego zaświadczenie lekarskie o przeciwwskazaniu do przewożenia w foteliku bezpieczeństwa dla dziecka lub innym urządzeniu przytrzymującym dla dzieci",
+        "43": "art. 39 ust. 5 pkt. 1 PRD Zaświadczenia lekarskie, o których mowa w ust. 2 pkt 1 i ust. 4 pkt 4, zawierają imię i nazwisko",
+        "44": "art. 39 ust. 5 pkt. 2 PRD Zaświadczenia lekarskie, o których mowa w ust. 2 pkt 1 i ust. 4 pkt 4, zawierają numer ewidencyjny Powszechnego Elektronicznego Systemu Ewidencji Ludności (PESEL), a w przypadku osoby nieposiadającej numeru PESEL – serię, numer i nazwę dokumentu potwierdzającego tożsamość oraz nazwę państwa, które wydało ten dokument",
+        "45": "art. 39 ust. 5 pkt. 3 PRD Zaświadczenia lekarskie, o których mowa w ust. 2 pkt 1 i ust. 4 pkt 4, zawierają okres ważności",
+        "46": "art. 39 ust. 5 pkt. 4 PRD Zaświadczenia lekarskie, o których mowa w ust. 2 pkt 1 i ust. 4 pkt 4, zawierają znak graficzny zgodny ze wzorem określonym w art. 5 dyrektywy nr 91/671/EWG",
+        "47": "art. 39 ust. 6 PRD Minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw transportu określi, w drodze rozporządzenia, wzory zaświadczeń lekarskich, o których mowa w ust. 2 pkt 1 i ust. 4 pkt 4, kierując się przepisami Unii Europejskiej dotyczącymi obowiązkowego stosowania pasów bezpieczeństwa i urządzeń przytrzymujących dla dzieci w pojazdach oraz mając na uwadze potrzebę ujednolicenia stosowanych dokumentów"
+      }
     },
     {
       "category": "belts",
@@ -832,7 +879,55 @@
       "points": 4,
       "code": "J 02",
       "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "art. 45 ust. 2 pkt. 3 PRD Kierującemu pojazdem zabrania się przewożenia pasażera w sposób niezgodny z art. 39, 40 lub 63 ust. 1 PRD.",
+        "2": "art. 40 ust. 1 PRD Kierujący motocyklem, czterokołowcem lub motorowerem oraz osoba przewożona takimi pojazdami są obowiązani używać w czasie jazdy kasków ochronnych odpowiadających właściwym warunkom technicznym",
+        "3": "art. 40 ust. 2 PRD Przepisu ust. 1 nie stosuje się do motocykli fabrycznie wyposażonych w pasy bezpieczeństwa.",
+        "4": "art. 40 ust. 3 PRD Przepisu ust. 1 nie stosuje się do czterokołowców fabrycznie wyposażonych w nadwozie zamknięte i pasy bezpieczeństwa.",
+        "5": "art. 63 ust. 1 PRD Przewóz osób może odbywać się tylko pojazdem do tego przeznaczonym lub przystosowanym. Liczba przewożonych osób nie może przekraczać liczby miejsc określonych w dowodzie rejestracyjnym, z zastrzeżeniem ust. 4. W pojeździe niepodlegającym rejestracji liczba przewożonych osób wynika z konstrukcyjnego przeznaczenia pojazdu",
+        "6": "art. 63 ust. 2 pkt. 1 PRD Dopuszcza się przewóz osób samochodem ciężarowym poza kabiną kierowcy, pod warunkiem że pojazd odpowiada wymaganym warunkom technicznym do przewozu osób",
+        "7": "art. 63 ust. 2 pkt. 2 PRD Dopuszcza się przewóz osób samochodem ciężarowym poza kabiną kierowcy, pod warunkiem że osoby nie znajdują się między ładunkiem a kabiną kierowcy",
+        "8": "art. 63 ust. 2 pkt. 3 PRD Dopuszcza się przewóz osób samochodem ciężarowym poza kabiną kierowcy, pod warunkiem że osoby przewożone są na miejscach siedzących",
+        "9": "art. 63 ust. 2 pkt. 4 PRD Dopuszcza się przewóz osób samochodem ciężarowym poza kabiną kierowcy, pod warunkiem że pojazd nie przekracza prędkości 50 km/h",
+        "10": "art. 63 ust. 3 pkt. 1 PRD Zabrania się przewozu osób w przyczepie, z tym że dopuszcza się przewóz dzieci do szkół lub przedszkoli i z powrotem w przyczepie dostosowanej do przewozu osób, ciągniętej przez ciągnik rolniczy",
+        "11": "art. 63 ust. 3 pkt. 2 lit. a PRD Zabrania się przewozu osób w przyczepie, z tym że dopuszcza się przewóz konwojentów, drużyn roboczych i osób wykonujących czynności ładunkowe w przyczepie ciągniętej przez ciągnik rolniczy pod warunkiem, że liczba przewożonych osób nie przekracza 5",
+        "12": "art. 63 ust. 3 pkt. 2 lit. b PRD Zabrania się przewozu osób w przyczepie, z tym że dopuszcza się przewóz konwojentów, drużyn roboczych i osób wykonujących czynności ładunkowe w przyczepie ciągniętej przez ciągnik rolniczy pod warunkiem, że osoby stojące trzymają się uchwytów",
+        "13": "art. 63 ust. 3 pkt. 2 lit. c PRD Zabrania się przewozu osób w przyczepie, z tym że dopuszcza się przewóz konwojentów, drużyn roboczych i osób wykonujących czynności ładunkowe w przyczepie ciągniętej przez ciągnik rolniczy pod warunkiem, że osoby nie znajdują się pomiędzy ładunkiem a przednią ścianą przyczepy",
+        "14": "art. 63 ust. 3 pkt. 2 lit. d PRD Zabrania się przewozu osób w przyczepie, z tym że dopuszcza się przewóz konwojentów, drużyn roboczych i osób wykonujących czynności ładunkowe w przyczepie ciągniętej przez ciągnik rolniczy pod warunkiem, że prędkość zespołu pojazdów nie przekracza 20 km/h",
+        "15": "art. 63 ust. 3 pkt. 3 PRD Zabrania się przewozu osób w przyczepie, z tym że dopuszcza się przewóz osób w przyczepie (przyczepach) kolejki turystycznej pod warunkiem, że osoby te przewożone są wyłącznie na miejscach siedzących",
+        "16": "art. 63 ust. 3 pkt. 4 PRD Zabrania się przewozu osób w przyczepie, z tym że dopuszcza się przewóz dzieci w przyczepie przystosowanej konstrukcyjnie do przewozu osób, ciągniętej przez rower lub wózek rowerowy",
+        "17": "art. 63 ust. 4 PRD Przepisów ust. 1–3 nie stosuje się do przewozu pojazdami Sił Zbrojnych Rzeczypospolitej Polskiej, Policji, Straży Granicznej, Służby Więziennej oraz jednostek ochrony przeciwpożarowej",
+        "18": "art. 39 ust. 1 PRD Kierujący pojazdem samochodowym oraz osoba przewożona takim pojazdem wyposażonym w pasy bezpieczeństwa są obowiązani korzystać z tych pasów podczas jazdy, z zastrzeżeniem ust. 3, 3b i 3c",
+        "19": "art. 39 ust. 2 pkt. 1 PRD Obowiązek korzystania z pasów bezpieczeństwa nie dotyczy osoby mającej zaświadczenie lekarskie o przeciwwskazaniu do używania pasów bezpieczeństwa",
+        "20": "art. 39 ust. 2 pkt. 2 PRD Obowiązek korzystania z pasów bezpieczeństwa nie dotyczy kobiety o widocznej ciąży",
+        "21": "art. 39 ust. 2 pkt. 3 PRD Obowiązek korzystania z pasów bezpieczeństwa nie dotyczy kierującego taksówką podczas przewożenia pasażera",
+        "22": "art. 39 ust. 2 pkt. 4 PRD Obowiązek korzystania z pasów bezpieczeństwa nie dotyczy instruktora lub egzaminatora podczas szkolenia lub egzaminowania",
+        "23": "art. 39 ust. 2 pkt. 5 PRD Obowiązek korzystania z pasów bezpieczeństwa nie dotyczy policjanta, funkcjonariusza Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Służby Celno--Skarbowej i Służby Więziennej, żołnierza Sił Zbrojnych Rzeczypospolitej Polskiej – podczas przewożenia osoby (osób) zatrzymanej",
+        "24": "art. 39 ust. 2 pkt. 6 PRD Obowiązek korzystania z pasów bezpieczeństwa nie dotyczy funkcjonariusza Służby Ochrony Państwa podczas wykonywania czynności służbowych",
+        "25": "art. 39 ust. 2 pkt. 6a PRD Obowiązek korzystania z pasów bezpieczeństwa nie dotyczy żołnierza Żandarmerii Wojskowej podczas wykonywania czynności ochronnych",
+        "26": "art. 39 ust. 2 pkt. 7 PRD Obowiązek korzystania z pasów bezpieczeństwa nie dotyczy zespołu medycznego w czasie udzielania pomocy medycznej",
+        "27": "art. 39 ust. 2 pkt. 8 PRD Obowiązek korzystania z pasów bezpieczeństwa nie dotyczy konwojenta podczas przewożenia wartości pieniężnych",
+        "28": "art. 39 ust. 2 pkt. 9 PRD Obowiązek korzystania z pasów bezpieczeństwa nie dotyczy osoby chorej lub niepełnosprawnej przewożonej na noszach lub w wózku inwalidzkim",
+        "29": "art. 39 ust. 2 pkt. 10 PRD Obowiązek korzystania z pasów bezpieczeństwa nie dotyczy dziecka w wieku poniżej 3 lat przewożonego pojazdem kategorii M2 i M3",
+        "30": "art. 39 ust. 2 pkt. 11 PRD Obowiązek korzystania z pasów bezpieczeństwa nie dotyczy dziecka przewożonego na zasadach przewidzianych w art. 2 ust. 2 ustawy z dnia 20 czerwca 1992 r. o uprawnieniach do ulgowych przejazdów środkami publicznego transportu zbiorowego (Dz. U. z 2018 r. poz. 295)",
+        "31":" art. 39 ust. 2a pkt. 1 PRD Kierujący pojazdem kategorii M2 i M3, o których mowa w załączniku nr 2 do ustawy, wyposażonym w pasy bezpieczeństwa jest obowiązany do poinformowania osób przewożonych pojazdem o obowiązku korzystania z tych pasów podczas jazdy, chyba że zostały one o tym obowiązku poinformowane przez znajdującą się w pojeździe osobę kierującą przewożoną grupą",
+        "32": "art. 39 ust. 2a pkt. 2 PRD Kierujący pojazdem kategorii M2 i M3, o których mowa w załączniku nr 2 do ustawy, wyposażonym w pasy bezpieczeństwa jest obowiązany do poinformowania osób przewożonych pojazdem o obowiązku korzystania z tych pasów podczas jazdy, chyba że zostały one o tym obowiązku poinformowane za pomocą urządzenia audiowizualnego ",
+        "33": "art. 39 ust. 2a pkt. 3 PRD Kierujący pojazdem kategorii M2 i M3, o których mowa w załączniku nr 2 do ustawy, wyposażonym w pasy bezpieczeństwa jest obowiązany do poinformowania osób przewożonych pojazdem o obowiązku korzystania z tych pasów podczas jazdy, chyba że zostały one o tym obowiązku poinformowane za pomocą znaku umieszczonego w widoczny sposób przy każdym miejscu siedzącym, zgodnego ze wzorem określonym w załączniku do dyrektywy Rady z dnia 16 grudnia 1991 r. odnoszącej się do obowiązkowego stosowania pasów bezpieczeństwa i urządzeń przytrzymujących dla dzieci w pojazdach (91/671/EWG) (Dz. Urz. WE L 373 z 31.12.1991, str. 26, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 1, str. 353, z późn. zm.), zwanej dalej „dyrektywą nr 91/671/EWG”",
+        "34": "art. 39 ust. 3 pkt. 1 PRD W pojeździe kategorii M1, N1, N2 i N3, o których mowa w załączniku nr 2 do ustawy, wyposażonym w pasy bezpieczeństwa lub urządzenia przytrzymujące dla dzieci, dziecko mające mniej niż 150 cm wzrostu jest przewożone, z wyjątkiem przypadku, o którym mowa w ust. 3b, w foteliku bezpieczeństwa dla dziecka lub innym urządzeniu przytrzymującym dla dzieci, zgodnym z masą i wzrostem dziecka",
+        "35": "art. 39 ust. 3 pkt. 2 PRD W pojeździe kategorii M1, N1, N2 i N3, o których mowa w załączniku nr 2 do ustawy, wyposażonym w pasy bezpieczeństwa lub urządzenia przytrzymujące dla dzieci, dziecko mające mniej niż 150 cm wzrostu jest przewożone, z wyjątkiem przypadku, o którym mowa w ust. 3b, w foteliku bezpieczeństwa dla dziecka lub innym urządzeniu przytrzymującym dla dzieci, zgodnym z właściwymi warunkami technicznymi określonymi w przepisach Unii Europejskiej lub w regulaminach EKG ONZ dotyczących urządzeń przytrzymujących dla dzieci w pojeździe",
+        "36": "art. 39 ust. 3a PRD Foteliki bezpieczeństwa dla dziecka oraz inne urządzenia przytrzymujące dla dzieci są instalowane w pojeździe, zgodnie z zaleceniami producenta urządzenia, wskazującymi, w jaki sposób urządzenie może być bezpiecznie stosowane",
+        "37": "art. 39 ust. 3b PRD Zezwala się na przewożenie w pojeździe kategorii M1, N1, N2 i N3, o których mowa w załączniku nr 2 do ustawy, na tylnym siedzeniu pojazdu, dziecka mającego co najmniej 135 cm wzrostu przytrzymywanego za pomocą pasów bezpieczeństwa w przypadkach, kiedy ze względu na masę i wzrost dziecka nie jest możliwe zapewnienie fotelika bezpieczeństwa dla dziecka lub innego urządzenia przytrzymującego dla dzieci zgodnego z warunkami, o których mowa w ust. 3",
+        "38": "art. 39 ust. 3c PRD Zezwala się na przewożenie w pojeździe kategorii M1 i N1, o których mowa w załączniku nr 2 do ustawy, na tylnym siedzeniu pojazdu, trzeciego dziecka w wieku co najmniej 3 lat, przytrzymywanego za pomocą pasów bezpieczeństwa, w przypadku gdy dwoje dzieci jest przewożonych w fotelikach bezpieczeństwa dla dziecka lub innych urządzeniach przytrzymujących dla dzieci, zainstalowanych na tylnych siedzeniach pojazdu i nie ma możliwości zainstalowania trzeciego fotelika bezpieczeństwa dla dziecka lub innego urządzenia przytrzymującego dla dzieci",
+        "39": "art. 39 ust. 4 pkt. 1 PRD Przepis ust. 3 nie dotyczy przewozu dziecka taksówką",
+        "40": "art. 39 ust. 4 pkt. 2 PRD Przepis ust. 3 nie dotyczy przewozu dziecka specjalistycznym środkiem transportu sanitarnego, o którym mowa w art. 36 ust. 2 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2020 r. poz. 882, 2112 i 2401 oraz z 2021 r. poz. 159",
+        "41": "art. 39 ust. 4 pkt. 3 PRD Przepis ust. 3 nie dotyczy przewozu dziecka pojazdem Policji, Straży Granicznej lub straży gminnej (miejskiej)",
+        "42": "art. 39 ust. 4 pkt. 4 PRD Przepis ust. 3 nie dotyczy przewozu dziecka mającego zaświadczenie lekarskie o przeciwwskazaniu do przewożenia w foteliku bezpieczeństwa dla dziecka lub innym urządzeniu przytrzymującym dla dzieci",
+        "43": "art. 39 ust. 5 pkt. 1 PRD Zaświadczenia lekarskie, o których mowa w ust. 2 pkt 1 i ust. 4 pkt 4, zawierają imię i nazwisko",
+        "44": "art. 39 ust. 5 pkt. 2 PRD Zaświadczenia lekarskie, o których mowa w ust. 2 pkt 1 i ust. 4 pkt 4, zawierają numer ewidencyjny Powszechnego Elektronicznego Systemu Ewidencji Ludności (PESEL), a w przypadku osoby nieposiadającej numeru PESEL – serię, numer i nazwę dokumentu potwierdzającego tożsamość oraz nazwę państwa, które wydało ten dokument",
+        "45": "art. 39 ust. 5 pkt. 3 PRD Zaświadczenia lekarskie, o których mowa w ust. 2 pkt 1 i ust. 4 pkt 4, zawierają okres ważności",
+        "46": "art. 39 ust. 5 pkt. 4 PRD Zaświadczenia lekarskie, o których mowa w ust. 2 pkt 1 i ust. 4 pkt 4, zawierają znak graficzny zgodny ze wzorem określonym w art. 5 dyrektywy nr 91/671/EWG",
+        "47": "art. 39 ust. 6 PRD Minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw transportu określi, w drodze rozporządzenia, wzory zaświadczeń lekarskich, o których mowa w ust. 2 pkt 1 i ust. 4 pkt 4, kierując się przepisami Unii Europejskiej dotyczącymi obowiązkowego stosowania pasów bezpieczeństwa i urządzeń przytrzymujących dla dzieci w pojazdach oraz mając na uwadze potrzebę ujednolicenia stosowanych dokumentów"
+      },
       "path": null
     },
     {
@@ -1435,7 +1530,6 @@
       "points": 0,
       "code": "Z 01",
       "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany",
-      "paragraph": "",
       "paragraph_sub": {
         "1": "art. 13 ust. 1. PRD Pieszy wchodzący na jezdnię lub torowisko albo przechodzący przez jezdnię lub torowisko jest obowiązany zachować szczególną ostrożność oraz, z zastrzeżeniem ust. 2 i 3, korzystać z przejścia dla pieszych.",
         "2": "art. 13 ust. 2. PRD Przechodzenie przez jezdnię poza przejściem dla pieszych jest dozwolone, gdy\nodległość od przejścia przekracza 100 m. Jeżeli jednak skrzyżowanie znajduje się\nw odległości mniejszej niż 100 m od wyznaczonego przejścia, przechodzenie jest\ndozwolone również na tym skrzyżowaniu"
@@ -2653,7 +2747,12 @@
         "1": "art. 84 KW Kto wbrew obowiązkowi nie oznacza w sposób odpowiadający\nwymaganiom i łatwo dostrzegalny, zarówno w dzień, jak i w porze nocnej,\njakiejkolwiek przeszkody w ruchu drogowym, urządzenia lub przedmiotu znajdujących się na drodze lub też miejsca prowadzonych robót, jeżeli to może\nzagrozić bezpieczeństwu ruchu albo utrudnić ruch na drodze,\npodlega karze aresztu albo grzywny",
         "2": "art. 91 KW . Kto zanieczyszcza drogę publiczną lub na tej drodze pozostawia pojazd\nlub inny przedmiot albo zwierzę w okolicznościach, w których może to spowodować\nniebezpieczeństwo lub stanowić utrudnienie w ruchu drogowym,\npodlega karze grzywny do 1500 złotych albo karze nagany "
       },
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "art. 50 ust. 1 pkt 2 lit. a PRD Kierujący pojazdem jest obowiązany sygnalizować postój pojazdu silnikowego lub przyczepy z powodu uszkodzenia lub wypadku na pozostałych drogach twardych poza obszarem zabudowanym – w razie postoju na jezdni w miejscu, w którym jest to zabronione, a na poboczu, jeżeli pojazd nie jest widoczny z dostatecznej odległości",
+        "2": "art. 50 ust. 1 pkt 2 lit. b PRD Kierujący pojazdem jest obowiązany sygnalizować postój pojazdu silnikowego lub przyczepy z powodu uszkodzenia lub wypadku na pozostałych drogach twardych na obszarze zabudowanym – w razie postoju na jezdni w miejscu, w którym zatrzymanie jest zabronione",
+        "3": "art. 50 ust. 2 pkt 1 lit. a PRD Postój pojazdu, o którym mowa w ust. 1, należy sygnalizować w sposób następujący na pozostałych drogach poza obszarem zabudowanym – przez umieszczenie w odległości 30–50 m za pojazdem ostrzegawczego trójkąta odblaskowego i włączenie świateł awaryjnych; w razie gdy pojazd nie jest wyposażony w światła awaryjne, należy włączyć światła pozycyjne",
+        "4": "art. 50 ust. 2 pkt 1 lit. b PRD Postój pojazdu, o którym mowa w ust. 1, należy sygnalizować w sposób następujący na pozostałych drogach na obszarze zabudowanym – przez włączenie świateł awaryjnych, a jeżeli pojazd nie jest w nie wyposażony, należy włączyć światła pozycyjne i umieścić ostrzegawczy trójkąt odblaskowy za pojazdem lub na nim, na wysokości nie większej niż 1 m"
+      },
       "path": null
     },
     {
@@ -2675,7 +2774,7 @@
       "points": 2,
       "code": "G 03",
       "law": "art. 88 KW Kto na drodze publicznej, w strefie zamieszkania lub strefie ruchu prowadzi pojazd bez wymaganych przepisami świateł lub pozostawia pojazd bez wymaganego przepisami oświetlenia,podlega karze grzywny.",
-      "law_sub": {
+      "paragraph_sub": {
         "1": "art. 51 ust. 1 PRD Kierujący pojazdem jest obowiązany używać świateł mijania podczas jazdy w warunkach normalnej przejrzystości powietrza",
         "2": "art. 51 ust. 2 PRD W czasie od świtu do zmierzchu w warunkach normalnej przejrzystości powietrza, zamiast świateł mijania, kierujący pojazdem może używać świateł do jazdy dziennej"
       },
@@ -2689,7 +2788,7 @@
       "points": 4,
       "code": "G 01",
       "law": "art. 88 KW Kto na drodze publicznej, w strefie zamieszkania lub strefie ruchu prowadzi pojazd bez wymaganych przepisami świateł lub pozostawia pojazd bez wymaganego przepisami oświetlenia,podlega karze grzywny.",
-      "law_sub": {
+      "paragraph_sub": {
         "1": "art. 51 ust. 6  PRD Przepisów ust. 1–3 nie stosuje się do kierującego pojazdem, który nie jest wyposażony w światła mijania, drogowe lub światła do jazdy dziennej. Kierujący takim pojazdem w czasie od zmierzchu do świtu lub w tunelu jest obowiązany używać świateł stanowiących obowiązkowe wyposażenie pojazdu",
         "2": "art. 51 ust. 1 PRD Kierujący pojazdem jest obowiązany używać świateł mijania podczas jazdy w warunkach normalnej przejrzystości powietrza",
         "3": "art. 51 ust. 2 PRD W czasie od świtu do zmierzchu w warunkach normalnej przejrzystości powietrza, zamiast świateł mijania, kierujący pojazdem może używać świateł do jazdy dziennej",
@@ -2707,7 +2806,7 @@
       "points": 4,
       "code": "G 04",
       "law": "art. 88 KW Kto na drodze publicznej, w strefie zamieszkania lub strefie ruchu prowadzi pojazd bez wymaganych przepisami świateł lub pozostawia pojazd bez wymaganego przepisami oświetlenia,podlega karze grzywny.",
-      "law_sub": {
+      "paragraph_sub": {
         "1": "art. 51 ust. 6  PRD Przepisów ust. 1–3 nie stosuje się do kierującego pojazdem, który nie jest wyposażony w światła mijania, drogowe lub światła do jazdy dziennej. Kierujący takim pojazdem w czasie od zmierzchu do świtu lub w tunelu jest obowiązany używać świateł stanowiących obowiązkowe wyposażenie pojazdu",
         "2": "art. 51 ust. 1 PRD Kierujący pojazdem jest obowiązany używać świateł mijania podczas jazdy w warunkach normalnej przejrzystości powietrza",
         "3": "art. 51 ust. 2 PRD W czasie od świtu do zmierzchu w warunkach normalnej przejrzystości powietrza, zamiast świateł mijania, kierujący pojazdem może używać świateł do jazdy dziennej",
@@ -2725,7 +2824,7 @@
       "points": 3,
       "code": "G 08",
       "law": "art. 88 KW Kto na drodze publicznej, w strefie zamieszkania lub strefie ruchu prowadzi pojazd bez wymaganych przepisami świateł lub pozostawia pojazd bez wymaganego przepisami oświetlenia,podlega karze grzywny.",
-      "law_sub": {
+      "paragraph_sub": {
         "1": "art. 52 ust. 1 PRD Kierujący pojazdem silnikowym lub szynowym, w warunkach niedostatecznej widoczności, podczas zatrzymania niewynikającego z warunków ruchu lub przepisów ruchu drogowego oraz podczas postoju, jest obowiązany używać świateł pozycyjnych przednich i tylnych lub świateł postojowych. W pojeździe niezłączonym z przyczepą oraz w zespole pojazdów o długości nieprzekraczającej 6 m dopuszcza się włączenie świateł postojowych jedynie od strony środka jezdni",
         "2": "art. 52 ust. 2 PRD Podczas zatrzymania lub postoju, w miejscu oświetlonym w stopniu zapewniającym widoczność pojazdu lub znajdującym się poza jezdnią i poboczem, wszystkie światła pojazdu mogą być wyłączone. Przepis ten nie dotyczy pojazdu szynowego oraz pojazdu, na którym znajduje się urządzenie lub ładunek, wystające poza pojazd i wymagające oznaczenia odrębnymi światłami",
         "3": "art. 30 ust. 2 PRD Obowiązek używania świateł, o którym mowa w ust. 1, dotyczy kierującego pojazdem także podczas zatrzymania wynikającego z warunków lub przepisów ruchu drogowego",
@@ -2744,7 +2843,7 @@
       "points": 3,
       "code": "G 09",
       "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
-      "law_sub": {
+      "paragraph_sub": {
         "1": "art. 51 ust. 3 pkt. 1 PRD W czasie od zmierzchu do świtu, na nieoświetlonych drogach, zamiast świateł mijania lub łącznie z nimi, kierujący pojazdem może używać świateł drogowych, o ile nie oślepi innych kierujących albo pieszych poruszających się w kolumnie. Kierujący pojazdem, używając świateł drogowych, jest obowiązany przełączyć je na światła mijania w razie zbliżania się pojazdu nadjeżdżającego z przeciwka, przy czym jeżeli jeden z kierujących wyłączył światła drogowe – drugi jest obowiązany uczynić to samo",
         "2": "art. 51 ust. 3 pkt. 2 PRD W czasie od zmierzchu do świtu, na nieoświetlonych drogach, zamiast świateł mijania lub łącznie z nimi, kierujący pojazdem może używać świateł drogowych, o ile nie oślepi innych kierujących albo pieszych poruszających się w kolumnie. Kierujący pojazdem, używając świateł drogowych, jest obowiązany przełączyć je na światła mijania w razie zbliżania się do pojazdu poprzedzającego, jeżeli kierujący może być oślepiony",
         "3": "art. 51 ust. 3 pkt. 3 PRD W czasie od zmierzchu do świtu, na nieoświetlonych drogach, zamiast świateł mijania lub łącznie z nimi, kierujący pojazdem może używać świateł drogowych, o ile nie oślepi innych kierujących albo pieszych poruszających się w kolumnie. Kierujący pojazdem, używając świateł drogowych, jest obowiązany przełączyć je na światła mijania w razie zbliżania się pojazdu szynowego lub komunikacji wodnej, jeżeli poruszają się w takiej odległości, że istnieje możliwość oślepienia kierujących tymi pojazdami"
@@ -2781,7 +2880,7 @@
       "points": 0,
       "code": "K 12",
       "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
-      "law_sub": {
+      "paragraph_sub": {
         "1": "53 ust. 2 pkt. 1 lit. a PRD Kierujący pojazdem uprzywilejowanym może, pod warunkiem zachowania szczególnej ostrożności, nie stosować się do przepisów o ruchu pojazdów, zatrzymaniu i postoju oraz do znaków i sygnałów drogowych tylko w razie, gdy uczestniczy w akcji związanej z ratowaniem życia, zdrowia ludzkiego lub mienia albo koniecznością zapewnienia bezpieczeństwa lub porządku publicznego",
         "2": "53 ust. 2 pkt. 1 lit. b PRD Kierujący pojazdem uprzywilejowanym może, pod warunkiem zachowania szczególnej ostrożności, nie stosować się do przepisów o ruchu pojazdów, zatrzymaniu i postoju oraz do znaków i sygnałów drogowych tylko w razie, gdy uczestniczy w przejeździe kolumny pojazdów uprzywilejowanych",
         "3": "53 ust. 2 pkt. 1 lit. c PRD Kierujący pojazdem uprzywilejowanym może, pod warunkiem zachowania szczególnej ostrożności, nie stosować się do przepisów o ruchu pojazdów, zatrzymaniu i postoju oraz do znaków i sygnałów drogowych tylko w razie, gdy uczestniczy w wykonywaniu zadań związanych bezpośrednio z zapewnieniem bezpieczeństwa osób zajmujących kierownicze stanowiska państwowe, którym na mocy odrębnych przepisów przysługuje ochrona",
@@ -2800,7 +2899,7 @@
       "points": 0,
       "code": "K 14",
       "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
-      "law_sub": {
+      "paragraph_sub": {
         "1": "art. 54 ust. 1 PRD Pojazd wykonujący na drodze prace porządkowe, remontowe lub modernizacyjne powinien wysyłać żółte sygnały błyskowe",
         "2": "art. 54 ust. 3 PRD Pojazd, który ze względu na konstrukcję, ładunek lub nietypowe zachowanie na drodze może zagrażać bezpieczeństwu w ruchu drogowym, powinien wysyłać żółte sygnały błyskowe"
       },
@@ -2814,7 +2913,7 @@
       "points": 0,
       "code": "K 15",
       "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
-      "law_sub": {
+      "paragraph_sub": {
         "1": "art. 54 ust. 4 PRD Zabrania się, z zastrzeżeniem art. 31 ust. 1 pkt 5, używania żółtych sygnałów błyskowych do innych celów niż określone w ust. 1 i 3",
         "2": "art. 31 ust. 1 pkt 5 PRD Kierujący może holować pojazd silnikowy tylko pod warunkiem, że pojazd holowany, z wyjątkiem motocykla, jest oznaczony z tyłu po lewej stronie ostrzegawczym trójkątem odblaskowym, a w okresie niedostatecznej widoczności ma ponadto włączone światła pozycyjne; zamiast oznaczenia trójkątem odblaskowym pojazd holowany może wysyłać żółte sygnały błyskowe w sposób widoczny dla innych uczestników ruchu",
         "3": "art. 54 ust. 1 PRD Pojazd wykonujący na drodze prace porządkowe, remontowe lub modernizacyjne powinien wysyłać żółte sygnały błyskowe",
@@ -2986,7 +3085,8 @@
       "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
       "paragraph": "art. 60 ust. 2 pkt 4 PRD Zabrania się kierującemu ciągnięcia za pojazdem kierującego hulajnogą elektryczną lub urządzeniem transportu osobistego, osoby poruszającej się przy użyciu urządzenia wspomagającego ruch, osoby na sankach lub innym podobnym urządzeniu, zwierzęcia lub ładunku",
       "path": null
-    },    {
+    },
+    {
       "category": "others",
       "name": "Używanie opon z umieszczonymi w nich na trwałe elementami przeciwślizgowymi ",
       "text": "art. 97 KW w zw. z art. 60 ust. 2 pkt 5 PRD",
@@ -3016,7 +3116,14 @@
       "points": 2,
       "code": "H 19",
       "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "art. 32 ust. 6 PRD Zabrania się wjeżdżania między jadące w kolumnie rowery, wózki rowerowe lub hulajnogi elektryczne oraz pojazdy, o których mowa w ust. 5",
+        "2": "art. 32 ust. 5 PRD Przepisów ust. 1 i 2 nie stosuje się do pojazdów uprzywilejowanych oraz pojazdów Sił Zbrojnych Rzeczypospolitej Polskiej",
+        "3": "art. 32 ust. 1 pkt 1 PRD Liczba pojazdów jadących w zorganizowanej kolumnie nie może przekraczać samochodów osobowych, motorowerów lub motocykli – 10",
+        "4": "art. 32 ust. 1 pkt 2 PRD Liczba pojazdów jadących w zorganizowanej kolumnie nie może przekraczać rowerów, wózków rowerowych lub hulajnóg elektrycznych – 15",
+        "5": "art. 32 ust. 1 pkt 3 PRD Liczba pojazdów jadących w zorganizowanej kolumnie nie może przekraczać pozostałych pojazdów – 5",
+        "6": "art. 32 ust. 2 PRD Odległość między jadącymi kolumnami nie może być mniejsza niż 500 m dla kolumn pojazdów samochodowych oraz 200 m dla kolumn pozostałych pojazdów"
+      },
       "path": null
     },
     {
@@ -3049,7 +3156,10 @@
       "points": 2,
       "code": "J 03",
       "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "art. 57 ust. 3 PRD Zabrania się oznaczania pojazdu tablicami, o których mowa w ust. 1, w czasie, gdy dzieci lub młodzież nie są przewożone",
+        "2": "art. 57 ust. 1 PRD Pojazd przewożący zorganizowaną grupę dzieci lub młodzieży w wieku do 18 lat oznacza się z przodu i z tyłu kwadratowymi tablicami barwy żółtej z symbolem dzieci barwy czarnej. W warunkach niedostatecznej widoczności tablice powinny być oświetlone, chyba że są wykonane z materiału odblaskowego. Kierujący tym pojazdem jest obowiązany włączyć światła awaryjne podczas wsiadania lub wysiadania dzieci lub młodzieży"
+      },
       "path": null
     },
     {
@@ -3060,7 +3170,10 @@
       "points": 1,
       "code": "J 04",
       "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "art. 57 ust. 2 PRD Kierujący pojazdem, omijając pojazd, o którym mowa w ust. 1, jest obowiązany w czasie wsiadania lub wysiadania dzieci lub młodzieży zachować szczególną ostrożność i w razie potrzeby zatrzymać się",
+        "2": "art. 57 ust. 1 PRD Pojazd przewożący zorganizowaną grupę dzieci lub młodzieży w wieku do 18 lat oznacza się z przodu i z tyłu kwadratowymi tablicami barwy żółtej z symbolem dzieci barwy czarnej. W warunkach niedostatecznej widoczności tablice powinny być oświetlone, chyba że są wykonane z materiału odblaskowego. Kierujący tym pojazdem jest obowiązany włączyć światła awaryjne podczas wsiadania lub wysiadania dzieci lub młodzieży"
+      },
       "path": null
     },
     {
@@ -3104,7 +3217,10 @@
       "points": 1,
       "code": "J 06",
       "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "art. 58 ust. 2 PRD Kierujący pojazdem, omijając pojazd, o którym mowa w ust. 1, jest obowiązany w czasie wsiadania lub wysiadania osoby niepełnosprawnej zachować szczególną ostrożność i w razie potrzeby zatrzymać się",
+        "2": "art. 58 ust. 1 PRD Pojazd przeznaczony konstrukcyjnie do przewozu osób niepełnosprawnych oznacza się z przodu i z tyłu tablicami barwy niebieskiej z międzynarodowym symbolem wózka inwalidzkiego barwy białej. Tablice te powinny być wykonane z materiału odblaskowego. Kierujący tym pojazdem jest obowiązany włączyć światła awaryjne podczas wsiadania lub wysiadania osoby niepełnosprawnej"
+      },
       "path": null
     },
     {
@@ -3137,7 +3253,13 @@
       "points": 0,
       "code": "K 31",
       "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "art. 61 ust. 8 PRD Ładunek wystający poza przednią lub boczne płaszczyzny obrysu pojazdu powinien być oznaczony. Dotyczy to również ładunku wystającego poza tylną płaszczyznę obrysu pojazdu na odległość większą niż 0,5 m",
+        "2": "art. 61 ust. 9 pkt 1 PRD Ustala się następujące oznakowanie ładunku, ładunek wystający z przodu pojazdu oznacza się chorągiewką barwy pomarańczowej lub dwoma białymi i dwoma czerwonymi pasami, tak aby były widoczne z boków i z przodu pojazdu, a w okresie niedostatecznej widoczności ponadto światłem białym umieszczonym na najbardziej wystającej do przodu części ładunku",
+        "3": "art. 61 ust. 9 pkt 2 PRD Ustala się następujące oznakowanie ładunku, ładunek wystający z boku pojazdu oznacza się chorągiewką barwy pomarańczowej o wymiarach co najmniej 50 x 50 cm, umieszczoną przy najbardziej wystającej krawędzi ładunku, a ponadto w okresie niedostatecznej widoczności białym światłem odblaskowym skierowanym do przodu oraz czerwonym światłem i czerwonym światłem odblaskowym skierowanym do tyłu; światła te nie powinny znajdować się w odległości większej niż 40 cm od najbardziej wystającej krawędzi ładunku; jeżeli długość wystającego z boku ładunku, mierzona wzdłuż pojazdu, przekracza 3 m, to chorągiewkę i światła umieszcza się odpowiednio przy przedniej i tylnej części ładunku",
+        "4": "art. 61 ust. 9 pkt 3 PRD Ustala się następujące oznakowanie ładunku, ładunek wystający z tyłu pojazdu oznacza się pasami białymi i czerwonymi umieszczonymi bezpośrednio na ładunku lub na tarczy na jego tylnej płaszczyźnie albo na zawieszonej na końcu ładunku bryle geometrycznej (np. stożku, ostrosłupie); widoczna od tyłu łączna powierzchnia pasów powinna wynosić co najmniej 1000 cm2, przy czym nie może być mniej niż po dwa pasy każdej barwy; ponadto w okresie niedostatecznej widoczności na najbardziej wystającej do tyłu krawędzi ładunku umieszcza się czerwone światło i czerwone światło odblaskowe; przy przewozie drewna długiego zamiast oznakowania pasami białymi i czerwonymi dopuszcza się oznakowanie końca ładunku chorągiewką lub tarczą barwy pomarańczowej",
+        "5": "art. 61 ust. 9 pkt 4 PRD Ustala się następujące oznakowanie ładunku, ładunek wystający z tyłu samochodu osobowego lub przyczepy ciągniętej przez samochód osobowy może być oznaczony chorągiewką barwy czerwonej o wymiarach co najmniej 50 x 50 cm, umieszczoną przy najbardziej wystającej krawędzi ładunku"
+      },
       "path": null
     },
     {
@@ -3169,7 +3291,13 @@
       "points": 0,
       "code": "K 34",
       "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "art. 62 ust. 1 PRD Przewóz osób może odbywać się tylko pojazdem do tego przeznaczonym lub przystosowanym. Liczba przewożonych osób nie może przekraczać liczby miejsc określonych w dowodzie rejestracyjnym, z zastrzeżeniem ust. 4. W pojeździe niepodlegającym rejestracji liczba przewożonych osób wynika z konstrukcyjnego przeznaczenia pojazdu",
+        "2": "art. 61 ust. 9 pkt 1 PRD Ustala się następujące oznakowanie ładunku, ładunek wystający z przodu pojazdu oznacza się chorągiewką barwy pomarańczowej lub dwoma białymi i dwoma czerwonymi pasami, tak aby były widoczne z boków i z przodu pojazdu, a w okresie niedostatecznej widoczności ponadto światłem białym umieszczonym na najbardziej wystającej do przodu części ładunku",
+        "3": "art. 61 ust. 9 pkt 2 PRD Ustala się następujące oznakowanie ładunku, ładunek wystający z boku pojazdu oznacza się chorągiewką barwy pomarańczowej o wymiarach co najmniej 50 x 50 cm, umieszczoną przy najbardziej wystającej krawędzi ładunku, a ponadto w okresie niedostatecznej widoczności białym światłem odblaskowym skierowanym do przodu oraz czerwonym światłem i czerwonym światłem odblaskowym skierowanym do tyłu; światła te nie powinny znajdować się w odległości większej niż 40 cm od najbardziej wystającej krawędzi ładunku; jeżeli długość wystającego z boku ładunku, mierzona wzdłuż pojazdu, przekracza 3 m, to chorągiewkę i światła umieszcza się odpowiednio przy przedniej i tylnej części ładunku",
+        "4": "art. 61 ust. 9 pkt 3 PRD Ustala się następujące oznakowanie ładunku, ładunek wystający z tyłu pojazdu oznacza się pasami białymi i czerwonymi umieszczonymi bezpośrednio na ładunku lub na tarczy na jego tylnej płaszczyźnie albo na zawieszonej na końcu ładunku bryle geometrycznej (np. stożku, ostrosłupie); widoczna od tyłu łączna powierzchnia pasów powinna wynosić co najmniej 1000 cm2, przy czym nie może być mniej niż po dwa pasy każdej barwy; ponadto w okresie niedostatecznej widoczności na najbardziej wystającej do tyłu krawędzi ładunku umieszcza się czerwone światło i czerwone światło odblaskowe; przy przewozie drewna długiego zamiast oznakowania pasami białymi i czerwonymi dopuszcza się oznakowanie końca ładunku chorągiewką lub tarczą barwy pomarańczowej",
+        "5": "art. 61 ust. 9 pkt 4 PRD Ustala się następujące oznakowanie ładunku, ładunek wystający z tyłu samochodu osobowego lub przyczepy ciągniętej przez samochód osobowy może być oznaczony chorągiewką barwy czerwonej o wymiarach co najmniej 50 x 50 cm, umieszczoną przy najbardziej wystającej krawędzi ładunku"
+      },
       "path": null
     },
     {
@@ -3180,7 +3308,21 @@
       "points": null,
       "code": "null",
       "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "art. 63 ust. 1 PRD Przewóz osób może odbywać się tylko pojazdem do tego przeznaczonym lub przystosowanym. Liczba przewożonych osób nie może przekraczać liczby miejsc określonych w dowodzie rejestracyjnym, z zastrzeżeniem ust. 4. W pojeździe niepodlegającym rejestracji liczba przewożonych osób wynika z konstrukcyjnego przeznaczenia pojazdu",
+        "2": "art. 63 ust. 4 PRD Przepisów ust. 1–3 nie stosuje się do przewozu pojazdami Sił Zbrojnych Rzeczypospolitej Polskiej, Policji, Straży Granicznej, Służby Więziennej oraz jednostek ochrony przeciwpożarowej",
+        "3": "art. 63 ust. 2 pkt 1 PRD Dopuszcza się przewóz osób samochodem ciężarowym poza kabiną kierowcy, pod warunkiem że pojazd odpowiada wymaganym warunkom technicznym do przewozu osób",
+        "4": "art. 63 ust. 2 pkt 2 PRD Dopuszcza się przewóz osób samochodem ciężarowym poza kabiną kierowcy, pod warunkiem że osoby nie znajdują się między ładunkiem a kabiną kierowcy",
+        "5": "art. 63 ust. 2 pkt 3 PRD Dopuszcza się przewóz osób samochodem ciężarowym poza kabiną kierowcy, pod warunkiem że osoby przewożone są na miejscach siedzących",
+        "6": "art. 63 ust. 2 pkt 4 PRD Dopuszcza się przewóz osób samochodem ciężarowym poza kabiną kierowcy, pod warunkiem że pojazd nie przekracza prędkości 50 km/h",
+        "7": "art. 63 ust. 3 pkt 1 PRD Zabrania się przewozu osób w przyczepie, z tym że dopuszcza się przewóz dzieci do szkół lub przedszkoli i z powrotem w przyczepie dostosowanej do przewozu osób, ciągniętej przez ciągnik rolniczy",
+        "8": "art. 63 ust. 3 pkt 2 lit a PRD Zabrania się przewozu osób w przyczepie, z tym że dopuszcza się przewóz liczba przewożonych osób nie przekracza 5",
+        "9": "art. 63 ust. 3 pkt 2 lit b PRD Zabrania się przewozu osób w przyczepie, z tym że dopuszcza się przewóz osoby stojące trzymają się uchwytów",
+        "10": "art. 63 ust. 3 pkt 2 lit c PRD Zabrania się przewozu osób w przyczepie, z tym że dopuszcza się przewóz osoby nie znajdują się pomiędzy ładunkiem a przednią ścianą przyczepy",
+        "11": "art. 63 ust. 3 pkt 2 lit d PRD Zabrania się przewozu osób w przyczepie, z tym że dopuszcza się przewóz prędkość zespołu pojazdów nie przekracza 20 km/h",
+        "12": "art. 63 ust. 3 pkt 3 PRD Zabrania się przewozu osób w przyczepie, z tym że dopuszcza się przewóz osób w przyczepie (przyczepach) kolejki turystycznej pod warunkiem, że osoby te przewożone są wyłącznie na miejscach siedzących",
+        "13": "art. 63 ust. 4 pkt 4 PRD Zabrania się przewozu osób w przyczepie, z tym że dopuszcza się przewóz dzieci w przyczepie przystosowanej konstrukcyjnie do przewozu osób, ciągniętej przez rower lub wózek rowerowy"
+      },
       "path": null,
       "visible": false
     },
@@ -3192,7 +3334,21 @@
       "points": null,
       "code": "null",
       "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "art. 63 ust. 1 PRD Przewóz osób może odbywać się tylko pojazdem do tego przeznaczonym lub przystosowanym. Liczba przewożonych osób nie może przekraczać liczby miejsc określonych w dowodzie rejestracyjnym, z zastrzeżeniem ust. 4. W pojeździe niepodlegającym rejestracji liczba przewożonych osób wynika z konstrukcyjnego przeznaczenia pojazdu",
+        "2": "art. 63 ust. 4 PRD Przepisów ust. 1–3 nie stosuje się do przewozu pojazdami Sił Zbrojnych Rzeczypospolitej Polskiej, Policji, Straży Granicznej, Służby Więziennej oraz jednostek ochrony przeciwpożarowej",
+        "3": "art. 63 ust. 2 pkt 1 PRD Dopuszcza się przewóz osób samochodem ciężarowym poza kabiną kierowcy, pod warunkiem że pojazd odpowiada wymaganym warunkom technicznym do przewozu osób",
+        "4": "art. 63 ust. 2 pkt 2 PRD Dopuszcza się przewóz osób samochodem ciężarowym poza kabiną kierowcy, pod warunkiem że osoby nie znajdują się między ładunkiem a kabiną kierowcy",
+        "5": "art. 63 ust. 2 pkt 3 PRD Dopuszcza się przewóz osób samochodem ciężarowym poza kabiną kierowcy, pod warunkiem że osoby przewożone są na miejscach siedzących",
+        "6": "art. 63 ust. 2 pkt 4 PRD Dopuszcza się przewóz osób samochodem ciężarowym poza kabiną kierowcy, pod warunkiem że pojazd nie przekracza prędkości 50 km/h",
+        "7": "art. 63 ust. 3 pkt 1 PRD Zabrania się przewozu osób w przyczepie, z tym że dopuszcza się przewóz dzieci do szkół lub przedszkoli i z powrotem w przyczepie dostosowanej do przewozu osób, ciągniętej przez ciągnik rolniczy",
+        "8": "art. 63 ust. 3 pkt 2 lit a PRD Zabrania się przewozu osób w przyczepie, z tym że dopuszcza się przewóz liczba przewożonych osób nie przekracza 5",
+        "9": "art. 63 ust. 3 pkt 2 lit b PRD Zabrania się przewozu osób w przyczepie, z tym że dopuszcza się przewóz osoby stojące trzymają się uchwytów",
+        "10": "art. 63 ust. 3 pkt 2 lit c PRD Zabrania się przewozu osób w przyczepie, z tym że dopuszcza się przewóz osoby nie znajdują się pomiędzy ładunkiem a przednią ścianą przyczepy",
+        "11": "art. 63 ust. 3 pkt 2 lit d PRD Zabrania się przewozu osób w przyczepie, z tym że dopuszcza się przewóz prędkość zespołu pojazdów nie przekracza 20 km/h",
+        "12": "art. 63 ust. 3 pkt 3 PRD Zabrania się przewozu osób w przyczepie, z tym że dopuszcza się przewóz osób w przyczepie (przyczepach) kolejki turystycznej pod warunkiem, że osoby te przewożone są wyłącznie na miejscach siedzących",
+        "13": "art. 63 ust. 4 pkt 4 PRD Zabrania się przewozu osób w przyczepie, z tym że dopuszcza się przewóz dzieci w przyczepie przystosowanej konstrukcyjnie do przewozu osób, ciągniętej przez rower lub wózek rowerowy"
+      },
       "path": null,
       "visible": false
     },
@@ -3204,18 +3360,31 @@
       "points": 2,
       "code": "J 20",
       "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "art. 63 ust. 2 pkt 1 PRD Dopuszcza się przewóz osób samochodem ciężarowym poza kabiną kierowcy, pod warunkiem że pojazd odpowiada wymaganym warunkom technicznym do przewozu osób",
+        "2": "art. 63 ust. 2 pkt 2 PRD Dopuszcza się przewóz osób samochodem ciężarowym poza kabiną kierowcy, pod warunkiem że osoby nie znajdują się między ładunkiem a kabiną kierowcy",
+        "3": "art. 63 ust. 2 pkt 3 PRD Dopuszcza się przewóz osób samochodem ciężarowym poza kabiną kierowcy, pod warunkiem że osoby przewożone są na miejscach siedzących",
+        "4": "art. 63 ust. 2 pkt 4 PRD Dopuszcza się przewóz osób samochodem ciężarowym poza kabiną kierowcy, pod warunkiem że pojazd nie przekracza prędkości 50 km/h"
+      },
       "path": null
     },
     {
       "category": "belts",
       "name": "Naruszenie warunków przewozu osób w przyczepach, z zastrzeżeniem że w przypadku naruszenia warunku dopuszczalnej prędkości lub liczby przewożonych osób stosuje się odpowiednio lp.72–81 lub 226",
-      "text": "art. 97 KW w zw. z art. 63 ust. 3  PRD",
+      "text": "art. 97 KW w zw. z art. 63 ust. 3 PRD",
       "tax": "100",
       "points": 0,
       "code": "Z 01",
       "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "art. 63 ust. 3 pkt 1 PRD Zabrania się przewozu osób w przyczepie, z tym że dopuszcza się przewóz dzieci do szkół lub przedszkoli i z powrotem w przyczepie dostosowanej do przewozu osób, ciągniętej przez ciągnik rolniczy",
+        "2": "art. 63 ust. 3 pkt 2 lit a PRD Zabrania się przewozu osób w przyczepie, z tym że dopuszcza się przewóz liczba przewożonych osób nie przekracza 5",
+        "3": "art. 63 ust. 3 pkt 2 lit b PRD Zabrania się przewozu osób w przyczepie, z tym że dopuszcza się przewóz osoby stojące trzymają się uchwytów",
+        "4": "art. 63 ust. 3 pkt 2 lit c PRD Zabrania się przewozu osób w przyczepie, z tym że dopuszcza się przewóz osoby nie znajdują się pomiędzy ładunkiem a przednią ścianą przyczepy",
+        "5": "art. 63 ust. 3 pkt 2 lit d PRD Zabrania się przewozu osób w przyczepie, z tym że dopuszcza się przewóz prędkość zespołu pojazdów nie przekracza 20 km/h",
+        "6": "art. 63 ust. 3 pkt 3 PRD Zabrania się przewozu osób w przyczepie, z tym że dopuszcza się przewóz osób w przyczepie (przyczepach) kolejki turystycznej pod warunkiem, że osoby te przewożone są wyłącznie na miejscach siedzących",
+        "7": "art. 63 ust. 4 pkt 4 PRD Zabrania się przewozu osób w przyczepie, z tym że dopuszcza się przewóz dzieci w przyczepie przystosowanej konstrukcyjnie do przewozu osób, ciągniętej przez rower lub wózek rowerowy"
+      },
       "path": null
     },
     {
@@ -3226,7 +3395,7 @@
       "points": 0,
       "code": "K 35",
       "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
-      "paragraph": "",
+      "paragraph": "art. 63 ust. 5 PRD Kierującemu pojazdem silnikowym, który przewozi osobę, zabrania się palenia tytoniu lub spożywania pokarmów w czasie jazdy. Nie dotyczy to kierującego samochodem ciężarowym, który przewozi osobę w kabinie kierowcy, i kierującego samochodem osobowym, z wyjątkiem taksówki",
       "path": null
     },
     {
@@ -3243,7 +3412,7 @@
     {
       "category": "allow",
       "name": "Kierowanie pojazdem przez osobę nieposiadającą przy sobie wymaganych dokumentów",
-      "text": " art. 95  KW w zw. z art. 38 lub art. 71 ust. 5a  PRD",
+      "text": " art. 95  KW w zw. z art. 38 lub art. 71 ust. 5a PRD",
       "tax": "50 za każdy dokument nie więcej niż 250",
       "points": 0,
       "code": "K 03",
@@ -3262,7 +3431,7 @@
       "1": "87 § 1 KW Kto, znajdując się w stanie po użyciu alkoholu lub podobnie\ndziałającego środka, prowadzi pojazd mechaniczny w ruchu lądowym, wodnym lub\npowietrznym,\npodlega karze aresztu albo grzywny nie niższej niż 2500 złotych",
       "2": "87 § 1a KW Tej samej karze podlega, kto, znajdując się w stanie nietrzeźwości lub pod\nwpływem podobnie działającego środka, prowadzi na drodze publicznej, w strefie\nzamieszkania lub w strefie ruchu inny pojazd niż określony w § 1"
     },
-      "paragraph": "",
+      "paragraph": "art. 45 ust. 1 pkt 1 PRD Zabrania się kierowania pojazdem, prowadzenia kolumny pieszych, jazdy wierzchem lub pędzenia zwierząt osobie w stanie nietrzeźwości, w stanie po użyciu alkoholu lub środka działającego podobnie do alkoholu",
       "path": null
     },
     {
@@ -3276,7 +3445,7 @@
       "1": "art. 87 § 1 KW Kto, znajdując się w stanie po użyciu alkoholu lub podobnie\ndziałającego środka, prowadzi pojazd mechaniczny w ruchu lądowym, wodnym lub\npowietrznym,\npodlega karze aresztu albo grzywny nie niższej niż 2500 złotych",
       "2": "art. 87 § 2 KW Kto, znajdując się w stanie po użyciu alkoholu lub podobnie działającego\nśrodka, prowadzi na drodze publicznej, w strefie zamieszkania lub strefie ruchu inny\npojazd niż określony w § 1 "
     },
-      "paragraph": "",
+      "paragraph": "art. 45 ust. 1 pkt 1 PRD Zabrania się kierowania pojazdem, prowadzenia kolumny pieszych, jazdy wierzchem lub pędzenia zwierząt osobie w stanie nietrzeźwości, w stanie po użyciu alkoholu lub środka działającego podobnie do alkoholu",
       "path": null
     },
     {
@@ -3287,35 +3456,47 @@
       "points": null,
       "code": "null",
       "law": "art. 85 § 1 KW Kto samowolnie ustawia, niszczy, uszkadza, usuwa, włącza lub\nwyłącza znak, sygnał, urządzenie ostrzegawcze lub zabezpieczające albo zmienia ich\npołożenie, zasłania je lub czyni niewidocznymi,\npodlega karze aresztu, ograniczenia wolności albo grzywny",
-      "paragraph": "",
+      "paragraph": "art. 45 ust. 1 pkt 8 PRD Zabrania się samowolnego umieszczania lub włączania albo usuwania lub wyłączania znaków i sygnałów drogowych oraz urządzeń ostrzegawczo-zabezpieczających lub kontrolnych na drodze, jak również zmiany ich położenia lub ich zasłaniania",
       "path": null
     },
     {
       "category": "others",
       "name": "Używanie pojazdu niszczącego nawierzchnię drogi ",
-      "text": " art. 100 pkt 2 KW w zw. z art. 39 ust. 1 pkt 2  UOK",
+      "text": " art. 100 pkt 2 KW w zw. z art. 39 ust. 1 pkt 2 UODP",
       "tax": "300",
       "points": null,
       "code": "null",
       "law": "art. 100 pkt 2 KW Kto włóczy po drodze publicznej lub porzuca na niej przedmioty albo używa\npojazdów niszczących nawierzchnię drogi włóczy po drodze publicznej lub porzuca na niej przedmioty albo używa\npojazdów niszczących nawierzchnię drogi",
-      "paragraph": "",
+      "paragraph": "Zabrania się dokonywania w pasie drogowym czynności, które\nmogłyby powodować niszczenie lub uszkodzenie drogi i jej urządzeń albo\nzmniejszenie jej trwałości oraz zagrażać bezpieczeństwu ruchu drogowego. W szczególności zabrania się włóczenia po drogach oraz porzucania na nich przedmiotów lub używania pojazdów niszczących nawierzchnię drogi",
       "path": null
     },
     {
       "category": "allow",
       "name": "Dopuszczenie przez właściciela, posiadacza, użytkownika lub prowadzącego pojazd do prowadzenia pojazdu na drodze publicznej, w strefie zamieszkania lub strefie ruchu przez osobę niemającą wymaganych uprawnień ",
-      "text": "art. 96 § 1 pkt 2 KW w zw. z art. 3 w zw. z art. 7 ust. 1 pkt 2 lub 3  UOK",
+      "text": "art. 96 § 1 pkt 2 KW w zw. z art. 3 w zw. z art. 7 ust. 1 pkt 2 lub 3 UOK",
       "tax": "300",
       "points": null,
       "code": "null",
       "law": "art. 96 § 1 pkt 2 KW Właściciel, posiadacz, użytkownik lub prowadzący pojazd, który na\ndrodze publicznej, w strefie zamieszkania lub strefie ruchu dopuszcza do prowadzenia pojazdu osobę niemającą wymaganych uprawnień podlega karze grzywny ",
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "art. 3 ust. 1 pkt 2 UOK Kierującym pojazdem może być osoba, która osiągnęła wymagany wiek i jest sprawna pod względem fizycznym i psychicznym oraz spełnia jeden z następujących warunków posiada umiejętność kierowania pojazdem w sposób niezagrażający bezpieczeństwu, nieutrudniający ruchu drogowego i nienarażający kogokolwiek na szkodę oraz odpowiedni dokument stwierdzający posiadanie uprawnienia do kierowania pojazdem",
+        "2": "art. 3 ust. 1 pkt 2 UOK Kierującym pojazdem może być osoba, która osiągnęła wymagany wiek i jest sprawna pod względem fizycznym i psychicznym oraz spełnia jeden z następujących warunków odbywa w ramach szkolenia naukę jazdy",
+        "3": "art. 3 ust. 1 pkt 3 UOK Kierującym pojazdem może być osoba, która osiągnęła wymagany wiek i jest sprawna pod względem fizycznym i psychicznym oraz spełnia jeden z następujących warunków zdaje egzamin państwowy",
+        "4": "art. 3 ust. 2 UOK Kierującym pojazdem może być również osoba, która odbywa szkolenie w ramach kwalifikacji wstępnej, kwalifikacji wstępnej przyspieszonej, kwalifikacji wstępnej uzupełniającej lub kwalifikacji wstępnej uzupełniającej przyspieszonej, o których mowa w przepisach rozdziału 7a ustawy z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2021 r. poz. 919), i jest sprawna pod względem fizycznym i psychicznym",
+        "5": "art. 3 ust. 3 UOK Osoba niepełnosprawna pod względem fizycznym może być kierującym, jeżeli uzyskała orzeczenie lekarskie o braku przeciwwskazań zdrowotnych do kierowania pojazdem",
+        "6": "art. 3 ust. 3a pkt 1 UOK Całkowity albo częściowy ubytek słuchu nie jest przeciwwskazaniem zdrowotnym do uzyskania uprawnienia do kierowania pojazdami ani przesłanką jego cofnięcia – z wyjątkiem uzyskania prawa jazdy kategorii D1 lub D",
+        "7": "art. 3 ust. 3a pkt 2 UOK Całkowity albo częściowy ubytek słuchu nie jest przeciwwskazaniem zdrowotnym do uzyskania uprawnienia do kierowania pojazdami ani przesłanką jego cofnięcia – z wyjątkiem uzyskania prawa jazdy kategorii C1 lub C przez osobę, która nie posiada prawa jazdy kategorii B albo posiada je przez okres krótszy niż 2 lata",
+        "8": "art. 3 ust. 3a pkt 3 UOK Całkowity albo częściowy ubytek słuchu nie jest przeciwwskazaniem zdrowotnym do uzyskania uprawnienia do kierowania pojazdami ani przesłanką jego cofnięcia – z wyjątkiem cofnięcia uprawnień w zakresie prawa jazdy kategorii C lub C1 osobie, która w wyniku nagłego zdarzenia utraciła słuch w stopniu uniemożliwiającym jej rozumienie mowy z odległości jednego metra, w tym przy zastosowaniu aparatów słuchowych lub implantów słuchowych – przez okres roku od tego zdarzenia",
+        "9": "art. 3 ust. 4 UOK Osoba, która ukończyła 18 lat, nie jest obowiązana do posiadania dokumentu stwierdzającego posiadanie uprawnienia do kierowania rowerem, wózkiem rowerowym lub pojazdem zaprzęgowym",
+        "10": "art. 7 ust. 1 pkt 2 UOK Dokumentem stwierdzającym posiadanie uprawnienia do kierowania rowerem, wózkiem rowerowym, hulajnogą elektryczną lub urządzeniem transportu osobistego – jest karta rowerowa lub prawo jazdy kategorii AM, A1, B1 lub T – w przypadku osób, które nie ukończyły 18 lat",
+        "11": "art. 7 ust. 1 pkt 3 UOK Dokumentem stwierdzającym posiadanie uprawnienia do kierowania pojazdem zaprzęgowym – jest karta rowerowa lub prawo jazdy kategorii AM, A1, B1 lub T – w przypadku osób, które nie ukończyły 18 lat"
+      },
       "path": null
     },
     {
       "category": "allow",
       "name": "Dopuszczenie przez właściciela, posiadacza, użytkownika lub prowadzącego pojazd do jazdy na drodze publicznej, w strefie zamieszkania lub w strefie ruchu pojazdu nienależycie zaopatrzonego w wymagane urządzenia lub przyrządy albo pomimo że nie nadają się one do spełnienia swojego przeznaczenia",
-      "text": "art. 96 § 1 pkt 5  KW w zw. z art. 66  PRD",
+      "text": "art. 96 § 1 pkt 5  KW w zw. z art. 66 PRD",
       "tax": "50-200",
       "points": null,
       "code": "null",
@@ -4000,7 +4181,7 @@
       "tax": "200",
       "points": null,
       "code": "null",
-      "law": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego,podlega karze grzywny albo karze nagany",
+      "\"paragraph\": \"\"law": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego,podlega karze grzywny albo karze nagany",
       "paragraph": "",
       "path": "pictogram/red_pedestrian.png"
     },
