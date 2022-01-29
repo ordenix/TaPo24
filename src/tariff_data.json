@@ -3401,12 +3401,24 @@
     {
       "category": "allow",
       "name": "Kierowanie pojazdem innym niż mechaniczny na drodze publicznej, w strefie zamieszkania lub strefie ruchu przez osobę niemającą do tego uprawnienia",
-      "text": "art. 94 § 1a  KW w zw. z art. 3 w zw. z art. 7 ust. 1 pkt 2 lub 3  UOK",
+      "text": "art. 94 § 1a  KW w zw. z art. 3 w zw. z art. 7 ust. 1 pkt 2 lub 3 UOK",
       "tax": "200",
       "points": null,
       "code": "null",
       "law": "art. 94 § 1a KW Kto na drodze publicznej, w strefie zamieszkania lub strefie ruchu prowadzi\npojazd inny niż mechaniczny, nie mając do tego uprawnienia,\npodlega karze nagany albo karze grzywny do 1500 złotych",
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "art. 3 ust. 1 pkt 1 UOK Kierującym pojazdem może być osoba, która osiągnęła wymagany wiek i jest sprawna pod względem fizycznym i psychicznym oraz spełnia jeden z następujących warunków posiada umiejętność kierowania pojazdem w sposób niezagrażający bezpieczeństwu, nieutrudniający ruchu drogowego i nienarażający kogokolwiek na szkodę oraz odpowiedni dokument stwierdzający posiadanie uprawnienia do kierowania pojazdem",
+        "2": "art. 3 ust. 1 pkt 2 UOK Kierującym pojazdem może być osoba, która osiągnęła wymagany wiek i jest sprawna pod względem fizycznym i psychicznym oraz spełnia jeden z następujących warunków odbywa w ramach szkolenia naukę jazdy",
+        "3": "art. 3 ust. 1 pkt 3 UOK Kierującym pojazdem może być osoba, która osiągnęła wymagany wiek i jest sprawna pod względem fizycznym i psychicznym oraz spełnia jeden z następujących warunków zdaje egzamin państwowy",
+        "4": "art. 3 ust. 2 UOK Kierującym pojazdem może być również osoba, która odbywa szkolenie w ramach kwalifikacji wstępnej, kwalifikacji wstępnej przyspieszonej, kwalifikacji wstępnej uzupełniającej lub kwalifikacji wstępnej uzupełniającej przyspieszonej, o których mowa w przepisach rozdziału 7a ustawy z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2021 r. poz. 919), i jest sprawna pod względem fizycznym i psychicznym",
+        "5": "art. 3 ust. 3 UOK Osoba niepełnosprawna pod względem fizycznym może być kierującym, jeżeli uzyskała orzeczenie lekarskie o braku przeciwwskazań zdrowotnych do kierowania pojazdem",
+        "6": "art. 3 ust. 3a pkt 1 UOK Całkowity albo częściowy ubytek słuchu nie jest przeciwwskazaniem zdrowotnym do uzyskania uprawnienia do kierowania pojazdami ani przesłanką jego cofnięcia – z wyjątkiem uzyskania prawa jazdy kategorii D1 lub D",
+        "7": "art. 3 ust. 3a pkt 2 UOK Całkowity albo częściowy ubytek słuchu nie jest przeciwwskazaniem zdrowotnym do uzyskania uprawnienia do kierowania pojazdami ani przesłanką jego cofnięcia – z wyjątkiem uzyskania prawa jazdy kategorii C1 lub C przez osobę, która nie posiada prawa jazdy kategorii B albo posiada je przez okres krótszy niż 2 lata",
+        "8": "art. 3 ust. 3a pkt 2 UOK Całkowity albo częściowy ubytek słuchu nie jest przeciwwskazaniem zdrowotnym do uzyskania uprawnienia do kierowania pojazdami ani przesłanką jego cofnięcia – z wyjątkiem cofnięcia uprawnień w zakresie prawa jazdy kategorii C lub C1 osobie, która w wyniku nagłego zdarzenia utraciła słuch w stopniu uniemożliwiającym jej rozumienie mowy z odległości jednego metra, w tym przy zastosowaniu aparatów słuchowych lub implantów słuchowych – przez okres roku od tego zdarzenia",
+        "9": "art. 3 ust. 4 UOK Osoba, która ukończyła 18 lat, nie jest obowiązana do posiadania dokumentu stwierdzającego posiadanie uprawnienia do kierowania rowerem, wózkiem rowerowym lub pojazdem zaprzęgowym",
+        "10": "art. 7 ust. 1 pkt 2 UOK Dokumentem stwierdzającym posiadanie uprawnienia do kierowania rowerem, wózkiem rowerowym, hulajnogą elektryczną lub urządzeniem transportu osobistego – jest karta rowerowa lub prawo jazdy kategorii AM, A1, B1 lub T – w przypadku osób, które nie ukończyły 18 l",
+        "11": "art. 7 ust. 1 pkt 3 UOK Dokumentem stwierdzającym posiadanie uprawnienia do kierowania pojazdem zaprzęgowym – jest karta rowerowa lub prawo jazdy kategorii AM"
+      },
       "path": null
     },
     {
