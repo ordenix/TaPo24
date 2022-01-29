@@ -183,6 +183,16 @@
       "other_country": false
     },
     {
+      "law": "Art. 16 a o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw (Dz.U. 2018 poz. 957)",
+      "law_text": "Do dnia wskazanego w komunikacie, o którym mowa w art. 16 ust. 2,\npolicjant zatrzyma prawo jazdy za pokwitowaniem w razie przekroczenia przez\nkierującego pojazdem liczby 24 punktów otrzymanych za naruszenia, o których mowa\nw art. 130 ustawy zmienianej w art. 1. Przepisy [art. 135 ust. 2, art. 136 ust. 1 i 1a]\n<art. 135 ust. 4, art. 135a ust. 5, art. 135b i art. 136 ust. 1–3> oraz art. 139 ustawy\nzmienianej w art. 1 stosuje się odpowiednio.]",
+      "description": "przekroczenie 24 punktów karnych",
+      "time_from": "24 godziny",
+      "time_to": "24 godziny",
+      "remarks": "",
+      "comment": "",
+      "other_country": false
+    },
+    {
       "law": "Art. 135 ust. 1 pkt. 1 lit d PRD",
       "law_text": "Policjant zatrzyma wydane w kraju prawo jazdy za pokwitowaniem w przypadku przekroczenia przez kierującego pojazdem w okresie 1 roku od dnia wydania po raz pierwszy prawa jazdy liczby 20 punktów za naruszenie przepisów ruchu drogowego lub stwierdzenia, na podstawie prawomocnych rozstrzygnięć, że w okresie 2 lat od dnia wydania po raz pierwszy prawa jazdy popełnił on przestępstwo przeciwko bezpieczeństwu w komunikacji lub trzy wykroczenia określone w art. 86 § 1 lub 2, art. 87 § 1, art. 92a w przypadku przekroczenia dopuszczalnej prędkości o ponad 30 km/h lub art. 98 ustawy z dnia 20 maja 1971 r. – Kodeks wykroczeń (Dz. U. z 2021 r. poz. 281)",
       "description": "młody kierowca",
