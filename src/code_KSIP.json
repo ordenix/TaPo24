@@ -1,0 +1,64 @@
+{
+  "code_array": [
+    {
+      "id": 0,
+      "status": "nie objęty systemem punktowym",
+      "state_description": "Dotyczy osób, które nie posiadają żadnych zapisów o naruszeniach, bądź też posiadają zapisy dotyczące naruszeń zaistniałych minimum 2 lata wstecz. Stan punktowy takiej osoby wynosi 0",
+      "remarks": "Brak podstaw do zatrzymania prawa jazdy podczas kontroli drogowej"
+    },
+    {
+      "id": 1,
+      "status": "zbiera punkty",
+      "state_description": "Kierowcy odnotowano wpisy ostateczne i tymczasowe, których suma punktów zawiera się w przedziale od 0 do 24 (w przypadku tzw. młodego kierowcy - od 2 do 20 punktów ), bądź też znajdują się zapisy o wcześniejszych naruszeniach za które punkty po upływie roku zostały lub też w ewidencji znajdują się informacje o wydanych wcześniej zakazach, decyzjach, czy też wnioskach sprawdzenia kwalifikacji / cofnięcie uprawnień, które są aktualnie nieaktywne. UWAGA! W statusie tym znajdują się również osoby posiadające aktywny zakaz prowadzenia pojazdów na okres nieprzekraczający jednego roku",
+      "remarks": "Brak podstaw do zatrzymania prawa jazdy podczas kontroli drogowej. Osobom posiadającym aktywny zakaz prowadzenia pojazdów na okres nie przekraczający jednego roku należy zatrzymać prawo jazdy podczas kontroli drogowej"
+    },
+    {
+      "id": 2,
+      "status": "Zablokowany",
+      "state_description": "Ogólna liczba punktów ostatecznych i wpisanych tymczasowo przekroczyła 24 ( w przypadku młodego kierowcy 20 ), lecz przynajmniej jedna ze spraw została skierowana do rozpatrzenia przez sąd, w takim przypadku do czasu otrzymania rozstrzygnięcia sądowego wszystkie punkty zostają zablokowane i mimo upływu roku od daty danego naruszenia nie są zerowane, brak możliwości odliczenia 6 punktów z tytułu odbytego szkolenia",
+      "remarks": "Brak podstaw do zatrzymania prawa jazdy podczas kontroli drogowej"
+    },
+    {
+      "id": 3,
+      "status": "Przekroczony limit 24 punktów",
+      "state_description": "Dotyczy osób, które zgodnie z zapisami w ewidencji przekroczyły dopuszczalny limit punktowy, lecz nie został jeszcze wystosowany wniosek o sprawdzenie kwalifikacji ( jest to status przejściowy miedzy wpisem do ewidencji naruszenia powodującego przekroczenie dopuszczalnego limitu, a sporządzeniem wniosku o sprawdzenie kwalifikacji )",
+      "remarks": "Podczas kontroli drogowej należy zatrzymać prawo jazdy na podstawie art. 16a Ustawy z dnia 09.05.2018 r. o zmianie PRD oraz niektórych innych ustaw (Dz.U poz. 957 ze zm.)"
+    },
+    {
+      "id": 4,
+      "status": "Wystosowano wniosek o sprawdzenie kwalifikacji",
+      "state_description": "Umieszczany jest w nim kierowca, który posiada więcej niż 24 punkty przypisane na podstawie wpisów ostatecznych oraz został wystosowany wniosek o sprawdzenie kwalifikacji, a nie ma jeszcze informacji o pozytywnym wyniku egzaminu, bądź o wydaniu decyzji cofającej uprawnienia do kierowania pojazdami",
+      "remarks": "Podczas kontroli drogowej należy zatrzymać prawo jazdy na podstawie art. 16a Ustawy z dnia 09.05.2018 r. o zmianie PRD oraz niektórych innych ustaw (Dz.U poz. 957 ze zm.)"
+    },
+    {
+      "id": 5,
+      "status": "przekroczony limit 20 punktów",
+      "state_description": "Dotyczy tzw. młodych kierowców - oznacza, że w ewidencji odnotowany został fakt dopuszczenia się ( w okresie krótszym niż rok od daty uzyskania po raz pierwszy prawa jazdy) naruszeń skutkujących przekroczeniem limitu 20 punktów, lecz jeszcze nie wystosowano wniosku o cofnięcie uprawnień ( jest to status przejściowy pomiędzy dokonaniem wpisu naruszenia skutkującego przekroczeniem limit 20 punktów, a sporządzeniem wniosku o cofnięcie uprawnień )",
+      "remarks": "Podczas kontroli drogowej należy zatrzymać prawo jazdy na podstawie art. 135 ust. 1 pkt 1 lit h PRD"
+    },
+    {
+      "id": 6,
+      "status": "usunięty z systemu punktowego",
+      "state_description": "Dotyczy osób, którym zarejestrowano w ewidencji środek karny w postaci zakazu prowadzenia pojazdami na okres przekraczający 1 rok, bądź też starosta wydał decyzję o cofnięciu uprawnień do kierowania pojazdami",
+      "remarks": "Podczas kontroli drogowej należy zatrzymać prawo jazdy na podstawie art. 135 ust. 1 pkt 1 lit f PRD"
+    },
+    {
+      "id": 7,
+      "status": "wystosowano wniosek o cofnięcie uprawnień",
+      "state_description": "Dotyczy tzw. młodych kierowców - oznacza, że w wobec kierowcy wystosowano wniosek o cofnięcie uprawnień, lecz dotychczas w ewidencji nie odnotowano faktu wydania przez starostę decyzji o cofnięciu uprawnień ( art.140 ust. 1 pkt 3 PRD ) ",
+      "remarks": "Podczas kontroli drogowej należy zatrzymać prawo jazdy na podstawie art. 135 ust. 1 pkt 1 lit h PRD"
+    },
+    {
+      "id": 8,
+      "status": "zawieszony",
+      "state_description": "W statusie tym umieszczane są osoby, które zgodnie z zapisami znajdującymi się w ewidencji przekroczyły limit 24 punktów ( młody kierowca - 20 punktów ) lecz kwestionują zasadność przypisania im punktów, sporządzenia wniosku bądź też wydanej przez starostę decyzji o skierowaniu na kontrolne sprawdzenie kwalifikacji lub decyzji o cofnięciu uprawnień, sprawy są rozpatrywane przez organy odwoławcze",
+      "remarks": "Brak podstaw do zatrzymania prawa jazdy podczas kontroli drogowej"
+    },
+    {
+      "id": 9,
+      "status": "brak uprawnień do kierowania",
+      "state_description": "W statusie tym umieszczane są osoby, które dopuściły się przestępstw w ruchu drogowym, lecz w chwili popełniania czynu nie posiadały żadnych uprawnień do kierowania pojazdami. W przypadku kontroli takie osoby, odnotowany w ewidencji akt braku posiadania uprawnień do kierowania NALEŻY BEZWZGLĘDNIE POTWIERDZIĆ PRZEZ DOKONANIE SPRAWDZENIA W SYSTEMIE CEK ( CENTRALNA EWIDENCJA KIEROWCÓW )",
+      "remarks": ""
+    }
+  ]
+}
