@@ -25,6 +25,10 @@
         <div class="icon"><i class="fas fa-hand-holding"></i></div>
         <div class="label">Zatrzymywanie dokumentów</div>
       </div>
+      <div class="element" @click="goto('/KSIPCode/')">
+        <div class="icon"><i class="fas fa-info"></i></div>
+        <div class="label">Statusy Prawa Jazdy KSIP</div>
+      </div>
     </div>
   </div>
 </template>

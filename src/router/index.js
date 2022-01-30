@@ -17,6 +17,7 @@ import ControlList from '@/views/ControlList'
 import DrivingLicence from '@/views/Driving_Licence'
 import DrivingLicenceCode from '@/views/Driving_Licence_Code'
 import DocumentHolding from '@/views/Document_holding'
+import KSIPCode from '@/views/KSIPcode'
 Vue.use(VueRouter)
 
 const routes = [
@@ -104,6 +105,11 @@ const routes = [
     path: '/DocumentHolding/',
     name: 'DocumentHolding',
     component: DocumentHolding
+  },
+  {
+    path: '/KSIPCode/',
+    name: 'KSIPCode',
+    component: KSIPCode
   },
   {
     path: '/about',
