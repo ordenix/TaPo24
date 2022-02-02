@@ -3531,7 +3531,7 @@
     {
       "category": "others",
       "name": "Niewskazanie wbrew obowiązkowi, na żądanie uprawnionego organu, komu pojazd został powierzony do kierowania lub używania w oznaczonym czasie w postępowaniu w sprawach o przestępstwo",
-      "text": "art. 96 § 3  KW w zw. z art. 78 ust. 4 albo ust. 5  PRD",
+      "text": "art. 96 § 3  KW w zw. z art. 78 ust. 4 albo ust. 5 PRD",
       "tax": "od 4000",
       "points": null,
       "code": "null",
@@ -3544,7 +3544,16 @@
         "6": "art. 96 § 1 pkt 6 KW Właściciel, posiadacz, użytkownik lub prowadzący pojazd, który na\ndrodze publicznej, w strefie zamieszkania lub strefie ruchu dopuszcza do korzystania z pojazdu samochodowego w sposób niezgodny z jego\nprzeznaczeniem podlega karze grzywny",
         "7": "art. 96 § 3 KW Tej samej karze podlega, kto wbrew obowiązkowi nie wskaże na żądanie\nuprawnionego organu, komu powierzył pojazd do kierowania lub używania\nw oznaczonym czasie."
       },
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "art. 78 ust. 4 PRD Właściciel lub posiadacz pojazdu jest obowiązany wskazać na żądanie uprawnionego organu, komu powierzył pojazd do kierowania lub używania w oznaczonym czasie, chyba że pojazd został użyty wbrew jego woli i wiedzy przez nieznaną osobę, czemu nie mógł zapobiec",
+        "2": "art. 78 ust. 5 pkt 1 PRD W przypadku, gdy właścicielem lub posiadaczem pojazdu jest osoba prawna do udzielenia informacji, o której mowa w ust. 4, obowiązana jest osoba wyznaczona przez organ uprawniony do reprezentowania tego podmiotu na zewnątrz, a w przypadku niewyznaczenia takiej osoby – osoby wchodzące w skład tego organu zgodnie z żądaniem organu, o którym mowa w ust. 4, oraz sposobem reprezentacji podmiotu",
+        "3": "art. 78 ust. 5 pkt 2 PRD W przypadku, gdy właścicielem lub posiadaczem pojazdu jest jednostka organizacyjna niemająca osobowości prawnej, której odrębne przepisy przyznają zdolność prawną do udzielenia informacji, o której mowa w ust. 4, obowiązana jest osoba wyznaczona przez organ uprawniony do reprezentowania tego podmiotu na zewnątrz, a w przypadku niewyznaczenia takiej osoby – osoby wchodzące w skład tego organu zgodnie z żądaniem organu, o którym mowa w ust. 4, oraz sposobem reprezentacji podmiotu",
+        "4": "art. 78 ust. 5 pkt 3 PRD W przypadku, gdy właścicielem lub posiadaczem pojazdu jest jednostka samorządu terytorialnego do udzielenia informacji, o której mowa w ust. 4, obowiązana jest osoba wyznaczona przez organ uprawniony do reprezentowania tego podmiotu na zewnątrz, a w przypadku niewyznaczenia takiej osoby – osoby wchodzące w skład tego organu zgodnie z żądaniem organu, o którym mowa w ust. 4, oraz sposobem reprezentacji podmiotu",
+        "5": "art. 78 ust. 5 pkt 4 PRD W przypadku, gdy właścicielem lub posiadaczem pojazdu jest spółka kapitałowa w organizacji do udzielenia informacji, o której mowa w ust. 4, obowiązana jest osoba wyznaczona przez organ uprawniony do reprezentowania tego podmiotu na zewnątrz, a w przypadku niewyznaczenia takiej osoby – osoby wchodzące w skład tego organu zgodnie z żądaniem organu, o którym mowa w ust. 4, oraz sposobem reprezentacji podmiotu",
+        "6": "art. 78 ust. 5 pkt 5 PRD W przypadku, gdy właścicielem lub posiadaczem pojazdu jest podmiot w stanie likwidacji do udzielenia informacji, o której mowa w ust. 4, obowiązana jest osoba wyznaczona przez organ uprawniony do reprezentowania tego podmiotu na zewnątrz, a w przypadku niewyznaczenia takiej osoby – osoby wchodzące w skład tego organu zgodnie z żądaniem organu, o którym mowa w ust. 4, oraz sposobem reprezentacji podmiotu",
+        "7": "art. 78 ust. 5 pkt 6 PRD W przypadku, gdy właścicielem lub posiadaczem pojazdu jest przedsiębiorca niebędący osobą fizyczną do udzielenia informacji, o której mowa w ust. 4, obowiązana jest osoba wyznaczona przez organ uprawniony do reprezentowania tego podmiotu na zewnątrz, a w przypadku niewyznaczenia takiej osoby – osoby wchodzące w skład tego organu zgodnie z żądaniem organu, o którym mowa w ust. 4, oraz sposobem reprezentacji podmiotu",
+        "8": "art. 78 ust. 5 pkt 7 PRD W przypadku, gdy właścicielem lub posiadaczem pojazdu jest zagraniczna jednostka organizacyjna do udzielenia informacji, o której mowa w ust. 4, obowiązana jest osoba wyznaczona przez organ uprawniony do reprezentowania tego podmiotu na zewnątrz, a w przypadku niewyznaczenia takiej osoby – osoby wchodzące w skład tego organu zgodnie z żądaniem organu, o którym mowa w ust. 4, oraz sposobem reprezentacji podmiotu"
+      },
       "path": null
     },    {
       "category": "others",
@@ -3562,7 +3571,16 @@
         "6": "art. 96 § 1 pkt 6 KW Właściciel, posiadacz, użytkownik lub prowadzący pojazd, który na\ndrodze publicznej, w strefie zamieszkania lub strefie ruchu dopuszcza do korzystania z pojazdu samochodowego w sposób niezgodny z jego\nprzeznaczeniem podlega karze grzywny",
         "7": "art. 96 § 3 KW Tej samej karze podlega, kto wbrew obowiązkowi nie wskaże na żądanie\nuprawnionego organu, komu powierzył pojazd do kierowania lub używania\nw oznaczonym czasie."
       },
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "art. 78 ust. 4 PRD Właściciel lub posiadacz pojazdu jest obowiązany wskazać na żądanie uprawnionego organu, komu powierzył pojazd do kierowania lub używania w oznaczonym czasie, chyba że pojazd został użyty wbrew jego woli i wiedzy przez nieznaną osobę, czemu nie mógł zapobiec",
+        "2": "art. 78 ust. 5 pkt 1 PRD W przypadku, gdy właścicielem lub posiadaczem pojazdu jest osoba prawna do udzielenia informacji, o której mowa w ust. 4, obowiązana jest osoba wyznaczona przez organ uprawniony do reprezentowania tego podmiotu na zewnątrz, a w przypadku niewyznaczenia takiej osoby – osoby wchodzące w skład tego organu zgodnie z żądaniem organu, o którym mowa w ust. 4, oraz sposobem reprezentacji podmiotu",
+        "3": "art. 78 ust. 5 pkt 2 PRD W przypadku, gdy właścicielem lub posiadaczem pojazdu jest jednostka organizacyjna niemająca osobowości prawnej, której odrębne przepisy przyznają zdolność prawną do udzielenia informacji, o której mowa w ust. 4, obowiązana jest osoba wyznaczona przez organ uprawniony do reprezentowania tego podmiotu na zewnątrz, a w przypadku niewyznaczenia takiej osoby – osoby wchodzące w skład tego organu zgodnie z żądaniem organu, o którym mowa w ust. 4, oraz sposobem reprezentacji podmiotu",
+        "4": "art. 78 ust. 5 pkt 3 PRD W przypadku, gdy właścicielem lub posiadaczem pojazdu jest jednostka samorządu terytorialnego do udzielenia informacji, o której mowa w ust. 4, obowiązana jest osoba wyznaczona przez organ uprawniony do reprezentowania tego podmiotu na zewnątrz, a w przypadku niewyznaczenia takiej osoby – osoby wchodzące w skład tego organu zgodnie z żądaniem organu, o którym mowa w ust. 4, oraz sposobem reprezentacji podmiotu",
+        "5": "art. 78 ust. 5 pkt 4 PRD W przypadku, gdy właścicielem lub posiadaczem pojazdu jest spółka kapitałowa w organizacji do udzielenia informacji, o której mowa w ust. 4, obowiązana jest osoba wyznaczona przez organ uprawniony do reprezentowania tego podmiotu na zewnątrz, a w przypadku niewyznaczenia takiej osoby – osoby wchodzące w skład tego organu zgodnie z żądaniem organu, o którym mowa w ust. 4, oraz sposobem reprezentacji podmiotu",
+        "6": "art. 78 ust. 5 pkt 5 PRD W przypadku, gdy właścicielem lub posiadaczem pojazdu jest podmiot w stanie likwidacji do udzielenia informacji, o której mowa w ust. 4, obowiązana jest osoba wyznaczona przez organ uprawniony do reprezentowania tego podmiotu na zewnątrz, a w przypadku niewyznaczenia takiej osoby – osoby wchodzące w skład tego organu zgodnie z żądaniem organu, o którym mowa w ust. 4, oraz sposobem reprezentacji podmiotu",
+        "7": "art. 78 ust. 5 pkt 6 PRD W przypadku, gdy właścicielem lub posiadaczem pojazdu jest przedsiębiorca niebędący osobą fizyczną do udzielenia informacji, o której mowa w ust. 4, obowiązana jest osoba wyznaczona przez organ uprawniony do reprezentowania tego podmiotu na zewnątrz, a w przypadku niewyznaczenia takiej osoby – osoby wchodzące w skład tego organu zgodnie z żądaniem organu, o którym mowa w ust. 4, oraz sposobem reprezentacji podmiotu",
+        "8": "art. 78 ust. 5 pkt 7 PRD W przypadku, gdy właścicielem lub posiadaczem pojazdu jest zagraniczna jednostka organizacyjna do udzielenia informacji, o której mowa w ust. 4, obowiązana jest osoba wyznaczona przez organ uprawniony do reprezentowania tego podmiotu na zewnątrz, a w przypadku niewyznaczenia takiej osoby – osoby wchodzące w skład tego organu zgodnie z żądaniem organu, o którym mowa w ust. 4, oraz sposobem reprezentacji podmiotu"
+      },
       "path": null
     },
     {
@@ -3581,7 +3599,16 @@
         "6": "art. 96 § 1 pkt 6 KW Właściciel, posiadacz, użytkownik lub prowadzący pojazd, który na\ndrodze publicznej, w strefie zamieszkania lub strefie ruchu dopuszcza do korzystania z pojazdu samochodowego w sposób niezgodny z jego\nprzeznaczeniem podlega karze grzywny",
         "7": "art. 96 § 3 KW Tej samej karze podlega, kto wbrew obowiązkowi nie wskaże na żądanie\nuprawnionego organu, komu powierzył pojazd do kierowania lub używania\nw oznaczonym czasie."
       },
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "art. 78 ust. 4 PRD Właściciel lub posiadacz pojazdu jest obowiązany wskazać na żądanie uprawnionego organu, komu powierzył pojazd do kierowania lub używania w oznaczonym czasie, chyba że pojazd został użyty wbrew jego woli i wiedzy przez nieznaną osobę, czemu nie mógł zapobiec",
+        "2": "art. 78 ust. 5 pkt 1 PRD W przypadku, gdy właścicielem lub posiadaczem pojazdu jest osoba prawna do udzielenia informacji, o której mowa w ust. 4, obowiązana jest osoba wyznaczona przez organ uprawniony do reprezentowania tego podmiotu na zewnątrz, a w przypadku niewyznaczenia takiej osoby – osoby wchodzące w skład tego organu zgodnie z żądaniem organu, o którym mowa w ust. 4, oraz sposobem reprezentacji podmiotu",
+        "3": "art. 78 ust. 5 pkt 2 PRD W przypadku, gdy właścicielem lub posiadaczem pojazdu jest jednostka organizacyjna niemająca osobowości prawnej, której odrębne przepisy przyznają zdolność prawną do udzielenia informacji, o której mowa w ust. 4, obowiązana jest osoba wyznaczona przez organ uprawniony do reprezentowania tego podmiotu na zewnątrz, a w przypadku niewyznaczenia takiej osoby – osoby wchodzące w skład tego organu zgodnie z żądaniem organu, o którym mowa w ust. 4, oraz sposobem reprezentacji podmiotu",
+        "4": "art. 78 ust. 5 pkt 3 PRD W przypadku, gdy właścicielem lub posiadaczem pojazdu jest jednostka samorządu terytorialnego do udzielenia informacji, o której mowa w ust. 4, obowiązana jest osoba wyznaczona przez organ uprawniony do reprezentowania tego podmiotu na zewnątrz, a w przypadku niewyznaczenia takiej osoby – osoby wchodzące w skład tego organu zgodnie z żądaniem organu, o którym mowa w ust. 4, oraz sposobem reprezentacji podmiotu",
+        "5": "art. 78 ust. 5 pkt 4 PRD W przypadku, gdy właścicielem lub posiadaczem pojazdu jest spółka kapitałowa w organizacji do udzielenia informacji, o której mowa w ust. 4, obowiązana jest osoba wyznaczona przez organ uprawniony do reprezentowania tego podmiotu na zewnątrz, a w przypadku niewyznaczenia takiej osoby – osoby wchodzące w skład tego organu zgodnie z żądaniem organu, o którym mowa w ust. 4, oraz sposobem reprezentacji podmiotu",
+        "6": "art. 78 ust. 5 pkt 5 PRD W przypadku, gdy właścicielem lub posiadaczem pojazdu jest podmiot w stanie likwidacji do udzielenia informacji, o której mowa w ust. 4, obowiązana jest osoba wyznaczona przez organ uprawniony do reprezentowania tego podmiotu na zewnątrz, a w przypadku niewyznaczenia takiej osoby – osoby wchodzące w skład tego organu zgodnie z żądaniem organu, o którym mowa w ust. 4, oraz sposobem reprezentacji podmiotu",
+        "7": "art. 78 ust. 5 pkt 6 PRD W przypadku, gdy właścicielem lub posiadaczem pojazdu jest przedsiębiorca niebędący osobą fizyczną do udzielenia informacji, o której mowa w ust. 4, obowiązana jest osoba wyznaczona przez organ uprawniony do reprezentowania tego podmiotu na zewnątrz, a w przypadku niewyznaczenia takiej osoby – osoby wchodzące w skład tego organu zgodnie z żądaniem organu, o którym mowa w ust. 4, oraz sposobem reprezentacji podmiotu",
+        "8": "art. 78 ust. 5 pkt 7 PRD W przypadku, gdy właścicielem lub posiadaczem pojazdu jest zagraniczna jednostka organizacyjna do udzielenia informacji, o której mowa w ust. 4, obowiązana jest osoba wyznaczona przez organ uprawniony do reprezentowania tego podmiotu na zewnątrz, a w przypadku niewyznaczenia takiej osoby – osoby wchodzące w skład tego organu zgodnie z żądaniem organu, o którym mowa w ust. 4, oraz sposobem reprezentacji podmiotu"
+      },
       "path": null
     },
     {
@@ -3600,18 +3627,27 @@
         "6": "art. 96 § 1 pkt 6 KW Właściciel, posiadacz, użytkownik lub prowadzący pojazd, który na\ndrodze publicznej, w strefie zamieszkania lub strefie ruchu dopuszcza do korzystania z pojazdu samochodowego w sposób niezgodny z jego\nprzeznaczeniem podlega karze grzywny",
         "7": "art. 96 § 3 KW Tej samej karze podlega, kto wbrew obowiązkowi nie wskaże na żądanie\nuprawnionego organu, komu powierzył pojazd do kierowania lub używania\nw oznaczonym czasie."
       },
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "art. 78 ust. 4 PRD Właściciel lub posiadacz pojazdu jest obowiązany wskazać na żądanie uprawnionego organu, komu powierzył pojazd do kierowania lub używania w oznaczonym czasie, chyba że pojazd został użyty wbrew jego woli i wiedzy przez nieznaną osobę, czemu nie mógł zapobiec",
+        "2": "art. 78 ust. 5 pkt 1 PRD W przypadku, gdy właścicielem lub posiadaczem pojazdu jest osoba prawna do udzielenia informacji, o której mowa w ust. 4, obowiązana jest osoba wyznaczona przez organ uprawniony do reprezentowania tego podmiotu na zewnątrz, a w przypadku niewyznaczenia takiej osoby – osoby wchodzące w skład tego organu zgodnie z żądaniem organu, o którym mowa w ust. 4, oraz sposobem reprezentacji podmiotu",
+        "3": "art. 78 ust. 5 pkt 2 PRD W przypadku, gdy właścicielem lub posiadaczem pojazdu jest jednostka organizacyjna niemająca osobowości prawnej, której odrębne przepisy przyznają zdolność prawną do udzielenia informacji, o której mowa w ust. 4, obowiązana jest osoba wyznaczona przez organ uprawniony do reprezentowania tego podmiotu na zewnątrz, a w przypadku niewyznaczenia takiej osoby – osoby wchodzące w skład tego organu zgodnie z żądaniem organu, o którym mowa w ust. 4, oraz sposobem reprezentacji podmiotu",
+        "4": "art. 78 ust. 5 pkt 3 PRD W przypadku, gdy właścicielem lub posiadaczem pojazdu jest jednostka samorządu terytorialnego do udzielenia informacji, o której mowa w ust. 4, obowiązana jest osoba wyznaczona przez organ uprawniony do reprezentowania tego podmiotu na zewnątrz, a w przypadku niewyznaczenia takiej osoby – osoby wchodzące w skład tego organu zgodnie z żądaniem organu, o którym mowa w ust. 4, oraz sposobem reprezentacji podmiotu",
+        "5": "art. 78 ust. 5 pkt 4 PRD W przypadku, gdy właścicielem lub posiadaczem pojazdu jest spółka kapitałowa w organizacji do udzielenia informacji, o której mowa w ust. 4, obowiązana jest osoba wyznaczona przez organ uprawniony do reprezentowania tego podmiotu na zewnątrz, a w przypadku niewyznaczenia takiej osoby – osoby wchodzące w skład tego organu zgodnie z żądaniem organu, o którym mowa w ust. 4, oraz sposobem reprezentacji podmiotu",
+        "6": "art. 78 ust. 5 pkt 5 PRD W przypadku, gdy właścicielem lub posiadaczem pojazdu jest podmiot w stanie likwidacji do udzielenia informacji, o której mowa w ust. 4, obowiązana jest osoba wyznaczona przez organ uprawniony do reprezentowania tego podmiotu na zewnątrz, a w przypadku niewyznaczenia takiej osoby – osoby wchodzące w skład tego organu zgodnie z żądaniem organu, o którym mowa w ust. 4, oraz sposobem reprezentacji podmiotu",
+        "7": "art. 78 ust. 5 pkt 6 PRD W przypadku, gdy właścicielem lub posiadaczem pojazdu jest przedsiębiorca niebędący osobą fizyczną do udzielenia informacji, o której mowa w ust. 4, obowiązana jest osoba wyznaczona przez organ uprawniony do reprezentowania tego podmiotu na zewnątrz, a w przypadku niewyznaczenia takiej osoby – osoby wchodzące w skład tego organu zgodnie z żądaniem organu, o którym mowa w ust. 4, oraz sposobem reprezentacji podmiotu",
+        "8": "art. 78 ust. 5 pkt 7 PRD W przypadku, gdy właścicielem lub posiadaczem pojazdu jest zagraniczna jednostka organizacyjna do udzielenia informacji, o której mowa w ust. 4, obowiązana jest osoba wyznaczona przez organ uprawniony do reprezentowania tego podmiotu na zewnątrz, a w przypadku niewyznaczenia takiej osoby – osoby wchodzące w skład tego organu zgodnie z żądaniem organu, o którym mowa w ust. 4, oraz sposobem reprezentacji podmiotu"
+      },
       "path": null
     },
     {
       "category": "others",
       "name": "Zaśmiecanie lub zanieczyszczanie drogi publicznej ",
-      "text": "art. 91 KW w zw. z art. 45 ust. 1 pkt 9  PRD",
+      "text": "art. 91 KW w zw. z art. 45 ust. 1 pkt 9 PRD",
       "tax": "50-200",
       "points": null,
       "code": "null",
       "law": "art. 91 KW Kto zanieczyszcza drogę publiczną lub na tej drodze pozostawia pojazd lub inny przedmiot albo zwierzę w okolicznościach, w których może to spowodować niebezpieczeństwo lub stanowić utrudnienie w ruchu drogowym,podlega karze grzywny do 1500 złotych albo karze nagany",
-      "paragraph": "",
+      "paragraph": "art. 45 ust. 1 pkt 9 PRD Zabrania się zaśmiecania lub zanieczyszczania drogi",
       "path": null
     },
     {
@@ -3622,7 +3658,7 @@
       "points": null,
       "code": "null",
       "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
-      "paragraph": "",
+      "paragraph": "art. 45 ust. 1 pkt 10 PRD Zabrania się samowolnego umieszczania na drodze jakichkolwiek znaków, napisów lub symboli",
       "path": null
     },
     {
@@ -3633,7 +3669,7 @@
       "points": null,
       "code": "null",
       "law": "art. 100 pkt 4 KW Kto wypasa zwierzę gospodarskie w pasie drogowym podlega karze grzywny złotych albo karze nagany.",
-      "paragraph": "",
+      "paragraph": "art. 39 ust. 1 pkt 10 UODP Zabrania się dokonywania w pasie drogowym czynności, które mogłyby powodować niszczenie lub uszkodzenie drogi i jej urządzeń albo zmniejszenie jej trwałości oraz zagrażać bezpieczeństwu ruchu drogowego. W szczególności zabrania się wypasania zwierząt gospodarskich",
       "path": null
     },
     {
@@ -3644,7 +3680,7 @@
       "points": null,
       "code": "null",
       "law": "art. 102 KW Kto uchyla się od obowiązku utrzymania w należytym stanie zjazdów z dróg publicznych do przyległych nieruchomości,podlega karze grzywny do 1000 złotych albo karze nagany",
-      "paragraph": "",
+      "paragraph": "art. 30 UODP Utrzymywanie zjazdów, łącznie ze znajdującymi się pod nimi przepustami, należy do właścicieli lub użytkowników gruntów przyległych do drogi",
       "path": null
     },
     {
@@ -3655,7 +3691,23 @@
       "points": null,
       "code": "null",
       "law": "art. 101 KW Kto uchyla się od obowiązku oczyszczania i usuwania z odcinków dróg publicznych o twardej nawierzchni, przechodzących przez obszary o zabudowie ciągłej lub skupionej poza miastami i osiedlami, błota, kurzu, śniegu lub lodu,podlega karze grzywny do 1000 złotych albo karze nagany.",
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "art. 5 ust. 1 pkt 1 UCiPG Właściciele nieruchomości zapewniają utrzymanie czystości\ni porządku przez wyposażenie nieruchomości w worki lub pojemniki, przeznaczone do zbierania\nodpadów komunalnych, utrzymanie tych pojemników w odpowiednim stanie sanitarnym, porządkowym i technicznym oraz utrzymanie w odpowiednim stanie\nsanitarnym i porządkowym miejsc gromadzenia odpadów, chyba że na mocy\nuchwały rady gminy, o której mowa w art. 6r ust. 3, obowiązki te w całości lub\nw części przejmie gmina jako część usługi w zakresie odbierania odpadów\nkomunalnych od właścicieli nieruchomości w zamian za uiszczoną przez\nwłaściciela opłatę za gospodarowanie odpadami komunalnymi",
+        "2": "art. 5 ust. 1 pkt 2 UCiPG Właściciele nieruchomości zapewniają utrzymanie czystości\ni porządku przez przyłączenie nieruchomości do istniejącej sieci kanalizacyjnej lub, w przypadku\ngdy budowa sieci kanalizacyjnej jest technicznie lub ekonomicznie\nnieuzasadniona, wyposażenie nieruchomości w zbiornik bezodpływowy\nnieczystości ciekłych lub w przydomową oczyszczalnię ścieków bytowych,\nspełniające wymagania określone w przepisach odrębnych; przyłączenie\nnieruchomości do sieci kanalizacyjnej nie jest obowiązkowe, jeżeli\nnieruchomość jest wyposażona w przydomową oczyszczalnię ścieków\nspełniającą wymagania określone w przepisach odrębnych",
+        "3": "art. 5 ust. 1 pkt 3 UCiPG Właściciele nieruchomości zapewniają utrzymanie czystości\ni porządku przez zbieranie w sposób selektywny powstałych na terenie nieruchomości odpadów\nkomunalnych zgodnie z wymaganiami określonymi w regulaminie oraz\nsposobem określonym w przepisach wydanych na podstawie art. 4a ust. 1",
+        "4": "art. 5 ust. 1 pkt 3a UCiPG Właściciele nieruchomości zapewniają utrzymanie czystości\ni porządku przez gromadzenie nieczystości ciekłych w zbiornikach bezodpływowych",
+        "5": "art. 5 ust. 1 pkt 3b UCiPG Właściciele nieruchomości zapewniają utrzymanie czystości\ni porządku przez pozbywanie się zebranych na terenie nieruchomości odpadów komunalnych oraz\nnieczystości ciekłych w sposób zgodny z przepisami ustawy i przepisami\nodrębnymi",
+        "6": "art. 5 ust. 1 pkt 4 UCiPG Właściciele nieruchomości zapewniają utrzymanie czystości\ni porządku przez uprzątnięcie błota, śniegu, lodu i innych zanieczyszczeń z chodników\npołożonych wzdłuż nieruchomości, przy czym za taki chodnik uznaje się\nwydzieloną część drogi publicznej służącą dla ruchu pieszego położoną\nbezpośrednio przy granicy nieruchomości; właściciel nieruchomości nie jest\nobowiązany do uprzątnięcia chodnika, na którym jest dopuszczony płatny postój\nlub parkowanie pojazdów samochodowych",
+        "7": "art. 5 ust. 1 pkt 5 UCiPG Właściciele nieruchomości zapewniają utrzymanie czystości\ni porządku przez realizację innych obowiązków określonych w regulaminie",
+        "8": "art. 5 ust. 1a UCiPG Niesegregowane (zmieszane) odpady komunalne są przekazywane przez\nwłaścicieli nieruchomości gminnej jednostce organizacyjnej lub przedsiębiorcy\nodbierającemu odpady komunalne wpisanemu do rejestru działalności regulowanej, o\nktórym mowa w art. 9b ust. 2",
+        "9": "art. 5 ust. 2 UCiPG Wykonywanie obowiązków, o których mowa w ust. 1, na terenie budowy\nnależy do wykonawcy robót budowlanych",
+        "10": "art. 5 ust. 3 UCiPG Uprzątnięcie i pozbycie się błota, śniegu, lodu i innych zanieczyszczeń\nz wydzielonych krawężnikiem lub oznakowaniem poziomym torowisk pojazdów\nszynowych, znajdujących się na terenie gminy, należy do obowiązków\nprzedsiębiorców użytkujących te torowiska",
+        "11": "art. 5 ust. 4 pkt 1 UCiPG Obowiązki utrzymania czystości i porządku na drogach publicznych należą do\nzarządu drogi. Do obowiązków zarządu drogi należy także zbieranie i pozbywanie się odpadów zgromadzonych w pojemnikach lub\nworkach do tego przeznaczonych i utrzymanie tych pojemników w odpowiednim\nstanie sanitarnym, porządkowym i technicznym oraz utrzymanie w odpowiednim\nstanie sanitarnym i porządkowym miejsc gromadzenia odpadów",
+        "12": "art. 5 ust. 4 pkt 2 UCiPG Obowiązki utrzymania czystości i porządku na drogach publicznych należą do\nzarządu drogi. Do obowiązków zarządu drogi należy także pozbycie się błota, śniegu, lodu i innych zanieczyszczeń uprzątniętych\nz chodników przez właścicieli nieruchomości przyległych do drogi publicznej",
+        "13": "art. 5 ust. 4 pkt 3 UCiPG Obowiązki utrzymania czystości i porządku na drogach publicznych należą do\nzarządu drogi. Do obowiązków zarządu drogi należy także uprzątnięcie i pozbycie się błota, śniegu, lodu i innych zanieczyszczeń\nz chodników, jeżeli zarząd drogi pobiera opłaty z tytułu postoju lub parkowania\npojazdów samochodowych na takim chodniku",
+        "14": "art. 5 ust. 5 UCiPG Obowiązki utrzymania czystości i porządku na terenach innych niż\nwymienione w ust. 1–4 należą do gminy. Do obowiązków gminy należy także\nuprzątnięcie i pozbycie się błota, śniegu, lodu i innych zanieczyszczeń z chodników,\njeżeli gmina pobiera opłaty z tytułu postoju lub parkowania pojazdów\nsamochodowych na takim chodniku, oraz zbieranie i pozbycie się odpadów\nzgromadzonych w pojemnikach lub workach do tego przeznaczonych, umieszczonych\nna tym chodniku, utrzymanie tych pojemników w odpowiednim stanie sanitarnym,\nporządkowym i technicznym oraz utrzymanie w odpowiednim stanie sanitarnym i\nporządkowym miejsc gromadzenia odpadów",
+        "15": "art. 9b ust. 2 UCiPG Rejestr działalności regulowanej w zakresie odbierania odpadów\nkomunalnych od właścicieli nieruchomości, zwany dalej „rejestrem”, prowadzi wójt,\nburmistrz lub prezydent miasta właściwy ze względu na miejsce odbierania odpadów\nkomunalnych od właścicieli nieruchomości"
+      },
       "path": null
     },
     {
