@@ -3771,12 +3771,17 @@
     {
       "category": "invalid",
       "name": "Posługiwanie się przez osobę do tego nieuprawnioną kartą parkingową, o której mowa w art. 8 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym",
-      "text": "art. 96b KW w zw. z art. 8 ust. 1 lub 2  PRD",
+      "text": "art. 96b KW w zw. z art. 8 ust. 1 lub 2 PRD",
       "tax": "400",
       "points": null,
       "code": "null",
       "law": "art. 96b KW Kto, nie będąc do tego uprawnionym, posługuje się kartą parkingową,\no której mowa w art. 8 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym\n(Dz. U. z 2021 r. poz. 450, 463, 694, 720 i 1641),\npodlega karze grzywny do 2000 złotych",
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "art. 8 ust. 1 PRD Osoba niepełnosprawna legitymująca się kartą parkingową kierująca pojazdem samochodowym oznaczonym tą kartą, może nie stosować się do niektórych znaków drogowych dotyczących zakazu ruchu lub postoju, w zakresie określonym przepisami o których mowa w art. 7 ust. 2 PRD",
+        "2": "art. 8 ust. 2 pkt 1 PRD Przepis ust. 1 stosuje się również do kierującego pojazdem, który przewozi osobę niepełnosprawną legitymującą się kartą parkingową",
+        "3": "art. 8 ust. 2 pkt 2 PRD Przepis ust. 1 stosuje się również do kierującego pojazdem należącym do placówki, o której mowa w ust. 3a pkt 3, przewożącego osobę mającą znacznie ograniczone możliwości samodzielnego poruszania się, pozostającą pod opieką takiej placówki",
+        "4": "art. 7 ust. 2 PRD Minister właściwy do spraw transportu i minister właściwy do spraw wewnętrznych, w porozumieniu z Ministrem Obrony Narodowej, uwzględniając w szczególności konieczność dostosowania sygnałów drogowych do postanowień umów międzynarodowych, określi, w drodze rozporządzenia, znaki i sygnały obowiązujące w ruchu drogowym, ich znaczenie i zakres obowiązywania"
+      },
       "path": "pictogram/invalid.png"
     },
     {
@@ -3790,7 +3795,15 @@
         "1": "art. 96b § 1 pkt 1 KW Kto, nie będąc do tego uprawnionym, posługuje się kartą parkingową,\no której mowa w art. 8 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym\n(Dz. U. z 2021 r. poz. 450, 463, 694, 720 i 1641),\npodlega karze grzywny do 2000 złotych",
         "2": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału\nlub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu\ndrogowego,\npodlega karze grzywny albo karze nagany"
       },
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "art. 8 ust. 1 PRD Osoba niepełnosprawna legitymująca się kartą parkingową kierująca pojazdem samochodowym oznaczonym tą kartą, może nie stosować się do niektórych znaków drogowych dotyczących zakazu ruchu lub postoju, w zakresie określonym przepisami o których mowa w art. 7 ust. 2 PRD",
+        "2": "art. 8 ust. 2 pkt 1 PRD Przepis ust. 1 stosuje się również do kierującego pojazdem, który przewozi osobę niepełnosprawną legitymującą się kartą parkingową",
+        "3": "art. 8 ust. 2 pkt 2 PRD Przepis ust. 1 stosuje się również do kierującego pojazdem należącym do placówki, o której mowa w ust. 3a pkt 3, przewożącego osobę mającą znacznie ograniczone możliwości samodzielnego poruszania się, pozostającą pod opieką takiej placówki",
+        "4": "art. 7 ust. 2 PRD Minister właściwy do spraw transportu i minister właściwy do spraw wewnętrznych, w porozumieniu z Ministrem Obrony Narodowej, uwzględniając w szczególności konieczność dostosowania sygnałów drogowych do postanowień umów międzynarodowych, określi, w drodze rozporządzenia, znaki i sygnały obowiązujące w ruchu drogowym, ich znaczenie i zakres obowiązywania",
+        "5": "§ 18 ust. 1 ZSD Znak B-3 „zakaz wjazdu pojazdów silnikowych, z wyjątkiem motocykli jednośladowych”, oznacza zakaz ruchu\npojazdów silnikowych; zakaz nie dotyczy motocykli jednośladowych",
+        "6": "§ 18 ust. 2 ZSD Znak B-3a „zakaz wjazdu autobusów” oznacza zakaz ruchu autobusów",
+        "7": "§ 18 ust. 3 ZSD Znak B-3a „zakaz wjazdu autobusów” oznacza zakaz ruchu autobusów"
+      },
       "path": "pictogram/invalid-1.png"
     },
     {
@@ -3804,7 +3817,13 @@
         "1": "art. 96b § 1 pkt 1 KW Kto, nie będąc do tego uprawnionym, posługuje się kartą parkingową,\no której mowa w art. 8 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym\n(Dz. U. z 2021 r. poz. 450, 463, 694, 720 i 1641),\npodlega karze grzywny do 2000 złotych",
         "2": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału\nlub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu\ndrogowego,\npodlega karze grzywny albo karze nagany"
       },
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "art. 8 ust. 1 PRD Osoba niepełnosprawna legitymująca się kartą parkingową kierująca pojazdem samochodowym oznaczonym tą kartą, może nie stosować się do niektórych znaków drogowych dotyczących zakazu ruchu lub postoju, w zakresie określonym przepisami o których mowa w art. 7 ust. 2 PRD",
+        "2": "art. 8 ust. 2 pkt 1 PRD Przepis ust. 1 stosuje się również do kierującego pojazdem, który przewozi osobę niepełnosprawną legitymującą się kartą parkingową",
+        "3": "art. 8 ust. 2 pkt 2 PRD Przepis ust. 1 stosuje się również do kierującego pojazdem należącym do placówki, o której mowa w ust. 3a pkt 3, przewożącego osobę mającą znacznie ograniczone możliwości samodzielnego poruszania się, pozostającą pod opieką takiej placówki",
+        "4": "art. 7 ust. 2 PRD Minister właściwy do spraw transportu i minister właściwy do spraw wewnętrznych, w porozumieniu z Ministrem Obrony Narodowej, uwzględniając w szczególności konieczność dostosowania sygnałów drogowych do postanowień umów międzynarodowych, określi, w drodze rozporządzenia, znaki i sygnały obowiązujące w ruchu drogowym, ich znaczenie i zakres obowiązywania",
+        "5": "§ 18 ust. 11 ZSD Znak B-10 „zakaz wjazdu motorowerów” oznacza zakaz ruchu motorowerów"
+      },
       "path": "pictogram/invalid-2.png"
     },
     {
@@ -3814,7 +3833,15 @@
       "tax": "500",
       "points": null,
       "code": "null",
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "art. 8 ust. 1 PRD Osoba niepełnosprawna legitymująca się kartą parkingową kierująca pojazdem samochodowym oznaczonym tą kartą, może nie stosować się do niektórych znaków drogowych dotyczących zakazu ruchu lub postoju, w zakresie określonym przepisami o których mowa w art. 7 ust. 2 PRD",
+        "2": "art. 8 ust. 2 pkt 1 PRD Przepis ust. 1 stosuje się również do kierującego pojazdem, który przewozi osobę niepełnosprawną legitymującą się kartą parkingową",
+        "3": "art. 8 ust. 2 pkt 2 PRD Przepis ust. 1 stosuje się również do kierującego pojazdem należącym do placówki, o której mowa w ust. 3a pkt 3, przewożącego osobę mającą znacznie ograniczone możliwości samodzielnego poruszania się, pozostającą pod opieką takiej placówki",
+        "4": "art. 7 ust. 2 PRD Minister właściwy do spraw transportu i minister właściwy do spraw wewnętrznych, w porozumieniu z Ministrem Obrony Narodowej, uwzględniając w szczególności konieczność dostosowania sygnałów drogowych do postanowień umów międzynarodowych, określi, w drodze rozporządzenia, znaki i sygnały obowiązujące w ruchu drogowym, ich znaczenie i zakres obowiązywania",
+        "5": "§ 28 ust. 1 ZSD Znak B-35 „zakaz postoju” oznacza zakaz postoju pojazdu; dopuszczalny czas unieruchomienia pojazdu dłuższy\nniż jedna minuta jest wskazany napisem na znaku albo na umieszczonej pod nim tabliczce",
+        "6": "§ 28 ust. 6 pkt 1 ZSD Znak B-37 „zakaz postoju w dni nieparzyste oznacza zakaz postoju pojazdów odpowiednio w nieparzyste lub parzyste dni miesiąca; zakaz nie obowiązuje od godziny\n21 do 24; przepisy ust. 1 i 3–5 stosuje się odpowiednio do tych znaków",
+        "7": "§ 28 ust. 6 pkt 2 ZSD Znak B-38 „zakaz postoju w dni parzyste oznacza zakaz postoju pojazdów odpowiednio w nieparzyste lub parzyste dni miesiąca; zakaz nie obowiązuje od godziny\n21 do 24; przepisy ust. 1 i 3–5 stosuje się odpowiednio do tych znaków"
+      },
       "path": "pictogram/invalid-3.png"
     },
     {
@@ -3828,7 +3855,17 @@
         "1": "art. 96b § 1 pkt 1 KW Kto, nie będąc do tego uprawnionym, posługuje się kartą parkingową,\no której mowa w art. 8 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym\n(Dz. U. z 2021 r. poz. 450, 463, 694, 720 i 1641),\npodlega karze grzywny do 2000 złotych",
         "2": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału\nlub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu\ndrogowego,\npodlega karze grzywny albo karze nagany"
       },
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "art. 8 ust. 1 PRD Osoba niepełnosprawna legitymująca się kartą parkingową kierująca pojazdem samochodowym oznaczonym tą kartą, może nie stosować się do niektórych znaków drogowych dotyczących zakazu ruchu lub postoju, w zakresie określonym przepisami o których mowa w art. 7 ust. 2 PRD",
+        "2": "art. 8 ust. 2 pkt 1 PRD Przepis ust. 1 stosuje się również do kierującego pojazdem, który przewozi osobę niepełnosprawną legitymującą się kartą parkingową",
+        "3": "art. 8 ust. 2 pkt 2 PRD Przepis ust. 1 stosuje się również do kierującego pojazdem należącym do placówki, o której mowa w ust. 3a pkt 3, przewożącego osobę mającą znacznie ograniczone możliwości samodzielnego poruszania się, pozostającą pod opieką takiej placówki",
+        "4": "art. 7 ust. 2 PRD Minister właściwy do spraw transportu i minister właściwy do spraw wewnętrznych, w porozumieniu z Ministrem Obrony Narodowej, uwzględniając w szczególności konieczność dostosowania sygnałów drogowych do postanowień umów międzynarodowych, określi, w drodze rozporządzenia, znaki i sygnały obowiązujące w ruchu drogowym, ich znaczenie i zakres obowiązywania",
+        "5": "§ 29 ust. 1 ZSD Znak B-39 „strefa ograniczonego postoju” oznacza wjazd do strefy, w której obowiązuje zakaz postoju pojazdów\nna wszystkich drogach; dopuszczalny czas unieruchomienia pojazdu dłuższy niż jedna minuta jest wskazany napisem\nna znaku",
+        "6": "§ 29 ust. 1 pkt 1 ZSD Znak B-39 nie dotyczy pojazdu komunikacji publicznej zatrzymującego się na wyznaczonym dla niego miejscu",
+        "7": "§ 29 ust. 1 pkt 2 ZSD Znak B-39 nie dotyczy pojazdu zatrzymującego się w miejscu oznaczonym znakiem D-18, D-18a, D-18b lub D-44",
+        "8": "§ 29 ust. 1 pkt 3 ZSD Znak B-39 nie dotyczy pojazdu unieruchomionego ze względu na warunki lub przepisy ruchu drogowego",
+        "9": "§ 29 ust. 1 pkt 4 ZSD Znak B-39 nie dotyczy autobusu szkolnego"
+      },
       "path": "pictogram/invalid-4.png"
     },
     {
