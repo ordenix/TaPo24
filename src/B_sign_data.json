@@ -240,7 +240,8 @@
     {
       "name": "B-36",
       "description": "Zakaz zatrzymywania się",
-      "path": "road_sign/B/B-36.png"
+      "path": "road_sign/B/B-36.png",
+      "link_id": 266
     },
     {
       "name": "B-37",
