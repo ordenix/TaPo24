@@ -3531,7 +3531,7 @@
     {
       "category": "others",
       "name": "Niewskazanie wbrew obowiązkowi, na żądanie uprawnionego organu, komu pojazd został powierzony do kierowania lub używania w oznaczonym czasie w postępowaniu w sprawach o przestępstwo",
-      "text": "art. 96 § 3  KW w zw. z art. 78 ust. 4 albo ust. 5  PRD",
+      "text": "art. 96 § 3  KW w zw. z art. 78 ust. 4 albo ust. 5 PRD",
       "tax": "od 4000",
       "points": null,
       "code": "null",
@@ -3544,7 +3544,16 @@
         "6": "art. 96 § 1 pkt 6 KW Właściciel, posiadacz, użytkownik lub prowadzący pojazd, który na\ndrodze publicznej, w strefie zamieszkania lub strefie ruchu dopuszcza do korzystania z pojazdu samochodowego w sposób niezgodny z jego\nprzeznaczeniem podlega karze grzywny",
         "7": "art. 96 § 3 KW Tej samej karze podlega, kto wbrew obowiązkowi nie wskaże na żądanie\nuprawnionego organu, komu powierzył pojazd do kierowania lub używania\nw oznaczonym czasie."
       },
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "art. 78 ust. 4 PRD Właściciel lub posiadacz pojazdu jest obowiązany wskazać na żądanie uprawnionego organu, komu powierzył pojazd do kierowania lub używania w oznaczonym czasie, chyba że pojazd został użyty wbrew jego woli i wiedzy przez nieznaną osobę, czemu nie mógł zapobiec",
+        "2": "art. 78 ust. 5 pkt 1 PRD W przypadku, gdy właścicielem lub posiadaczem pojazdu jest osoba prawna do udzielenia informacji, o której mowa w ust. 4, obowiązana jest osoba wyznaczona przez organ uprawniony do reprezentowania tego podmiotu na zewnątrz, a w przypadku niewyznaczenia takiej osoby – osoby wchodzące w skład tego organu zgodnie z żądaniem organu, o którym mowa w ust. 4, oraz sposobem reprezentacji podmiotu",
+        "3": "art. 78 ust. 5 pkt 2 PRD W przypadku, gdy właścicielem lub posiadaczem pojazdu jest jednostka organizacyjna niemająca osobowości prawnej, której odrębne przepisy przyznają zdolność prawną do udzielenia informacji, o której mowa w ust. 4, obowiązana jest osoba wyznaczona przez organ uprawniony do reprezentowania tego podmiotu na zewnątrz, a w przypadku niewyznaczenia takiej osoby – osoby wchodzące w skład tego organu zgodnie z żądaniem organu, o którym mowa w ust. 4, oraz sposobem reprezentacji podmiotu",
+        "4": "art. 78 ust. 5 pkt 3 PRD W przypadku, gdy właścicielem lub posiadaczem pojazdu jest jednostka samorządu terytorialnego do udzielenia informacji, o której mowa w ust. 4, obowiązana jest osoba wyznaczona przez organ uprawniony do reprezentowania tego podmiotu na zewnątrz, a w przypadku niewyznaczenia takiej osoby – osoby wchodzące w skład tego organu zgodnie z żądaniem organu, o którym mowa w ust. 4, oraz sposobem reprezentacji podmiotu",
+        "5": "art. 78 ust. 5 pkt 4 PRD W przypadku, gdy właścicielem lub posiadaczem pojazdu jest spółka kapitałowa w organizacji do udzielenia informacji, o której mowa w ust. 4, obowiązana jest osoba wyznaczona przez organ uprawniony do reprezentowania tego podmiotu na zewnątrz, a w przypadku niewyznaczenia takiej osoby – osoby wchodzące w skład tego organu zgodnie z żądaniem organu, o którym mowa w ust. 4, oraz sposobem reprezentacji podmiotu",
+        "6": "art. 78 ust. 5 pkt 5 PRD W przypadku, gdy właścicielem lub posiadaczem pojazdu jest podmiot w stanie likwidacji do udzielenia informacji, o której mowa w ust. 4, obowiązana jest osoba wyznaczona przez organ uprawniony do reprezentowania tego podmiotu na zewnątrz, a w przypadku niewyznaczenia takiej osoby – osoby wchodzące w skład tego organu zgodnie z żądaniem organu, o którym mowa w ust. 4, oraz sposobem reprezentacji podmiotu",
+        "7": "art. 78 ust. 5 pkt 6 PRD W przypadku, gdy właścicielem lub posiadaczem pojazdu jest przedsiębiorca niebędący osobą fizyczną do udzielenia informacji, o której mowa w ust. 4, obowiązana jest osoba wyznaczona przez organ uprawniony do reprezentowania tego podmiotu na zewnątrz, a w przypadku niewyznaczenia takiej osoby – osoby wchodzące w skład tego organu zgodnie z żądaniem organu, o którym mowa w ust. 4, oraz sposobem reprezentacji podmiotu",
+        "8": "art. 78 ust. 5 pkt 7 PRD W przypadku, gdy właścicielem lub posiadaczem pojazdu jest zagraniczna jednostka organizacyjna do udzielenia informacji, o której mowa w ust. 4, obowiązana jest osoba wyznaczona przez organ uprawniony do reprezentowania tego podmiotu na zewnątrz, a w przypadku niewyznaczenia takiej osoby – osoby wchodzące w skład tego organu zgodnie z żądaniem organu, o którym mowa w ust. 4, oraz sposobem reprezentacji podmiotu"
+      },
       "path": null
     },    {
       "category": "others",
@@ -3562,7 +3571,16 @@
         "6": "art. 96 § 1 pkt 6 KW Właściciel, posiadacz, użytkownik lub prowadzący pojazd, który na\ndrodze publicznej, w strefie zamieszkania lub strefie ruchu dopuszcza do korzystania z pojazdu samochodowego w sposób niezgodny z jego\nprzeznaczeniem podlega karze grzywny",
         "7": "art. 96 § 3 KW Tej samej karze podlega, kto wbrew obowiązkowi nie wskaże na żądanie\nuprawnionego organu, komu powierzył pojazd do kierowania lub używania\nw oznaczonym czasie."
       },
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "art. 78 ust. 4 PRD Właściciel lub posiadacz pojazdu jest obowiązany wskazać na żądanie uprawnionego organu, komu powierzył pojazd do kierowania lub używania w oznaczonym czasie, chyba że pojazd został użyty wbrew jego woli i wiedzy przez nieznaną osobę, czemu nie mógł zapobiec",
+        "2": "art. 78 ust. 5 pkt 1 PRD W przypadku, gdy właścicielem lub posiadaczem pojazdu jest osoba prawna do udzielenia informacji, o której mowa w ust. 4, obowiązana jest osoba wyznaczona przez organ uprawniony do reprezentowania tego podmiotu na zewnątrz, a w przypadku niewyznaczenia takiej osoby – osoby wchodzące w skład tego organu zgodnie z żądaniem organu, o którym mowa w ust. 4, oraz sposobem reprezentacji podmiotu",
+        "3": "art. 78 ust. 5 pkt 2 PRD W przypadku, gdy właścicielem lub posiadaczem pojazdu jest jednostka organizacyjna niemająca osobowości prawnej, której odrębne przepisy przyznają zdolność prawną do udzielenia informacji, o której mowa w ust. 4, obowiązana jest osoba wyznaczona przez organ uprawniony do reprezentowania tego podmiotu na zewnątrz, a w przypadku niewyznaczenia takiej osoby – osoby wchodzące w skład tego organu zgodnie z żądaniem organu, o którym mowa w ust. 4, oraz sposobem reprezentacji podmiotu",
+        "4": "art. 78 ust. 5 pkt 3 PRD W przypadku, gdy właścicielem lub posiadaczem pojazdu jest jednostka samorządu terytorialnego do udzielenia informacji, o której mowa w ust. 4, obowiązana jest osoba wyznaczona przez organ uprawniony do reprezentowania tego podmiotu na zewnątrz, a w przypadku niewyznaczenia takiej osoby – osoby wchodzące w skład tego organu zgodnie z żądaniem organu, o którym mowa w ust. 4, oraz sposobem reprezentacji podmiotu",
+        "5": "art. 78 ust. 5 pkt 4 PRD W przypadku, gdy właścicielem lub posiadaczem pojazdu jest spółka kapitałowa w organizacji do udzielenia informacji, o której mowa w ust. 4, obowiązana jest osoba wyznaczona przez organ uprawniony do reprezentowania tego podmiotu na zewnątrz, a w przypadku niewyznaczenia takiej osoby – osoby wchodzące w skład tego organu zgodnie z żądaniem organu, o którym mowa w ust. 4, oraz sposobem reprezentacji podmiotu",
+        "6": "art. 78 ust. 5 pkt 5 PRD W przypadku, gdy właścicielem lub posiadaczem pojazdu jest podmiot w stanie likwidacji do udzielenia informacji, o której mowa w ust. 4, obowiązana jest osoba wyznaczona przez organ uprawniony do reprezentowania tego podmiotu na zewnątrz, a w przypadku niewyznaczenia takiej osoby – osoby wchodzące w skład tego organu zgodnie z żądaniem organu, o którym mowa w ust. 4, oraz sposobem reprezentacji podmiotu",
+        "7": "art. 78 ust. 5 pkt 6 PRD W przypadku, gdy właścicielem lub posiadaczem pojazdu jest przedsiębiorca niebędący osobą fizyczną do udzielenia informacji, o której mowa w ust. 4, obowiązana jest osoba wyznaczona przez organ uprawniony do reprezentowania tego podmiotu na zewnątrz, a w przypadku niewyznaczenia takiej osoby – osoby wchodzące w skład tego organu zgodnie z żądaniem organu, o którym mowa w ust. 4, oraz sposobem reprezentacji podmiotu",
+        "8": "art. 78 ust. 5 pkt 7 PRD W przypadku, gdy właścicielem lub posiadaczem pojazdu jest zagraniczna jednostka organizacyjna do udzielenia informacji, o której mowa w ust. 4, obowiązana jest osoba wyznaczona przez organ uprawniony do reprezentowania tego podmiotu na zewnątrz, a w przypadku niewyznaczenia takiej osoby – osoby wchodzące w skład tego organu zgodnie z żądaniem organu, o którym mowa w ust. 4, oraz sposobem reprezentacji podmiotu"
+      },
       "path": null
     },
     {
@@ -3581,7 +3599,16 @@
         "6": "art. 96 § 1 pkt 6 KW Właściciel, posiadacz, użytkownik lub prowadzący pojazd, który na\ndrodze publicznej, w strefie zamieszkania lub strefie ruchu dopuszcza do korzystania z pojazdu samochodowego w sposób niezgodny z jego\nprzeznaczeniem podlega karze grzywny",
         "7": "art. 96 § 3 KW Tej samej karze podlega, kto wbrew obowiązkowi nie wskaże na żądanie\nuprawnionego organu, komu powierzył pojazd do kierowania lub używania\nw oznaczonym czasie."
       },
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "art. 78 ust. 4 PRD Właściciel lub posiadacz pojazdu jest obowiązany wskazać na żądanie uprawnionego organu, komu powierzył pojazd do kierowania lub używania w oznaczonym czasie, chyba że pojazd został użyty wbrew jego woli i wiedzy przez nieznaną osobę, czemu nie mógł zapobiec",
+        "2": "art. 78 ust. 5 pkt 1 PRD W przypadku, gdy właścicielem lub posiadaczem pojazdu jest osoba prawna do udzielenia informacji, o której mowa w ust. 4, obowiązana jest osoba wyznaczona przez organ uprawniony do reprezentowania tego podmiotu na zewnątrz, a w przypadku niewyznaczenia takiej osoby – osoby wchodzące w skład tego organu zgodnie z żądaniem organu, o którym mowa w ust. 4, oraz sposobem reprezentacji podmiotu",
+        "3": "art. 78 ust. 5 pkt 2 PRD W przypadku, gdy właścicielem lub posiadaczem pojazdu jest jednostka organizacyjna niemająca osobowości prawnej, której odrębne przepisy przyznają zdolność prawną do udzielenia informacji, o której mowa w ust. 4, obowiązana jest osoba wyznaczona przez organ uprawniony do reprezentowania tego podmiotu na zewnątrz, a w przypadku niewyznaczenia takiej osoby – osoby wchodzące w skład tego organu zgodnie z żądaniem organu, o którym mowa w ust. 4, oraz sposobem reprezentacji podmiotu",
+        "4": "art. 78 ust. 5 pkt 3 PRD W przypadku, gdy właścicielem lub posiadaczem pojazdu jest jednostka samorządu terytorialnego do udzielenia informacji, o której mowa w ust. 4, obowiązana jest osoba wyznaczona przez organ uprawniony do reprezentowania tego podmiotu na zewnątrz, a w przypadku niewyznaczenia takiej osoby – osoby wchodzące w skład tego organu zgodnie z żądaniem organu, o którym mowa w ust. 4, oraz sposobem reprezentacji podmiotu",
+        "5": "art. 78 ust. 5 pkt 4 PRD W przypadku, gdy właścicielem lub posiadaczem pojazdu jest spółka kapitałowa w organizacji do udzielenia informacji, o której mowa w ust. 4, obowiązana jest osoba wyznaczona przez organ uprawniony do reprezentowania tego podmiotu na zewnątrz, a w przypadku niewyznaczenia takiej osoby – osoby wchodzące w skład tego organu zgodnie z żądaniem organu, o którym mowa w ust. 4, oraz sposobem reprezentacji podmiotu",
+        "6": "art. 78 ust. 5 pkt 5 PRD W przypadku, gdy właścicielem lub posiadaczem pojazdu jest podmiot w stanie likwidacji do udzielenia informacji, o której mowa w ust. 4, obowiązana jest osoba wyznaczona przez organ uprawniony do reprezentowania tego podmiotu na zewnątrz, a w przypadku niewyznaczenia takiej osoby – osoby wchodzące w skład tego organu zgodnie z żądaniem organu, o którym mowa w ust. 4, oraz sposobem reprezentacji podmiotu",
+        "7": "art. 78 ust. 5 pkt 6 PRD W przypadku, gdy właścicielem lub posiadaczem pojazdu jest przedsiębiorca niebędący osobą fizyczną do udzielenia informacji, o której mowa w ust. 4, obowiązana jest osoba wyznaczona przez organ uprawniony do reprezentowania tego podmiotu na zewnątrz, a w przypadku niewyznaczenia takiej osoby – osoby wchodzące w skład tego organu zgodnie z żądaniem organu, o którym mowa w ust. 4, oraz sposobem reprezentacji podmiotu",
+        "8": "art. 78 ust. 5 pkt 7 PRD W przypadku, gdy właścicielem lub posiadaczem pojazdu jest zagraniczna jednostka organizacyjna do udzielenia informacji, o której mowa w ust. 4, obowiązana jest osoba wyznaczona przez organ uprawniony do reprezentowania tego podmiotu na zewnątrz, a w przypadku niewyznaczenia takiej osoby – osoby wchodzące w skład tego organu zgodnie z żądaniem organu, o którym mowa w ust. 4, oraz sposobem reprezentacji podmiotu"
+      },
       "path": null
     },
     {
@@ -3600,18 +3627,27 @@
         "6": "art. 96 § 1 pkt 6 KW Właściciel, posiadacz, użytkownik lub prowadzący pojazd, który na\ndrodze publicznej, w strefie zamieszkania lub strefie ruchu dopuszcza do korzystania z pojazdu samochodowego w sposób niezgodny z jego\nprzeznaczeniem podlega karze grzywny",
         "7": "art. 96 § 3 KW Tej samej karze podlega, kto wbrew obowiązkowi nie wskaże na żądanie\nuprawnionego organu, komu powierzył pojazd do kierowania lub używania\nw oznaczonym czasie."
       },
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "art. 78 ust. 4 PRD Właściciel lub posiadacz pojazdu jest obowiązany wskazać na żądanie uprawnionego organu, komu powierzył pojazd do kierowania lub używania w oznaczonym czasie, chyba że pojazd został użyty wbrew jego woli i wiedzy przez nieznaną osobę, czemu nie mógł zapobiec",
+        "2": "art. 78 ust. 5 pkt 1 PRD W przypadku, gdy właścicielem lub posiadaczem pojazdu jest osoba prawna do udzielenia informacji, o której mowa w ust. 4, obowiązana jest osoba wyznaczona przez organ uprawniony do reprezentowania tego podmiotu na zewnątrz, a w przypadku niewyznaczenia takiej osoby – osoby wchodzące w skład tego organu zgodnie z żądaniem organu, o którym mowa w ust. 4, oraz sposobem reprezentacji podmiotu",
+        "3": "art. 78 ust. 5 pkt 2 PRD W przypadku, gdy właścicielem lub posiadaczem pojazdu jest jednostka organizacyjna niemająca osobowości prawnej, której odrębne przepisy przyznają zdolność prawną do udzielenia informacji, o której mowa w ust. 4, obowiązana jest osoba wyznaczona przez organ uprawniony do reprezentowania tego podmiotu na zewnątrz, a w przypadku niewyznaczenia takiej osoby – osoby wchodzące w skład tego organu zgodnie z żądaniem organu, o którym mowa w ust. 4, oraz sposobem reprezentacji podmiotu",
+        "4": "art. 78 ust. 5 pkt 3 PRD W przypadku, gdy właścicielem lub posiadaczem pojazdu jest jednostka samorządu terytorialnego do udzielenia informacji, o której mowa w ust. 4, obowiązana jest osoba wyznaczona przez organ uprawniony do reprezentowania tego podmiotu na zewnątrz, a w przypadku niewyznaczenia takiej osoby – osoby wchodzące w skład tego organu zgodnie z żądaniem organu, o którym mowa w ust. 4, oraz sposobem reprezentacji podmiotu",
+        "5": "art. 78 ust. 5 pkt 4 PRD W przypadku, gdy właścicielem lub posiadaczem pojazdu jest spółka kapitałowa w organizacji do udzielenia informacji, o której mowa w ust. 4, obowiązana jest osoba wyznaczona przez organ uprawniony do reprezentowania tego podmiotu na zewnątrz, a w przypadku niewyznaczenia takiej osoby – osoby wchodzące w skład tego organu zgodnie z żądaniem organu, o którym mowa w ust. 4, oraz sposobem reprezentacji podmiotu",
+        "6": "art. 78 ust. 5 pkt 5 PRD W przypadku, gdy właścicielem lub posiadaczem pojazdu jest podmiot w stanie likwidacji do udzielenia informacji, o której mowa w ust. 4, obowiązana jest osoba wyznaczona przez organ uprawniony do reprezentowania tego podmiotu na zewnątrz, a w przypadku niewyznaczenia takiej osoby – osoby wchodzące w skład tego organu zgodnie z żądaniem organu, o którym mowa w ust. 4, oraz sposobem reprezentacji podmiotu",
+        "7": "art. 78 ust. 5 pkt 6 PRD W przypadku, gdy właścicielem lub posiadaczem pojazdu jest przedsiębiorca niebędący osobą fizyczną do udzielenia informacji, o której mowa w ust. 4, obowiązana jest osoba wyznaczona przez organ uprawniony do reprezentowania tego podmiotu na zewnątrz, a w przypadku niewyznaczenia takiej osoby – osoby wchodzące w skład tego organu zgodnie z żądaniem organu, o którym mowa w ust. 4, oraz sposobem reprezentacji podmiotu",
+        "8": "art. 78 ust. 5 pkt 7 PRD W przypadku, gdy właścicielem lub posiadaczem pojazdu jest zagraniczna jednostka organizacyjna do udzielenia informacji, o której mowa w ust. 4, obowiązana jest osoba wyznaczona przez organ uprawniony do reprezentowania tego podmiotu na zewnątrz, a w przypadku niewyznaczenia takiej osoby – osoby wchodzące w skład tego organu zgodnie z żądaniem organu, o którym mowa w ust. 4, oraz sposobem reprezentacji podmiotu"
+      },
       "path": null
     },
     {
       "category": "others",
       "name": "Zaśmiecanie lub zanieczyszczanie drogi publicznej ",
-      "text": "art. 91 KW w zw. z art. 45 ust. 1 pkt 9  PRD",
+      "text": "art. 91 KW w zw. z art. 45 ust. 1 pkt 9 PRD",
       "tax": "50-200",
       "points": null,
       "code": "null",
       "law": "art. 91 KW Kto zanieczyszcza drogę publiczną lub na tej drodze pozostawia pojazd lub inny przedmiot albo zwierzę w okolicznościach, w których może to spowodować niebezpieczeństwo lub stanowić utrudnienie w ruchu drogowym,podlega karze grzywny do 1500 złotych albo karze nagany",
-      "paragraph": "",
+      "paragraph": "art. 45 ust. 1 pkt 9 PRD Zabrania się zaśmiecania lub zanieczyszczania drogi",
       "path": null
     },
     {
@@ -3622,7 +3658,7 @@
       "points": null,
       "code": "null",
       "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
-      "paragraph": "",
+      "paragraph": "art. 45 ust. 1 pkt 10 PRD Zabrania się samowolnego umieszczania na drodze jakichkolwiek znaków, napisów lub symboli",
       "path": null
     },
     {
@@ -3633,7 +3669,7 @@
       "points": null,
       "code": "null",
       "law": "art. 100 pkt 4 KW Kto wypasa zwierzę gospodarskie w pasie drogowym podlega karze grzywny złotych albo karze nagany.",
-      "paragraph": "",
+      "paragraph": "art. 39 ust. 1 pkt 10 UODP Zabrania się dokonywania w pasie drogowym czynności, które mogłyby powodować niszczenie lub uszkodzenie drogi i jej urządzeń albo zmniejszenie jej trwałości oraz zagrażać bezpieczeństwu ruchu drogowego. W szczególności zabrania się wypasania zwierząt gospodarskich",
       "path": null
     },
     {
@@ -3644,7 +3680,7 @@
       "points": null,
       "code": "null",
       "law": "art. 102 KW Kto uchyla się od obowiązku utrzymania w należytym stanie zjazdów z dróg publicznych do przyległych nieruchomości,podlega karze grzywny do 1000 złotych albo karze nagany",
-      "paragraph": "",
+      "paragraph": "art. 30 UODP Utrzymywanie zjazdów, łącznie ze znajdującymi się pod nimi przepustami, należy do właścicieli lub użytkowników gruntów przyległych do drogi",
       "path": null
     },
     {
@@ -3655,7 +3691,23 @@
       "points": null,
       "code": "null",
       "law": "art. 101 KW Kto uchyla się od obowiązku oczyszczania i usuwania z odcinków dróg publicznych o twardej nawierzchni, przechodzących przez obszary o zabudowie ciągłej lub skupionej poza miastami i osiedlami, błota, kurzu, śniegu lub lodu,podlega karze grzywny do 1000 złotych albo karze nagany.",
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "art. 5 ust. 1 pkt 1 UCiPG Właściciele nieruchomości zapewniają utrzymanie czystości\ni porządku przez wyposażenie nieruchomości w worki lub pojemniki, przeznaczone do zbierania\nodpadów komunalnych, utrzymanie tych pojemników w odpowiednim stanie sanitarnym, porządkowym i technicznym oraz utrzymanie w odpowiednim stanie\nsanitarnym i porządkowym miejsc gromadzenia odpadów, chyba że na mocy\nuchwały rady gminy, o której mowa w art. 6r ust. 3, obowiązki te w całości lub\nw części przejmie gmina jako część usługi w zakresie odbierania odpadów\nkomunalnych od właścicieli nieruchomości w zamian za uiszczoną przez\nwłaściciela opłatę za gospodarowanie odpadami komunalnymi",
+        "2": "art. 5 ust. 1 pkt 2 UCiPG Właściciele nieruchomości zapewniają utrzymanie czystości\ni porządku przez przyłączenie nieruchomości do istniejącej sieci kanalizacyjnej lub, w przypadku\ngdy budowa sieci kanalizacyjnej jest technicznie lub ekonomicznie\nnieuzasadniona, wyposażenie nieruchomości w zbiornik bezodpływowy\nnieczystości ciekłych lub w przydomową oczyszczalnię ścieków bytowych,\nspełniające wymagania określone w przepisach odrębnych; przyłączenie\nnieruchomości do sieci kanalizacyjnej nie jest obowiązkowe, jeżeli\nnieruchomość jest wyposażona w przydomową oczyszczalnię ścieków\nspełniającą wymagania określone w przepisach odrębnych",
+        "3": "art. 5 ust. 1 pkt 3 UCiPG Właściciele nieruchomości zapewniają utrzymanie czystości\ni porządku przez zbieranie w sposób selektywny powstałych na terenie nieruchomości odpadów\nkomunalnych zgodnie z wymaganiami określonymi w regulaminie oraz\nsposobem określonym w przepisach wydanych na podstawie art. 4a ust. 1",
+        "4": "art. 5 ust. 1 pkt 3a UCiPG Właściciele nieruchomości zapewniają utrzymanie czystości\ni porządku przez gromadzenie nieczystości ciekłych w zbiornikach bezodpływowych",
+        "5": "art. 5 ust. 1 pkt 3b UCiPG Właściciele nieruchomości zapewniają utrzymanie czystości\ni porządku przez pozbywanie się zebranych na terenie nieruchomości odpadów komunalnych oraz\nnieczystości ciekłych w sposób zgodny z przepisami ustawy i przepisami\nodrębnymi",
+        "6": "art. 5 ust. 1 pkt 4 UCiPG Właściciele nieruchomości zapewniają utrzymanie czystości\ni porządku przez uprzątnięcie błota, śniegu, lodu i innych zanieczyszczeń z chodników\npołożonych wzdłuż nieruchomości, przy czym za taki chodnik uznaje się\nwydzieloną część drogi publicznej służącą dla ruchu pieszego położoną\nbezpośrednio przy granicy nieruchomości; właściciel nieruchomości nie jest\nobowiązany do uprzątnięcia chodnika, na którym jest dopuszczony płatny postój\nlub parkowanie pojazdów samochodowych",
+        "7": "art. 5 ust. 1 pkt 5 UCiPG Właściciele nieruchomości zapewniają utrzymanie czystości\ni porządku przez realizację innych obowiązków określonych w regulaminie",
+        "8": "art. 5 ust. 1a UCiPG Niesegregowane (zmieszane) odpady komunalne są przekazywane przez\nwłaścicieli nieruchomości gminnej jednostce organizacyjnej lub przedsiębiorcy\nodbierającemu odpady komunalne wpisanemu do rejestru działalności regulowanej, o\nktórym mowa w art. 9b ust. 2",
+        "9": "art. 5 ust. 2 UCiPG Wykonywanie obowiązków, o których mowa w ust. 1, na terenie budowy\nnależy do wykonawcy robót budowlanych",
+        "10": "art. 5 ust. 3 UCiPG Uprzątnięcie i pozbycie się błota, śniegu, lodu i innych zanieczyszczeń\nz wydzielonych krawężnikiem lub oznakowaniem poziomym torowisk pojazdów\nszynowych, znajdujących się na terenie gminy, należy do obowiązków\nprzedsiębiorców użytkujących te torowiska",
+        "11": "art. 5 ust. 4 pkt 1 UCiPG Obowiązki utrzymania czystości i porządku na drogach publicznych należą do\nzarządu drogi. Do obowiązków zarządu drogi należy także zbieranie i pozbywanie się odpadów zgromadzonych w pojemnikach lub\nworkach do tego przeznaczonych i utrzymanie tych pojemników w odpowiednim\nstanie sanitarnym, porządkowym i technicznym oraz utrzymanie w odpowiednim\nstanie sanitarnym i porządkowym miejsc gromadzenia odpadów",
+        "12": "art. 5 ust. 4 pkt 2 UCiPG Obowiązki utrzymania czystości i porządku na drogach publicznych należą do\nzarządu drogi. Do obowiązków zarządu drogi należy także pozbycie się błota, śniegu, lodu i innych zanieczyszczeń uprzątniętych\nz chodników przez właścicieli nieruchomości przyległych do drogi publicznej",
+        "13": "art. 5 ust. 4 pkt 3 UCiPG Obowiązki utrzymania czystości i porządku na drogach publicznych należą do\nzarządu drogi. Do obowiązków zarządu drogi należy także uprzątnięcie i pozbycie się błota, śniegu, lodu i innych zanieczyszczeń\nz chodników, jeżeli zarząd drogi pobiera opłaty z tytułu postoju lub parkowania\npojazdów samochodowych na takim chodniku",
+        "14": "art. 5 ust. 5 UCiPG Obowiązki utrzymania czystości i porządku na terenach innych niż\nwymienione w ust. 1–4 należą do gminy. Do obowiązków gminy należy także\nuprzątnięcie i pozbycie się błota, śniegu, lodu i innych zanieczyszczeń z chodników,\njeżeli gmina pobiera opłaty z tytułu postoju lub parkowania pojazdów\nsamochodowych na takim chodniku, oraz zbieranie i pozbycie się odpadów\nzgromadzonych w pojemnikach lub workach do tego przeznaczonych, umieszczonych\nna tym chodniku, utrzymanie tych pojemników w odpowiednim stanie sanitarnym,\nporządkowym i technicznym oraz utrzymanie w odpowiednim stanie sanitarnym i\nporządkowym miejsc gromadzenia odpadów",
+        "15": "art. 9b ust. 2 UCiPG Rejestr działalności regulowanej w zakresie odbierania odpadów\nkomunalnych od właścicieli nieruchomości, zwany dalej „rejestrem”, prowadzi wójt,\nburmistrz lub prezydent miasta właściwy ze względu na miejsce odbierania odpadów\nkomunalnych od właścicieli nieruchomości"
+      },
       "path": null
     },
     {
@@ -3666,18 +3718,70 @@
       "points": null,
       "code": "null",
       "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "§ 1 RMT Rozporządzenie określa okresowe ograniczenia oraz zakaz ruchu pojazdów i zespołów pojazdów o dopuszczalnej masie całkowitej przekraczającej 12 ton, z wyłączeniem autobusów",
+        "2": "§ 2 pkt 1 lit a RMT Wprowadza się okresowe ograniczenia ruchu pojazdów, o których mowa w § 1, poprzez zakaz ich ruchu na drogach na obszarze całego kraju, w następujących terminach od godziny 8:00 do 22:00 w dni ustawowo wolne od pracy - 1 stycznia – Nowy Rok",
+        "3": "§ 2 pkt 1 lit b RMT Wprowadza się okresowe ograniczenia ruchu pojazdów, o których mowa w § 1, poprzez zakaz ich ruchu na drogach na obszarze całego kraju, w następujących terminach od godziny 8:00 do 22:00 w dni ustawowo wolne od pracy - pierwszy dzień Wielkiej Nocy",
+        "4": "§ 2 pkt 1 lit c RMT Wprowadza się okresowe ograniczenia ruchu pojazdów, o których mowa w § 1, poprzez zakaz ich ruchu na drogach na obszarze całego kraju, w następujących terminach od godziny 8:00 do 22:00 w dni ustawowo wolne od pracy - drugi dzień Wielkiej Nocy",
+        "5": "§ 2 pkt 1 lit d RMT Wprowadza się okresowe ograniczenia ruchu pojazdów, o których mowa w § 1, poprzez zakaz ich ruchu na drogach na obszarze całego kraju, w następujących terminach od godziny 8:00 do 22:00 w dni ustawowo wolne od pracy - 1 maja – Święto Państwowe",
+        "6": "§ 2 pkt 1 lit e RMT Wprowadza się okresowe ograniczenia ruchu pojazdów, o których mowa w § 1, poprzez zakaz ich ruchu na drogach na obszarze całego kraju, w następujących terminach od godziny 8:00 do 22:00 w dni ustawowo wolne od pracy - 3 maja – Święto Narodowe Trzeciego Maja",
+        "7": "§ 2 pkt 1 lit f RMT Wprowadza się okresowe ograniczenia ruchu pojazdów, o których mowa w § 1, poprzez zakaz ich ruchu na drogach na obszarze całego kraju, w następujących terminach od godziny 8:00 do 22:00 w dni ustawowo wolne od pracy - pierwszy dzień Zielonych Świątek",
+        "8": "§ 2 pkt 1 lit g RMT Wprowadza się okresowe ograniczenia ruchu pojazdów, o których mowa w § 1, poprzez zakaz ich ruchu na drogach na obszarze całego kraju, w następujących terminach od godziny 8:00 do 22:00 w dni ustawowo wolne od pracy - dzień Bożego Ciała",
+        "9": "§ 2 pkt 1 lit h RMT Wprowadza się okresowe ograniczenia ruchu pojazdów, o których mowa w § 1, poprzez zakaz ich ruchu na drogach na obszarze całego kraju, w następujących terminach od godziny 8:00 do 22:00 w dni ustawowo wolne od pracy - 15 sierpnia – Wniebowzięcie Najświętszej Maryi Panny",
+        "10": "§ 2 pkt 1 lit i RMT Wprowadza się okresowe ograniczenia ruchu pojazdów, o których mowa w § 1, poprzez zakaz ich ruchu na drogach na obszarze całego kraju, w następujących terminach od godziny 8:00 do 22:00 w dni ustawowo wolne od pracy - 1 listopada – Wszystkich Świętych",
+        "11": "§ 2 pkt 1 lit j RMT Wprowadza się okresowe ograniczenia ruchu pojazdów, o których mowa w § 1, poprzez zakaz ich ruchu na drogach na obszarze całego kraju, w następujących terminach od godziny 8:00 do 22:00 w dni ustawowo wolne od pracy - 11 listopada – Narodowe Święto Niepodległości",
+        "12": "§ 2 pkt 1 lit k RMT Wprowadza się okresowe ograniczenia ruchu pojazdów, o których mowa w § 1, poprzez zakaz ich ruchu na drogach na obszarze całego kraju, w następujących terminach od godziny 8:00 do 22:00 w dni ustawowo wolne od pracy - 25 grudnia – pierwszy dzień Bożego Narodzenia",
+        "13": "§ 2 pkt 1 lit l RMT Wprowadza się okresowe ograniczenia ruchu pojazdów, o których mowa w § 1, poprzez zakaz ich ruchu na drogach na obszarze całego kraju, w następujących terminach od godziny 8:00 do 22:00 w dni ustawowo wolne od pracy - 26 grudnia – drugi dzień Bożego Narodzenia",
+        "14": "§ 2 pkt 2 RMT Od godziny 1800 do godziny 2200 w dzień poprzedzający dzień określony w pkt 1 lit. b–j",
+        "15": "§ 2 pkt 3 lit a RMT W okresie od najbliższego piątku po zakończeniu zajęć dydaktyczno-wychowawczych albo w piątek, w który kończą\nsię zajęcia dydaktyczno-wychowawcze w szkołach do ostatniej niedzieli przed rozpoczęciem zajęć dydaktyczno-\n-wychowawczych w szkołach, z zastrzeżeniem pkt 1 lit. h od godziny 18:00 do godziny 22:00 w piątek",
+        "16": "§ 2 pkt 3 lit b RMT W okresie od najbliższego piątku po zakończeniu zajęć dydaktyczno-wychowawczych albo w piątek, w który kończą\nsię zajęcia dydaktyczno-wychowawcze w szkołach do ostatniej niedzieli przed rozpoczęciem zajęć dydaktyczno-\n-wychowawczych w szkołach, z zastrzeżeniem pkt 1 lit. h od godziny 8:00 do godziny 14:00 w sobotę",
+        "17": "§ 2 pkt 3 lit c RMT W okresie od najbliższego piątku po zakończeniu zajęć dydaktyczno-wychowawczych albo w piątek, w który kończą\nsię zajęcia dydaktyczno-wychowawcze w szkołach do ostatniej niedzieli przed rozpoczęciem zajęć dydaktyczno-\n-wychowawczych w szkołach, z zastrzeżeniem pkt 1 lit. h od godziny 8:00 do godziny 22:00 w niedzielę",
+        "18": "§ 3 ust 1 pkt 1 RMT Przepisy § 2 nie mają zastosowania do Policji, Inspekcji Transportu Drogowego, Straży Granicznej, Służby Celno-Skarbowej, Sił Zbrojnych\nRzeczypospolitej Polskiej, Służby Ochrony Państwa, pogotowia technicznego, jednostek ochrony przeciwpożarowej,\njednostek ratownictwa chemicznego oraz jednostek służb ochrony radiologicznej i ochrony przed skażeniami",
+        "19": "§ 3 ust 1 pkt 2 lit a RMT Przepisy § 2 nie mają zastosowania do pojazdów biorących udział w akcjach ratowniczych",
+        "20": "§ 3 ust 1 pkt 2 lit b RMT Przepisy § 2 nie mają zastosowania do pojazdów biorących udział w akcjach humanitarnych",
+        "21": "§ 3 ust 1 pkt 2 lit c RMT Przepisy § 2 nie mają zastosowania do pojazdów biorących udział w usuwaniu skutków klęsk żywiołowych",
+        "22": "§ 3 ust 1 pkt 2 lit d RMT Przepisy § 2 nie mają zastosowania do pojazdów biorących udział w usuwaniu awarii",
+        "23": "§ 3 ust 1 pkt 3 lit a RMT Przepisy § 2 nie mają zastosowania do pojazdów używanych przy budowie dróg i mostów oraz przy ich utrzymaniu",
+        "24": "§ 3 ust 1 pkt 3 lit b RMT Przepisy § 2 nie mają zastosowania do pojazdów używanych do przewozu żywych zwierząt\"",
+        "25": "§ 3 ust 1 pkt 3 lit c RMT Przepisy § 2 nie mają zastosowania do pojazdów używanych dla potrzeb skupu mleka, zbóż lub zwierząt\"",
+        "26": "§ 3 ust 1 pkt 3 lit d RMT Przepisy § 2 nie mają zastosowania do pojazdów używanych dla potrzeb bezpośredniego zaopatrzenia statków morskich w paliwo, materiały olejowe, olej smarowy, części\nzamienne oraz wodę pitną",
+        "27": "§ 3 ust 1 pkt 3 lit e RMT Przepisy § 2 nie mają zastosowania do pojazdów używanych do przewozu sprzętu transmisyjnego stacji radiowych i telewizyjnych\"",
+        "28": "§ 3 ust 1 pkt 3 lit f RMT Przepisy § 2 nie mają zastosowania do pojazdów używanych do przewozu sprzętu dla obsługi imprez masowych, w związku z organizacją tych imprez\"",
+        "29": "§ 3 ust 1 pkt 3 lit g RMT Przepisy § 2 nie mają zastosowania do pojazdów używanych do przewozu prasy stanowiącej znaczną część ładunku lub znaczną część dostępnej przestrzeni ładunkowej\"",
+        "30": "§ 3 ust 1 pkt 3 lit h RMT Przepisy § 2 nie mają zastosowania do pojazdów używanych do przewozu lekarstw i środków medycznych\"",
+        "31": "§ 3 ust 1 pkt 3 lit i RMT Przepisy § 2 nie mają zastosowania do pojazdów używanych do przewozu przesyłek w ramach działalności pocztowej stanowiących znaczną część ładunku lub znaczną część\ndostępnej przestrzeni ładunkowej\"",
+        "32": "§ 3 ust 1 pkt 3 lit j RMT Przepisy § 2 nie mają zastosowania do pojazdów używanych w związku z niezbędnym utrzymaniem ciągłości cyklu produkcyjnego lub świadczenia usług przedsiębiorstwa\npracującego w ruchu ciągłym\"",
+        "33": "§ 3 ust 1 pkt 3 lit k RMT Przepisy § 2 nie mają zastosowania do pojazdów używanych do przewozu towarów niebezpiecznych w ilościach, dla których wymagane jest oznakowanie pojazdu tablicami\nostrzegawczymi barwy pomarańczowej\"",
+        "34": "§ 3 ust 1 pkt 3 lit l RMT Przepisy § 2 nie mają zastosowania do pojazdów używanych do przewozu artykułów szybko psujących się i środków spożywczych, określonych w załączniku do rozporządzenia, stanowiących znaczną część ładunku lub znaczną część dostępnej przestrzeni ładunkowej\"",
+        "35": "§ 3 ust 1 pkt 3 lit m RMT Przepisy § 2 nie mają zastosowania do pojazdów używanych do przewozu betonu oraz pomp do jego tłoczenia",
+        "36": "§ 3 ust 1 pkt 3 lit n RMT Przepisy § 2 nie mają zastosowania do pojazdów używanych do przewozu odpadów komunalnych lub nieczystości ciekłych",
+        "37": "§ 3 ust 1 pkt 3 lit o RMT Przepisy § 2 nie mają zastosowania do pojazdów używanych do przewozu towarów wyładowanych z wagonów na stacji kolejowej, w promieniu 50 km od tej stacji",
+        "38": "§ 3 ust 1 pkt 3 lit p RMT Przepisy § 2 nie mają zastosowania do pojazdów używanych w transporcie kombinowanym",
+        "39": "§ 3 ust 1 pkt 3 lit r RMT Przepisy § 2 nie mają zastosowania do pojazdów używanych dla potrzeb bezpłatnych medycznych badań profilaktycznych",
+        "40": "§ 3 ust 1 pkt 4 RMT Przepisy § 2 nie mają zastosowania do pojazdów wolnobieżnych używanych do prac rolnych i ciągników rolniczych",
+        "41": "§ 3 ust 1 pkt 5 RMT Przepisy § 2 nie mają zastosowania do pojazdów pojazdów powracających z zagranicy w celu zakończenia przewozu drogowego lub do odbiorcy przewożonego\nładunku, mających siedzibę na terytorium Rzeczypospolitej Polskiej",
+        "42": "§ 3 ust 1 pkt 6 RMT Przepisy § 2 nie mają zastosowania do pojazdów pojazdów, które wjechały na terytorium Rzeczypospolitej Polskiej poza terminami lub godzinami obowiązywania\nzakazu, w odległości do 50 km od miejsca przekroczenia granicy, oraz oczekujących na granicy na wyjazd z terytorium Rzeczypospolitej Polskiej",
+        "43": "§ 3 ust 2 RMT Przepis ust. 1 pkt 3 dotyczy także pojazdów pustych w drodze po ładunek lub w drodze powrotnej po rozładunku",
+        "44": "§ 3a RMT Przepisu § 2 pkt 2 nie stosuje się w dniu 11 kwietnia 2020",
+        "45": "§ 3b RMT Przepisu § 2 pkt 2 nie stosuje się w dniu 30 kwietnia 2020 r",
+        "46": "§ 3c RMT  Przepisu § 2 pkt 2 nie stosuje się w dniu 10 czerwca 2020 r"
+      },
       "path": null
     },
     {
       "category": "invalid",
       "name": "Posługiwanie się przez osobę do tego nieuprawnioną kartą parkingową, o której mowa w art. 8 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym",
-      "text": "art. 96b KW w zw. z art. 8 ust. 1 lub 2  PRD",
+      "text": "art. 96b KW w zw. z art. 8 ust. 1 lub 2 PRD",
       "tax": "400",
       "points": null,
       "code": "null",
       "law": "art. 96b KW Kto, nie będąc do tego uprawnionym, posługuje się kartą parkingową,\no której mowa w art. 8 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym\n(Dz. U. z 2021 r. poz. 450, 463, 694, 720 i 1641),\npodlega karze grzywny do 2000 złotych",
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "art. 8 ust. 1 PRD Osoba niepełnosprawna legitymująca się kartą parkingową kierująca pojazdem samochodowym oznaczonym tą kartą, może nie stosować się do niektórych znaków drogowych dotyczących zakazu ruchu lub postoju, w zakresie określonym przepisami o których mowa w art. 7 ust. 2 PRD",
+        "2": "art. 8 ust. 2 pkt 1 PRD Przepis ust. 1 stosuje się również do kierującego pojazdem, który przewozi osobę niepełnosprawną legitymującą się kartą parkingową",
+        "3": "art. 8 ust. 2 pkt 2 PRD Przepis ust. 1 stosuje się również do kierującego pojazdem należącym do placówki, o której mowa w ust. 3a pkt 3, przewożącego osobę mającą znacznie ograniczone możliwości samodzielnego poruszania się, pozostającą pod opieką takiej placówki",
+        "4": "art. 7 ust. 2 PRD Minister właściwy do spraw transportu i minister właściwy do spraw wewnętrznych, w porozumieniu z Ministrem Obrony Narodowej, uwzględniając w szczególności konieczność dostosowania sygnałów drogowych do postanowień umów międzynarodowych, określi, w drodze rozporządzenia, znaki i sygnały obowiązujące w ruchu drogowym, ich znaczenie i zakres obowiązywania"
+      },
       "path": "pictogram/invalid.png"
     },
     {
@@ -3691,7 +3795,15 @@
         "1": "art. 96b § 1 pkt 1 KW Kto, nie będąc do tego uprawnionym, posługuje się kartą parkingową,\no której mowa w art. 8 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym\n(Dz. U. z 2021 r. poz. 450, 463, 694, 720 i 1641),\npodlega karze grzywny do 2000 złotych",
         "2": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału\nlub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu\ndrogowego,\npodlega karze grzywny albo karze nagany"
       },
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "art. 8 ust. 1 PRD Osoba niepełnosprawna legitymująca się kartą parkingową kierująca pojazdem samochodowym oznaczonym tą kartą, może nie stosować się do niektórych znaków drogowych dotyczących zakazu ruchu lub postoju, w zakresie określonym przepisami o których mowa w art. 7 ust. 2 PRD",
+        "2": "art. 8 ust. 2 pkt 1 PRD Przepis ust. 1 stosuje się również do kierującego pojazdem, który przewozi osobę niepełnosprawną legitymującą się kartą parkingową",
+        "3": "art. 8 ust. 2 pkt 2 PRD Przepis ust. 1 stosuje się również do kierującego pojazdem należącym do placówki, o której mowa w ust. 3a pkt 3, przewożącego osobę mającą znacznie ograniczone możliwości samodzielnego poruszania się, pozostającą pod opieką takiej placówki",
+        "4": "art. 7 ust. 2 PRD Minister właściwy do spraw transportu i minister właściwy do spraw wewnętrznych, w porozumieniu z Ministrem Obrony Narodowej, uwzględniając w szczególności konieczność dostosowania sygnałów drogowych do postanowień umów międzynarodowych, określi, w drodze rozporządzenia, znaki i sygnały obowiązujące w ruchu drogowym, ich znaczenie i zakres obowiązywania",
+        "5": "§ 18 ust. 1 ZSD Znak B-3 „zakaz wjazdu pojazdów silnikowych, z wyjątkiem motocykli jednośladowych”, oznacza zakaz ruchu\npojazdów silnikowych; zakaz nie dotyczy motocykli jednośladowych",
+        "6": "§ 18 ust. 2 ZSD Znak B-3a „zakaz wjazdu autobusów” oznacza zakaz ruchu autobusów",
+        "7": "§ 18 ust. 3 ZSD Znak B-3a „zakaz wjazdu autobusów” oznacza zakaz ruchu autobusów"
+      },
       "path": "pictogram/invalid-1.png"
     },
     {
@@ -3705,7 +3817,13 @@
         "1": "art. 96b § 1 pkt 1 KW Kto, nie będąc do tego uprawnionym, posługuje się kartą parkingową,\no której mowa w art. 8 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym\n(Dz. U. z 2021 r. poz. 450, 463, 694, 720 i 1641),\npodlega karze grzywny do 2000 złotych",
         "2": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału\nlub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu\ndrogowego,\npodlega karze grzywny albo karze nagany"
       },
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "art. 8 ust. 1 PRD Osoba niepełnosprawna legitymująca się kartą parkingową kierująca pojazdem samochodowym oznaczonym tą kartą, może nie stosować się do niektórych znaków drogowych dotyczących zakazu ruchu lub postoju, w zakresie określonym przepisami o których mowa w art. 7 ust. 2 PRD",
+        "2": "art. 8 ust. 2 pkt 1 PRD Przepis ust. 1 stosuje się również do kierującego pojazdem, który przewozi osobę niepełnosprawną legitymującą się kartą parkingową",
+        "3": "art. 8 ust. 2 pkt 2 PRD Przepis ust. 1 stosuje się również do kierującego pojazdem należącym do placówki, o której mowa w ust. 3a pkt 3, przewożącego osobę mającą znacznie ograniczone możliwości samodzielnego poruszania się, pozostającą pod opieką takiej placówki",
+        "4": "art. 7 ust. 2 PRD Minister właściwy do spraw transportu i minister właściwy do spraw wewnętrznych, w porozumieniu z Ministrem Obrony Narodowej, uwzględniając w szczególności konieczność dostosowania sygnałów drogowych do postanowień umów międzynarodowych, określi, w drodze rozporządzenia, znaki i sygnały obowiązujące w ruchu drogowym, ich znaczenie i zakres obowiązywania",
+        "5": "§ 18 ust. 11 ZSD Znak B-10 „zakaz wjazdu motorowerów” oznacza zakaz ruchu motorowerów"
+      },
       "path": "pictogram/invalid-2.png"
     },
     {
@@ -3715,7 +3833,15 @@
       "tax": "500",
       "points": null,
       "code": "null",
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "art. 8 ust. 1 PRD Osoba niepełnosprawna legitymująca się kartą parkingową kierująca pojazdem samochodowym oznaczonym tą kartą, może nie stosować się do niektórych znaków drogowych dotyczących zakazu ruchu lub postoju, w zakresie określonym przepisami o których mowa w art. 7 ust. 2 PRD",
+        "2": "art. 8 ust. 2 pkt 1 PRD Przepis ust. 1 stosuje się również do kierującego pojazdem, który przewozi osobę niepełnosprawną legitymującą się kartą parkingową",
+        "3": "art. 8 ust. 2 pkt 2 PRD Przepis ust. 1 stosuje się również do kierującego pojazdem należącym do placówki, o której mowa w ust. 3a pkt 3, przewożącego osobę mającą znacznie ograniczone możliwości samodzielnego poruszania się, pozostającą pod opieką takiej placówki",
+        "4": "art. 7 ust. 2 PRD Minister właściwy do spraw transportu i minister właściwy do spraw wewnętrznych, w porozumieniu z Ministrem Obrony Narodowej, uwzględniając w szczególności konieczność dostosowania sygnałów drogowych do postanowień umów międzynarodowych, określi, w drodze rozporządzenia, znaki i sygnały obowiązujące w ruchu drogowym, ich znaczenie i zakres obowiązywania",
+        "5": "§ 28 ust. 1 ZSD Znak B-35 „zakaz postoju” oznacza zakaz postoju pojazdu; dopuszczalny czas unieruchomienia pojazdu dłuższy\nniż jedna minuta jest wskazany napisem na znaku albo na umieszczonej pod nim tabliczce",
+        "6": "§ 28 ust. 6 pkt 1 ZSD Znak B-37 „zakaz postoju w dni nieparzyste oznacza zakaz postoju pojazdów odpowiednio w nieparzyste lub parzyste dni miesiąca; zakaz nie obowiązuje od godziny\n21 do 24; przepisy ust. 1 i 3–5 stosuje się odpowiednio do tych znaków",
+        "7": "§ 28 ust. 6 pkt 2 ZSD Znak B-38 „zakaz postoju w dni parzyste oznacza zakaz postoju pojazdów odpowiednio w nieparzyste lub parzyste dni miesiąca; zakaz nie obowiązuje od godziny\n21 do 24; przepisy ust. 1 i 3–5 stosuje się odpowiednio do tych znaków"
+      },
       "path": "pictogram/invalid-3.png"
     },
     {
@@ -3729,7 +3855,17 @@
         "1": "art. 96b § 1 pkt 1 KW Kto, nie będąc do tego uprawnionym, posługuje się kartą parkingową,\no której mowa w art. 8 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym\n(Dz. U. z 2021 r. poz. 450, 463, 694, 720 i 1641),\npodlega karze grzywny do 2000 złotych",
         "2": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału\nlub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu\ndrogowego,\npodlega karze grzywny albo karze nagany"
       },
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "art. 8 ust. 1 PRD Osoba niepełnosprawna legitymująca się kartą parkingową kierująca pojazdem samochodowym oznaczonym tą kartą, może nie stosować się do niektórych znaków drogowych dotyczących zakazu ruchu lub postoju, w zakresie określonym przepisami o których mowa w art. 7 ust. 2 PRD",
+        "2": "art. 8 ust. 2 pkt 1 PRD Przepis ust. 1 stosuje się również do kierującego pojazdem, który przewozi osobę niepełnosprawną legitymującą się kartą parkingową",
+        "3": "art. 8 ust. 2 pkt 2 PRD Przepis ust. 1 stosuje się również do kierującego pojazdem należącym do placówki, o której mowa w ust. 3a pkt 3, przewożącego osobę mającą znacznie ograniczone możliwości samodzielnego poruszania się, pozostającą pod opieką takiej placówki",
+        "4": "art. 7 ust. 2 PRD Minister właściwy do spraw transportu i minister właściwy do spraw wewnętrznych, w porozumieniu z Ministrem Obrony Narodowej, uwzględniając w szczególności konieczność dostosowania sygnałów drogowych do postanowień umów międzynarodowych, określi, w drodze rozporządzenia, znaki i sygnały obowiązujące w ruchu drogowym, ich znaczenie i zakres obowiązywania",
+        "5": "§ 29 ust. 1 ZSD Znak B-39 „strefa ograniczonego postoju” oznacza wjazd do strefy, w której obowiązuje zakaz postoju pojazdów\nna wszystkich drogach; dopuszczalny czas unieruchomienia pojazdu dłuższy niż jedna minuta jest wskazany napisem\nna znaku",
+        "6": "§ 29 ust. 1 pkt 1 ZSD Znak B-39 nie dotyczy pojazdu komunikacji publicznej zatrzymującego się na wyznaczonym dla niego miejscu",
+        "7": "§ 29 ust. 1 pkt 2 ZSD Znak B-39 nie dotyczy pojazdu zatrzymującego się w miejscu oznaczonym znakiem D-18, D-18a, D-18b lub D-44",
+        "8": "§ 29 ust. 1 pkt 3 ZSD Znak B-39 nie dotyczy pojazdu unieruchomionego ze względu na warunki lub przepisy ruchu drogowego",
+        "9": "§ 29 ust. 1 pkt 4 ZSD Znak B-39 nie dotyczy autobusu szkolnego"
+      },
       "path": "pictogram/invalid-4.png"
     },
     {
@@ -3743,7 +3879,15 @@
         "1": "art. 96b § 1 pkt 1 KW Kto, nie będąc do tego uprawnionym, posługuje się kartą parkingową,\no której mowa w art. 8 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym\n(Dz. U. z 2021 r. poz. 450, 463, 694, 720 i 1641),\npodlega karze grzywny do 2000 złotych",
         "2": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału\nlub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu\ndrogowego,\npodlega karze grzywny albo karze nagany"
       },
-      "paragraph": "",
+      "paragraph_sub": {
+      "1": "art. 8 ust. 1 PRD Osoba niepełnosprawna legitymująca się kartą parkingową kierująca pojazdem samochodowym oznaczonym tą kartą, może nie stosować się do niektórych znaków drogowych dotyczących zakazu ruchu lub postoju, w zakresie określonym przepisami o których mowa w art. 7 ust. 2 PRD",
+      "2": "art. 8 ust. 2 pkt 1 PRD Przepis ust. 1 stosuje się również do kierującego pojazdem, który przewozi osobę niepełnosprawną legitymującą się kartą parkingową",
+      "3": "art. 8 ust. 2 pkt 2 PRD Przepis ust. 1 stosuje się również do kierującego pojazdem należącym do placówki, o której mowa w ust. 3a pkt 3, przewożącego osobę mającą znacznie ograniczone możliwości samodzielnego poruszania się, pozostającą pod opieką takiej placówki",
+      "4": "art. 7 ust. 2 PRD Minister właściwy do spraw transportu i minister właściwy do spraw wewnętrznych, w porozumieniu z Ministrem Obrony Narodowej, uwzględniając w szczególności konieczność dostosowania sygnałów drogowych do postanowień umów międzynarodowych, określi, w drodze rozporządzenia, znaki i sygnały obowiązujące w ruchu drogowym, ich znaczenie i zakres obowiązywania",
+      "5": "§ 52 ust. 6 ZSD Umieszczona pod znakiem D-18, D-18a lub D-18b tabliczka T-29 informuje o miejscu przeznaczonym dla pojazdu\nsamochodowego osoby, o której mowa w art. 8 ust. 1 i 2 PRD",
+      "6": "§ 2 ust. 4 ZSD Napis lub symbol umieszczony na tabliczce pod znakiem drogowym stanowi integralną część znaku",
+      "7": "§ 52 ust. 4 ZSD Znak D-18a „parking – miejsce zastrzeżone” oznacza miejsce przeznaczone na postój pojazdu uprawnionej osoby"
+    },
       "path": "pictogram/invalid-5.png"
     },
     {
@@ -3757,7 +3901,15 @@
         "1": "art. 96b § 1 pkt 1 KW Kto, nie będąc do tego uprawnionym, posługuje się kartą parkingową,\no której mowa w art. 8 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym\n(Dz. U. z 2021 r. poz. 450, 463, 694, 720 i 1641),\npodlega karze grzywny do 2000 złotych",
         "2": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału\nlub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu\ndrogowego,\npodlega karze grzywny albo karze nagany"
       },
-      "paragraph": "",
+      "paragraph_sub": {
+      "1": "art. 8 ust. 1 PRD Osoba niepełnosprawna legitymująca się kartą parkingową kierująca pojazdem samochodowym oznaczonym tą kartą, może nie stosować się do niektórych znaków drogowych dotyczących zakazu ruchu lub postoju, w zakresie określonym przepisami o których mowa w art. 7 ust. 2 PRD",
+      "2": "art. 8 ust. 2 pkt 1 PRD Przepis ust. 1 stosuje się również do kierującego pojazdem, który przewozi osobę niepełnosprawną legitymującą się kartą parkingową",
+      "3": "art. 8 ust. 2 pkt 2 PRD Przepis ust. 1 stosuje się również do kierującego pojazdem należącym do placówki, o której mowa w ust. 3a pkt 3, przewożącego osobę mającą znacznie ograniczone możliwości samodzielnego poruszania się, pozostającą pod opieką takiej placówki",
+      "4": "art. 7 ust. 2 PRD Minister właściwy do spraw transportu i minister właściwy do spraw wewnętrznych, w porozumieniu z Ministrem Obrony Narodowej, uwzględniając w szczególności konieczność dostosowania sygnałów drogowych do postanowień umów międzynarodowych, określi, w drodze rozporządzenia, znaki i sygnały obowiązujące w ruchu drogowym, ich znaczenie i zakres obowiązywania",
+      "5": "§ 90 ust. 2 ZSD Znak P-18 „stanowisko postojowe” wyznacza miejsce przeznaczone do postoju pojazdów",
+      "6": "§ 92 ZSD Znak P-24 „miejsce dla pojazdu osoby niepełnosprawnej” oznacza, że stanowisko postojowe, na którym znak\numieszczono, jest przeznaczone dla pojazdu samochodowego osób, o których mowa w art. 8 ust. 1 i 2 PRD",
+      "7": "§ 90 ust. 4 ZSD Znak P-20 „koperta” wyznacza stanowisko postojowe zastrzeżone dla określonego rodzaju pojazdów"
+    },
       "path": "pictogram/invalid-6.png"
     },
     {
@@ -3791,7 +3943,7 @@
       "points": 5,
       "code": "C 08",
       "law": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego,podlega karze grzywny albo karze nagany",
-      "paragraph": "",
+      "paragraph": "§36 ust. 1 ZSD Znak C-12 „ruch okrężny” oznacza, że na skrzyżowaniu ruch odbywa się dookoła wyspy lub placu w kierunku\nwskazanym na znaku",
       "path": "road_sign/C/C-12.png"
     },
     {
@@ -3838,7 +3990,7 @@
       "points": 1,
       "code": "C 15",
       "law": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego,podlega karze grzywny albo karze nagany",
-      "paragraph": "",
+      "paragraph": "§24 ust. 1 ZSD Znak B-29 „zakaz używania sygnałów dźwiękowych” zabrania używania tych sygnałów, chyba że jest to konieczne\nw celu ostrzeżenia o bezpośrednim zagrożeniu bezpieczeństwa ruchu",
       "path": "road_sign/B/B-29.png"
     },
     {
@@ -3849,7 +4001,7 @@
       "points": 4,
       "code": "C 12",
       "law": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego,podlega karze grzywny albo karze nagany",
-      "paragraph": "",
+      "paragraph": "§25 ZSD Znak B-31 „pierwszeństwo dla nadjeżdżających z przeciwka” zabrania kierującym wjazdu lub wejścia na zwężony\nodcinek jezdni, jeżeli zmusiłoby to kierujących znajdujących się na tym odcinku lub zbliżających się do niego z przeciwnej\nstrony do zatrzymania się",
       "path": "road_sign/B/B-31.png"
     },
     {
@@ -3860,7 +4012,10 @@
       "points": 1,
       "code": "C 15",
       "law": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego,podlega karze grzywny albo karze nagany",
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "§26 ust. 1 ZSD Znak B-32 „stój – kontrola celna” oznacza obowiązek zatrzymania się. Zamiast napisu „Cło-Zoll” na znaku\nmogą być umieszczone napisy „Kontrola graniczna”, „Rogatka uszkodzona”, „Sygnalizacja uszkodzona”, „Wjazd na\nprom”, „Kontrola drogowa” lub „Pobór opłat” – odpowiednio do przyczyny zatrzymania",
+        "2": "§26 ust. 2 ZSD Zatrzymanie powinno nastąpić w miejscu wyznaczonym w tym celu, a jeżeli nie jest ono wyznaczone – przed znakiem.\nDalszy ruch może nastąpić za zgodą uprawnionej osoby lub po nadaniu sygnału zezwalającego na ruch"
+      },
       "path": "road_sign/B/B-32.png"
     },
     {
@@ -3871,18 +4026,18 @@
       "points": 1,
       "code": "C 15",
       "law": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego,podlega karze grzywny albo karze nagany",
-      "paragraph": "",
+      "paragraph": "§28 ust. 1 ZSD Znak B-35 „zakaz postoju” oznacza zakaz postoju pojazdu; dopuszczalny czas unieruchomienia pojazdu dłuższy\nniż jedna minuta jest wskazany napisem na znaku albo na umieszczonej pod nim tabliczce",
       "path": "road_sign/B/B-35.png"
     },
     {
       "category": "sign",
       "name": "Niestosowanie się do znaku B-36 \"zakaz zatrzymywania się\"",
-      "text": "art. 92 §1 KW w zw. z §24 ust. 2 ZSD",
+      "text": "art. 92 §1 KW w zw. z §28 ust. 2 ZSD",
       "tax": "100",
       "points": 1,
       "code": "C 15",
       "law": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego,podlega karze grzywny albo karze nagany",
-      "paragraph": "",
+      "paragraph": "§28 ust. 2 ZSD Znak B-36 „zakaz zatrzymywania się” oznacza zakaz zatrzymania pojazdu",
       "path": "road_sign/B/B-36.png"
     },
     {
@@ -3905,7 +4060,14 @@
       "points": 1,
       "code": "C 15",
       "law": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego,podlega karze grzywny albo karze nagany",
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "§29 ust. 1 ZSD Znak B-39 „strefa ograniczonego postoju” oznacza wjazd do strefy, w której obowiązuje zakaz postoju pojazdów\nna wszystkich drogach; dopuszczalny czas unieruchomienia pojazdu dłuższy niż jedna minuta jest wskazany napisem\nna znaku",
+        "2": "§29 ust. 1 pkt 1 ZSD Znak B-39 nie dotyczy pojazdu komunikacji publicznej zatrzymującego się na wyznaczonym dla niego miejscu",
+        "3": "§29 ust. 1 pkt 2 ZSD Znak B-39 nie dotyczy pojazdu zatrzymującego się w miejscu oznaczonym znakiem D-18 (parking), D-18a (parking - miejsce zastrzeżone), D-18b (parking zadaszony) lub D-44 (strefa płatnego parkowania)",
+        "4": "§29 ust. 1 pkt 3 ZSD Znak B-39 nie dotyczy pojazdu unieruchomionego ze względu na warunki lub przepisy ruchu drogowego",
+        "5": "§29 ust. 1 pkt 4 ZSD Znak B-39 nie dotyczy autobusu szkolnego",
+        "6": "§29 ust. 3 ZSD Znak B-40 „koniec strefy ograniczonego postoju” oznacza wyjazd ze strefy ograniczonego postoju"
+      },
       "path": "road_sign/B/B-39.png"
     },
     {
@@ -3928,7 +4090,7 @@
       "points": 1,
       "code": "C 15",
       "law": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego,podlega karze grzywny albo karze nagany",
-      "paragraph": "",
+      "paragraph": "§37 ust. 1 ZSD Znak C-13 „droga dla rowerów” oznacza drogę przeznaczoną dla kierujących rowerami, którzy są obowiązani\ndo korzystania z tej drogi, jeżeli jest ona wyznaczona dla kierunku, w którym oni poruszają się lub zamierzają skręcić",
       "path": "road_sign/C/C-13.png"
     },
     {
@@ -3939,7 +4101,7 @@
       "points": 1,
       "code": "C 15",
       "law": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego,podlega karze grzywny albo karze nagany",
-      "paragraph": "",
+      "paragraph": "§38 ust. 1 ZSD Znak C-14 „prędkość minimalna” oznacza, że kierujący, przy zachowaniu ograniczeń prędkości wynikających\nz przepisów szczegółowych, jest obowiązany jechać z prędkością nie mniejszą niż określona na znaku liczbą kilometrów na\ngodzinę, chyba że warunki ruchu lub jego bezpieczeństwo wymagają zmniejszenia prędkości",
       "path": "road_sign/C/C-14.png"
     },
     {
@@ -3950,7 +4112,7 @@
       "points": 1,
       "code": "C 15",
       "law": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego,podlega karze grzywny albo karze nagany",
-      "paragraph": "",
+      "paragraph": "§41 ZSD Znak C-17 „nakazany kierunek jazdy dla pojazdów z towarami niebezpiecznymi” oznacza obowiązujący, wskazany\nznakami C-2, C-4, C-5, C-6, C-7 lub C-8, kierunek jazdy na skrzyżowaniu pojazdów przewożących towary niebezpieczne\nokreślone w § 19 ust. 2 ZSD (towary niebezpieczne w ilościach, dla których\njest wymagane oznakowanie pojazdu tablicami ostrzegawczymi barwy pomarańczowej) Umieszczona pod znakiem tabliczka T-31 lub tabliczka z odpowiednim napisem wskazuje, że\nnakazany kierunek jazdy dotyczy pojazdów przewożących tylko określone klasy lub grupy towarów niebezpiecznych lub\nokreślonego sposobu przewozu tych towarów",
       "path": "road_sign/C/C-17.png"
     },
     {
@@ -3961,7 +4123,10 @@
       "points": null,
       "code": "null",
       "law": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego,podlega karze grzywny albo karze nagany",
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "§81 ust. 1 ZSD Znak BT-1 „ograniczenie prędkości” oznacza zakaz przekraczania prędkości określonej na znaku liczbą kilometrów\nna godzinę przez kierującego tramwajem jadącego torem, przy którym jest on umieszczony",
+        "2": "§81 ust. 2 ZSD Zakaz wyrażony znakiem BT-1 obowiązuje od miejsca umieszczenia znaku do najbliższego skrzyżowania (rozwidlenia)\ntorów lub miejsca ustawienia znaku BT-2 „koniec ograniczenia prędkości”"
+      },
       "path": null
     },
     {
@@ -3972,7 +4137,7 @@
       "points": null,
       "code": "null",
       "law": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego,podlega karze grzywny albo karze nagany",
-      "paragraph": "",
+      "paragraph": "§81 ust. 3 ZSD Znak BT-3 „blokada zwrotnicy” oznacza zakaz wjazdu kierującego tramwajem pod urządzenie sterujące zwrotnicą,\naż poprzedni tramwaj nie opuści zwrotnicy",
       "path": null
     },
     {
@@ -3983,7 +4148,7 @@
       "points": 1,
       "code": "C 15",
       "law": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego,podlega karze grzywny albo karze nagany",
-      "paragraph": "",
+      "paragraph": "§86 ust. 3 ZSD Znak P-2 „linia pojedyncza ciągła” oddziela pasy ruchu o tym samym kierunku i oznacza ponadto zakaz przejeżdżania\nprzez tę linię i najeżdżania na nią",
       "path": "road_sign/P/P-2.png"
     },
     {
@@ -3994,7 +4159,7 @@
       "points": 1,
       "code": "C 15",
       "law": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego,podlega karze grzywny albo karze nagany",
-      "paragraph": "",
+      "paragraph": "§86 ust. 4 ZSD Znak P-3 „linia jednostronnie przekraczalna” oznacza zakaz przejeżdżania przez tę linię od strony linii ciągłej i najeżdżania\nna nią, z wyjątkiem powrotu po wyprzedzaniu na położony przy linii przerywanej pas ruchu zajmowany przed wyprzedzaniem",
       "path": "road_sign/P/P-3.png"
     },
     {
@@ -4005,7 +4170,7 @@
       "points": 5,
       "code": "C 11",
       "law": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego,podlega karze grzywny albo karze nagany",
-      "paragraph": "",
+      "paragraph": "§86 ust. 5 ZSD Znak P-4 „linia podwójna ciągła” rozdziela pasy ruchu o kierunkach przeciwnych i oznacza zakaz przejeżdżania\nprzez tę linię i najeżdżania na nią",
       "path": "road_sign/P/P-4.png"
     },
     {
@@ -4016,7 +4181,7 @@
       "points": 1,
       "code": "C 15",
       "law": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego,podlega karze grzywny albo karze nagany",
-      "paragraph": "",
+      "paragraph": "§86 ust. 8 pkt 2 ZSD Umieszczone przy krawędzi jezdni znaki P-7b „linia krawędziowa ciągła wyznaczają krawędź jezdni; znak P-7b oznacza ponadto zakaz wjazdu na pobocze kierującemu pojazdem samochodowym",
       "path": "road_sign/P/P-7b.png"
     },
     {
@@ -4027,7 +4192,7 @@
       "points": 1,
       "code": "C 15",
       "law": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego,podlega karze grzywny albo karze nagany",
-      "paragraph": "",
+      "paragraph": "§90 ust. 1 ZSD Znak P-17 „linia przystankowa” wyznacza na jezdni miejsce przystanku pojazdów określonych w § 51 ZSD (pojazdy wykonujące odpłatny przewóz osób na regularnych liniach) i oznacza,\nże zakaz zatrzymywania się innych pojazdów na przystanku obowiązuje na całej długości linii",
       "path": "road_sign/P/P-17.png"
     },
     {
@@ -4038,7 +4203,7 @@
       "points": 1,
       "code": "C 15",
       "law": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego,podlega karze grzywny albo karze nagany",
-      "paragraph": "",
+      "paragraph": "§42 ZSD Znak C-18 „nakaz używania łańcuchów przeciwpoślizgowych” oznacza, że na drodze, na której znak został\numieszczony, kierujący pojazdem silnikowym jest obowiązany stosować łańcuchy przeciwpoślizgowe na co najmniej\ndwóch kołach napędowych; umieszczona pod znakiem tabliczka, o której mowa w § 23 ust. 2 ZSD (tabliczka z pojazdem, którego symbol znajduje się na tabliczce) oznacza, że znak dotyczy\npojazdów określonych na tabliczce",
       "path": "road_sign/C/C-18.png"
     },
     {
@@ -4049,7 +4214,7 @@
       "points": 1,
       "code": "C 15",
       "law": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego,podlega karze grzywny albo karze nagany",
-      "paragraph": "",
+      "paragraph": "§90 ust. 5 ZSD Znak P-21 „powierzchnia wyłączona” oznacza powierzchnię drogi, na którą wjazd i zatrzymanie są zabronione",
       "path": "road_sign/P/P-21.png"
     },
     {
@@ -4060,18 +4225,40 @@
       "points": 2,
       "code": "C 16",
       "law": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego,podlega karze grzywny albo karze nagany",
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "§21 ust. 1 pkt 1 ZSD Znak B-20 „stop” oznacza zakaz wjazdu na skrzyżowanie bez zatrzymania się przed drogą z pierwszeństwem",
+        "2": "§21 ust. 1 pkt 2 ZSD Znak B-20 „stop” oznacza obowiązek ustąpienia pierwszeństwa kierującym poruszającym się tą drogą",
+        "3": "§21 ust. 2 ZSD Zatrzymanie powinno nastąpić w wyznaczonym w tym celu miejscu, a w razie jego braku – w takim miejscu, w którym\nkierujący może upewnić się, że nie utrudni ruchu na drodze z pierwszeństwem",
+        "4": "§21 ust. 3 ZSD Znak B-20 umieszczony w obrębie skrzyżowania dotyczy tylko najbliższej jezdni, przed którą został ustawiony",
+        "5": "§21 ust. 4 ZSD Przepisy ust. 1–3 stosuje się odpowiednio do znaku B-20 umieszczonego przed torowiskiem pojazdów szynowych\nlub w innych miejscach przecinania się kierunków ruchu"
+      },
       "path": "road_sign/B/B-20.png"
     },
     {
       "category": "sign",
       "name": "Niezatrzymanie pojazdu we właściwym miejscu w związku z nadawanym sygnałem świetlnym ",
-      "text": "art. 92 §1 KW w zw. z §99, §102 ust. 4, §107  ZSD",
+      "text": "art. 92 §1 KW w zw. z §99, §102 ust. 4, §107 ZSD",
       "tax": "100",
       "points": 1,
       "code": "C 15",
       "law": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego,podlega karze grzywny albo karze nagany",
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "§99 ust. 1 ZSD Zatrzymanie pojazdu wynikające z nadawanego sygnału powinno nastąpić przed linią zatrzymania, a w razie jej\nbraku – przed sygnalizatorem",
+        "2": "§99 ust. 2 ZSD Jeżeli sygnalizator jest umieszczony nad jezdnią, to zatrzymanie pojazdu wynikające z nadawanego sygnału powinno\nnastąpić przed linią zatrzymania, a w razie jej braku – przed jezdnią, nad którą sygnalizator został umieszczony",
+        "3": "§102 ust. 1 ZSD Sygnały świetlne dla kierujących autobusami oraz innymi pojazdami wykonującymi odpłatny przewóz osób na\nregularnych liniach, poruszającymi się po wydzielonych dla nich pasach ruchu, są barwy białej",
+        "4": "§102 ust. 2 pkt 1 ZSD Sygnały świetlne, o których mowa w ust. 1, nadawane przez sygnalizator SB oznaczają sygnał w kształcie kreski pionowej – zezwolenie na wjazd za sygnalizator",
+        "5": "§102 ust. 2 pkt 2 ZSD Sygnały świetlne, o których mowa w ust. 1, nadawane przez sygnalizator SB oznaczają sygnał w kształcie dwóch kropek – zakaz wjazdu za sygnalizator; zakaz nie dotyczy kierujących pojazdami, które\nw chwili zapalenia się tego sygnału znajdują się tak blisko sygnalizatora, że nie mogą być zatrzymane przed nim bez\ngwałtownego hamowania; sygnał ten oznacza jednocześnie, że za chwilę zapali się sygnał w kształcie kreski poziomej",
+        "6": "§102 ust. 2 pkt 3 ZSD Sygnały świetlne, o których mowa w ust. 1, nadawane przez sygnalizator SB oznaczają sygnał w kształcie kreski poziomej – zakaz wjazdu za sygnalizator; takie samo znaczenie mają wyświetlane jednocześnie\nsygnały w kształcie kreski poziomej i dwóch kropek oznaczające także, że za chwilę zapali się sygnał w kształcie\nkreski pionowej",
+        "7": "§102 ust. 3 pkt 1 ZSD Sygnał w kształcie kreski pionowej nie zezwala na wjazd za sygnalizator, jeżeli ruch pojazdu utrudniłby opuszczenie jezdni pieszym lub rowerzystom",
+        "8": "§102 ust. 3 pkt 2 ZSD Sygnał w kształcie kreski pionowej nie zezwala na wjazd za sygnalizator, jeżeli ze względu na warunki ruchu na skrzyżowaniu lub za nim opuszczenie skrzyżowania nie byłoby możliwe przed zakończeniem\nnadawania sygnału zezwalającego na wjazd za sygnalizator",
+        "9": "§102 ust. 4 ZSD Przepis § 99 stosuje się odpowiednio",
+        "10": "Przepis § 95 ust. 4 ZSD i § 99 ZSD stosuje się odpowiednio do sygnałów świetlnych dla kierujących tramwajami",
+        "11": "§95 ust. 4 ZSD Kierujący pojazdem szynowym skręcający na skrzyżowaniu o ruchu kierowanym sygnałami świetlnymi może je\nopuścić, z zastrzeżeniem ust. 1 pkt 2–4, pod warunkiem ustąpienia pierwszeństwa uczestnikom ruchu poruszającym się na\nwprost. Przepisu nie stosuje się na skrzyżowaniu o ruchu okrężnym oznaczonym znakami C-12",
+        "12": "§95 ust. 1 pkt 2 ZSD Sygnały świetlne nadawane przez sygnalizator S-1 oznaczają sygnał żółty – zakaz wjazdu za sygnalizator, chyba że w chwili zapalenia tego sygnału pojazd znajduje się tak blisko\nsygnalizatora, że nie może być zatrzymany przed nim bez gwałtownego hamowania; sygnał ten oznacza jednocześnie,\nże za chwilę zapali się sygnał czerwony",
+        "13": "§95 ust. 1 pkt 3 ZSD Sygnały świetlne nadawane przez sygnalizator S-1 oznaczają sygnał czerwony – zakaz wjazdu za sygnalizator",
+        "14": "§95 ust. 1 pkt 4 ZSD Sygnały świetlne nadawane przez sygnalizator S-1 oznaczają sygnały czerwony i żółty, nadawane jednocześnie – zakaz wjazdu za sygnalizator; sygnały te oznaczają także, że za\nchwilę zapali się sygnał zielony"
+
+      },
       "path": null
     },
     {
@@ -4094,7 +4281,7 @@
       "points": 1,
       "code": "C 15",
       "law": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego,podlega karze grzywny albo karze nagany",
-      "paragraph": "",
+      "paragraph": "§ 49 ust. 3  ZSD Znak D-13 „początek pasa ruchu powolnego” oznacza początek pasa ruchu, z którego są obowiązani korzystać kierujący\npojazdami nieosiągającymi na wzniesieniu minimalnej prędkości określonej na znaku liczbą kilometrów na godzinę",
       "path": null
     },
     {
@@ -4124,12 +4311,20 @@
     {
       "category": "invalid",
       "name": "Niestosowanie się do znaku P-18 \"stanowisko postojowe\" i P-24 \"miejsce dla pojazdu osoby niepełnosprawnej\" albo P-20 \"koperta\" i P-24 \"miejsce dla pojazdu osoby niepełnosprawnej\", umieszczonego samodzielnie bez znaku pionowego D-18, D-18a lub D-18b ",
-      "text": "art. 92 §1 KW w zw. z  § 90 ust. 2 i § 92 albo § 90 ust. 4 i § 92 ZSD",
+      "text": "art. 92 §1 KW w zw. z § 90 ust. 2 i § 92 albo § 90 ust. 4 i § 92 ZSD",
       "tax": "800",
       "points": 5,
       "code": "C 18",
       "law": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego,podlega karze grzywny albo karze nagany",
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "art. 8 ust. 1 PRD Osoba niepełnosprawna legitymująca się kartą parkingową kierująca pojazdem samochodowym oznaczonym tą kartą, może nie stosować się do niektórych znaków drogowych dotyczących zakazu ruchu lub postoju, w zakresie określonym przepisami o których mowa w art. 7 ust. 2 PRD",
+        "2": "art. 8 ust. 2 pkt 1 PRD Przepis ust. 1 stosuje się również do kierującego pojazdem, który przewozi osobę niepełnosprawną legitymującą się kartą parkingową",
+        "3": "art. 8 ust. 2 pkt 2 PRD Przepis ust. 1 stosuje się również do kierującego pojazdem należącym do placówki, o której mowa w ust. 3a pkt 3, przewożącego osobę mającą znacznie ograniczone możliwości samodzielnego poruszania się, pozostającą pod opieką takiej placówki",
+        "4": "art. 7 ust. 2 PRD Minister właściwy do spraw transportu i minister właściwy do spraw wewnętrznych, w porozumieniu z Ministrem Obrony Narodowej, uwzględniając w szczególności konieczność dostosowania sygnałów drogowych do postanowień umów międzynarodowych, określi, w drodze rozporządzenia, znaki i sygnały obowiązujące w ruchu drogowym, ich znaczenie i zakres obowiązywania",
+        "5": "§ 90 ust. 2 ZSD Znak P-18 „stanowisko postojowe” wyznacza miejsce przeznaczone do postoju pojazdów",
+        "6": "§ 92 ZSD Znak P-24 „miejsce dla pojazdu osoby niepełnosprawnej” oznacza, że stanowisko postojowe, na którym znak\numieszczono, jest przeznaczone dla pojazdu samochodowego osób, o których mowa w art. 8 ust. 1 i 2 PRD",
+        "7": "§ 90 ust. 4 ZSD Znak P-20 „koperta” wyznacza stanowisko postojowe zastrzeżone dla określonego rodzaju pojazdów"
+      },
       "path": "pictogram/invalid-7.png"
     },
     {
@@ -4140,7 +4335,7 @@
       "points": 1,
       "code": "C 15",
       "law": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego,podlega karze grzywny albo karze nagany",
-      "paragraph": "",
+      "paragraph": "§ 53 ZSD Znak D-19 „postój taksówek” oznacza miejsce przeznaczone na postój taksówek, z wyjątkiem taksówek zajętych",
       "path": null
     },
     {
@@ -4151,7 +4346,15 @@
       "points": 5,
       "code": "C 09 (lub C10 dla znaków P)",
       "law": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego,podlega karze grzywny albo karze nagany",
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "§ 72 ust. 1 ZSD Umieszczony obok jezdni znak F-10 „kierunki na pasach ruchu” wskazuje dozwolone, zgodnie ze strzałkami\numieszczonymi na znaku, kierunki jazdy z poszczególnych pasów ruchu",
+        "2": "§ 72 ust. 2 ZSD Umieszczony nad pasem ruchu znak F-11 „kierunki na pasie ruchu” wskazuje dozwolone, zgodnie ze strzałkami\numieszczonymi na znaku, kierunki jazdy z pasa ruchu, nad którym znak został umieszczony",
+        "3": "§ 72 ust. 3 ZSD Umieszczona na znaku F-10 lub F-11 strzałka zezwalająca na skręcanie w lewo ze skrajnego lewego pasa ruchu oznacza\ntakże zezwolenie na zawracanie, chyba że jest to zabronione znakiem B-23 lub ruch jest kierowany sygnalizatorem S-3",
+        "4": "§ 87 ust. 1 pkt 1 ZSD Znaki P-8a „strzałka kierunkowa na wprost oznaczają, że jazda z pasa ruchu, na którym są umieszczone, jest dozwolona tylko w kierunku wskazanym strzałką; połączone\nsymbole znaków P-8a, P-8b lub P-8c oznaczają zezwolenie na ruch w kierunkach wskazanych strzałkami kierunkowymi",
+        "5": "§ 87 ust. 1 pkt 2 ZSD Znaki P-8b „strzałka kierunkowa do skręcania oznaczają, że jazda z pasa ruchu, na którym są umieszczone, jest dozwolona tylko w kierunku wskazanym strzałką; połączone\nsymbole znaków P-8a, P-8b lub P-8c oznaczają zezwolenie na ruch w kierunkach wskazanych strzałkami kierunkowymi",
+        "6": "§ 87 ust. 1 pkt 3 ZSD Znaki P-8c „strzałka kierunkowa do zawracania oznaczają, że jazda z pasa ruchu, na którym są umieszczone, jest dozwolona tylko w kierunku wskazanym strzałką; połączone\nsymbole znaków P-8a, P-8b lub P-8c oznaczają zezwolenie na ruch w kierunkach wskazanych strzałkami kierunkowymi",
+        "7": "§ 87 ust. 2 ZSD Strzałka kierunkowa zezwalająca na skręcanie w lewo, umieszczona na skrajnym lewym pasie ruchu, oznacza także\nzezwolenie na zawracanie, chyba że jest to zabronione znakiem pionowym B-23 lub ruch jest kierowany sygnalizatorem S-3"
+      },
       "path": "road_sign/F/F-10.png"
     },
     {
@@ -4162,7 +4365,7 @@
       "points": 1,
       "code": "C 15",
       "law": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego,podlega karze grzywny albo karze nagany",
-      "paragraph": "",
+      "paragraph": "§ 81 ust. 4 ZSD Znak BT-4 „stop – zwrotnica eksploatowana jednostronnie” oznacza zakaz wjazdu kierującego tramwajem na zwrotnicę\nbez zatrzymania się przed zwrotnicą i obowiązek sprawdzenia, czy położenie iglicy jest prawidłowe",
       "path": null
     },
     {
@@ -4173,7 +4376,10 @@
       "points": 1,
       "code": "C 15",
       "law": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego,podlega karze grzywny albo karze nagany",
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "§ 90 ust. 2 ZSD Znak P-18 „stanowisko postojowe” wyznacza miejsce przeznaczone do postoju pojazdów",
+        "2": "§ 90 ust. 3 ZSD Znak P-19 „linia wyznaczająca pas postojowy” wyznacza pas przeznaczony na postój pojazdów wzdłuż krawędzi\njezdni lub oddziela od niej zatokę postojową"
+      },
       "path": "pictogram/p1819.png"
     },
     {
@@ -4184,7 +4390,7 @@
       "points": 1,
       "code": "C 15",
       "law": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego,podlega karze grzywny albo karze nagany",
-      "paragraph": "",
+      "paragraph": "§ 90 ust. 4 ZSD Znak P-20 „koperta” wyznacza stanowisko postojowe zastrzeżone dla określonego rodzaju pojazdów",
       "path": "road_sign/P/P-20.png"
     },
     {
@@ -4194,8 +4400,8 @@
       "tax": "200",
       "points": null,
       "code": "null",
-      "\"paragraph\": \"\"law": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego,podlega karze grzywny albo karze nagany",
-      "paragraph": "",
+      "law": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego,podlega karze grzywny albo karze nagany",
+      "paragraph": "§ 98 ust. 2 pkt 2 ZSD Sygnały świetlne dla pieszych nadawane przez sygnalizator S-5 oznaczają sygnał czerwony – zakaz wejścia na przejście",
       "path": "pictogram/red_pedestrian.png"
     },
     {
@@ -4206,7 +4412,30 @@
       "points": null,
       "code": "null",
       "law": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego,podlega karze grzywny albo karze nagany",
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "§ 100 ZSD Sygnały świetlne, o których mowa w § 95–97 i § 98 ust. 1, 4 i 5, dotyczą także kolumn pieszych, jeźdźców i poganiaczy",
+        "2": "§95 ust. 1 pkt 1 ZSD Sygnały świetlne nadawane przez sygnalizator S-1 oznaczają sygnał zielony – zezwolenie na wjazd za sygnalizator",
+        "3": "§95 ust. 1 pkt 2 ZSD Sygnały świetlne nadawane przez sygnalizator S-1 oznaczają sygnał żółty – zakaz wjazdu za sygnalizator, chyba że w chwili zapalenia tego sygnału pojazd znajduje się tak blisko\nsygnalizatora, że nie może być zatrzymany przed nim bez gwałtownego hamowania; sygnał ten oznacza jednocześnie,\nże za chwilę zapali się sygnał czerwony",
+        "4": "§95 ust. 1 pkt 3 ZSD Sygnały świetlne nadawane przez sygnalizator S-1 oznaczają sygnał czerwony – zakaz wjazdu za sygnalizator",
+        "5": "§95 ust. 1 pkt 4 ZSD Sygnały świetlne nadawane przez sygnalizator S-1 oznaczają sygnały czerwony i żółty, nadawane jednocześnie – zakaz wjazdu za sygnalizator; sygnały te oznaczają także, że za\nchwilę zapali się sygnał zielony",
+        "6": "§95 ust. 2 pkt 1 ZSD Sygnał zielony nie zezwala na wjazd za sygnalizator, jeżeli ruch pojazdu utrudniłby opuszczenie jezdni pieszym lub rowerzystom",
+        "7": "§95 ust. 2 pkt 2 ZSD Sygnał zielony nie zezwala na wjazd za sygnalizator, jeżeli ze względu na warunki ruchu na skrzyżowaniu lub za nim opuszczenie skrzyżowania nie byłoby możliwe przed zakończeniem\nnadawania sygnału zielonego",
+        "8": "§95 ust. 3 ZSD Sygnalizator używany poza skrzyżowaniem do kierowania ruchem na zwężonym odcinku drogi może nadawać sygnały\no dwóch barwach – zielonej i czerwonej",
+        "9": "§95 ust. 4 ZSD Kierujący pojazdem szynowym skręcający na skrzyżowaniu o ruchu kierowanym sygnałami świetlnymi może je\nopuścić, z zastrzeżeniem ust. 1 pkt 2–4, pod warunkiem ustąpienia pierwszeństwa uczestnikom ruchu poruszającym się na\nwprost. Przepisu nie stosuje się na skrzyżowaniu o ruchu okrężnym oznaczonym znakami C-12",
+        "10": "§95a ust. 1 ZSD Sygnały świetlne nadawane przez sygnalizator S-1a dotyczą kierujących rowerem, znajdujących się na części\ndrogi przeznaczonej tylko do ruchu rowerów lub wjeżdżających na tę część drogi",
+        "11": "§95a ust. 2 ZSD Przepisy § 95 ust. 1 i 2 stosuje się odpowiednio do sygnałów nadawanych przez sygnalizator S-1a",
+        "12": "§96 ust. 1 ZSD Nadawany przez sygnalizator S-2 sygnał czerwony wraz z sygnałem w kształcie zielonej strzałki oznacza, że\ndozwolone jest skręcanie w kierunku wskazanym strzałką w najbliższą jezdnię na skrzyżowaniu, z zastrzeżeniem ust. 3",
+        "13": "§96 ust. 2 ZSD Sygnał w kształcie zielonej strzałki, nadawany przez sygnalizator S-2, zezwalający na skręcanie w lewo, zezwala\nrównież na zawracanie z lewego skrajnego pasa ruchu, chyba że jest to zabronione znakiem B-23",
+        "14": "§96 ust. 3 ZSD Skręcanie lub zawracanie, o których mowa w ust. 1 i 2, jest dozwolone pod warunkiem, że kierujący zatrzyma się\nprzed sygnalizatorem i nie spowoduje utrudnienia ruchu innym jego uczestnikom",
+        "15": "§97 ust. 1 ZSD Sygnały świetlne nadawane przez sygnalizator kierunkowy S-3 dotyczą kierujących jadących w kierunkach\nwskazanych strzałką (strzałkami)",
+        "16": "§97 ust. 2 ZSD Przepisy § 95 ust. 1 i 2 stosuje się odpowiednio do sygnałów nadawanych przez sygnalizator kierunkowy S-3",
+        "17": "§97 ust. 3 ZSD Sygnał zielony nadawany przez sygnalizator kierunkowy S-3 oznacza, że podczas jazdy we wskazanym kierunku nie\nwystępuje kolizja z innymi uczestnikami ruchu",
+        "18": "§97 ust. 4 ZSD Sygnalizatory kierunkowe S-3 nadające sygnały przeznaczone tylko dla pojazdów skręcających w lewo mogą nie być\numieszczone po prawej stronie drogi",
+        "19": "§ 98 ust. 1 pkt 1 ZSD Sygnały świetlne nadawane przez sygnalizator S-4 oznaczają sygnał zielony – zezwolenie na wjazd na pas ruchu, nad którym sygnalizator jest umieszczony",
+        "20": "§ 98 ust. 1 pkt 2 ZSD Sygnały świetlne nadawane przez sygnalizator S-4 oznaczają sygnał czerwony – zakaz wjazdu na pas ruchu, nad którym sygnalizator jest umieszczony",
+        "21": "§ 98 ust. 4 ZSD Sygnał świetlny stały lub migający, nadawany przez sygnalizator S-7, oznacza nakaz opuszczenia pasa ruchu, nad\nktórym sygnalizator jest umieszczony, i wjazdu na część jezdni znajdującą się po stronie wskazanej strzałką",
+        "22": "§ 98 ust. 5 ZSD Sygnał czerwony migający lub dwa na przemian migające sygnały czerwone oznaczają zakaz wjazdu za sygnalizator\nlub inne urządzenie nadające te sygnały"
+      },
       "path": null
     },
     {
@@ -4217,7 +4446,46 @@
       "points": 6,
       "code": "C 02",
       "law": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego,podlega karze grzywny albo karze nagany",
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "§95 ust. 1 pkt 1 ZSD Sygnały świetlne nadawane przez sygnalizator S-1 oznaczają sygnał zielony – zezwolenie na wjazd za sygnalizator",
+        "2": "§95 ust. 1 pkt 2 ZSD Sygnały świetlne nadawane przez sygnalizator S-1 oznaczają sygnał żółty – zakaz wjazdu za sygnalizator, chyba że w chwili zapalenia tego sygnału pojazd znajduje się tak blisko\nsygnalizatora, że nie może być zatrzymany przed nim bez gwałtownego hamowania; sygnał ten oznacza jednocześnie,\nże za chwilę zapali się sygnał czerwony",
+        "3": "§95 ust. 1 pkt 3 ZSD Sygnały świetlne nadawane przez sygnalizator S-1 oznaczają sygnał czerwony – zakaz wjazdu za sygnalizator",
+        "4": "§95 ust. 1 pkt 4 ZSD Sygnały świetlne nadawane przez sygnalizator S-1 oznaczają sygnały czerwony i żółty, nadawane jednocześnie – zakaz wjazdu za sygnalizator; sygnały te oznaczają także, że za\nchwilę zapali się sygnał zielony",
+        "5": "§95 ust. 2 pkt 1 ZSD Sygnał zielony nie zezwala na wjazd za sygnalizator, jeżeli ruch pojazdu utrudniłby opuszczenie jezdni pieszym lub rowerzystom",
+        "6": "§95 ust. 2 pkt 2 ZSD Sygnał zielony nie zezwala na wjazd za sygnalizator, jeżeli ze względu na warunki ruchu na skrzyżowaniu lub za nim opuszczenie skrzyżowania nie byłoby możliwe przed zakończeniem\nnadawania sygnału zielonego",
+        "7": "§95 ust. 3 ZSD Sygnalizator używany poza skrzyżowaniem do kierowania ruchem na zwężonym odcinku drogi może nadawać sygnały\no dwóch barwach – zielonej i czerwonej",
+        "8": "§95 ust. 4 ZSD Kierujący pojazdem szynowym skręcający na skrzyżowaniu o ruchu kierowanym sygnałami świetlnymi może je\nopuścić, z zastrzeżeniem ust. 1 pkt 2–4, pod warunkiem ustąpienia pierwszeństwa uczestnikom ruchu poruszającym się na\nwprost. Przepisu nie stosuje się na skrzyżowaniu o ruchu okrężnym oznaczonym znakami C-12",
+        "9": "§95a ust. 1 ZSD Sygnały świetlne nadawane przez sygnalizator S-1a dotyczą kierujących rowerem, znajdujących się na części\ndrogi przeznaczonej tylko do ruchu rowerów lub wjeżdżających na tę część drogi",
+        "10": "§95a ust. 2 ZSD Przepisy § 95 ust. 1 i 2 stosuje się odpowiednio do sygnałów nadawanych przez sygnalizator S-1a",
+        "11": "§96 ust. 1 ZSD Nadawany przez sygnalizator S-2 sygnał czerwony wraz z sygnałem w kształcie zielonej strzałki oznacza, że\ndozwolone jest skręcanie w kierunku wskazanym strzałką w najbliższą jezdnię na skrzyżowaniu, z zastrzeżeniem ust. 3",
+        "12": "§96 ust. 2 ZSD Sygnał w kształcie zielonej strzałki, nadawany przez sygnalizator S-2, zezwalający na skręcanie w lewo, zezwala\nrównież na zawracanie z lewego skrajnego pasa ruchu, chyba że jest to zabronione znakiem B-23",
+        "13": "§96 ust. 3 ZSD Skręcanie lub zawracanie, o których mowa w ust. 1 i 2, jest dozwolone pod warunkiem, że kierujący zatrzyma się\nprzed sygnalizatorem i nie spowoduje utrudnienia ruchu innym jego uczestnikom",
+        "14": "§97 ust. 1 ZSD Sygnały świetlne nadawane przez sygnalizator kierunkowy S-3 dotyczą kierujących jadących w kierunkach\nwskazanych strzałką (strzałkami)",
+        "15": "§97 ust. 2 ZSD Przepisy § 95 ust. 1 i 2 stosuje się odpowiednio do sygnałów nadawanych przez sygnalizator kierunkowy S-3",
+        "16": "§97 ust. 3 ZSD Sygnał zielony nadawany przez sygnalizator kierunkowy S-3 oznacza, że podczas jazdy we wskazanym kierunku nie\nwystępuje kolizja z innymi uczestnikami ruchu",
+        "17": "§97 ust. 4 ZSD Sygnalizatory kierunkowe S-3 nadające sygnały przeznaczone tylko dla pojazdów skręcających w lewo mogą nie być\numieszczone po prawej stronie drogi",
+        "18": "§ 98 ust. 1 pkt 1 ZSD Sygnały świetlne nadawane przez sygnalizator S-4 oznaczają sygnał zielony – zezwolenie na wjazd na pas ruchu, nad którym sygnalizator jest umieszczony",
+        "19": "§ 98 ust. 1 pkt 2 ZSD Sygnały świetlne nadawane przez sygnalizator S-4 oznaczają sygnał czerwony – zakaz wjazdu na pas ruchu, nad którym sygnalizator jest umieszczony",
+        "20": "§ 98 ust. 4 ZSD Sygnał świetlny stały lub migający, nadawany przez sygnalizator S-7, oznacza nakaz opuszczenia pasa ruchu, nad\nktórym sygnalizator jest umieszczony, i wjazdu na część jezdni znajdującą się po stronie wskazanej strzałką",
+        "21": "§ 98 ust. 5 ZSD Sygnał czerwony migający lub dwa na przemian migające sygnały czerwone oznaczają zakaz wjazdu za sygnalizator\nlub inne urządzenie nadające te sygnały",
+        "22": "§102 ust. 1 ZSD Sygnały świetlne dla kierujących autobusami oraz innymi pojazdami wykonującymi odpłatny przewóz osób na\nregularnych liniach, poruszającymi się po wydzielonych dla nich pasach ruchu, są barwy białej",
+        "23": "§102 ust. 2 pkt 1 ZSD Sygnały świetlne, o których mowa w ust. 1, nadawane przez sygnalizator SB oznaczają sygnał w kształcie kreski pionowej – zezwolenie na wjazd za sygnalizator",
+        "24": "§102 ust. 2 pkt 2 ZSD Sygnały świetlne, o których mowa w ust. 1, nadawane przez sygnalizator SB oznaczają sygnał w kształcie dwóch kropek – zakaz wjazdu za sygnalizator; zakaz nie dotyczy kierujących pojazdami, które\nw chwili zapalenia się tego sygnału znajdują się tak blisko sygnalizatora, że nie mogą być zatrzymane przed nim bez\ngwałtownego hamowania; sygnał ten oznacza jednocześnie, że za chwilę zapali się sygnał w kształcie kreski poziomej",
+        "25": "§102 ust. 2 pkt 3 ZSD Sygnały świetlne, o których mowa w ust. 1, nadawane przez sygnalizator SB oznaczają sygnał w kształcie kreski poziomej – zakaz wjazdu za sygnalizator; takie samo znaczenie mają wyświetlane jednocześnie\nsygnały w kształcie kreski poziomej i dwóch kropek oznaczające także, że za chwilę zapali się sygnał w kształcie\nkreski pionowej",
+        "26": "§102 ust. 3 pkt 1 ZSD Sygnał w kształcie kreski pionowej nie zezwala na wjazd za sygnalizator, jeżeli ruch pojazdu utrudniłby opuszczenie jezdni pieszym lub rowerzystom",
+        "27": "§102 ust. 3 pkt 2 ZSD Sygnał w kształcie kreski pionowej nie zezwala na wjazd za sygnalizator, jeżeli ze względu na warunki ruchu na skrzyżowaniu lub za nim opuszczenie skrzyżowania nie byłoby możliwe przed zakończeniem\nnadawania sygnału zezwalającego na wjazd za sygnalizator",
+        "28": "§102 ust. 4 ZSD Przepis § 99 stosuje się odpowiednio",
+        "29": "§104 ust. 1 pkt 1 ZSD Sygnały świetlne dla kierujących tramwajami nadawane przez sygnalizator ST oznaczają sygnał w kształcie kreski pionowej – zezwolenie na wjazd za sygnalizator",
+        "30": "§104 ust. 1 pkt 2 ZSD Sygnały świetlne dla kierujących tramwajami nadawane przez sygnalizator ST oznaczają sygnał w kształcie kreski pionowej migający – zakaz wjazdu za sygnalizator; zakaz nie dotyczy kierujących tramwajami,\nktóre w chwili zapalenia się tego sygnału znajdują się tak blisko sygnalizatora, że nie mogą być zatrzymane\nprzed nim bez gwałtownego hamowania; sygnał ten oznacza jednocześnie, że za chwilę zapali się sygnał w kształcie\nkreski poziomej",
+        "31": "§104 ust. 1 pkt 3 ZSD Sygnały świetlne dla kierujących tramwajami nadawane przez sygnalizator ST oznaczają sygnał w kształcie kreski poziomej – zakaz wjazdu za sygnalizator",
+        "32": "§104 ust. 2 pkt 1 ZSD Sygnał w kształcie kreski pionowej nie zezwala na wjazd za sygnalizator, jeżeli ruch tramwaju utrudniłby opuszczenie jezdni pieszym lub rowerzystom",
+        "33": "§104 ust. 2 pkt 2 ZSD Sygnał w kształcie kreski pionowej nie zezwala na wjazd za sygnalizator, jeżeli ze względu na warunki ruchu na skrzyżowaniu lub za nim opuszczenie skrzyżowania nie byłoby możliwe przed zakończeniem\nnadawania sygnału zezwalającego na wjazd za sygnalizator",
+        "34": "§106 ust. 1 ZSD Sygnały nadawane przez sygnalizatory kierunkowe STK dotyczą tramwajów jadących w kierunkach wskazanych\nprzez strzałki umieszczone na tabliczce nad sygnalizatorem; przepis § 104 ust. 1 pkt 1 i 3 stosuje się odpowiednio",
+        "35": "§106 ust. 2 pkt 1 ZSD Sygnały kierunkowe dla kierujących tramwajami nadawane przez sygnalizator STT oznaczają STT-1 – zakaz wjazdu za sygnalizator",
+        "36": "§106 ust. 2 pkt 2 ZSD Sygnały kierunkowe dla kierujących tramwajami nadawane przez sygnalizator STT oznaczają STT-2 – zezwolenie na jazdę we wskazanym kierunku (kierunkach); kierunki są oznaczone kropkami wyświetlanymi\nw górnej części sygnalizatora wraz z wyświetlaną kropką w górnej jego części; lewa górna kropka oznacza kierunek\nw lewo, środkowa górna kropka kierunek na wprost, a prawa górna kropka – w prawo",
+        "37": "§106 ust. 3 ZSD Nadawany przez sygnalizatory kierunkowe STK i STT sygnał zezwalający na wjazd oznacza, że przejazd nie ma\nkolizji z innymi kierunkami ruchu",
+        "38": "§106 ust. 4 ZSD Przepisy § 104 ust. 2 stosuje się do sygnałów nadawanych przez sygnalizatory kierunkowe STK i STT"
+      },
       "path": null
     },
     {
@@ -4320,7 +4588,21 @@
       "points": 5,
       "code": "C 08",
       "law": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego,podlega karze grzywny albo karze nagany",
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "§35 ust. 1 pkt 1 ZSD Znaki C-1 „nakaz jazdy w prawo przed znakiem zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "2": "§35 ust. 1 pkt 2 ZSD Znaki C-2 „nakaz jazdy w prawo za znakiem zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "3": "§35 ust. 1 pkt 3 ZSD Znaki C-3 „nakaz jazdy w lewo przed znakiem zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "4": "§35 ust. 1 pkt 4 ZSD Znaki C-4 „nakaz jazdy w lewo za znakiem zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "5": "§35 ust. 1 pkt 5 ZSD Znaki C-5 „nakaz jazdy prosto zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "6": "§35 ust. 1 pkt 6 ZSD Znaki C-6 „nakaz jazdy prosto lub w prawo zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "7": "§35 ust. 1 pkt 7 ZSD Znaki C-7 „nakaz jazdy prosto lub w lewo zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "8": "§35 ust. 1 pkt 8 ZSD Znaki C-8 „nakaz jazdy w prawo lub w lewo zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "9": "§35 ust. 1 pkt 9 ZSD Znaki C-9 „nakaz jazdy z prawej strony znaku zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "10": "§35 ust. 1 pkt 10 ZSD Znaki C-10 „nakaz jazdy z lewej strony znaku zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "11": "§35 ust. 1 pkt 11 ZSD Znaki C-11 „nakaz jazdy z prawej lub lewej strony znaku zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "12": "§35 ust. 2 ZSD Znaki, o których mowa w ust. 1, obowiązują na najbliższym skrzyżowaniu lub w miejscu, gdzie występuje możliwość\nzmiany kierunku jazdy",
+        "13": "§35 ust. 3 ZSD Umieszczona pod znakami C-1 do C-10 tabliczka z napisem „Nie dotyczy” wraz z symbolem pojazdu lub wyrażeniem\nokreślającym pojazd wskazuje, że nakaz nie dotyczy pojazdu określonego tabliczką"
+      },
       "path": "road_sign/C/C-1.png"
     },
     {
@@ -4331,7 +4613,21 @@
       "points": 5,
       "code": "C 08",
       "law": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego,podlega karze grzywny albo karze nagany",
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "§35 ust. 1 pkt 1 ZSD Znaki C-1 „nakaz jazdy w prawo przed znakiem zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "2": "§35 ust. 1 pkt 2 ZSD Znaki C-2 „nakaz jazdy w prawo za znakiem zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "3": "§35 ust. 1 pkt 3 ZSD Znaki C-3 „nakaz jazdy w lewo przed znakiem zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "4": "§35 ust. 1 pkt 4 ZSD Znaki C-4 „nakaz jazdy w lewo za znakiem zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "5": "§35 ust. 1 pkt 5 ZSD Znaki C-5 „nakaz jazdy prosto zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "6": "§35 ust. 1 pkt 6 ZSD Znaki C-6 „nakaz jazdy prosto lub w prawo zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "7": "§35 ust. 1 pkt 7 ZSD Znaki C-7 „nakaz jazdy prosto lub w lewo zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "8": "§35 ust. 1 pkt 8 ZSD Znaki C-8 „nakaz jazdy w prawo lub w lewo zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "9": "§35 ust. 1 pkt 9 ZSD Znaki C-9 „nakaz jazdy z prawej strony znaku zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "10": "§35 ust. 1 pkt 10 ZSD Znaki C-10 „nakaz jazdy z lewej strony znaku zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "11": "§35 ust. 1 pkt 11 ZSD Znaki C-11 „nakaz jazdy z prawej lub lewej strony znaku zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "12": "§35 ust. 2 ZSD Znaki, o których mowa w ust. 1, obowiązują na najbliższym skrzyżowaniu lub w miejscu, gdzie występuje możliwość\nzmiany kierunku jazdy",
+        "13": "§35 ust. 3 ZSD Umieszczona pod znakami C-1 do C-10 tabliczka z napisem „Nie dotyczy” wraz z symbolem pojazdu lub wyrażeniem\nokreślającym pojazd wskazuje, że nakaz nie dotyczy pojazdu określonego tabliczką"
+      },
       "path": "road_sign/C/C-2.png"
     },
     {
@@ -4342,7 +4638,21 @@
       "points": 5,
       "code": "C 08",
       "law": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego,podlega karze grzywny albo karze nagany",
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "§35 ust. 1 pkt 1 ZSD Znaki C-1 „nakaz jazdy w prawo przed znakiem zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "2": "§35 ust. 1 pkt 2 ZSD Znaki C-2 „nakaz jazdy w prawo za znakiem zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "3": "§35 ust. 1 pkt 3 ZSD Znaki C-3 „nakaz jazdy w lewo przed znakiem zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "4": "§35 ust. 1 pkt 4 ZSD Znaki C-4 „nakaz jazdy w lewo za znakiem zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "5": "§35 ust. 1 pkt 5 ZSD Znaki C-5 „nakaz jazdy prosto zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "6": "§35 ust. 1 pkt 6 ZSD Znaki C-6 „nakaz jazdy prosto lub w prawo zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "7": "§35 ust. 1 pkt 7 ZSD Znaki C-7 „nakaz jazdy prosto lub w lewo zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "8": "§35 ust. 1 pkt 8 ZSD Znaki C-8 „nakaz jazdy w prawo lub w lewo zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "9": "§35 ust. 1 pkt 9 ZSD Znaki C-9 „nakaz jazdy z prawej strony znaku zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "10": "§35 ust. 1 pkt 10 ZSD Znaki C-10 „nakaz jazdy z lewej strony znaku zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "11": "§35 ust. 1 pkt 11 ZSD Znaki C-11 „nakaz jazdy z prawej lub lewej strony znaku zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "12": "§35 ust. 2 ZSD Znaki, o których mowa w ust. 1, obowiązują na najbliższym skrzyżowaniu lub w miejscu, gdzie występuje możliwość\nzmiany kierunku jazdy",
+        "13": "§35 ust. 3 ZSD Umieszczona pod znakami C-1 do C-10 tabliczka z napisem „Nie dotyczy” wraz z symbolem pojazdu lub wyrażeniem\nokreślającym pojazd wskazuje, że nakaz nie dotyczy pojazdu określonego tabliczką"
+      },
       "path": "road_sign/C/C-3.png"
     },
     {
@@ -4353,7 +4663,21 @@
       "points": 5,
       "code": "C 08",
       "law": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego,podlega karze grzywny albo karze nagany",
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "§35 ust. 1 pkt 1 ZSD Znaki C-1 „nakaz jazdy w prawo przed znakiem zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "2": "§35 ust. 1 pkt 2 ZSD Znaki C-2 „nakaz jazdy w prawo za znakiem zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "3": "§35 ust. 1 pkt 3 ZSD Znaki C-3 „nakaz jazdy w lewo przed znakiem zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "4": "§35 ust. 1 pkt 4 ZSD Znaki C-4 „nakaz jazdy w lewo za znakiem zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "5": "§35 ust. 1 pkt 5 ZSD Znaki C-5 „nakaz jazdy prosto zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "6": "§35 ust. 1 pkt 6 ZSD Znaki C-6 „nakaz jazdy prosto lub w prawo zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "7": "§35 ust. 1 pkt 7 ZSD Znaki C-7 „nakaz jazdy prosto lub w lewo zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "8": "§35 ust. 1 pkt 8 ZSD Znaki C-8 „nakaz jazdy w prawo lub w lewo zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "9": "§35 ust. 1 pkt 9 ZSD Znaki C-9 „nakaz jazdy z prawej strony znaku zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "10": "§35 ust. 1 pkt 10 ZSD Znaki C-10 „nakaz jazdy z lewej strony znaku zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "11": "§35 ust. 1 pkt 11 ZSD Znaki C-11 „nakaz jazdy z prawej lub lewej strony znaku zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "12": "§35 ust. 2 ZSD Znaki, o których mowa w ust. 1, obowiązują na najbliższym skrzyżowaniu lub w miejscu, gdzie występuje możliwość\nzmiany kierunku jazdy",
+        "13": "§35 ust. 3 ZSD Umieszczona pod znakami C-1 do C-10 tabliczka z napisem „Nie dotyczy” wraz z symbolem pojazdu lub wyrażeniem\nokreślającym pojazd wskazuje, że nakaz nie dotyczy pojazdu określonego tabliczką"
+      },
       "path": "road_sign/C/C-4.png"
     },
     {
@@ -4364,7 +4688,21 @@
       "points": 5,
       "code": "C 08",
       "law": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego,podlega karze grzywny albo karze nagany",
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "§35 ust. 1 pkt 1 ZSD Znaki C-1 „nakaz jazdy w prawo przed znakiem zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "2": "§35 ust. 1 pkt 2 ZSD Znaki C-2 „nakaz jazdy w prawo za znakiem zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "3": "§35 ust. 1 pkt 3 ZSD Znaki C-3 „nakaz jazdy w lewo przed znakiem zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "4": "§35 ust. 1 pkt 4 ZSD Znaki C-4 „nakaz jazdy w lewo za znakiem zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "5": "§35 ust. 1 pkt 5 ZSD Znaki C-5 „nakaz jazdy prosto zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "6": "§35 ust. 1 pkt 6 ZSD Znaki C-6 „nakaz jazdy prosto lub w prawo zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "7": "§35 ust. 1 pkt 7 ZSD Znaki C-7 „nakaz jazdy prosto lub w lewo zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "8": "§35 ust. 1 pkt 8 ZSD Znaki C-8 „nakaz jazdy w prawo lub w lewo zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "9": "§35 ust. 1 pkt 9 ZSD Znaki C-9 „nakaz jazdy z prawej strony znaku zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "10": "§35 ust. 1 pkt 10 ZSD Znaki C-10 „nakaz jazdy z lewej strony znaku zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "11": "§35 ust. 1 pkt 11 ZSD Znaki C-11 „nakaz jazdy z prawej lub lewej strony znaku zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "12": "§35 ust. 2 ZSD Znaki, o których mowa w ust. 1, obowiązują na najbliższym skrzyżowaniu lub w miejscu, gdzie występuje możliwość\nzmiany kierunku jazdy",
+        "13": "§35 ust. 3 ZSD Umieszczona pod znakami C-1 do C-10 tabliczka z napisem „Nie dotyczy” wraz z symbolem pojazdu lub wyrażeniem\nokreślającym pojazd wskazuje, że nakaz nie dotyczy pojazdu określonego tabliczką"
+      },
       "path": "road_sign/C/C-5.png"
     },
     {
@@ -4375,7 +4713,21 @@
       "points": 5,
       "code": "C 08",
       "law": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego,podlega karze grzywny albo karze nagany",
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "§35 ust. 1 pkt 1 ZSD Znaki C-1 „nakaz jazdy w prawo przed znakiem zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "2": "§35 ust. 1 pkt 2 ZSD Znaki C-2 „nakaz jazdy w prawo za znakiem zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "3": "§35 ust. 1 pkt 3 ZSD Znaki C-3 „nakaz jazdy w lewo przed znakiem zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "4": "§35 ust. 1 pkt 4 ZSD Znaki C-4 „nakaz jazdy w lewo za znakiem zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "5": "§35 ust. 1 pkt 5 ZSD Znaki C-5 „nakaz jazdy prosto zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "6": "§35 ust. 1 pkt 6 ZSD Znaki C-6 „nakaz jazdy prosto lub w prawo zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "7": "§35 ust. 1 pkt 7 ZSD Znaki C-7 „nakaz jazdy prosto lub w lewo zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "8": "§35 ust. 1 pkt 8 ZSD Znaki C-8 „nakaz jazdy w prawo lub w lewo zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "9": "§35 ust. 1 pkt 9 ZSD Znaki C-9 „nakaz jazdy z prawej strony znaku zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "10": "§35 ust. 1 pkt 10 ZSD Znaki C-10 „nakaz jazdy z lewej strony znaku zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "11": "§35 ust. 1 pkt 11 ZSD Znaki C-11 „nakaz jazdy z prawej lub lewej strony znaku zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "12": "§35 ust. 2 ZSD Znaki, o których mowa w ust. 1, obowiązują na najbliższym skrzyżowaniu lub w miejscu, gdzie występuje możliwość\nzmiany kierunku jazdy",
+        "13": "§35 ust. 3 ZSD Umieszczona pod znakami C-1 do C-10 tabliczka z napisem „Nie dotyczy” wraz z symbolem pojazdu lub wyrażeniem\nokreślającym pojazd wskazuje, że nakaz nie dotyczy pojazdu określonego tabliczką"
+      },
       "path": "road_sign/C/C-6.png"
     },
     {
@@ -4386,7 +4738,21 @@
       "points": 5,
       "code": "C 08",
       "law": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego,podlega karze grzywny albo karze nagany",
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "§35 ust. 1 pkt 1 ZSD Znaki C-1 „nakaz jazdy w prawo przed znakiem zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "2": "§35 ust. 1 pkt 2 ZSD Znaki C-2 „nakaz jazdy w prawo za znakiem zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "3": "§35 ust. 1 pkt 3 ZSD Znaki C-3 „nakaz jazdy w lewo przed znakiem zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "4": "§35 ust. 1 pkt 4 ZSD Znaki C-4 „nakaz jazdy w lewo za znakiem zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "5": "§35 ust. 1 pkt 5 ZSD Znaki C-5 „nakaz jazdy prosto zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "6": "§35 ust. 1 pkt 6 ZSD Znaki C-6 „nakaz jazdy prosto lub w prawo zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "7": "§35 ust. 1 pkt 7 ZSD Znaki C-7 „nakaz jazdy prosto lub w lewo zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "8": "§35 ust. 1 pkt 8 ZSD Znaki C-8 „nakaz jazdy w prawo lub w lewo zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "9": "§35 ust. 1 pkt 9 ZSD Znaki C-9 „nakaz jazdy z prawej strony znaku zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "10": "§35 ust. 1 pkt 10 ZSD Znaki C-10 „nakaz jazdy z lewej strony znaku zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "11": "§35 ust. 1 pkt 11 ZSD Znaki C-11 „nakaz jazdy z prawej lub lewej strony znaku zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "12": "§35 ust. 2 ZSD Znaki, o których mowa w ust. 1, obowiązują na najbliższym skrzyżowaniu lub w miejscu, gdzie występuje możliwość\nzmiany kierunku jazdy",
+        "13": "§35 ust. 3 ZSD Umieszczona pod znakami C-1 do C-10 tabliczka z napisem „Nie dotyczy” wraz z symbolem pojazdu lub wyrażeniem\nokreślającym pojazd wskazuje, że nakaz nie dotyczy pojazdu określonego tabliczką"
+      },
       "path": "road_sign/C/C-7.png"
     },
     {
@@ -4397,7 +4763,21 @@
       "points": 5,
       "code": "C 08",
       "law": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego,podlega karze grzywny albo karze nagany",
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "§35 ust. 1 pkt 1 ZSD Znaki C-1 „nakaz jazdy w prawo przed znakiem zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "2": "§35 ust. 1 pkt 2 ZSD Znaki C-2 „nakaz jazdy w prawo za znakiem zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "3": "§35 ust. 1 pkt 3 ZSD Znaki C-3 „nakaz jazdy w lewo przed znakiem zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "4": "§35 ust. 1 pkt 4 ZSD Znaki C-4 „nakaz jazdy w lewo za znakiem zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "5": "§35 ust. 1 pkt 5 ZSD Znaki C-5 „nakaz jazdy prosto zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "6": "§35 ust. 1 pkt 6 ZSD Znaki C-6 „nakaz jazdy prosto lub w prawo zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "7": "§35 ust. 1 pkt 7 ZSD Znaki C-7 „nakaz jazdy prosto lub w lewo zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "8": "§35 ust. 1 pkt 8 ZSD Znaki C-8 „nakaz jazdy w prawo lub w lewo zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "9": "§35 ust. 1 pkt 9 ZSD Znaki C-9 „nakaz jazdy z prawej strony znaku zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "10": "§35 ust. 1 pkt 10 ZSD Znaki C-10 „nakaz jazdy z lewej strony znaku zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "11": "§35 ust. 1 pkt 11 ZSD Znaki C-11 „nakaz jazdy z prawej lub lewej strony znaku zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "12": "§35 ust. 2 ZSD Znaki, o których mowa w ust. 1, obowiązują na najbliższym skrzyżowaniu lub w miejscu, gdzie występuje możliwość\nzmiany kierunku jazdy",
+        "13": "§35 ust. 3 ZSD Umieszczona pod znakami C-1 do C-10 tabliczka z napisem „Nie dotyczy” wraz z symbolem pojazdu lub wyrażeniem\nokreślającym pojazd wskazuje, że nakaz nie dotyczy pojazdu określonego tabliczką"
+      },
       "path": "road_sign/C/C-8.png"
     },
     {
@@ -4408,7 +4788,21 @@
       "points": 5,
       "code": "C 08",
       "law": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego,podlega karze grzywny albo karze nagany",
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "§35 ust. 1 pkt 1 ZSD Znaki C-1 „nakaz jazdy w prawo przed znakiem zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "2": "§35 ust. 1 pkt 2 ZSD Znaki C-2 „nakaz jazdy w prawo za znakiem zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "3": "§35 ust. 1 pkt 3 ZSD Znaki C-3 „nakaz jazdy w lewo przed znakiem zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "4": "§35 ust. 1 pkt 4 ZSD Znaki C-4 „nakaz jazdy w lewo za znakiem zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "5": "§35 ust. 1 pkt 5 ZSD Znaki C-5 „nakaz jazdy prosto zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "6": "§35 ust. 1 pkt 6 ZSD Znaki C-6 „nakaz jazdy prosto lub w prawo zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "7": "§35 ust. 1 pkt 7 ZSD Znaki C-7 „nakaz jazdy prosto lub w lewo zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "8": "§35 ust. 1 pkt 8 ZSD Znaki C-8 „nakaz jazdy w prawo lub w lewo zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "9": "§35 ust. 1 pkt 9 ZSD Znaki C-9 „nakaz jazdy z prawej strony znaku zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "10": "§35 ust. 1 pkt 10 ZSD Znaki C-10 „nakaz jazdy z lewej strony znaku zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "11": "§35 ust. 1 pkt 11 ZSD Znaki C-11 „nakaz jazdy z prawej lub lewej strony znaku zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "12": "§35 ust. 2 ZSD Znaki, o których mowa w ust. 1, obowiązują na najbliższym skrzyżowaniu lub w miejscu, gdzie występuje możliwość\nzmiany kierunku jazdy",
+        "13": "§35 ust. 3 ZSD Umieszczona pod znakami C-1 do C-10 tabliczka z napisem „Nie dotyczy” wraz z symbolem pojazdu lub wyrażeniem\nokreślającym pojazd wskazuje, że nakaz nie dotyczy pojazdu określonego tabliczką"
+      },
       "path": "road_sign/C/C-9.png"
     },
     {
@@ -4419,7 +4813,21 @@
       "points": 5,
       "code": "C 08",
       "law": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego,podlega karze grzywny albo karze nagany",
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "§35 ust. 1 pkt 1 ZSD Znaki C-1 „nakaz jazdy w prawo przed znakiem zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "2": "§35 ust. 1 pkt 2 ZSD Znaki C-2 „nakaz jazdy w prawo za znakiem zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "3": "§35 ust. 1 pkt 3 ZSD Znaki C-3 „nakaz jazdy w lewo przed znakiem zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "4": "§35 ust. 1 pkt 4 ZSD Znaki C-4 „nakaz jazdy w lewo za znakiem zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "5": "§35 ust. 1 pkt 5 ZSD Znaki C-5 „nakaz jazdy prosto zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "6": "§35 ust. 1 pkt 6 ZSD Znaki C-6 „nakaz jazdy prosto lub w prawo zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "7": "§35 ust. 1 pkt 7 ZSD Znaki C-7 „nakaz jazdy prosto lub w lewo zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "8": "§35 ust. 1 pkt 8 ZSD Znaki C-8 „nakaz jazdy w prawo lub w lewo zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "9": "§35 ust. 1 pkt 9 ZSD Znaki C-9 „nakaz jazdy z prawej strony znaku zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "10": "§35 ust. 1 pkt 10 ZSD Znaki C-10 „nakaz jazdy z lewej strony znaku zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "11": "§35 ust. 1 pkt 11 ZSD Znaki C-11 „nakaz jazdy z prawej lub lewej strony znaku zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "12": "§35 ust. 2 ZSD Znaki, o których mowa w ust. 1, obowiązują na najbliższym skrzyżowaniu lub w miejscu, gdzie występuje możliwość\nzmiany kierunku jazdy",
+        "13": "§35 ust. 3 ZSD Umieszczona pod znakami C-1 do C-10 tabliczka z napisem „Nie dotyczy” wraz z symbolem pojazdu lub wyrażeniem\nokreślającym pojazd wskazuje, że nakaz nie dotyczy pojazdu określonego tabliczką"
+      },
       "path": "road_sign/C/C-10.png"
     },
     {
@@ -4430,7 +4838,21 @@
       "points": 5,
       "code": "C 08",
       "law": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego,podlega karze grzywny albo karze nagany",
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "§35 ust. 1 pkt 1 ZSD Znaki C-1 „nakaz jazdy w prawo przed znakiem zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "2": "§35 ust. 1 pkt 2 ZSD Znaki C-2 „nakaz jazdy w prawo za znakiem zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "3": "§35 ust. 1 pkt 3 ZSD Znaki C-3 „nakaz jazdy w lewo przed znakiem zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "4": "§35 ust. 1 pkt 4 ZSD Znaki C-4 „nakaz jazdy w lewo za znakiem zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "5": "§35 ust. 1 pkt 5 ZSD Znaki C-5 „nakaz jazdy prosto zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "6": "§35 ust. 1 pkt 6 ZSD Znaki C-6 „nakaz jazdy prosto lub w prawo zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "7": "§35 ust. 1 pkt 7 ZSD Znaki C-7 „nakaz jazdy prosto lub w lewo zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "8": "§35 ust. 1 pkt 8 ZSD Znaki C-8 „nakaz jazdy w prawo lub w lewo zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "9": "§35 ust. 1 pkt 9 ZSD Znaki C-9 „nakaz jazdy z prawej strony znaku zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "10": "§35 ust. 1 pkt 10 ZSD Znaki C-10 „nakaz jazdy z lewej strony znaku zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "11": "§35 ust. 1 pkt 11 ZSD Znaki C-11 „nakaz jazdy z prawej lub lewej strony znaku zobowiązują kierującego do ruchu w kierunku zgodnym ze strzałkami; znaki te mogą być umieszczone na przedłużeniu osi\ndrogi (jezdni) lub na samej jezdni",
+        "12": "§35 ust. 2 ZSD Znaki, o których mowa w ust. 1, obowiązują na najbliższym skrzyżowaniu lub w miejscu, gdzie występuje możliwość\nzmiany kierunku jazdy",
+        "13": "§35 ust. 3 ZSD Umieszczona pod znakami C-1 do C-10 tabliczka z napisem „Nie dotyczy” wraz z symbolem pojazdu lub wyrażeniem\nokreślającym pojazd wskazuje, że nakaz nie dotyczy pojazdu określonego tabliczką"
+      },
       "path": "road_sign/C/C-11.png"
     },
     {
@@ -4441,7 +4863,17 @@
       "points": 1,
       "code": "C 15",
       "law": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego,podlega karze grzywny albo karze nagany",
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "§28 ust. 6 pkt 1 ZSD Znaki B-37 „zakaz postoju w dni nieparzyste oznaczają zakaz postoju pojazdów odpowiednio w nieparzyste lub parzyste dni miesiąca; zakaz nie obowiązuje od godziny\n21 do 24; przepisy ust. 1 i 3–5 stosuje się odpowiednio do tych znaków",
+        "2": "§28 ust. 6 pkt 2 ZSD Znaki B-38 „zakaz postoju w dni parzyste oznaczają zakaz postoju pojazdów odpowiednio w nieparzyste lub parzyste dni miesiąca; zakaz nie obowiązuje od godziny\n21 do 24; przepisy ust. 1 i 3–5 stosuje się odpowiednio do tych znaków",
+        "3": "§28 ust. 1 ZSD Znak B-35 „zakaz postoju” oznacza zakaz postoju pojazdu; dopuszczalny czas unieruchomienia pojazdu dłuższy\nniż jedna minuta jest wskazany napisem na znaku albo na umieszczonej pod nim tabliczce",
+        "4": "§28 ust. 3 pkt 1 ZSD Zakaz wyrażony znakiem B-35 lub B-36 dotyczy tej strony drogi, po której znak się znajduje, z wyjątkiem miejsc, gdzie za pomocą znaku dopuszcza się postój\nlub zatrzymanie",
+        "5": "§28 ust. 3 pkt 2 ZSD Zakaz wyrażony znakiem B-35 lub B-36 dotyczy również kolumn pieszych oraz jeźdźców i poganiaczy",
+        "6": "§28 ust. 3 pkt 3 ZSD Zakaz wyrażony znakiem B-35 lub B-36 nie dotyczy pojazdów unieruchomionych ze względu na warunki lub przepisy ruchu drogowego",
+        "7": "§28 ust. 4 ZSD Zakaz wyrażony znakiem B-36 obowiązuje, z zastrzeżeniem § 32 ust. 2, do odwołania lub do miejsca umieszczenia\nznaku B-35",
+        "8": "§28 ust. 5 ZSD Umieszczona pod znakiem B-35 lub B-36 tabliczka T-24 wskazuje, że pojazd pozostawiony w miejscu, w którym\nobowiązuje zakaz wyrażony tym znakiem, zostanie usunięty z drogi na koszt właściciela",
+        "9": "§ 32 ust. 2 ZSD Jeżeli zakaz wyrażony przez znaki B-25, B-26, B-29, B-33, B-35, B-36, B-37 i B-38 nie jest uprzednio odwołany\nznakiem oznaczającym koniec zakazu, to obowiązuje on do najbliższego skrzyżowania; nie dotyczy to skrzyżowania na\ndrodze dwujezdniowej, na którym wlot drogi poprzecznej znajduje się tylko z lewej strony i nie ma połączenia z prawą\njezdnią"
+      },
       "path": "road_sign/B/B-37.png"
     },
     {
@@ -4452,7 +4884,17 @@
       "points": 1,
       "code": "C 15",
       "law": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego,podlega karze grzywny albo karze nagany",
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "§28 ust. 6 pkt 1 ZSD Znaki B-37 „zakaz postoju w dni nieparzyste oznaczają zakaz postoju pojazdów odpowiednio w nieparzyste lub parzyste dni miesiąca; zakaz nie obowiązuje od godziny\n21 do 24; przepisy ust. 1 i 3–5 stosuje się odpowiednio do tych znaków",
+        "2": "§28 ust. 6 pkt 2 ZSD Znaki B-38 „zakaz postoju w dni parzyste oznaczają zakaz postoju pojazdów odpowiednio w nieparzyste lub parzyste dni miesiąca; zakaz nie obowiązuje od godziny\n21 do 24; przepisy ust. 1 i 3–5 stosuje się odpowiednio do tych znaków",
+        "3": "§28 ust. 1 ZSD Znak B-35 „zakaz postoju” oznacza zakaz postoju pojazdu; dopuszczalny czas unieruchomienia pojazdu dłuższy\nniż jedna minuta jest wskazany napisem na znaku albo na umieszczonej pod nim tabliczce",
+        "4": "§28 ust. 3 pkt 1 ZSD Zakaz wyrażony znakiem B-35 lub B-36 dotyczy tej strony drogi, po której znak się znajduje, z wyjątkiem miejsc, gdzie za pomocą znaku dopuszcza się postój\nlub zatrzymanie",
+        "5": "§28 ust. 3 pkt 2 ZSD Zakaz wyrażony znakiem B-35 lub B-36 dotyczy również kolumn pieszych oraz jeźdźców i poganiaczy",
+        "6": "§28 ust. 3 pkt 3 ZSD Zakaz wyrażony znakiem B-35 lub B-36 nie dotyczy pojazdów unieruchomionych ze względu na warunki lub przepisy ruchu drogowego",
+        "7": "§28 ust. 4 ZSD Zakaz wyrażony znakiem B-36 obowiązuje, z zastrzeżeniem § 32 ust. 2, do odwołania lub do miejsca umieszczenia\nznaku B-35",
+        "8": "§28 ust. 5 ZSD Umieszczona pod znakiem B-35 lub B-36 tabliczka T-24 wskazuje, że pojazd pozostawiony w miejscu, w którym\nobowiązuje zakaz wyrażony tym znakiem, zostanie usunięty z drogi na koszt właściciela",
+        "9": "§ 32 ust. 2 ZSD Jeżeli zakaz wyrażony przez znaki B-25, B-26, B-29, B-33, B-35, B-36, B-37 i B-38 nie jest uprzednio odwołany\nznakiem oznaczającym koniec zakazu, to obowiązuje on do najbliższego skrzyżowania; nie dotyczy to skrzyżowania na\ndrodze dwujezdniowej, na którym wlot drogi poprzecznej znajduje się tylko z lewej strony i nie ma połączenia z prawą\njezdnią"
+      },
       "path": "road_sign/B/B-38.png"
     },
     {
@@ -4463,7 +4905,7 @@
       "points": 1,
       "code": "C 15",
       "law": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego,podlega karze grzywny albo karze nagany",
-      "paragraph": "",
+      "paragraph": "§18 ust. 9 ZSD Znak B-8 „zakaz wjazdu pojazdów zaprzęgowych” oznacza zakaz ruchu pojazdów zaprzęgowych oraz jeźdźców\ni poganiaczy",
       "path": "road_sign/B/B-8.png"
     },
     {
@@ -4474,7 +4916,7 @@
       "points": 1,
       "code": "C 15",
       "law": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego,podlega karze grzywny albo karze nagany",
-      "paragraph": "",
+      "paragraph": "§18 ust. 10 ZSD Znak B-9 „zakaz wjazdu rowerów” oznacza zakaz ruchu na jezdni i poboczu rowerów",
       "path": "road_sign/B/B-9.png"
     },
     {
@@ -4485,7 +4927,7 @@
       "points": 1,
       "code": "C 15",
       "law": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego,podlega karze grzywny albo karze nagany",
-      "paragraph": "",
+      "paragraph": "§18 ust. 11 ZSD Znak B-10 „zakaz wjazdu motorowerów” oznacza zakaz ruchu motorowerów",
       "path": "road_sign/B/B-10.png"
     },
     {
@@ -4496,7 +4938,7 @@
       "points": 1,
       "code": "C 15",
       "law": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego,podlega karze grzywny albo karze nagany",
-      "paragraph": "",
+      "paragraph": "§18 ust. 12 ZSD Znak B-11 „zakaz wjazdu wózków rowerowych” oznacza zakaz ruchu wózków rowerowych",
       "path": "road_sign/B/B-11.png"
     },
     {
@@ -4507,7 +4949,7 @@
       "points": 1,
       "code": "C 15",
       "law": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego,podlega karze grzywny albo karze nagany",
-      "paragraph": "",
+      "paragraph": "§18 ust. 13 ZSD Znak B-12 „zakaz wjazdu wózków ręcznych” oznacza zakaz ruchu na jezdni i poboczu wózków ręcznych przeznaczonych\ndo używania na jezdni, prowadzonych, ciągniętych lub pchanych",
       "path": "road_sign/B/B-12.png"
     },
     {
@@ -4518,7 +4960,14 @@
       "points": 3,
       "code": "C 13",
       "law": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego,podlega karze grzywny albo karze nagany",
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "§18 ust. 4 pkt 1 ZSD Znak B-5 „zakaz wjazdu samochodów ciężarowych” oznacza zakaz ruchu samochodów ciężarowych o dopuszczalnej masie całkowitej przekraczającej 3,5 t",
+        "2": "§18 ust. 4 pkt 2 ZSD Znak B-5 „zakaz wjazdu samochodów ciężarowych” oznacza zakaz ruchu ciągników samochodowych",
+        "3": "§18 ust. 4 pkt 3 ZSD Znak B-5 „zakaz wjazdu samochodów ciężarowych” oznacza zakaz ruchu pojazdów specjalnych i używanych do celów specjalnych o dopuszczalnej masie całkowitej przekraczającej 3,5 t",
+        "4": "§18 ust. 4 pkt 4 ZSD Znak B-5 „zakaz wjazdu samochodów ciężarowych” oznacza zakaz ruchu ciągników rolniczych",
+        "5": "§18 ust. 4 pkt 5 ZSD Znak B-5 „zakaz wjazdu samochodów ciężarowych” oznacza zakaz ruchu pojazdów wolnobieżnych",
+        "6": "§18 ust. 5 ZSD Określona na znaku B-5 albo na tabliczce umieszczonej pod nim masa oznacza, że zakaz dotyczy pojazdu (zespołu\npojazdów), którego dopuszczalna masa całkowita przekracza masę podaną na znaku albo na tabliczce"
+      },
       "path": "road_sign/B/B-5.png"
     },
     {
@@ -4529,7 +4978,7 @@
       "points": 2,
       "code": "C 14",
       "law": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego,podlega karze grzywny albo karze nagany",
-      "paragraph": "",
+      "paragraph": "§20 ust. 4 ZSD Znak B-18 „zakaz wjazdu pojazdów o rzeczywistej masie całkowitej ponad ..... t” oznacza zakaz ruchu pojazdów,\nktórych rzeczywista masa całkowita jest większa od wartości podanej na znaku; w przypadku zespołu pojazdów zakaz dotyczy\nich łącznej masy",
       "path": "road_sign/B/B-18.png"
     },
     {
@@ -4540,7 +4989,10 @@
       "points": 2,
       "code": "C 14",
       "law": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego,podlega karze grzywny albo karze nagany",
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "§20 ust. 5 ZSD Znak B-19 „zakaz wjazdu pojazdów o nacisku osi większym niż ..... t” oznacza zakaz ruchu pojazdów, których nacisk\nosi jest większy od nacisku odpowiadającego masie podanej na znaku; w przypadku osi wielokrotnej nacisk żadnej z osi\nskładowych nie może odpowiadać masie większej niż 80% masy podanej na znaku",
+        "2": "§20 ust. 6 ZSD Jeżeli na znaku B-19 podano wartość 8 t lub 10 t, oznacza to dopuszczalny nacisk osi pojedynczej odpowiadający\nmasie do 8 t lub 10 t, a osi wielokrotnej – odpowiednio większej masie, zgodnie z przepisami określającymi warunki techniczne\npojazdów poruszających się po drogach"
+      },
       "path": "road_sign/B/B-19.png"
     },
     {
@@ -4551,7 +5003,7 @@
       "points": 2,
       "code": "C 14",
       "law": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego,podlega karze grzywny albo karze nagany",
-      "paragraph": "",
+      "paragraph": "§20 ust. 1 ZSD Znak B-15 „zakaz wjazdu pojazdów o szerokości ponad ...... m” oznacza zakaz ruchu pojazdów, których szerokość\n(również z ładunkiem) jest większa od wartości podanej na znaku",
       "path": "road_sign/B/B-15.png"
     },
     {
@@ -4562,7 +5014,7 @@
       "points": 2,
       "code": "C 14",
       "law": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego,podlega karze grzywny albo karze nagany",
-      "paragraph": "",
+      "paragraph": "§20 ust. 2 ZSD Znak B-16 „zakaz wjazdu pojazdów o wysokości ponad ...... m” oznacza zakaz ruchu pojazdów, których wysokość\n(również z ładunkiem) jest większa od wartości podanej na znaku",
       "path": "road_sign/B/B-16.png"
     },
     {
@@ -4573,7 +5025,7 @@
       "points": 2,
       "code": "C 14",
       "law": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego,podlega karze grzywny albo karze nagany",
-      "paragraph": "",
+      "paragraph": "§20 ust. 3 ZSD Znak B-17 „zakaz wjazdu pojazdów o długości ponad ...... m” oznacza zakaz ruchu pojazdów lub zespołów pojazdów,\nktórych długość (również z ładunkiem) jest większa od wartości podanej na znaku",
       "path": "road_sign/B/B-17.png"
     },
     {
@@ -4584,7 +5036,11 @@
       "points": 2,
       "code": "C 14",
       "law": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego,podlega karze grzywny albo karze nagany",
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "§19 ust. 1 ZSD Znak B-13 „zakaz wjazdu pojazdów z towarami wybuchowymi lub łatwo zapalnymi” oznacza zakaz ruchu pojazdów\nprzewożących, określone w przepisach o przewozie drogowym towarów niebezpiecznych, towary niebezpieczne\nklas: 1, 3, 4.1, 4.2, 4.3, 5.1, 5.2 lub gazy palne klasy 2 w ilościach, dla których jest wymagane oznakowanie pojazdu tablicami\nostrzegawczymi barwy pomarańczowej",
+        "2": "§19 ust. 2 ZSD Znak B-13a „zakaz wjazdu pojazdów z towarami niebezpiecznymi” oznacza zakaz ruchu pojazdów przewożących,\nokreślone w przepisach o przewozie drogowym towarów niebezpiecznych, towary niebezpieczne w ilościach, dla których\njest wymagane oznakowanie pojazdu tablicami ostrzegawczymi barwy pomarańczowej. Umieszczona pod znakiem tabliczka\nT-31 z literą B, C, D lub E oznaczającą kategorię tunelu lub tabliczka z odpowiednim napisem wskazuje, że zakaz dotyczy\ntylko określonych klas lub grup towarów niebezpiecznych lub określonego sposobu przewozu tych towarów",
+        "3": "§19 ust. 3 ZSD Znak B-14 „zakaz wjazdu pojazdów z towarami, które mogą skazić wodę” oznacza zakaz ruchu pojazdów przewożących,\nokreślone w przepisach o przewozie drogowym towarów niebezpiecznych, towary niebezpieczne klas: 3, 4.3, 6.1, 6.2, 8,\ngazy trujące lub gazy żrące klasy 2, lub towary niebezpieczne zagrażające środowisku klasy 9 w ilościach, dla których jest\nwymagane oznakowanie pojazdu tablicami ostrzegawczymi barwy pomarańczowej"
+      },
       "path": "road_sign/B/B-13.png"
     },
     {
@@ -4595,7 +5051,11 @@
       "points": 2,
       "code": "C 14",
       "law": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego,podlega karze grzywny albo karze nagany",
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "§19 ust. 1 ZSD Znak B-13 „zakaz wjazdu pojazdów z towarami wybuchowymi lub łatwo zapalnymi” oznacza zakaz ruchu pojazdów\nprzewożących, określone w przepisach o przewozie drogowym towarów niebezpiecznych, towary niebezpieczne\nklas: 1, 3, 4.1, 4.2, 4.3, 5.1, 5.2 lub gazy palne klasy 2 w ilościach, dla których jest wymagane oznakowanie pojazdu tablicami\nostrzegawczymi barwy pomarańczowej",
+        "2": "§19 ust. 2 ZSD Znak B-13a „zakaz wjazdu pojazdów z towarami niebezpiecznymi” oznacza zakaz ruchu pojazdów przewożących,\nokreślone w przepisach o przewozie drogowym towarów niebezpiecznych, towary niebezpieczne w ilościach, dla których\njest wymagane oznakowanie pojazdu tablicami ostrzegawczymi barwy pomarańczowej. Umieszczona pod znakiem tabliczka\nT-31 z literą B, C, D lub E oznaczającą kategorię tunelu lub tabliczka z odpowiednim napisem wskazuje, że zakaz dotyczy\ntylko określonych klas lub grup towarów niebezpiecznych lub określonego sposobu przewozu tych towarów",
+        "3": "§19 ust. 3 ZSD Znak B-14 „zakaz wjazdu pojazdów z towarami, które mogą skazić wodę” oznacza zakaz ruchu pojazdów przewożących,\nokreślone w przepisach o przewozie drogowym towarów niebezpiecznych, towary niebezpieczne klas: 3, 4.3, 6.1, 6.2, 8,\ngazy trujące lub gazy żrące klasy 2, lub towary niebezpieczne zagrażające środowisku klasy 9 w ilościach, dla których jest\nwymagane oznakowanie pojazdu tablicami ostrzegawczymi barwy pomarańczowej"
+      },
       "path": "road_sign/B/B-13a.png"
     },
     {
@@ -4606,7 +5066,11 @@
       "points": 2,
       "code": "C 14",
       "law": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego,podlega karze grzywny albo karze nagany",
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "§19 ust. 1 ZSD Znak B-13 „zakaz wjazdu pojazdów z towarami wybuchowymi lub łatwo zapalnymi” oznacza zakaz ruchu pojazdów\nprzewożących, określone w przepisach o przewozie drogowym towarów niebezpiecznych, towary niebezpieczne\nklas: 1, 3, 4.1, 4.2, 4.3, 5.1, 5.2 lub gazy palne klasy 2 w ilościach, dla których jest wymagane oznakowanie pojazdu tablicami\nostrzegawczymi barwy pomarańczowej",
+        "2": "§19 ust. 2 ZSD Znak B-13a „zakaz wjazdu pojazdów z towarami niebezpiecznymi” oznacza zakaz ruchu pojazdów przewożących,\nokreślone w przepisach o przewozie drogowym towarów niebezpiecznych, towary niebezpieczne w ilościach, dla których\njest wymagane oznakowanie pojazdu tablicami ostrzegawczymi barwy pomarańczowej. Umieszczona pod znakiem tabliczka\nT-31 z literą B, C, D lub E oznaczającą kategorię tunelu lub tabliczka z odpowiednim napisem wskazuje, że zakaz dotyczy\ntylko określonych klas lub grup towarów niebezpiecznych lub określonego sposobu przewozu tych towarów",
+        "3": "§19 ust. 3 ZSD Znak B-14 „zakaz wjazdu pojazdów z towarami, które mogą skazić wodę” oznacza zakaz ruchu pojazdów przewożących,\nokreślone w przepisach o przewozie drogowym towarów niebezpiecznych, towary niebezpieczne klas: 3, 4.3, 6.1, 6.2, 8,\ngazy trujące lub gazy żrące klasy 2, lub towary niebezpieczne zagrażające środowisku klasy 9 w ilościach, dla których jest\nwymagane oznakowanie pojazdu tablicami ostrzegawczymi barwy pomarańczowej"
+      },
       "path": "road_sign/B/B-14.png"
     },
     {
@@ -4617,7 +5081,7 @@
       "points": 3,
       "code": "C 13",
       "law": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego,podlega karze grzywny albo karze nagany",
-      "paragraph": "",
+      "paragraph": "§18 ust. 1 ZSD Znak B-3 „zakaz wjazdu pojazdów silnikowych, z wyjątkiem motocykli jednośladowych”, oznacza zakaz ruchu\npojazdów silnikowych; zakaz nie dotyczy motocykli jednośladowych",
       "path": "road_sign/B/B-3.png"
     },
     {
@@ -4628,7 +5092,7 @@
       "points": 3,
       "code": "C 13",
       "law": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego,podlega karze grzywny albo karze nagany",
-      "paragraph": "",
+      "paragraph": "§18 ust. 2 ZSD Znak B-3a „zakaz wjazdu autobusów” oznacza zakaz ruchu autobusów",
       "path": "road_sign/B/B-3a.png"
     },
     {
@@ -4639,7 +5103,7 @@
       "points": 3,
       "code": "C 13",
       "law": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego,podlega karze grzywny albo karze nagany",
-      "paragraph": "",
+      "paragraph": "§18 ust. 3 ZSD Znak B-4 „zakaz wjazdu motocykli” oznacza zakaz ruchu motocykli",
       "path": "road_sign/B/B-4.png"
     },
     {
@@ -4650,7 +5114,7 @@
       "points": 3,
       "code": "C 13",
       "law": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego,podlega karze grzywny albo karze nagany",
-      "paragraph": "",
+      "paragraph": "§18 ust. 6 ZSD Znak B-6 „zakaz wjazdu ciągników rolniczych” oznacza zakaz ruchu ciągników rolniczych i pojazdów wolnobieżnych",
       "path": "road_sign/B/B-6.png"
     },
     {
@@ -4661,7 +5125,10 @@
       "points": 3,
       "code": "C 13",
       "law": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego,podlega karze grzywny albo karze nagany",
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "§18 ust. 7 ZSD Znak B-7 „zakaz wjazdu pojazdów silnikowych z przyczepą” oznacza zakaz ruchu pojazdów silnikowych z przyczepą\n(przyczepami); zakaz nie dotyczy pojazdów z przyczepą jednoosiową lub naczepą",
+        "2": "§18 ust. 8 ZSD Określona na znaku B-7 lub na tabliczce umieszczonej pod nim masa dotyczy dopuszczalnej masy całkowitej przyczepy,\na w razie ciągnięcia dwóch przyczep – sumy ich mas"
+      },
       "path": "road_sign/B/B-7.png"
     },
     {
@@ -4920,7 +5387,10 @@
       "points": 1,
       "code": "C 15",
       "law": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego,podlega karze grzywny albo karze nagany",
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "§ 49 ust. 1 pkt 1 ZSD Znaki D-11 „początek pasa ruchu dla autobusów oznaczają odpowiednio początek lub kontynuację pasa ruchu przeznaczonego tylko dla autobusów lub trolejbusów oraz\ninnych pojazdów wykonujących odpłatny przewóz osób na regularnych liniach",
+        "2": "§ 49 ust. 1 pkt 2 ZSD Znaki D-12 „pas ruchu dla autobusów oznaczają odpowiednio początek lub kontynuację pasa ruchu przeznaczonego tylko dla autobusów lub trolejbusów oraz\ninnych pojazdów wykonujących odpłatny przewóz osób na regularnych liniach"
+      },
       "path": null
     },
     {
@@ -4931,7 +5401,7 @@
       "points": 1,
       "code": "C 15",
       "law": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego,podlega karze grzywny albo karze nagany",
-      "paragraph": "",
+      "paragraph": "§49 ust. 2 ZSD Umieszczony na znakach D-11 lub D-12 napis lub symbol pojazdu oznacza, że na pasie ruchu oznaczonym tym znakiem\njest dopuszczony ruch pojazdu określonego tym napisem lub symbolem",
       "path": null
     },
     {
@@ -4942,7 +5412,7 @@
       "points": 1,
       "code": "C 15",
       "law": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego,podlega karze grzywny albo karze nagany",
-      "paragraph": "",
+      "paragraph": "§ 91 ust. 1 ZSD Znak P-22 „BUS” oznacza pas ruchu przeznaczony dla ruchu pojazdów wykonujących odpłatny przewóz osób\nna regularnych liniach",
       "path": "road_sign/P/P-22.png"
     },
     {
@@ -4953,7 +5423,12 @@
       "points": 1,
       "code": "C 15",
       "law": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego,podlega karze grzywny albo karze nagany",
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "§ 52 ust. 1 ZSD Znak D-18 „parking” oznacza miejsce przeznaczone na postój pojazdów (zespołów pojazdów), z wyjątkiem\nprzyczep kempingowych; umieszczona pod znakiem tabliczka T-23e oznacza, że na parkingu jest dopuszczony także postój\nprzyczep kempingowych",
+        "2": "§ 52 ust. 1a ZSD Umieszczony na znaku D-18 symbol pojazdu oznacza, że parking jest przeznaczony na postój pojazdu, którego\nsymbol znajduje się na znaku",
+        "3": "§ 52 ust. 2 ZSD Umieszczona pod znakiem D-18 tabliczka T-30 wskazuje sposób ustawienia pojazdu względem krawędzi jezdni\noznaczonej na tabliczce barwą szarą oraz że miejsce jest przeznaczone dla pojazdów samochodowych o dopuszczalnej\nmasie całkowitej nieprzekraczającej 2,5 t",
+        "4": "§ 52 ust. 3 ZSD Umieszczona pod znakiem D-18 tabliczka T-3a wskazuje koniec miejsca przeznaczonego na postój"
+      },
       "path": null
     },
     {
@@ -4964,7 +5439,7 @@
       "points": 1,
       "code": "C 15",
       "law": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego,podlega karze grzywny albo karze nagany",
-      "paragraph": "",
+      "paragraph": "§ 52 ust. 4 ZSD Znak D-18a „parking – miejsce zastrzeżone” oznacza miejsce przeznaczone na postój pojazdu uprawnionej osoby",
       "path": null
     },
     {
@@ -4975,40 +5450,64 @@
       "points": 1,
       "code": "C 15",
       "law": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego,podlega karze grzywny albo karze nagany",
-      "paragraph": "",
+      "paragraph": "§ 52 ust. 5 ZSD Znak D-18b „parking zadaszony” oznacza miejsce przeznaczone na postój pojazdów znajdujące się w budynku lub\npod wiatą",
       "path": null
     },
     {
       "category": "invalid",
       "name": "Niestosowanie się do znaku D-18 \"parking\"  z umieszczoną pod znakiem tabliczką T-29",
-      "text": "art. 92 §1 KW w zw. z § 52 ust. 6 w zw. z § 2 ust. 4 albo § 52 ust. 4 w zw. z § 2 ust. 4  ZSD",
+      "text": "art. 92 §1 KW w zw. z § 52 ust. 6 w zw. z § 2 ust. 4 albo § 52 ust. 4 w zw. z § 2 ust. 4 ZSD",
       "tax": "800",
       "points": 5,
       "code": "C 17",
       "law": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego,podlega karze grzywny albo karze nagany",
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "§ 52 ust. 6 ZSD Umieszczona pod znakiem D-18, D-18a lub D-18b tabliczka T-29 informuje o miejscu przeznaczonym dla pojazdu\nsamochodowego osoby, o której mowa w art. 8 ust. 1 i 2 PRD",
+        "2": "§ 52 ust. 4 ZSD Znak D-18a „parking – miejsce zastrzeżone” oznacza miejsce przeznaczone na postój pojazdu uprawnionej osoby",
+        "3": "z § 2 ust. 4 ZSD Napis lub symbol umieszczony na tabliczce pod znakiem drogowym stanowi integralną część znaku",
+        "4": "art. 8 ust. 1 PRD Osoba niepełnosprawna legitymująca się kartą parkingową kierująca pojazdem samochodowym oznaczonym tą kartą, może nie stosować się do niektórych znaków drogowych dotyczących zakazu ruchu lub postoju, w zakresie określonym przepisami o których mowa w art. 7 ust. 2 PRD",
+        "5": "art. 8 ust. 2 pkt 1 PRD Przepis ust. 1 stosuje się również do kierującego pojazdem, który przewozi osobę niepełnosprawną legitymującą się kartą parkingową",
+        "6": "art. 8 ust. 2 pkt 2 PRD Przepis ust. 1 stosuje się również do kierującego pojazdem należącym do placówki, o której mowa w ust. 3a pkt 3, przewożącego osobę mającą znacznie ograniczone możliwości samodzielnego poruszania się, pozostającą pod opieką takiej placówki",
+        "7": "art. 7 ust. 2 PRD Minister właściwy do spraw transportu i minister właściwy do spraw wewnętrznych, w porozumieniu z Ministrem Obrony Narodowej, uwzględniając w szczególności konieczność dostosowania sygnałów drogowych do postanowień umów międzynarodowych, określi, w drodze rozporządzenia, znaki i sygnały obowiązujące w ruchu drogowym, ich znaczenie i zakres obowiązywania"
+      },
       "path": null
     },
     {
       "category": "invalid",
       "name": "Niestosowanie się do znaku D-18a \"parking – miejsce zastrzeżone\"  z umieszczoną pod znakiem tabliczką T-29",
-      "text": "art. 92 §1 KW w zw. z § 52 ust. 6 w zw. z § 2 ust. 4 albo § 52 ust. 4 w zw. z § 2 ust. 4  ZSD",
+      "text": "art. 92 §1 KW w zw. z § 52 ust. 6 w zw. z § 2 ust. 4 albo § 52 ust. 4 w zw. z § 2 ust. 4 ZSD",
       "tax": "800",
       "points": 5,
       "code": "C 17",
       "law": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego,podlega karze grzywny albo karze nagany",
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "§ 52 ust. 6 ZSD Umieszczona pod znakiem D-18, D-18a lub D-18b tabliczka T-29 informuje o miejscu przeznaczonym dla pojazdu\nsamochodowego osoby, o której mowa w art. 8 ust. 1 i 2 PRD",
+        "2": "§ 52 ust. 4 ZSD Znak D-18a „parking – miejsce zastrzeżone” oznacza miejsce przeznaczone na postój pojazdu uprawnionej osoby",
+        "3": "z § 2 ust. 4 ZSD Napis lub symbol umieszczony na tabliczce pod znakiem drogowym stanowi integralną część znaku",
+        "4": "art. 8 ust. 1 PRD Osoba niepełnosprawna legitymująca się kartą parkingową kierująca pojazdem samochodowym oznaczonym tą kartą, może nie stosować się do niektórych znaków drogowych dotyczących zakazu ruchu lub postoju, w zakresie określonym przepisami o których mowa w art. 7 ust. 2 PRD",
+        "5": "art. 8 ust. 2 pkt 1 PRD Przepis ust. 1 stosuje się również do kierującego pojazdem, który przewozi osobę niepełnosprawną legitymującą się kartą parkingową",
+        "6": "art. 8 ust. 2 pkt 2 PRD Przepis ust. 1 stosuje się również do kierującego pojazdem należącym do placówki, o której mowa w ust. 3a pkt 3, przewożącego osobę mającą znacznie ograniczone możliwości samodzielnego poruszania się, pozostającą pod opieką takiej placówki",
+        "7": "art. 7 ust. 2 PRD Minister właściwy do spraw transportu i minister właściwy do spraw wewnętrznych, w porozumieniu z Ministrem Obrony Narodowej, uwzględniając w szczególności konieczność dostosowania sygnałów drogowych do postanowień umów międzynarodowych, określi, w drodze rozporządzenia, znaki i sygnały obowiązujące w ruchu drogowym, ich znaczenie i zakres obowiązywania"
+      },
       "path": null
     },
     {
       "category": "invalid",
       "name": "Niestosowanie się do znaku D-18b \"parking zadaszony\"  z umieszczoną pod znakiem tabliczką T-29",
-      "text": "art. 92 §1 KW w zw. z § 52 ust. 6 w zw. z § 2 ust. 4 albo § 52 ust. 4 w zw. z § 2 ust. 4  ZSD",
+      "text": "art. 92 §1 KW w zw. z § 52 ust. 6 w zw. z § 2 ust. 4 albo § 52 ust. 4 w zw. z § 2 ust. 4 ZSD",
       "tax": "800",
       "points": 5,
       "code": "C 17",
       "law": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego,podlega karze grzywny albo karze nagany",
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "§ 52 ust. 6 ZSD Umieszczona pod znakiem D-18, D-18a lub D-18b tabliczka T-29 informuje o miejscu przeznaczonym dla pojazdu\nsamochodowego osoby, o której mowa w art. 8 ust. 1 i 2 PRD",
+        "2": "§ 52 ust. 4 ZSD Znak D-18a „parking – miejsce zastrzeżone” oznacza miejsce przeznaczone na postój pojazdu uprawnionej osoby",
+        "3": "z § 2 ust. 4 ZSD Napis lub symbol umieszczony na tabliczce pod znakiem drogowym stanowi integralną część znaku",
+        "4": "art. 8 ust. 1 PRD Osoba niepełnosprawna legitymująca się kartą parkingową kierująca pojazdem samochodowym oznaczonym tą kartą, może nie stosować się do niektórych znaków drogowych dotyczących zakazu ruchu lub postoju, w zakresie określonym przepisami o których mowa w art. 7 ust. 2 PRD",
+        "5": "art. 8 ust. 2 pkt 1 PRD Przepis ust. 1 stosuje się również do kierującego pojazdem, który przewozi osobę niepełnosprawną legitymującą się kartą parkingową",
+        "6": "art. 8 ust. 2 pkt 2 PRD Przepis ust. 1 stosuje się również do kierującego pojazdem należącym do placówki, o której mowa w ust. 3a pkt 3, przewożącego osobę mającą znacznie ograniczone możliwości samodzielnego poruszania się, pozostającą pod opieką takiej placówki",
+        "7": "art. 7 ust. 2 PRD Minister właściwy do spraw transportu i minister właściwy do spraw wewnętrznych, w porozumieniu z Ministrem Obrony Narodowej, uwzględniając w szczególności konieczność dostosowania sygnałów drogowych do postanowień umów międzynarodowych, określi, w drodze rozporządzenia, znaki i sygnały obowiązujące w ruchu drogowym, ich znaczenie i zakres obowiązywania"
+      },
       "path": null
     },
     {
@@ -5082,7 +5581,7 @@
     },
     {
       "category": "others",
-      "name": "Przejazd bez zezwolenia zespołu pojazdów o większej niż\ndopuszczalna liczbie pojazdów bądź długośc",
+      "name": "Przejazd bez zezwolenia zespołu pojazdów o większej niż\ndopuszczalna liczbie pojazdów bądź długości",
       "text": "art. 97KW w zw. z art. 62 ust. 4, 4a, 4b PRD",
       "tax": "20-3000",
       "points": 0,
@@ -5240,7 +5739,7 @@
     {
       "category": "others",
       "name": "Nieustąpienie pierwszeństwa przejazdu na skrzyżowaniu oznaczonym znakami\nokreślającymi pierwszeństwo przejazdu",
-      "text": "art. 90 KW w zw. z art. § 5 ust. 5–7 albo § 21\nust. 1 pkt 2 ZSD",
+      "text": "art. 90 KW w zw. z art. § 5 ust. 5–7 albo § 21 ust. 1 pkt 2 ZSD",
       "tax": "500-5000",
       "points": 6,
       "code": "D 02",
@@ -5248,7 +5747,12 @@
         "1": "art. 90§1 KW Kto tamuje lub utrudnia ruch na drodze publicznej, w strefie zamieszkania lub strefie ruchu,\npodlega karze grzywny do 500 złotych lub karze nagany",
         "2": "art. 90§2 KW Jeżeli wykroczenia, o którym mowa w § 1, dopuszcza się prowadzący pojazd mechaniczny,\npodlega karze grzywny nie niższej niż 500 złotych"
       },
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "§ 5 ust. 5 ZSD Znak A-7 „ustąp pierwszeństwa” ostrzega o skrzyżowaniu z drogą z pierwszeństwem. Znak A-7 znajdujący się w obrębie\nskrzyżowania dotyczy tylko najbliższej jezdni, przed którą został umieszczony",
+        "2": "§ 5 ust. 6 ZSD Przepis ust. 5 stosuje się odpowiednio do znaku A-7 umieszczonego przed torowiskiem pojazdów szynowych lub\nw innych miejscach przecinania się kierunków ruchu",
+        "3": "§ 5 ust. 7 ZSD Umieszczona pod znakiem A-7 tabliczka T-6c lub T-6d wskazuje rzeczywisty przebieg drogi z pierwszeństwem\nprzez skrzyżowanie",
+        "4": "§ 21 ust. 1 pkt 2 ZSD Znak B-20 „stop” oznacza obowiązek ustąpienia pierwszeństwa kierującym poruszającym się tą drogą"
+      },
       "path": null
     },
     {
@@ -5363,23 +5867,35 @@
     {
       "category": "sign",
       "name": "Niezastosowanie się, w celu uniknięcia kontroli,\ndo sygnału osoby uprawnionej do kontroli\nruchu drogowego, nakazującego zatrzymanie\npojazdu\n",
-      "text": "art. 92 § 2 KW w zw. z § 109 ust. 1 i 3 lub\n§ 111 ust. 2 lub\n3 ZSD",
+      "text": "art. 92 § 2 KW w zw. z § 109 ust. 1 i 3 lub § 111 ust. 2 lub 3 ZSD",
       "tax": "20-5000",
       "points": 8,
       "code": "C 01",
       "law": "art. 90 § 1 KW Kto  w  celu  uniknięcia  kontroli  nie  stosuje  się  do  sygnału  osoby  uprawnionej do kontroli ruchu drogowego, nakazującego zatrzymanie  pojazdu, podlega  karze aresztu albo grzywny",
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "§ 109 ust. 1 pkt 1 ZSD Sygnał oznaczający nakaz zatrzymania pojazdu jest dawany w warunkach dostatecznej widoczności – tarczą do zatrzymywania pojazdów",
+        "2": "§ 109 ust. 1 pkt 2 ZSD Sygnał oznaczający nakaz zatrzymania pojazdu jest dawany w warunkach niedostatecznej widoczności – tarczą do zatrzymywania pojazdów ze światłem odblaskowym lub światłem\nczerwonym albo latarką ze światłem czerwonym",
+        "3": "§ 109 ust. 3 ZSD Umundurowany policjant, inspektor Inspekcji Transportu Drogowego, żołnierz Żandarmerii Wojskowej i żołnierz\nwojskowych organów porządkowych mogą w warunkach dostatecznej widoczności dawać sygnał do zatrzymania pojazdu\nsamą ręką",
+        "4": "§ 111 ust. 2 pkt 1 ZSD Jadący pojazdem samochodowym policjant, inspektor Inspekcji Transportu Drogowego lub żołnierz Żandarmerii\nWojskowej może, w zakresie swoich ustawowych uprawnień, dawać kierującemu pojazdem polecenia do określonego zachowania – za pomocą urządzeń nagłaśniających, sygnalizacyjnych lub świetlnych",
+        "5": "§ 111 ust. 2 pkt 1 ZSD Jadący pojazdem samochodowym policjant, inspektor Inspekcji Transportu Drogowego lub żołnierz Żandarmerii\nWojskowej może, w zakresie swoich ustawowych uprawnień, dawać kierującemu pojazdem polecenia do zatrzymania – w przypadku jazdy za kierującym, do którego jest skierowane polecenie – przez krótkotrwałe włączenie\nniebieskiego światła błyskowego i sygnału dźwiękowego o zmiennym tonie",
+        "6": "§ 111 ust. 3 ZSD Przepis ust. 2 pkt 1 stosuje się odpowiednio do policjanta lub żołnierza Żandarmerii Wojskowej poruszającego się\nstatkiem powietrznym"
+      },
       "path": null
     },
     {
       "category": "sign",
       "name": "Niezastosowanie się do sygnałów i poleceń podawanych przez osoby\nuprawnione do kierowania ruchem drogowym",
-      "text": "art. 92 § 1 KW w zw. z § 108 ust. 2–5 ZDS",
+      "text": "art. 92 § 1 KW w zw. z § 108 ust. 2–5 ZSD",
       "tax": "20-5000",
       "points": 6,
       "code": "C 03",
       "law": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego,podlega karze grzywny albo karze nagany",
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "§ 108 ust. 2 ZSD Postawa, w której kierujący ruchem jest zwrócony bokiem do nadjeżdżających pojazdów, oznacza zezwolenie na\nwjazd na skrzyżowanie lub odcinek drogi za osobą kierującą ruchem, a dla pieszych – zezwolenie na wejście na jezdnię",
+        "2": "§ 108 ust. 3 ZSD Postawa, w której kierujący ruchem jest zwrócony przodem lub tyłem do nadjeżdżających pojazdów, oznacza zakaz\nwjazdu na skrzyżowanie lub odcinek drogi za osobą kierującą ruchem, a dla pieszych – zakaz wejścia na jezdnię",
+        "3": "§ 108 ust. 4 ZSD Podniesienie ręki do góry przez osobę kierującą ruchem oznacza mającą nastąpić zmianę dotychczas dawanego sygnału.\nDla uczestników ruchu, dla których ruch był zamknięty, oznacza, że za chwilę będzie dawany sygnał oznaczający zezwolenie\nna wjazd lub wejście, a dla uczestników ruchu, dla których ruch był otwarty, oznacza, że za chwilę będzie dawany\nsygnał zakazujący wjazdu lub wejścia",
+        "4": "§ 108 ust. 5 ZSD Ręka osoby kierującej ruchem wyciągnięta poziomo, poprzecznie do kierunku jazdy zbliżających się pojazdów, oznacza\nzakaz wjazdu na skrzyżowanie lub odcinek drogi za osobą kierującą ruchem"
+      },
       "path": null
     },
     {
@@ -5401,7 +5917,7 @@
       "points": 5,
       "code": "C 05",
       "law": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego,podlega karze grzywny albo karze nagany",
-      "paragraph": "",
+      "paragraph": "§ 17 ust. 1 ZSD Znak B-2 „zakaz wjazdu” oznacza zakaz wjazdu pojazdów na drogę lub jezdnię od strony jego umieszczenia;\nzakaz dotyczy również kolumn pieszych oraz jeźdźców i poganiaczy",
       "path": "road_sign/B/B-2.png"
     },
     {
@@ -5412,7 +5928,10 @@
       "points": 5,
       "code": "C 06",
       "law": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego,podlega karze grzywny albo karze nagany",
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "§ 16 ust. 1 ZSD Znak B-1 „zakaz ruchu w obu kierunkach” oznacza zakaz ruchu na drodze pojazdów, kolumn pieszych oraz\njeźdźców i poganiaczy; znak może być ustawiony na jezdni",
+        "2": "§ 16 ust. 2 ZSD Umieszczona pod znakiem B-1 tabliczka z napisem „Nie dotyczy” wraz z symbolem pojazdu lub wyrażeniem określającym\npojazd wskazuje, że zakaz nie dotyczy pojazdu określonego tabliczką"
+      },
       "path": "road_sign/B/B-1.png"
     },
     {
@@ -5423,7 +5942,10 @@
       "points": 5,
       "code": "C 07",
       "law": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego,podlega karze grzywny albo karze nagany",
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "§ 22 ust. 1 pkt 1 ZSD Znaki B-21 „zakaz skręcania w lewo zabraniają skręcania w kierunku wskazanym na znaku; ponadto znak B-21 zabrania zawracania",
+        "2": "§ 22 ust. 1 pkt 2 ZSD ZnakiB-21 „zakaz skręcania w prawo zabraniają skręcania w kierunku wskazanym na znaku; ponadto znak B-21 zabrania zawracania"
+      },
       "path": "road_sign/B/B-21.png"
     },
     {
@@ -5434,18 +5956,29 @@
       "points": 5,
       "code": "C 07",
       "law": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego,podlega karze grzywny albo karze nagany",
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "§ 22 ust. 1 pkt 1 ZSD Znaki B-21 „zakaz skręcania w lewo zabraniają skręcania w kierunku wskazanym na znaku; ponadto znak B-21 zabrania zawracania",
+        "2": "§ 22 ust. 1 pkt 2 ZSD ZnakiB-21 „zakaz skręcania w prawo zabraniają skręcania w kierunku wskazanym na znaku; ponadto znak B-21 zabrania zawracania"
+      },
       "path": "road_sign/B/B-22.png"
     },
     {
       "category": "sign",
       "name": "Niestosowanie się do znaku, F-15 lub F-16 lub F-17 lub F-18 lub F-19, kierunki na pasach\nruchu określające dozwolony kierunek jazdy\nz poszczególnych pasów ruchu lub sposób ich\nwykorzystania",
-      "text": "art. 92 §1 KW w zw. z § 72 ust. 1 lub 2\nalbo § 75 ZSD",
+      "text": "art. 92 §1 KW w zw. z § 72 ust. 1 lub 2 albo § 75 ZSD",
       "tax": "20-5000",
       "points": 5,
       "code": "C 09",
       "law": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego,podlega karze grzywny albo karze nagany",
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "§72 ust. 1 ZSD Umieszczony obok jezdni znak F-10 „kierunki na pasach ruchu” wskazuje dozwolone, zgodnie ze strzałkami\numieszczonymi na znaku, kierunki jazdy z poszczególnych pasów ruchu",
+        "2": "§72 ust. 2 ZSD Umieszczony nad pasem ruchu znak F-11 „kierunki na pasie ruchu” wskazuje dozwolone, zgodnie ze strzałkami\numieszczonymi na znaku, kierunki jazdy z pasa ruchu, nad którym znak został umieszczony",
+        "3": "§75 ust. 1 ZSD Znak F-15 „niesymetryczny podział jezdni dla przeciwnych kierunków ruchu” wskazuje pasy ruchu przeznaczone\ndo jazdy w podanych kierunkach",
+        "4": "§72 ust. 2 pkt 1 ZSD Znaki F-16 „koniec pasa ruchu na jezdni dwukierunkowej uprzedzają o końcu wewnętrznego pasa ruchu na jezdni wskazanej na znaku",
+        "5": "§75 ust. 2 pkt 2 ZSD Znaki F-17 „koniec pasa ruchu na jezdni jednokierunkowej uprzedzają o końcu wewnętrznego pasa ruchu na jezdni wskazanej na znaku",
+        "6": "§75 ust. 3 ZSD Znak F-18 „przeciwny kierunek dla określonych pojazdów” wskazuje lewy pas ruchu przeznaczony tylko dla pojazdów\nokreślonych na znaku, poruszających się w kierunku przeciwnym",
+        "7": "§75 ust. 4 ZSD Znak F-19 „pas ruchu dla określonych pojazdów” wskazuje wyznaczony na jezdni pas ruchu przeznaczony dla pojazdów\nwskazanych na znaku"
+      },
       "path": "road_sign/F/F-16.png"
     },
     {
