@@ -3,135 +3,162 @@
     {
       "name": "B-1",
       "description": "Zakaz ruchu w obu kierunkach",
-      "path": "road_sign/B/B-1.png"
+      "path": "road_sign/B/B-1.png",
+      "link_id": 399
     },
     {
       "name": "B-2",
       "description": "Zakaz wjazdu",
-      "path": "road_sign/B/B-2.png"
+      "path": "road_sign/B/B-2.png",
+      "link_id": 398
     },
     {
       "name": "B-3",
       "description": "Zakaz wjazdu pojazdów silnikowych z wyjątkiem motocykli jednośladowych",
-      "path": "road_sign/B/B-3.png"
+      "path": "road_sign/B/B-3.png",
+      "link_id": 330
     },
     {
       "name": "B-3a",
       "description": "Zakaz wjazdu autobusów",
-      "path": "road_sign/B/B-3a.png"
+      "path": "road_sign/B/B-3a.png",
+      "link_id": 331
     },
     {
       "name": "B-4",
       "description": "Zakaz wjazdu motocykli",
-      "path": "road_sign/B/B-4.png"
+      "path": "road_sign/B/B-4.png",
+      "link_id": 332
     },
     {
       "name": "B-5",
       "description": "Zakaz wjazdu samochodów ciężarowych",
-      "path": "road_sign/B/B-5.png"
+      "path": "road_sign/B/B-5.png",
+      "link_id": 321
     },
     {
       "name": "B-5 6t",
       "description": "Zakaz wjazdu samochodów ciężarowych (odmiana)",
-      "path": "road_sign/B/B-5-6t.png"
+      "path": "road_sign/B/B-5-6t.png",
+      "link_id": 321
     },    {
       "name": "B-6",
       "description": "zakaz wjazdu ciągników rolniczych i pojazdów wolnobieżnych",
-      "path": "road_sign/B/B-6.png"
+      "path": "road_sign/B/B-6.png",
+      "link_id": 333
     },
     {
       "name": "B-7",
       "description": "Zakaz wjazdu pojazdów silnikowych z przyczepą",
-      "path": "road_sign/B/B-7.png"
+      "path": "road_sign/B/B-7.png",
+      "link_id": 334
     },
     {
       "name": "B-7 5t",
       "description": "Zakaz wjazdu pojazdów silnikowych z przyczepą (odmiana)",
-      "path": "road_sign/B/B-7-5t.png"
+      "path": "road_sign/B/B-7-5t.png",
+      "link_id": 334
     },
     {
       "name": "B-8",
       "description": "Zakaz wjazdu pojazdów zaprzęgowych",
-      "path": "road_sign/B/B-8.png"
+      "path": "road_sign/B/B-8.png",
+      "link_id": 316
     },
     {
       "name": "B-9",
       "description": "Zakaz wjazdu rowerów",
-      "path": "road_sign/B/B-9.png"
+      "path": "road_sign/B/B-9.png",
+      "link_id": 317
     },
     {
       "name": "B-10",
       "description": "Zakaz wjazdu motorowerów",
-      "path": "road_sign/B/B-10.png"
+      "path": "road_sign/B/B-10.png",
+      "link_id": 318
     },
     {
       "name": "B-11",
       "description": "Zakaz wjazdu wózków rowerowych",
-      "path": "road_sign/B/B-11.png"
+      "path": "road_sign/B/B-11.png",
+      "link_id": 319
     },
     {
       "name": "B-12",
       "description": "Zakaz wjazdu wózków ręcznych",
-      "path": "road_sign/B/B-12.png"
+      "path": "road_sign/B/B-12.png",
+      "link_id": 320
     },
     {
       "name": "B-13",
       "description": "Zakaz wjazdu pojazdów z towarami wybuchowymi lub łatwo zapalnymi",
-      "path": "road_sign/B/B-13.png"
+      "path": "road_sign/B/B-13.png",
+      "link_id": 327
     },
     {
       "name": "B-13a",
       "description": "Zakaz wjazdu pojazdów z towarami niebezpiecznymi",
-      "path": "road_sign/B/B-13a.png"
+      "path": "road_sign/B/B-13a.png",
+      "link_id": 328
     },
     {
       "name": "B-14",
       "description": "Zakaz wjazdu pojazdów z towarami, które mogą skazić wodę",
-      "path": "road_sign/B/B-14.png"
+      "path": "road_sign/B/B-14.png",
+      "link_id": 329
     },
     {
       "name": "B-15",
       "description": "Zakaz wjazdu pojazdów o szerokości ponad …m",
-      "path": "road_sign/B/B-15.png"
+      "path": "road_sign/B/B-15.png",
+      "link_id": 324
     },
     {
       "name": "B-16",
       "description": "Zakaz wjazdu pojazdów o wysokości ponad …m",
-      "path": "road_sign/B/B-16.png"
+      "path": "road_sign/B/B-16.png",
+      "link_id": 325
     },
     {
       "name": "B-17",
       "description": "Zakaz wjazdu pojazdów o długości ponad …m",
-      "path": "road_sign/B/B-17.png"
+      "path": "road_sign/B/B-17.png",
+      "link_id": 326
     },
     {
       "name": "B-18",
       "description": "Zakaz wjazdu pojazdów o rzeczywistej masie całkowitej ponad …",
-      "path": "road_sign/B/B-18.png"
+      "path": "road_sign/B/B-18.png",
+      "link_id": 322
     },
     {
       "name": "B-19",
       "description": "Zakaz wjazdu pojazdów o nacisku pojedynczej osi napędowej powyżej …t",
-      "path": "road_sign/B/B-19.png"
+      "path": "road_sign/B/B-19.png",
+      "link_id": 323
     },
     {
       "name": "B-20",
       "description": "Stop",
-      "path": "road_sign/B/B-20.png"
+      "path": "road_sign/B/B-20.png",
+      "link_id": 282
     },
     {
       "name": "B-21",
       "description": "Zakaz skręcania w lewo",
-      "path": "road_sign/B/B-21.png"
+      "path": "road_sign/B/B-21.png",
+      "link_id": 400
     },
     {
       "name": "B-22",
       "description": "Zakaz skręcania w prawo",
-      "path": "road_sign/B/B-22.png"
+      "path": "road_sign/B/B-22.png",
+      "link_id": 401
     },    {
       "name": "B-23",
       "description": "Zakaz zawracania",
-      "path": "road_sign/B/B-23.png"
+      "path": "road_sign/B/B-23.png",
+      "link_id": 392
     },
     {
       "name": "B-24",
@@ -141,12 +168,14 @@
     {
       "name": "B-25",
       "description": "Zakaz wyprzedzania",
-      "path": "road_sign/B/B-25.png"
+      "path": "road_sign/B/B-25.png",
+      "link_id": 101
     },
     {
       "name": "B-26",
       "description": "Zakaz wyprzedzania przez samochody ciężarowe",
-      "path": "road_sign/B/B-26.png"
+      "path": "road_sign/B/B-26.png",
+      "link_id": 101
     },
     {
       "name": "B-27",
@@ -161,7 +190,8 @@
     {
       "name": "B-29",
       "description": "Zakaz używania sygnałów dźwiękowych",
-      "path": "road_sign/B/B-29.png"
+      "path": "road_sign/B/B-29.png",
+      "link_id": 262
     },
     {
       "name": "B-30",
@@ -171,41 +201,49 @@
     {
       "name": "B-31",
       "description": "Pierwszeństwo dla nadjeżdżających z przeciwka",
-      "path": "road_sign/B/B-31.png"
+      "path": "road_sign/B/B-31.png",
+      "link_id": 263
     },
     {
       "name": "B-32",
       "description": "Stój — kontrola celna",
-      "path": "road_sign/B/B-32.png"
+      "path": "road_sign/B/B-32.png",
+      "link_id": 264
     },    {
       "name": "B-32a",
       "description": "Kontrola graniczna",
-      "path": "road_sign/B/B-32a.png"
+      "path": "road_sign/B/B-32a.png",
+      "link_id": 264
     },
     {
       "name": "B-32b",
       "description": "Rogatka uszkodzona",
-      "path": "road_sign/B/B-32b.png"
+      "path": "road_sign/B/B-32b.png",
+      "link_id": 264
     },
     {
       "name": "B-32c",
       "description": "Sygnalizacja uszkodzona",
-      "path": "road_sign/B/B-32c.png"
+      "path": "road_sign/B/B-32c.png",
+      "link_id": 264
     },
     {
       "name": "B-32d",
       "description": "Wjazd na prom",
-      "path": "road_sign/B/B-32d.png"
+      "path": "road_sign/B/B-32d.png",
+      "link_id": 264
     },
     {
       "name": "B-32e",
       "description": "Kontrola drogowa",
-      "path": "road_sign/B/B-32e.png"
+      "path": "road_sign/B/B-32e.png",
+      "link_id": 264
     },
     {
       "name": "B-32f",
       "description": "Pobór opłat",
-      "path": "road_sign/B/B-32f.png"
+      "path": "road_sign/B/B-32f.png",
+      "link_id": 264
     },
     {
       "name": "B-33",
@@ -220,22 +258,26 @@
     {
       "name": "B-35",
       "description": "Zakaz postoju",
-      "path": "road_sign/B/B-35.png"
+      "path": "road_sign/B/B-35.png",
+      "link_id": 265
     },
     {
       "name": "B-35",
       "description": "Zakaz postoju w godzinach ...",
-      "path": "road_sign/B/B-35a.png"
+      "path": "road_sign/B/B-35a.png",
+      "link_id": 265
     },
     {
       "name": "B-35",
       "description": "Zakaz postoju ponad ...",
-      "path": "road_sign/B/B-35b.png"
+      "path": "road_sign/B/B-35b.png",
+      "link_id": 265
     },
     {
       "name": "B-35",
       "description": "Zakaz postoju w godzinach ... ponad ...",
-      "path": "road_sign/B/B-35c.png"
+      "path": "road_sign/B/B-35c.png",
+      "link_id": 265
     },
     {
       "name": "B-36",
@@ -246,17 +288,20 @@
     {
       "name": "B-37",
       "description": "Zakaz postoju w dni nieparzyste",
-      "path": "road_sign/B/B-37.png"
+      "path": "road_sign/B/B-37.png",
+      "link_id": 314
     },
     {
       "name": "B-38",
       "description": "Zakaz postoju w dni parzyste",
-      "path": "road_sign/B/B-38.png"
+      "path": "road_sign/B/B-38.png",
+      "link_id": 315
     },
     {
       "name": "B-39",
       "description": "Strefa ograniczonego postoju",
-      "path": "road_sign/B/B-39.png"
+      "path": "road_sign/B/B-39.png",
+      "link_id": 268
     },
     {
       "name": "B-40",
@@ -266,7 +311,8 @@
     {
       "name": "B-41",
       "description": "Zakaz ruchu pieszych",
-      "path": "road_sign/B/B-41.png"
+      "path": "road_sign/B/B-41.png",
+      "link_id": 19
     },
     {
       "name": "B-42",
