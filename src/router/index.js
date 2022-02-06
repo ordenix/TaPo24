@@ -18,6 +18,7 @@ import DrivingLicence from '@/views/Driving_Licence'
 import DrivingLicenceCode from '@/views/Driving_Licence_Code'
 import DocumentHolding from '@/views/Document_holding'
 import KSIPCode from '@/views/KSIPcode'
+import SignDetails from '@/views/Sign/SignDetails'
 Vue.use(VueRouter)
 
 const routes = [
@@ -110,6 +111,11 @@ const routes = [
     path: '/KSIPCode/',
     name: 'KSIPCode',
     component: KSIPCode
+  },
+  {
+    path: '/SignDetails/:sign_category/:sign_name/:tariffId',
+    name: 'SignDetails',
+    component: SignDetails
   },
   {
     path: '/about',

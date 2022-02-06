@@ -4,7 +4,7 @@
     <input type="text" name="title" placeholder="Wyszukaj" v-model="search_text">
   </div>
     <div class="main">
-      <div v-for="(element, index) in filtered_data" :key="index">
+      <div v-for="(element, index) in filtered_data" :key="index" @click="signClick(element.name, element.link_id)">
         <signCard :sign_data="element"/>
       </div>
     </div>
@@ -34,6 +34,11 @@ export default {
     return {
       search_text: '',
       sign_data: []
+    }
+  },
+  methods: {
+    signClick (name, id) {
+      this.$router.push({ name: 'SignDetails', params: { sign_category: this.$route.params.sign_category, sign_name: name, tariffId: id } })
     }
   },
   mounted () {
