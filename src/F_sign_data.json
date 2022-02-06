@@ -73,12 +73,14 @@
     {
       "name": "F-10",
       "description": "kierunki na pasach ruchu",
-      "path": "road_sign/F/F-10.png"
+      "path": "road_sign/F/F-10.png",
+      "link_id": 290
     },
     {
       "name": "F-11",
       "description": "kierunki na pasie ruchu",
-      "path": "road_sign/F/F-11.png"
+      "path": "road_sign/F/F-11.png",
+      "link_id": 290
     },
     {
       "name": "F-12",
@@ -123,27 +125,32 @@
     {
       "name": "F-15",
       "description": "niesymetryczny podział jezdni dla przeciwnych kierunków ruchu",
-      "path": "road_sign/F/F-15a.png"
+      "path": "road_sign/F/F-15a.png",
+      "link_id":  402
     },
     {
       "name": "F-16",
       "description": "koniec pasa ruchu na jezdni dwukierunkowej",
-      "path": "road_sign/F/F-16.png"
+      "path": "road_sign/F/F-16.png",
+      "link_id": 402
     },
     {
       "name": "F-17",
       "description": "koniec pasa ruchu na jezdni jednokierunkowej",
-      "path": "road_sign/F/F-17.png"
+      "path": "road_sign/F/F-17.png",
+      "link_id": 402
     },
     {
       "name": "F-18",
       "description": "przeciwny kierunek dla określonych pojazdów",
-      "path": "road_sign/F/F-18.png"
+      "path": "road_sign/F/F-18.png",
+      "link_id": 402
     },
     {
       "name": "F-19",
       "description": "pas ruchu dla określonych pojazdów",
-      "path": "road_sign/F/F-19.png"
+      "path": "road_sign/F/F-19.png",
+      "link_id": 402
     },
     {
       "name": "F-20",
