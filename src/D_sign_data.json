@@ -68,17 +68,20 @@
     {
       "name": "D-11",
       "description": "początek pasa ruchu dla autobusów",
-      "path": "road_sign/D/D-11.png"
+      "path": "road_sign/D/D-11.png",
+      "link_id": 357
     },
     {
       "name": "D-12",
       "description": "pas ruchu dla autobusów",
-      "path": "road_sign/D/D-12.png"
+      "path": "road_sign/D/D-12.png",
+      "link_id": 358
     },
     {
       "name": "D-13",
       "description": "początek pasa ruchu powolnego",
-      "path": "road_sign/D/D-13.png"
+      "path": "road_sign/D/D-13.png",
+      "link_id": 285
     },
     {
       "name": "D-13a",
@@ -113,22 +116,26 @@
     {
       "name": "D-18",
       "description": "parking",
-      "path": "road_sign/D/D-18.png"
+      "path": "road_sign/D/D-18.png",
+      "link_id": 360
     },
     {
       "name": "D-18a",
       "description": "parking – miejsce zastrzeżone",
-      "path": "road_sign/D/D-18a.png"
+      "path": "road_sign/D/D-18a.png",
+      "link_id": 361
     },
     {
       "name": "D-18b",
       "description": "parking zadaszony",
-      "path": "road_sign/D/D-18b.png"
+      "path": "road_sign/D/D-18b.png",
+      "link_id": 362
     },
     {
       "name": "D-19",
       "description": "postój taksówek",
-      "path": "road_sign/D/D-19.png"
+      "path": "road_sign/D/D-19.png",
+      "link_id": 289
     },
     {
       "name": "D-20",
