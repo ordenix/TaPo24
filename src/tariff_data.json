@@ -416,7 +416,7 @@
     {
       "category": "to_pede",
       "name": "Nieustąpienie pierwszeństwa pieszemu znajdującemu się na przejściu dla pieszych",
-      "text": "art. 86b § 1 pkt 1 KW w zw. z art. 26 ust. 1 PRD",
+      "text": "art. 86b § 1 pkt 1 KW w zw. z art. 26 ust. 1a PRD",
       "tax": "1500/[3000]",
       "points": 10,
       "code": "B 03",
@@ -3430,7 +3430,23 @@
       "points": 0,
       "code": "K 03",
       "law": "art. 95 KW Kto prowadzi na drodze publicznej, w strefie zamieszkania lub strefie ruchu pojazd, nie mając przy sobie wymaganych dokumentów,podlega karze grzywny do 250 złotych albo karze nagany",
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "art. 38 ust. 1 pkt 1 PRD Kierujący pojazdem jest obowiązany mieć przy sobie i okazywać na żądanie uprawnionego organu wymagane dla danego rodzaju pojazdu lub kierującego dokument stwierdzający uprawnienie do kierowania pojazdem inny niż wydane w kraju prawo jazdy albo pozwolenie na kierowanie tramwajem, jeżeli kierujący nie posiada wydanego w kraju prawa jazdy albo pozwolenia na kierowanie tramwajem",
+        "2": "art. 38 ust. 1 pkt 3a PRD Kierujący pojazdem jest obowiązany mieć przy sobie i okazywać na żądanie uprawnionego organu wymagane dla danego rodzaju pojazdu lub kierującego zaświadczenie o przeprowadzonym badaniu technicznym z wynikiem pozytywnym w zakresie wyposażenia pojazdu w blokadę alkoholową w przypadku, o którym mowa w art. 13 ust. 5 pkt 7 UOK",
+        "3": "art. 38 ust. 1 pkt 3b PRD Kierujący pojazdem jest obowiązany mieć przy sobie i okazywać na żądanie uprawnionego organu wymagane dla danego rodzaju pojazdu lub kierującego protokół z ostatniej drogowej kontroli technicznej, jeżeli taka była przeprowadzona – w przypadku pojazdu kategorii M2, M3, N2 i N3, przyczepy kategorii O3 i O4 i ciągnika kołowego kategorii T5 użytkowanego na drodze publicznej do wykonywania zarobkowego przewozu rzeczy",
+        "4": "art. 38 ust. 1 pkt 4 PRD Kierujący pojazdem jest obowiązany mieć przy sobie i okazywać na żądanie uprawnionego organu wymagane dla danego rodzaju pojazdu lub kierującego zezwolenie, o którym mowa w art. 106 ust. 1 pkt 5 ustawy z dnia 5 stycznia 2011 r. UOK (zezwolenie na kierowanie pojazdem uprzywilejowanym w zakresie określonej kategorii prawa jazdy)",
+        "5": "art. 38 ust. 1 pkt 4a PRD Kierujący pojazdem jest obowiązany mieć przy sobie i okazywać na żądanie uprawnionego organu wymagane dla danego rodzaju pojazdu lub kierującego dokument potwierdzający kalibrację blokady alkoholowej, wystawiony przez producenta urządzenia lub jego upoważnionego przedstawiciela",
+        "6": "art. 38 ust. 1 pkt 4b lit a PRD Kierujący pojazdem jest obowiązany mieć przy sobie i okazywać na żądanie uprawnionego organu wymagane dla danego rodzaju pojazdu lub kierującego pokwitowanie zatrzymania prawa jazdy albo pozwolenia na kierowanie tramwajem w okresie, w którym upoważnia ono do kierowania pojazdem albo jego używania",
+        "7": "art. 38 ust. 1 pkt 4b lit b PRD Kierujący pojazdem jest obowiązany mieć przy sobie i okazywać na żądanie uprawnionego organu wymagane dla danego rodzaju pojazdu lub kierującego pokwitowanie zatrzymania dowodu rejestracyjnego albo pozwolenia czasowego w okresie, w którym upoważnia ono do kierowania pojazdem albo jego używania",
+        "8": "art. 38 ust. 1 pkt 4b lit c PRD Kierujący pojazdem jest obowiązany mieć przy sobie i okazywać na żądanie uprawnionego organu wymagane dla danego rodzaju pojazdu lub kierującego pokwitowanie zatrzymania profesjonalnego dowodu rejestracyjnego w okresie, w którym upoważnia ono do kierowania pojazdem albo jego używania",
+        "9": "art. 38 ust. 1 pkt 4c PRD Kierujący pojazdem jest obowiązany mieć przy sobie i okazywać na żądanie uprawnionego organu wymagane dla danego rodzaju pojazdu lub kierującego kartę kwalifikacji kierowcy, o ile jest wymagana",
+        "10": "art. 38 ust. 1 pkt 5 PRD Kierujący pojazdem jest obowiązany mieć przy sobie i okazywać na żądanie uprawnionego organu wymagane dla danego rodzaju pojazdu lub kierującego inne dokumenty, jeżeli obowiązek taki wynika z odrębnej ustawy",
+        "11": "art. 71 ust. 5a PRD W przypadku gdy z dokumentu stwierdzającego dokonanie rejestracji pojazdu, o którym mowa w ust. 5, nie wynika prawo do używania pojazdu przez kierującego, osoba ta obowiązana jest posiadać przy sobie i okazywać na żądanie organu kontroli ruchu drogowego dokument potwierdzający to prawo",
+        "12": "art. 71 ust. 5 PRD Pojazd zarejestrowany za granicą dopuszcza się do ruchu, jeżeli odpowiada wymaganym warunkom technicznym i jest zaopatrzony w tablice rejestracyjne z numerem rejestracyjnym składającym się z liter alfabetu łacińskiego i cyfr arabskich, z zastrzeżeniem art. 59 ust. 2 i 3, a kierujący pojazdem ma przy sobie dokument stwierdzający dokonanie rejestracji",
+        "13": "art. 59 ust. 1 PRD Pojazd zarejestrowany w Rzeczypospolitej Polskiej, który ma być używany w ruchu międzynarodowym, powinien być oznaczony znakiem z literami „PL”",
+        "14": "art. 59 ust. 2 PRD Pojazd zarejestrowany za granicą uczestniczący w ruchu na terytorium Rzeczypospolitej Polskiej powinien być oznaczony znakiem określającym państwo, w którym jest zarejestrowany",
+        "15": "art. 59 ust. 3 PRD Obowiązek, o którym mowa w ust. 1 i 2, uważa się za spełniony, jeżeli na tablicy rejestracyjnej jest umieszczony znak określający państwo, w którym pojazd został zarejestrowany"
+      },
       "path": null
     },
     {
@@ -3520,7 +3536,7 @@
     {
       "category": "allow",
       "name": "Dopuszczenie przez właściciela, posiadacza, użytkownika lub prowadzącego pojazd do jazdy na drodze publicznej, w strefie zamieszkania lub w strefie ruchu pojazdu pomimo braku wymaganych dokumentów stwierdzających dopuszczenie pojazdu do ruchu ",
-      "text": "art. 96 § 1 pkt 4 KW w zw. z art. 71   PRD",
+      "text": "art. 96 § 1 pkt 4 KW w zw. z art. 71 PRD",
       "tax": "50",
       "points": null,
       "code": "null",
@@ -5142,7 +5158,11 @@
         "1": "art. 90§1 KW Kto tamuje lub utrudnia ruch na drodze publicznej, w strefie zamieszkania lub strefie ruchu,\npodlega karze grzywny do 500 złotych lub karze nagany",
         "2": "art. 90§2 KW Jeżeli wykroczenia, o którym mowa w § 1, dopuszcza się prowadzący pojazd mechaniczny,\npodlega karze grzywny nie niższej niż 500 złotych"
       },
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "art. 22 ust. 4 PRD Kierujący pojazdem, zmieniając zajmowany pas ruchu, jest obowiązany ustąpić pierwszeństwa pojazdowi jadącemu po pasie ruchu, na który zamierza wjechać, z wyjątkiem ust. 4a i 4b, oraz pojazdowi wjeżdżającemu na ten pas ruchu z prawej strony",
+        "2": "art. 22 ust. 4a PRD W warunkach znacznego zmniejszenia prędkości na jezdni z więcej niż jednym pasem ruchu w tym samym kierunku jazdy, w przypadku gdy nie istnieje możliwość kontynuacji jazdy pasem ruchu z powodu wystąpienia przeszkody na tym pasie ruchu lub jego zanikania, kierujący pojazdem poruszający się sąsiednim pasem ruchu jest obowiązany bezpośrednio przed miejscem wystąpienia przeszkody lub miejscem zanikania pasa ruchu umożliwić jednemu pojazdowi lub jednemu zespołowi pojazdów, znajdującym się na takim pasie ruchu, zmianę tego pasa ruchu na sąsiedni, którym istnieje możliwość kontynuacji jazdy",
+        "3": "art. 22 ust. 4b PRD W warunkach znacznego zmniejszenia prędkości na jezdni z więcej niż dwoma pasami ruchu w tym samym kierunku jazdy, w przypadku gdy nie istnieje możliwość kontynuacji jazdy dwoma pasami ruchu z powodu przeszkód na tych pasach ruchu lub ich zanikania, jeżeli pomiędzy tymi pasami ruchu znajduje się jeden pas ruchu, którym istnieje możliwość kontynuacji jazdy, kierujący pojazdem poruszający się tym pasem ruchu jest obowiązany bezpośrednio przed miejscem wystąpienia przeszkody lub miejscem zanikania pasów ruchu umożliwić zmianę pasa ruchu jednemu pojazdowi lub jednemu zespołowi pojazdów z prawej strony, a następnie jednemu pojazdowi lub jednemu zespołowi pojazdów z lewej strony"
+      },
       "path": null
     },
     {
@@ -5153,7 +5173,7 @@
       "points": 1,
       "code": "J 07",
       "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
-      "paragraph": "",
+      "paragraph": "art. 63 ust. 1 PRD Przewóz osób może odbywać się tylko pojazdem do tego przeznaczonym lub przystosowanym. Liczba przewożonych osób nie może przekraczać liczby miejsc określonych w dowodzie rejestracyjnym, z zastrzeżeniem ust. 4. W pojeździe niepodlegającym rejestracji liczba przewożonych osób wynika z konstrukcyjnego przeznaczenia pojazdu",
       "path": null
     },
     {
@@ -5164,7 +5184,7 @@
       "points": 2,
       "code": "J 08",
       "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
-      "paragraph": "",
+      "paragraph": "art. 63 ust. 1 PRD Przewóz osób może odbywać się tylko pojazdem do tego przeznaczonym lub przystosowanym. Liczba przewożonych osób nie może przekraczać liczby miejsc określonych w dowodzie rejestracyjnym, z zastrzeżeniem ust. 4. W pojeździe niepodlegającym rejestracji liczba przewożonych osób wynika z konstrukcyjnego przeznaczenia pojazdu",
       "path": null
     },
     {
@@ -5175,7 +5195,7 @@
       "points": 3,
       "code": "J 09",
       "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
-      "paragraph": "",
+      "paragraph": "art. 63 ust. 1 PRD Przewóz osób może odbywać się tylko pojazdem do tego przeznaczonym lub przystosowanym. Liczba przewożonych osób nie może przekraczać liczby miejsc określonych w dowodzie rejestracyjnym, z zastrzeżeniem ust. 4. W pojeździe niepodlegającym rejestracji liczba przewożonych osób wynika z konstrukcyjnego przeznaczenia pojazdu",
       "path": null
     },
     {
@@ -5186,7 +5206,7 @@
       "points": 4,
       "code": "J 10",
       "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
-      "paragraph": "",
+      "paragraph": "art. 63 ust. 1 PRD Przewóz osób może odbywać się tylko pojazdem do tego przeznaczonym lub przystosowanym. Liczba przewożonych osób nie może przekraczać liczby miejsc określonych w dowodzie rejestracyjnym, z zastrzeżeniem ust. 4. W pojeździe niepodlegającym rejestracji liczba przewożonych osób wynika z konstrukcyjnego przeznaczenia pojazdu",
       "path": null
     },
     {
@@ -5197,7 +5217,7 @@
       "points": 5,
       "code": "J 11",
       "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
-      "paragraph": "",
+      "paragraph": "art. 63 ust. 1 PRD Przewóz osób może odbywać się tylko pojazdem do tego przeznaczonym lub przystosowanym. Liczba przewożonych osób nie może przekraczać liczby miejsc określonych w dowodzie rejestracyjnym, z zastrzeżeniem ust. 4. W pojeździe niepodlegającym rejestracji liczba przewożonych osób wynika z konstrukcyjnego przeznaczenia pojazdu",
       "path": null
     },
     {
@@ -5208,7 +5228,7 @@
       "points": 6,
       "code": "J 12",
       "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
-      "paragraph": "",
+      "paragraph": "art. 63 ust. 1 PRD Przewóz osób może odbywać się tylko pojazdem do tego przeznaczonym lub przystosowanym. Liczba przewożonych osób nie może przekraczać liczby miejsc określonych w dowodzie rejestracyjnym, z zastrzeżeniem ust. 4. W pojeździe niepodlegającym rejestracji liczba przewożonych osób wynika z konstrukcyjnego przeznaczenia pojazdu",
       "path": null
     },
     {
@@ -5219,7 +5239,7 @@
       "points": 7,
       "code": "J 13",
       "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
-      "paragraph": "",
+      "paragraph": "art. 63 ust. 1 PRD Przewóz osób może odbywać się tylko pojazdem do tego przeznaczonym lub przystosowanym. Liczba przewożonych osób nie może przekraczać liczby miejsc określonych w dowodzie rejestracyjnym, z zastrzeżeniem ust. 4. W pojeździe niepodlegającym rejestracji liczba przewożonych osób wynika z konstrukcyjnego przeznaczenia pojazdu",
       "path": null
     },
     {
@@ -5230,7 +5250,7 @@
       "points": 8,
       "code": "J 14",
       "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
-      "paragraph": "",
+      "paragraph": "art. 63 ust. 1 PRD Przewóz osób może odbywać się tylko pojazdem do tego przeznaczonym lub przystosowanym. Liczba przewożonych osób nie może przekraczać liczby miejsc określonych w dowodzie rejestracyjnym, z zastrzeżeniem ust. 4. W pojeździe niepodlegającym rejestracji liczba przewożonych osób wynika z konstrukcyjnego przeznaczenia pojazdu",
       "path": null
     },
     {
@@ -5241,7 +5261,7 @@
       "points": 9,
       "code": "J 15",
       "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
-      "paragraph": "",
+      "paragraph": "art. 63 ust. 1 PRD Przewóz osób może odbywać się tylko pojazdem do tego przeznaczonym lub przystosowanym. Liczba przewożonych osób nie może przekraczać liczby miejsc określonych w dowodzie rejestracyjnym, z zastrzeżeniem ust. 4. W pojeździe niepodlegającym rejestracji liczba przewożonych osób wynika z konstrukcyjnego przeznaczenia pojazdu",
       "path": null
     },
     {
@@ -5252,7 +5272,7 @@
       "points": 10,
       "code": "J 16",
       "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
-      "paragraph": "",
+      "paragraph": "art. 63 ust. 1 PRD Przewóz osób może odbywać się tylko pojazdem do tego przeznaczonym lub przystosowanym. Liczba przewożonych osób nie może przekraczać liczby miejsc określonych w dowodzie rejestracyjnym, z zastrzeżeniem ust. 4. W pojeździe niepodlegającym rejestracji liczba przewożonych osób wynika z konstrukcyjnego przeznaczenia pojazdu",
       "path": null
     },
     {
@@ -5263,7 +5283,7 @@
       "points": 1,
       "code": "J 07",
       "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
-      "paragraph": "",
+      "paragraph": "art. 63 ust. 1 PRD Przewóz osób może odbywać się tylko pojazdem do tego przeznaczonym lub przystosowanym. Liczba przewożonych osób nie może przekraczać liczby miejsc określonych w dowodzie rejestracyjnym, z zastrzeżeniem ust. 4. W pojeździe niepodlegającym rejestracji liczba przewożonych osób wynika z konstrukcyjnego przeznaczenia pojazdu",
       "path": null
     },
     {
@@ -5274,7 +5294,7 @@
       "points": 2,
       "code": "J 08",
       "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
-      "paragraph": "",
+      "paragraph": "art. 63 ust. 1 PRD Przewóz osób może odbywać się tylko pojazdem do tego przeznaczonym lub przystosowanym. Liczba przewożonych osób nie może przekraczać liczby miejsc określonych w dowodzie rejestracyjnym, z zastrzeżeniem ust. 4. W pojeździe niepodlegającym rejestracji liczba przewożonych osób wynika z konstrukcyjnego przeznaczenia pojazdu",
       "path": null
     },
     {
@@ -5285,7 +5305,7 @@
       "points": 3,
       "code": "J 09",
       "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
-      "paragraph": "",
+      "paragraph": "art. 63 ust. 1 PRD Przewóz osób może odbywać się tylko pojazdem do tego przeznaczonym lub przystosowanym. Liczba przewożonych osób nie może przekraczać liczby miejsc określonych w dowodzie rejestracyjnym, z zastrzeżeniem ust. 4. W pojeździe niepodlegającym rejestracji liczba przewożonych osób wynika z konstrukcyjnego przeznaczenia pojazdu",
       "path": null
     },
     {
@@ -5296,7 +5316,7 @@
       "points": 4,
       "code": "J 10",
       "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
-      "paragraph": "",
+      "paragraph": "art. 63 ust. 1 PRD Przewóz osób może odbywać się tylko pojazdem do tego przeznaczonym lub przystosowanym. Liczba przewożonych osób nie może przekraczać liczby miejsc określonych w dowodzie rejestracyjnym, z zastrzeżeniem ust. 4. W pojeździe niepodlegającym rejestracji liczba przewożonych osób wynika z konstrukcyjnego przeznaczenia pojazdu",
       "path": null
     },
     {
@@ -5307,7 +5327,7 @@
       "points": 5,
       "code": "J 11",
       "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
-      "paragraph": "",
+      "paragraph": "art. 63 ust. 1 PRD Przewóz osób może odbywać się tylko pojazdem do tego przeznaczonym lub przystosowanym. Liczba przewożonych osób nie może przekraczać liczby miejsc określonych w dowodzie rejestracyjnym, z zastrzeżeniem ust. 4. W pojeździe niepodlegającym rejestracji liczba przewożonych osób wynika z konstrukcyjnego przeznaczenia pojazdu",
       "path": null
     },
     {
@@ -5318,7 +5338,7 @@
       "points": 6,
       "code": "J 12",
       "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
-      "paragraph": "",
+      "paragraph": "art. 63 ust. 1 PRD Przewóz osób może odbywać się tylko pojazdem do tego przeznaczonym lub przystosowanym. Liczba przewożonych osób nie może przekraczać liczby miejsc określonych w dowodzie rejestracyjnym, z zastrzeżeniem ust. 4. W pojeździe niepodlegającym rejestracji liczba przewożonych osób wynika z konstrukcyjnego przeznaczenia pojazdu",
       "path": null
     },
     {
@@ -5329,7 +5349,7 @@
       "points": 7,
       "code": "J 13",
       "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
-      "paragraph": "",
+      "paragraph": "art. 63 ust. 1 PRD Przewóz osób może odbywać się tylko pojazdem do tego przeznaczonym lub przystosowanym. Liczba przewożonych osób nie może przekraczać liczby miejsc określonych w dowodzie rejestracyjnym, z zastrzeżeniem ust. 4. W pojeździe niepodlegającym rejestracji liczba przewożonych osób wynika z konstrukcyjnego przeznaczenia pojazdu",
       "path": null
     },
     {
@@ -5340,7 +5360,7 @@
       "points": 8,
       "code": "J 14",
       "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
-      "paragraph": "",
+      "paragraph": "art. 63 ust. 1 PRD Przewóz osób może odbywać się tylko pojazdem do tego przeznaczonym lub przystosowanym. Liczba przewożonych osób nie może przekraczać liczby miejsc określonych w dowodzie rejestracyjnym, z zastrzeżeniem ust. 4. W pojeździe niepodlegającym rejestracji liczba przewożonych osób wynika z konstrukcyjnego przeznaczenia pojazdu",
       "path": null
     },
     {
@@ -5351,7 +5371,7 @@
       "points": 9,
       "code": "J 15",
       "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
-      "paragraph": "",
+      "paragraph": "art. 63 ust. 1 PRD Przewóz osób może odbywać się tylko pojazdem do tego przeznaczonym lub przystosowanym. Liczba przewożonych osób nie może przekraczać liczby miejsc określonych w dowodzie rejestracyjnym, z zastrzeżeniem ust. 4. W pojeździe niepodlegającym rejestracji liczba przewożonych osób wynika z konstrukcyjnego przeznaczenia pojazdu",
       "path": null
     },
     {
@@ -5362,7 +5382,7 @@
       "points": 10,
       "code": "J 16",
       "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
-      "paragraph": "",
+      "paragraph": "art. 63 ust. 1 PRD Przewóz osób może odbywać się tylko pojazdem do tego przeznaczonym lub przystosowanym. Liczba przewożonych osób nie może przekraczać liczby miejsc określonych w dowodzie rejestracyjnym, z zastrzeżeniem ust. 4. W pojeździe niepodlegającym rejestracji liczba przewożonych osób wynika z konstrukcyjnego przeznaczenia pojazdu",
       "path": null
     },
     {
@@ -5512,8 +5532,8 @@
     },
     {
       "category": "to_pede",
-      "name": "Nieustąpienie pierwszeństwa pieszemu wchodzącemu na to przejście",
-      "text": "art. 86b § 1 pkt 1 KW w zw. z art. 26 ust. 1a PRD",
+      "name": "Nieustąpienie pierwszeństwa pieszemu wchodzącemu na przejście dla pieszych",
+      "text": "art. 86b § 1 pkt 1 KW w zw. z art. 26 ust. 1 PRD",
       "tax": "1500/[3000]",
       "points": 0,
       "code": "Z 01",
@@ -5521,7 +5541,10 @@
         "1": "art. 86b § 2 KW Kto dopuszcza się wykroczenia określonego w § 1, prowadząc inny pojazd\nniż określony w tym przepisie,\npodlega karze grzywny albo karze nagany",
         "2": "art. 86b § 1 pkt. 5 KW Kto na drodze publicznej, w strefie zamieszkania lub strefie ruchu,\nprowadząc pojazd mechaniczny narusza zakaz jazdy wzdłuż po chodniku lub przejściu dla pieszych"
       },
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "art. 26 ust. 1 PRD Kierujący pojazdem, zbliżając się do przejścia dla pieszych, jest obowiązany zachować szczególną ostrożność, zmniejszyć prędkość tak, aby nie narazić na niebezpieczeństwo pieszego znajdującego się na tym przejściu albo na nie wchodzącego i ustąpić pierwszeństwa pieszemu znajdującemu się na tym przejściu albo wchodzącemu na to przejście, z zastrzeżeniem ust. 1a",
+        "2": "art. 26 ust. 1a PRD Kierujący tramwajem, zbliżając się do przejścia dla pieszych, jest obowiązany zachować szczególną ostrożność, zmniejszyć prędkość tak, aby nie narazić na niebezpieczeństwo pieszego znajdującego się na tym przejściu i ustąpić pierwszeństwa pieszemu znajdującemu się na tym przejściu"
+      },
       "path": null
     },
     {
@@ -5532,7 +5555,7 @@
       "points": 5,
       "code": "B 07",
       "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany",
-      "paragraph": "",
+      "paragraph": "art. 25 ust. 4 pkt. 2 PRD Kierującemu pojazdem zabrania się rozdzielania kolumny pieszych",
       "path": null
     },
     {
@@ -5543,7 +5566,11 @@
       "points": 2,
       "code": "H 08",
       "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany",
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "art. 16 ust. 1 PRD Kierującego pojazdem obowiązuje ruch prawostronny",
+        "2": "art. 16 ust. 2 PRD Kierujący pojazdem, korzystając z drogi dwujezdniowej, jest obowiązany jechać po prawej jezdni; do jezdni tych nie wlicza się jezdni przeznaczonej do dojazdu do nieruchomości położonej przy drodze",
+        "3": "art. 16 ust. 3 PRD Kierujący pojazdem, korzystając z jezdni dwukierunkowej co najmniej o czterech pasach ruchu, jest obowiązany zajmować pas ruchu znajdujący się na prawej połowie jezdni"
+      },
       "path": null
     },
     {
@@ -5554,7 +5581,7 @@
       "points": 3,
       "code": "H 06",
       "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
-      "paragraph": "",
+      "paragraph": "art. 66 ust. 4 pkt 3 PRD Zabrania się umieszczania w pojeździe lub na nim urządzeń stanowiących obowiązkowe wyposażenie pojazdu uprzywilejowanego, wysyłających sygnały świetlne w postaci niebieskich lub czerwonych świateł błyskowych albo sygnał dźwiękowy o zmiennym tonie",
       "path": null
     },
     {
@@ -5565,18 +5592,25 @@
       "points": 3,
       "code": "H 07",
       "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
-      "paragraph": "",
+      "paragraph": "art. 66 ust. 4 pkt 4 PRD Zabrania się wyposażania pojazdu w urządzenie informujące o działaniu sprzętu kontrolno--pomiarowego używanego przez organy kontroli ruchu drogowego lub działanie to zakłócające albo przewożenia w pojeździe takiego urządzenia w stanie wskazującym na gotowość jego użycia; nie dotyczy to pojazdów specjalnych Sił Zbrojnych Rzeczypospolitej Polskiej, Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Krajowej Administracji Skarbowej wykorzystywanych przez Służbę Celno-Skarbową, Służby Ochrony Państwa oraz Biura Nadzoru Wewnętrznego",
       "path": null
     },
     {
       "category": "others",
       "name": "Przejazd bez zezwolenia pojazdu z ładunkiem powodującym\nprzekroczenie określonych gabarytów",
-      "text": "art. 97KW w zw. z art. 61 ust. 11: w zw.\nz art. 61 ust. 2 pkt 1,\nust. 6, ust. 8 lub\nust. 10 PRD",
+      "text": "art. 97KW w zw. z art. 61 ust. 11 w zw. z art. 61 ust. 2 pkt 1, ust. 6, ust. 8 lub ust. 10 PRD",
       "tax": "20-3000",
       "points": 0,
       "code": "K 32",
       "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "art. 61 ust. 2 pkt 1 PRD Ładunek na pojeździe umieszcza się w taki sposób, aby nie powodował przekroczenia dopuszczalnych nacisków osi pojazdu na drogę",
+        "2": "art. 61 ust. 6 pkt 1 PRD Ładunek wystający poza płaszczyzny obrysu pojazdu może być na nim umieszczony tylko przy zachowaniu następujących warunków ładunek wystający poza boczne płaszczyzny obrysu pojazdu może być umieszczony tylko w taki sposób, aby całkowita szerokość pojazdu z ładunkiem nie przekraczała 2,55 m, a przy szerokości pojazdu 2,55 m nie przekraczała 3 m, jednak pod warunkiem umieszczenia ładunku tak, aby z jednej strony nie wystawał na odległość większą niż 23 cm",
+        "3": "art. 61 ust. 6 pkt 2 PRD Ładunek wystający poza płaszczyzny obrysu pojazdu może być na nim umieszczony tylko przy zachowaniu następujących warunków ładunek nie może wystawać z tyłu pojazdu na odległość większą niż 2 m od tylnej płaszczyzny obrysu pojazdu lub zespołu pojazdów; w przypadku przyczepy kłonicowej odległość tę liczy się od osi przyczepy",
+        "4": "art. 61 ust. 6 pkt 3 PRD Ładunek wystający poza płaszczyzny obrysu pojazdu może być na nim umieszczony tylko przy zachowaniu następujących warunków ładunek nie może wystawać z przodu pojazdu na odległość większą niż 0,5 m od przedniej płaszczyzny obrysu i większą niż 1,5 m od siedzenia dla kierującego",
+        "5": "art. 61 ust. 8 PRD Ładunek wystający poza przednią lub boczne płaszczyzny obrysu pojazdu powinien być oznaczony. Dotyczy to również ładunku wystającego poza tylną płaszczyznę obrysu pojazdu na odległość większą niż 0,5 m",
+        "6": "art. 61 ust. 10 PRD Wysokość pojazdu z ładunkiem nie może przekraczać 4 m"
+      },
       "path": null
     },
     {
@@ -5587,7 +5621,13 @@
       "points": 0,
       "code": "K 33",
       "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "art. 62 ust. 4 PRD Zespół pojazdów może składać się najwyżej z 3 pojazdów, a zespół ciągnięty przez pojazd silnikowy inny niż ciągnik rolniczy lub pojazd wolnobieżny – z 2 pojazdów",
+        "2": "art. 62 ust. 4a pkt 1 PRD Długość zespołu 2 pojazdów nie może przekraczać 18,75 m, a 3 pojazdów – 22 m, z wyjątkiem zespołu pojazdów złożonego z pojazdu samochodowego i naczepy, których długość nie może przekraczać 16,5 m",
+        "3": "art. 62 ust. 4a pkt 2 PRD Długość zespołu 2 pojazdów nie może przekraczać 18,75 m, a 3 pojazdów – 22 m, z wyjątkiem zespołu pojazdów złożonego z motocykla i przyczepy, motoroweru i przyczepy, roweru i przyczepy, wózka rowerowego i przyczepy, którego długość nie może przekraczać 4 m",
+        "4": "art. 62 ust. 4b pkt 1 PRD Przejazd zespołu pojazdów złożonego z liczby pojazdów większej niż określona w ust. 4 wymaga zezwolenia, o którym mowa w art. 64d",
+        "5": "art. 62 ust. 4b pkt 2 PRD Przejazd zespołu pojazdów o długości większej niż określona w ust. 4a wymaga zezwolenia, o którym mowa odpowiednio w art. 64c albo art. 64d"
+      },
       "path": null
     },
     {
@@ -5598,7 +5638,7 @@
       "points": 0,
       "code": "K 13",
       "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
-      "paragraph": "",
+      "paragraph": "art. 53 ust. 3 PRD Kierujący pojazdem uprzywilejowanym jest obowiązany stosować się do poleceń i sygnałów dawanych przez osoby kierujące ruchem lub upoważnione do jego kontroli",
       "path": null
     },
     {
@@ -5609,7 +5649,7 @@
       "points": 0,
       "code": "K 06",
       "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
-      "paragraph": "",
+      "paragraph": "art. 28 ust. 5 PRD Kierujący pojazdem lub zespołem pojazdów o długości przekraczającej 10 m, który nie może rozwinąć prędkości większej niż 6 km/h, przed wjazdem na przejazd kolejowy jest obowiązany upewnić się, czy w czasie potrzebnym na przejechanie przez ten przejazd nie nadjedzie pojazd szynowy, lub uzgodnić czas tego przejazdu z dróżnikiem kolejowym",
       "path": null
     },
     {
@@ -5620,7 +5660,11 @@
       "points": 0,
       "code": "K 08",
       "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "art. 32 ust. 1 pkt 1 PRD Liczba pojazdów jadących w zorganizowanej kolumnie nie może przekraczać samochodów osobowych, motorowerów lub motocykli – 10",
+        "2": "art. 32 ust. 1 pkt 2 PRD Liczba pojazdów jadących w zorganizowanej kolumnie nie może przekraczać rowerów, wózków rowerowych lub hulajnóg elektrycznych – 15",
+        "3": "art. 32 ust. 1 pkt 3 PRD Liczba pojazdów jadących w zorganizowanej kolumnie nie może przekraczać pozostałych pojazdów – 5"
+      },
       "path": null
     },
     {
@@ -5631,13 +5675,13 @@
       "points": 0,
       "code": "K 09",
       "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
-      "paragraph": "",
+      "paragraph": "art. 32 ust. 2 PRD Odległość między jadącymi kolumnami nie może być mniejsza niż 500 m dla kolumn pojazdów samochodowych oraz 200 m dla kolumn pozostałych pojazdów.",
       "path": null
     },
     {
       "category": "others",
       "name": "Umieszczenie na pojeździe ładunku w sposób powodujący przekroczenie dopuszczalnej\nmasy całkowitej lub dopuszczalnej\nładowności pojazdu",
-      "text": "art. 97KW w zw. z art. . 61 ust. 1  PRD",
+      "text": "art. 97KW w zw. z art. 61 ust. 1 PRD",
       "tax": "20-3000",
       "points": 0,
       "code": "K 23",
@@ -5648,23 +5692,23 @@
     {
       "category": "others",
       "name": "Umieszczenie na pojeździe ładunku w sposób naruszający stateczność pojazdu",
-      "text": "art. 97KW w zw. z art. 61 ust. 2 pkt 2  PRD",
+      "text": "art. 97KW w zw. z art. 61 ust. 2 pkt 2 PRD",
       "tax": "20-3000",
       "points": 0,
       "code": "K 24",
       "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
-      "paragraph": "",
+      "paragraph": "art. 61 ust. 2 pkt 2 PRD Ładunek na pojeździe umieszcza się w taki sposób, aby nie naruszał stateczności pojazdu",
       "path": null
     },
     {
       "category": "others",
       "name": "Umieszczenie na pojeździe ładunku w sposób utrudniający kierowanie pojazdem",
-      "text": "art. 97KW w zw. z art. 61 ust. 2 pkt 3  PRD",
+      "text": "art. 97KW w zw. z art. 61 ust. 2 pkt 3 PRD",
       "tax": "20-3000",
       "points": 0,
       "code": "K 25",
       "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
-      "paragraph": "",
+      "paragraph": "art. 61 ust. 2 pkt 3 PRD Ładunek na pojeździe umieszcza się w taki sposób, aby nie utrudniał kierowania pojazdem",
       "path": null
     },
     {
@@ -5675,7 +5719,7 @@
       "points": 0,
       "code": "K 27",
       "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
-      "paragraph": "",
+      "paragraph": "art. 61 ust. 3 PRD Ładunek umieszczony na pojeździe powinien być zabezpieczony przed zmianą położenia lub wywoływaniem nadmiernego hałasu. Nie może on mieć odrażającego wyglądu lub wydzielać odrażającej woni",
       "path": null
     },
     {
@@ -5686,7 +5730,7 @@
       "points": 0,
       "code": "K 28",
       "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
-      "paragraph": "",
+      "paragraph": "art. 61 ust. 3 PRD Ładunek umieszczony na pojeździe powinien być zabezpieczony przed zmianą położenia lub wywoływaniem nadmiernego hałasu. Nie może on mieć odrażającego wyglądu lub wydzielać odrażającej woni",
       "path": null
     },
     {
@@ -5697,7 +5741,7 @@
       "points": 3,
       "code": "J 17",
       "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
-      "paragraph": "",
+      "paragraph": "art. 63 ust. 3 pkt 2 lit a PRD Zabrania się przewozu osób w przyczepie, z tym że dopuszcza się przewóz konwojentów, drużyn roboczych i osób wykonujących czynności ładunkowe w przyczepie ciągniętej przez ciągnik rolniczy pod warunkiem, że liczba przewożonych osób nie przekracza 5",
       "path": null
     },
     {
@@ -5708,13 +5752,13 @@
       "points": 3,
       "code": "J 18",
       "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany.",
-      "paragraph": "",
+      "paragraph": "art. 63 ust. 3 pkt 2 lit c PRD Zabrania się przewozu osób w przyczepie, z tym że dopuszcza się przewóz konwojentów, drużyn roboczych i osób wykonujących czynności ładunkowe w przyczepie ciągniętej przez ciągnik rolniczy pod warunkiem, że osoby nie znajdują się pomiędzy ładunkiem a przednią ścianą przyczepy",
       "path": null
     },
     {
       "category": "others",
       "name": "Naruszenie warunków przewozu osób\nw przyczepie, z wyłączeniem naruszenia\nokreślonego kodem E 01–E 05, C 07–C 16,\nC 17 i C 18",
-      "text": "art. 97KW w zw. z art. 63 ust. 3 pkt 1,\npkt 2 lit. b, pkt 3 lub\npkt 4 p r.d PRD",
+      "text": "art. 97KW w zw. z art. 63 ust. 3 pkt 1, pkt 2 lit. b, pkt 3 lub pkt 4 PRD",
       "tax": "20-3000",
       "points": 2,
       "code": "J 19",
@@ -5733,7 +5777,7 @@
         "1": "art. 90§1 KW Kto tamuje lub utrudnia ruch na drodze publicznej, w strefie zamieszkania lub strefie ruchu,\npodlega karze grzywny do 500 złotych lub karze nagany",
         "2": "art. 90§2 KW Jeżeli wykroczenia, o którym mowa w § 1, dopuszcza się prowadzący pojazd mechaniczny,\npodlega karze grzywny nie niższej niż 500 złotych"
       },
-      "paragraph": "",
+      "paragraph": "art. 25 ust. 1 PRD Kierujący pojazdem, zbliżając się do skrzyżowania, jest obowiązany zachować szczególną ostrożność i ustąpić pierwszeństwa pojazdowi nadjeżdżającemu z prawej strony, a jeżeli skręca w lewo – także jadącemu z kierunku przeciwnego na wprost lub skręcającemu w prawo",
       "path": null
     },
     {
@@ -5766,7 +5810,7 @@
         "1": "art. 90§1 KW Kto tamuje lub utrudnia ruch na drodze publicznej, w strefie zamieszkania lub strefie ruchu,\npodlega karze grzywny do 500 złotych lub karze nagany",
         "2": "art. 90§2 KW Jeżeli wykroczenia, o którym mowa w § 1, dopuszcza się prowadzący pojazd mechaniczny,\npodlega karze grzywny nie niższej niż 500 złotych"
       },
-      "paragraph": "",
+      "paragraph": "art. 16 ust. 6 PRD Kierujący pojazdem znajdującym się na części jezdni, po której jeżdżą pojazdy szynowe, jest obowiązany ustąpić miejsca nadjeżdżającemu pojazdowi szynowemu",
       "path": null
     },
     {
@@ -5780,7 +5824,11 @@
         "1": "art. 90§1 KW Kto tamuje lub utrudnia ruch na drodze publicznej, w strefie zamieszkania lub strefie ruchu,\npodlega karze grzywny do 500 złotych lub karze nagany",
         "2": "art. 90§2 KW Jeżeli wykroczenia, o którym mowa w § 1, dopuszcza się prowadzący pojazd mechaniczny,\npodlega karze grzywny nie niższej niż 500 złotych"
       },
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "art. 27 ust. 1 PRD Kierujący pojazdem, zbliżając się do przejazdu dla rowerzystów, jest obowiązany zachować szczególną ostrożność i ustąpić pierwszeństwa kierującemu rowerem, hulajnogą elektryczną lub urządzeniem transportu osobistego oraz osobie poruszającej się przy użyciu urządzenia wspomagającego ruch, znajdującym się na przejeździe",
+        "2": "art. 27 ust. 1a PRDKierujący pojazdem, który skręca w drogę poprzeczną, jest obowiązany zachować szczególną ostrożność i ustąpić pierwszeństwa kierującemu rowerem, hulajnogą elektryczną lub urządzeniem transportu osobistego oraz osobie poruszającej się przy użyciu urządzenia wspomagającego ruch, jadącym na wprost po jezdni, pasie ruchu dla rowerów, drodze dla rowerów lub innej części drogi, którą zamierza opuścić",
+        "3": "art. 27 ust. 3 PRDKierujący pojazdem, przejeżdżając przez drogę dla rowerów poza jezdnią, jest obowiązany ustąpić pierwszeństwa kierującemu rowerem, hulajnogą elektryczną lub urządzeniem transportu osobistego oraz osobie poruszającej się przy użyciu urządzenia wspomagającego ruch"
+      },
       "path": null
     },
     {
@@ -5794,7 +5842,11 @@
         "1": "art. 90§1 KW Kto tamuje lub utrudnia ruch na drodze publicznej, w strefie zamieszkania lub strefie ruchu,\npodlega karze grzywny do 500 złotych lub karze nagany",
         "2": "art. 90§2 KW Jeżeli wykroczenia, o którym mowa w § 1, dopuszcza się prowadzący pojazd mechaniczny,\npodlega karze grzywny nie niższej niż 500 złotych"
       },
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "art. 25 ust. 3 PRD Przepisy ust. 1 i 2 stosuje się również w razie przecinania się kierunków ruchu poza skrzyżowaniem",
+        "2": "art. 25 ust. 1 PRD Kierujący pojazdem, zbliżając się do skrzyżowania, jest obowiązany zachować szczególną ostrożność i ustąpić pierwszeństwa pojazdowi nadjeżdżającemu z prawej strony, a jeżeli skręca w lewo – także jadącemu z kierunku przeciwnego na wprost lub skręcającemu w prawo",
+        "3": "art. 25 ust. 2 PRD Przepisu ust. 1 nie stosuje się do pojazdu szynowego, który ma pierwszeństwo w stosunku do innych pojazdów, bez względu na to, z której strony nadjeżdża"
+      },
       "path": null
     },
     {
@@ -5808,13 +5860,13 @@
         "1": "art. 90§1 KW Kto tamuje lub utrudnia ruch na drodze publicznej, w strefie zamieszkania lub strefie ruchu,\npodlega karze grzywny do 500 złotych lub karze nagany",
         "2": "art. 90§2 KW Jeżeli wykroczenia, o którym mowa w § 1, dopuszcza się prowadzący pojazd mechaniczny,\npodlega karze grzywny nie niższej niż 500 złotych"
       },
-      "paragraph": "",
+      "paragraph": "art. 17 ust. 2 PRD Kierujący pojazdem, włączając się do ruchu, jest obowiązany zachować szczególną ostrożność oraz ustąpić pierwszeństwa innemu pojazdowi lub uczestnikowi ruchu",
       "path": null
     },
     {
       "category": "others",
       "name": "Nieustąpienie pierwszeństwa przejazdu podczas cofania",
-      "text": "art. 90 KW w zw. z art. 23 ust. 1 pkt 3  PRD",
+      "text": "art. 90 KW w zw. z art. 23 ust. 1 pkt 3 PRD",
       "tax": "500-5000",
       "points": 4,
       "code": "D 08",
@@ -5822,18 +5874,27 @@
         "1": "art. 90§1 KW Kto tamuje lub utrudnia ruch na drodze publicznej, w strefie zamieszkania lub strefie ruchu,\npodlega karze grzywny do 500 złotych lub karze nagany",
         "2": "art. 90§2 KW Jeżeli wykroczenia, o którym mowa w § 1, dopuszcza się prowadzący pojazd mechaniczny,\npodlega karze grzywny nie niższej niż 500 złotych"
       },
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "23 ust. 1 pkt 3 lit a PRD Kierujący pojazdem jest obowiązany przy cofaniu ustąpić pierwszeństwa innemu pojazdowi lub uczestnikowi ruchu i zachować szczególną ostrożność, a w szczególności sprawdzić, czy wykonywany manewr nie spowoduje zagrożenia bezpieczeństwa ruchu lub jego utrudnienia",
+        "2": "23 ust. 1 pkt 3 lit b PRD Kierujący pojazdem jest obowiązany przy cofaniu ustąpić pierwszeństwa innemu pojazdowi lub uczestnikowi ruchu i zachować szczególną ostrożność, a w szczególności upewnić się, czy za pojazdem nie znajduje się przeszkoda; w razie trudności w osobistym upewnieniu się kierujący jest obowiązany zapewnić sobie pomoc innej osoby"
+      },
       "path": null
     },
     {
       "category": "others",
       "name": "Naruszenie zakazu zawracania znak B-23 \"zakaz zawracania\"",
-      "text": "art. 92 § 1 KW w zw. z art. 22 ust. 5 z.s.d PRD",
+      "text": "art. 92 § 1 KW w zw. z § 22 ust. 5 ZSD albo art. 22 ust. 6 PRD",
       "tax": "20-5000",
       "points": 5,
       "code": "D 10",
       "law": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego,podlega karze grzywny albo karze nagany",
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "§ 22 ust. 5 ZSD Znak B-23 „zakaz zawracania” zabrania kierującym zawracania do najbliższego skrzyżowania włącznie",
+        "2": "art. 22 ust. 6 pkt 1 PRD Zabrania się zawracania w tunelu, na moście, wiadukcie lub drodze jednokierunkowej",
+        "3": "art. 22 ust. 6 pkt 2 PRD Zabrania się zawracania na autostradzie",
+        "4": "art. 22 ust. 6 pkt 3 PRD Zabrania się zawracania na drodze ekspresowej, z wyjątkiem skrzyżowania lub miejsca do tego przeznaczonego",
+        "5": "art. 22 ust. 6 pkt 4 PRD Zabrania się zawracania w warunkach, w których mogłoby to zagrozić bezpieczeństwu ruchu na drodze lub ruch ten utrudnić"
+      },
       "path": "road_sign/B/B-23.png"
     },
     {
@@ -5847,7 +5908,7 @@
         "1": "art. 90§1 KW Kto tamuje lub utrudnia ruch na drodze publicznej, w strefie zamieszkania lub strefie ruchu,\npodlega karze grzywny do 500 złotych lub karze nagany",
         "2": "art. 90§2 KW Jeżeli wykroczenia, o którym mowa w § 1, dopuszcza się prowadzący pojazd mechaniczny,\npodlega karze grzywny nie niższej niż 500 złotych"
       },
-      "paragraph": "",
+      "paragraph": "art. 19 ust. 2 pkt 1 PRD Kierujący pojazdem jest obowiązany jechać z prędkością nieutrudniającą jazdy innym kierującym",
       "path": null
     },
     {
@@ -5861,7 +5922,11 @@
         "1": "art. 90§1 KW Kto tamuje lub utrudnia ruch na drodze publicznej, w strefie zamieszkania lub strefie ruchu,\npodlega karze grzywny do 500 złotych lub karze nagany",
         "2": "art. 90§2 KW Jeżeli wykroczenia, o którym mowa w § 1, dopuszcza się prowadzący pojazd mechaniczny,\npodlega karze grzywny nie niższej niż 500 złotych"
       },
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "art. 24 ust. 1 pkt 1 PRD Kierujący pojazdem jest obowiązany przed wyprzedzaniem upewnić się w szczególności, czy ma odpowiednią widoczność i dostateczne miejsce do wyprzedzania bez utrudnienia komukolwiek ruchu",
+        "2": "art. 24 ust. 1 pkt 2 PRD Kierujący pojazdem jest obowiązany przed wyprzedzaniem upewnić się w szczególności, czy kierujący, jadący za nim, nie rozpoczął wyprzedzania",
+        "3": "art. 24 ust. 1 pkt 3 PRD Kierujący pojazdem jest obowiązany przed wyprzedzaniem upewnić się w szczególności, czy kierujący, jadący przed nim na tym samym pasie ruchu, nie zasygnalizował zamiaru wyprzedzania innego pojazdu, zmiany kierunku jazdy lub zmiany pasa ruchu"
+      },
       "path": null
     },
     {
@@ -5901,12 +5966,22 @@
     {
       "category": "sign",
       "name": "Niezastosowanie się do sygnałów i poleceń dawanych przez osoby\nuprawnione do kontroli ruchu drogowego",
-      "text": "art. 92 § 1 KW w zw. z § 109 ZSD lub art. 129\nust. 2 pkt 1 lub 7 PRD",
+      "text": "art. 92 § 1 KW w zw. z § 109 ZSD lub art. 129 ust. 2 pkt 1 lub 7 PRD",
       "tax": "20-5000",
       "points": 6,
       "code": "C 04",
       "law": "art. 92 § 1 KW Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego,podlega karze grzywny albo karze nagany",
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "§ 109 ust. 1 pkt 1 ZSD Sygnał oznaczający nakaz zatrzymania pojazdu jest dawany w warunkach dostatecznej widoczności – tarczą do zatrzymywania pojazdów",
+        "2": "§ 109 ust. 1 pkt 2 ZSD Sygnał oznaczający nakaz zatrzymania pojazdu jest dawany w warunkach niedostatecznej widoczności – tarczą do zatrzymywania pojazdów ze światłem odblaskowym lub światłem\nczerwonym albo latarką ze światłem czerwonym",
+        "3": "§ 109 ust. 2 ZSD Tarcza do zatrzymywania pojazdów, o której mowa w ust. 1, ma kształt czerwonego koła z białym obrzeżem",
+        "4": "§ 109 ust. 3 ZSD Umundurowany policjant, inspektor Inspekcji Transportu Drogowego, żołnierz Żandarmerii Wojskowej i żołnierz\nwojskowych organów porządkowych mogą w warunkach dostatecznej widoczności dawać sygnał do zatrzymania pojazdu\nsamą ręką",
+        "5": "§ 109 ust. 4 ZSD Osoby nadzorujące bezpieczne przejście dzieci przez jezdnię dają sygnał do zatrzymania pojazdu przez uniesienie\nw górę kwadratowej tarczy barwy żółtej ze znakiem B-20 z żółtym napisem i obrzeżem",
+        "6": "129 ust. 2 pkt 1 PRD Policjant, w związku z wykonywaniem czynności określonych w ust. 1, jest uprawniony do legitymowania uczestnika ruchu i wydawania mu wiążących poleceń co do sposobu korzystania z drogi, używania pojazdu lub urządzenia wspomagającego ruch",
+        "7": "129 ust. 2 pkt 7 lit a PRD Policjant, w związku z wykonywaniem czynności określonych w ust. 1, jest uprawniony do wydawania poleceń osobie, która spowodowała przeszkodę utrudniającą ruch drogowy lub zagrażającą jego bezpieczeństwu, albo osobie odpowiedzialnej za utrzymanie drogi",
+        "8": "129 ust. 2 pkt 7 lit b PRD Policjant, w związku z wykonywaniem czynności określonych w ust. 1, jest uprawniony do wydawania poleceń kontrolowanemu uczestnikowi ruchu – co do sposobu jego zachowania"
+
+      },
       "path": null
     },
     {
