@@ -3,7 +3,7 @@
     <div class="header">
       <div class="ico_logo">
       </div>
-      <div class="htl">
+      <div class="htl" @click="goto_web('https://holdtheline.pl/')">
         <img :src="require(`../assets/others/logo-kolor2.png`)" alt="Sign"/>
       </div>
       <div>
@@ -22,7 +22,12 @@
 
 <script>
 export default {
-  name: 'navBar.vue'
+  name: 'navBar.vue',
+  methods: {
+    goto_web (path) {
+      window.open(path)
+    }
+  }
 }
 </script>
 
@@ -79,7 +84,7 @@ a {
 }
 .tesst{
   position: sticky;
-  top: 0px;
+  top: 0;
   z-index: 10;
 }
 .nav_element {
@@ -145,10 +150,10 @@ a {
     justify-content: center;
   }
   .nav_element > .icon {
-    margin: 0px 5px;
+    margin: 0 5px;
   }
   .nav_element_selected > .icon {
-    margin: 0px 5px;
+    margin: 0 5px;
   }
   .routeBar{
     grid-template-columns: repeat(6, minmax(0, 1fr));
