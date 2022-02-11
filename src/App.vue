@@ -129,13 +129,13 @@ body {
  }
 @media only screen and (min-width: 560px) {
   #search_top_bar2 {
-  top: 52px;
+  top: 90px;
   }
   #view {
-    margin-top: 52px;
+    margin-top: 90px;
   }
   .search_top_bar2--hidden {
-    transform: translateY(-52px);
+    transform: translateY(-90px);
   }
 }
 </style>
