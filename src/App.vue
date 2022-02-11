@@ -92,7 +92,7 @@ body {
   padding: 0;
   margin: 0;
   overscroll-behavior-y: contain;
-  --nav-height: 72px;
+  --nav-height: 112px;
 }
 #app {
   background-color: #293241;
@@ -104,17 +104,17 @@ body {
   transition: transform 0.2s;
 }
 .navbar--hidden {
-  transform: translateY(-72px);
+  transform: translateY(-112px);
   box-shadow: none;
 }
 #view {
   transition: 0.2s;
-  margin-top: 72px;
+  margin-top: 112px;
 }
 #search_top_bar2 {
   position: sticky;
   position: -webkit-sticky;
-  top: 70px; /* required */
+  top: 110px; /* required */
   background-color: #EE6C4D;
   padding: 10px 10px;
   display: flex;
@@ -124,7 +124,7 @@ body {
   transition: transform 0.2s;
 }
 .search_top_bar2--hidden {
-  transform: translateY(-72px);
+  transform: translateY(-112px);
   box-shadow: none;
  }
 @media only screen and (min-width: 560px) {
