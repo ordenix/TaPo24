@@ -1,8 +1,10 @@
 <template>
   <div id="app">
-    <navBar class="navbar"/>
-    <div class="test"></div>
-    <div id="view">
+    <div id="login_screen" v-if="!login_form && $route.name==='Home'">
+    logo
+    </div>
+    <navBar class="navbar" v-if="login_form || $route.name!=='Home'"/>
+    <div id="view" v-if="login_form || $route.name!=='Home'">
       <router-view/>
     </div>
   </div>
@@ -18,10 +20,12 @@ export default {
   },
   data () {
     return {
-      timer: null
+      timer: null,
+      login_form: false
     }
   },
   mounted () {
+    setTimeout(this.show_app, 3000)
     const nav = document.querySelector('.navbar')
     const searchBox = document.querySelector('#search_top_bar2')
     let lastScrollY = window.scrollY
@@ -55,6 +59,9 @@ export default {
     },
     clear_timeout () {
       window.clearTimeout(this.timer)
+    },
+    show_app () {
+      this.login_form = true
     }
   },
   updated () {
@@ -87,15 +94,23 @@ export default {
 <style lang="scss">
 @import url('https://fonts.googleapis.com/css2?family=Readex+Pro:wght@300&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Readex+Pro:wght@300&display=swap');
-body {
+html, body {
   background-color: #293241;
   padding: 0;
   margin: 0;
   overscroll-behavior-y: contain;
   --nav-height: 112px;
+  height: 100%;
 }
 #app {
   background-color: #293241;
+  height: 100%;
+}
+#login_screen {
+  background-color: #006bb3;
+  z-index: 100;
+  width: 100%;
+  height: 100%;
 }
 .navbar {
   position: fixed;
