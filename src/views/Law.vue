@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div id="search_top_bar">
+    <div id="search_top_bar2">
       <input type="text" placeholder="Wprowadź nazwę aktu" v-model="serach_text">
       <div v-if="false" id="options_container">
         <div class="option">
@@ -76,6 +76,8 @@ export default {
         { name: 'Ustawa o kierujących', path: 'UOK.pdf', icon: 'fas fa-id-card', short: 'UOK' },
         { name: 'Kodeks Karny', path: 'KK.pdf', icon: 'fas fa-mask', short: 'KK' },
         { name: 'Rozp. znaki i sygnały', path: 'ZSD.pdf', icon: 'fas fa-traffic-light', short: 'zsd' },
+        { name: 'Rozp. szczeg. war. ZSD cz1', path: 'ZSD1.pdf', icon: 'fas fa-traffic-light', short: 'zsd' },
+        { name: 'Rozp. szczeg. war. ZSD cz2', path: 'ZSD2.pdf', icon: 'fas fa-traffic-light', short: 'zsd' },
         { name: 'Rozp. ws. usuwania pojazdów', path: 'UPOJ.pdf', icon: 'fas fas fa-car-battery', short: 'none' },
         { name: 'Rozp. ws. badań alk. w organizmie', path: 'AL.pdf', icon: 'fas fa-glass-cheers', short: 'alko' },
         { name: 'Rozp. ws. badań na substancje', path: 'KRNARK.pdf', icon: 'fas fa-cannabis', short: 'narko' },
