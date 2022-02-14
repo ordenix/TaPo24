@@ -1,0 +1,528 @@
+{
+  "light_front": [
+    {
+      "sign": "A",
+      "type": "Pozycyjne",
+      "remarks": null
+    },
+    {
+      "sign": "xxxxxxxxxx",
+      "type": "xxxxxxxxxxx",
+      "remarks": null
+    },
+    {
+      "sign": "xxxxxxxxxx",
+      "type": "xxxxxxxxxxx",
+      "remarks": null
+    },
+    {
+      "sign": "xxxxxxxxxx",
+      "type": "xxxxxxxxxxx",
+      "remarks": null
+    },
+    {
+      "sign": "xxxxxxxxxx",
+      "type": "xxxxxxxxxxx",
+      "remarks": null
+    },
+    {
+      "sign": "xxxxxxxxxx",
+      "type": "xxxxxxxxxxx",
+      "remarks": null
+    },
+    {
+      "sign": "xxxxxxxxxx",
+      "type": "xxxxxxxxxxx",
+      "remarks": null
+    },
+    {
+      "sign": "xxxxxxxxxx",
+      "type": "xxxxxxxxxxx",
+      "remarks": null
+    },
+    {
+      "sign": "xxxxxxxxxx",
+      "type": "xxxxxxxxxxx",
+      "remarks": null
+    },
+    {
+      "sign": "xxxxxxxxxx",
+      "type": "xxxxxxxxxxx",
+      "remarks": null
+    },
+    {
+      "sign": "xxxxxxxxxx",
+      "type": "xxxxxxxxxxx",
+      "remarks": null
+    },
+    {
+      "sign": "xxxxxxxxxx",
+      "type": "xxxxxxxxxxx",
+      "remarks": null
+    },
+    {
+      "sign": "xxxxxxxxxx",
+      "type": "xxxxxxxxxxx",
+      "remarks": null
+    },
+    {
+      "sign": "xxxxxxxxxx",
+      "type": "xxxxxxxxxxx",
+      "remarks": null
+    },
+    {
+      "sign": "xxxxxxxxxx",
+      "type": "xxxxxxxxxxx",
+      "remarks": null
+    },
+    {
+      "sign": "xxxxxxxxxx",
+      "type": "xxxxxxxxxxx",
+      "remarks": null
+    },
+    {
+      "sign": "xxxxxxxxxx",
+      "type": "xxxxxxxxxxx",
+      "remarks": null
+    },
+    {
+      "sign": "xxxxxxxxxx",
+      "type": "xxxxxxxxxxx",
+      "remarks": null
+    },
+    {
+      "sign": "xxxxxxxxxx",
+      "type": "xxxxxxxxxxx",
+      "remarks": null
+    },
+    {
+      "sign": "xxxxxxxxxx",
+      "type": "xxxxxxxxxxx",
+      "remarks": null
+    },
+    {
+      "sign": "xxxxxxxxxx",
+      "type": "xxxxxxxxxxx",
+      "remarks": null
+    },
+    {
+      "sign": "xxxxxxxxxx",
+      "type": "xxxxxxxxxxx",
+      "remarks": null
+    },
+    {
+      "sign": "xxxxxxxxxx",
+      "type": "xxxxxxxxxxx",
+      "remarks": null
+    },
+    {
+      "sign": "xxxxxxxxxx",
+      "type": "xxxxxxxxxxx",
+      "remarks": null
+    },
+    {
+      "sign": "xxxxxxxxxx",
+      "type": "xxxxxxxxxxx",
+      "remarks": null
+    },
+    {
+      "sign": "xxxxxxxxxx",
+      "type": "xxxxxxxxxxx",
+      "remarks": null
+    },
+    {
+      "sign": "xxxxxxxxxx",
+      "type": "xxxxxxxxxxx",
+      "remarks": null
+    },
+    {
+      "sign": "xxxxxxxxxx",
+      "type": "xxxxxxxxxxx",
+      "remarks": null
+    },
+    {
+      "sign": "xxxxxxxxxx",
+      "type": "xxxxxxxxxxx",
+      "remarks": null
+    },
+    {
+      "sign": "xxxxxxxxxx",
+      "type": "xxxxxxxxxxx",
+      "remarks": null
+    },
+    {
+      "sign": "xxxxxxxxxx",
+      "type": "xxxxxxxxxxx",
+      "remarks": null
+    }
+    ],
+  "light_others": [
+    {
+      "sign": "xxxxxxxxxx",
+      "type": "xxxxxxxxxxx"
+    },
+    {
+      "sign": "xxxxxxxxxx",
+      "type": "xxxxxxxxxxx"
+    },
+    {
+      "sign": "xxxxxxxxxx",
+      "type": "xxxxxxxxxxx"
+    },
+    {
+      "sign": "xxxxxxxxxx",
+      "type": "xxxxxxxxxxx"
+    },
+    {
+      "sign": "xxxxxxxxxx",
+      "type": "xxxxxxxxxxx"
+    },
+    {
+      "sign": "xxxxxxxxxx",
+      "type": "xxxxxxxxxxx"
+    },
+    {
+      "sign": "xxxxxxxxxx",
+      "type": "xxxxxxxxxxx"
+    },
+    {
+      "sign": "xxxxxxxxxx",
+      "type": "xxxxxxxxxxx"
+    },    {
+      "sign": "xxxxxxxxxx",
+      "type": "xxxxxxxxxxx"
+    },
+    {
+      "sign": "xxxxxxxxxx",
+      "type": "xxxxxxxxxxx"
+    },    {
+      "sign": "xxxxxxxxxx",
+      "type": "xxxxxxxxxxx"
+    },
+    {
+      "sign": "xxxxxxxxxx",
+      "type": "xxxxxxxxxxx"
+    },    {
+      "sign": "xxxxxxxxxx",
+      "type": "xxxxxxxxxxx"
+    },
+    {
+      "sign": "xxxxxxxxxx",
+      "type": "xxxxxxxxxxx"
+    },
+    {
+      "sign": "xxxxxxxxxx",
+      "type": "xxxxxxxxxxx"
+    },
+    {
+      "sign": "xxxxxxxxxx",
+      "type": "xxxxxxxxxxx"
+    },
+    {
+      "sign": "xxxxxxxxxx",
+      "type": "xxxxxxxxxxx"
+    },
+    {
+      "sign": "xxxxxxxxxx",
+      "type": "xxxxxxxxxxx"
+    },
+    {
+      "sign": "xxxxxxxxxx",
+      "type": "xxxxxxxxxxx"
+    },
+    {
+      "sign": "xxxxxxxxxx",
+      "type": "xxxxxxxxxxx"
+    },    {
+      "sign": "xxxxxxxxxx",
+      "type": "xxxxxxxxxxx"
+    },
+    {
+      "sign": "xxxxxxxxxx",
+      "type": "xxxxxxxxxxx"
+    },
+    {
+      "sign": "xxxxxxxxxx",
+      "type": "xxxxxxxxxxx"
+    },
+    {
+      "sign": "xxxxxxxxxx",
+      "type": "xxxxxxxxxxx"
+    },
+    {
+      "sign": "xxxxxxxxxx",
+      "type": "xxxxxxxxxxx"
+    },
+    {
+      "sign": "xxxxxxxxxx",
+      "type": "xxxxxxxxxxx"
+    }
+  ],
+  "approval": [
+    {
+      "symbol": "E1",
+      "issue_country": "Niemcy"
+    },
+    {
+      "symbol": "ssssssssss",
+      "issue_country": "ssssssssss"
+    },
+    {
+      "symbol": "ssssssssss",
+      "issue_country": "ssssssssss"
+    },
+    {
+      "symbol": "ssssssssss",
+      "issue_country": "ssssssssss"
+    },
+    {
+      "symbol": "ssssssssss",
+      "issue_country": "ssssssssss"
+    },
+    {
+      "symbol": "ssssssssss",
+      "issue_country": "ssssssssss"
+    },
+    {
+      "symbol": "ssssssssss",
+      "issue_country": "ssssssssss"
+    },
+    {
+      "symbol": "ssssssssss",
+      "issue_country": "ssssssssss"
+    },
+    {
+      "symbol": "ssssssssss",
+      "issue_country": "ssssssssss"
+    },
+    {
+      "symbol": "ssssssssss",
+      "issue_country": "ssssssssss"
+    },
+    {
+      "symbol": "ssssssssss",
+      "issue_country": "ssssssssss"
+    },
+    {
+      "symbol": "ssssssssss",
+      "issue_country": "ssssssssss"
+    },
+    {
+      "symbol": "ssssssssss",
+      "issue_country": "ssssssssss"
+    },
+    {
+      "symbol": "ssssssssss",
+      "issue_country": "ssssssssss"
+    },
+    {
+      "symbol": "ssssssssss",
+      "issue_country": "ssssssssss"
+    },
+    {
+      "symbol": "ssssssssss",
+      "issue_country": "ssssssssss"
+    },
+    {
+      "symbol": "ssssssssss",
+      "issue_country": "ssssssssss"
+    },
+    {
+      "symbol": "ssssssssss",
+      "issue_country": "ssssssssss"
+    },
+    {
+      "symbol": "ssssssssss",
+      "issue_country": "ssssssssss"
+    },
+    {
+      "symbol": "ssssssssss",
+      "issue_country": "ssssssssss"
+    },
+    {
+      "symbol": "ssssssssss",
+      "issue_country": "ssssssssss"
+    },
+    {
+      "symbol": "ssssssssss",
+      "issue_country": "ssssssssss"
+    },
+    {
+      "symbol": "ssssssssss",
+      "issue_country": "ssssssssss"
+    },
+    {
+      "symbol": "ssssssssss",
+      "issue_country": "ssssssssss"
+    },
+    {
+      "symbol": "ssssssssss",
+      "issue_country": "ssssssssss"
+    },
+    {
+      "symbol": "ssssssssss",
+      "issue_country": "ssssssssss"
+    },
+    {
+      "symbol": "ssssssssss",
+      "issue_country": "ssssssssss"
+    },
+    {
+      "symbol": "ssssssssss",
+      "issue_country": "ssssssssss"
+    },
+    {
+      "symbol": "ssssssssss",
+      "issue_country": "ssssssssss"
+    },
+    {
+      "symbol": "ssssssssss",
+      "issue_country": "ssssssssss"
+    },
+    {
+      "symbol": "ssssssssss",
+      "issue_country": "ssssssssss"
+    },
+    {
+      "symbol": "ssssssssss",
+      "issue_country": "ssssssssss"
+    },
+    {
+      "symbol": "ssssssssss",
+      "issue_country": "ssssssssss"
+    },
+    {
+      "symbol": "ssssssssss",
+      "issue_country": "ssssssssss"
+    },
+    {
+      "symbol": "ssssssssss",
+      "issue_country": "ssssssssss"
+    },
+    {
+      "symbol": "ssssssssss",
+      "issue_country": "ssssssssss"
+    },
+    {
+      "symbol": "ssssssssss",
+      "issue_country": "ssssssssss"
+    },
+    {
+      "symbol": "ssssssssss",
+      "issue_country": "ssssssssss"
+    },
+    {
+      "symbol": "ssssssssss",
+      "issue_country": "ssssssssss"
+    },
+    {
+      "symbol": "ssssssssss",
+      "issue_country": "ssssssssss"
+    },
+    {
+      "symbol": "ssssssssss",
+      "issue_country": "ssssssssss"
+    },
+    {
+      "symbol": "ssssssssss",
+      "issue_country": "ssssssssss"
+    },
+    {
+      "symbol": "ssssssssss",
+      "issue_country": "ssssssssss"
+    },
+    {
+      "symbol": "ssssssssss",
+      "issue_country": "ssssssssss"
+    },
+    {
+      "symbol": "ssssssssss",
+      "issue_country": "ssssssssss"
+    },
+    {
+      "symbol": "ssssssssss",
+      "issue_country": "ssssssssss"
+    },
+    {
+      "symbol": "ssssssssss",
+      "issue_country": "ssssssssss"
+    },
+    {
+      "symbol": "ssssssssss",
+      "issue_country": "ssssssssss"
+    },
+    {
+      "symbol": "ssssssssss",
+      "issue_country": "ssssssssss"
+    },
+    {
+      "symbol": "ssssssssss",
+      "issue_country": "ssssssssss"
+    },
+    {
+      "symbol": "ssssssssss",
+      "issue_country": "ssssssssss"
+    },
+    {
+      "symbol": "ssssssssss",
+      "issue_country": "ssssssssss"
+    },
+    {
+      "symbol": "ssssssssss",
+      "issue_country": "ssssssssss"
+    },
+    {
+      "symbol": "ssssssssss",
+      "issue_country": "ssssssssss"
+    },
+    {
+      "symbol": "ssssssssss",
+      "issue_country": "ssssssssss"
+    },
+    {
+      "symbol": "ssssssssss",
+      "issue_country": "ssssssssss"
+    },
+    {
+      "symbol": "ssssssssss",
+      "issue_country": "ssssssssss"
+    },
+    {
+      "symbol": "ssssssssss",
+      "issue_country": "ssssssssss"
+    },
+    {
+      "symbol": "ssssssssss",
+      "issue_country": "ssssssssss"
+    },
+    {
+      "symbol": "ssssssssss",
+      "issue_country": "ssssssssss"
+    },
+    {
+      "symbol": "ssssssssss",
+      "issue_country": "ssssssssss"
+    },
+    {
+      "symbol": "ssssssssss",
+      "issue_country": "ssssssssss"
+    },
+    {
+      "symbol": "ssssssssss",
+      "issue_country": "ssssssssss"
+    },
+    {
+      "symbol": "ssssssssss",
+      "issue_country": "ssssssssss"
+    },
+    {
+      "symbol": "ssssssssss",
+      "issue_country": "ssssssssss"
+    },
+    {
+      "symbol": "ssssssssss",
+      "issue_country": "ssssssssss"
+    }
+
+  ]
+}
