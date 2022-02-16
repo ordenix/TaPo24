@@ -1,0 +1,381 @@
+{
+  "light_front": [
+    {
+      "sign": "A",
+      "type": "Pozycyjne",
+      "remarks": null
+    },
+    {
+      "sign": "B",
+      "type": "Przeciwmgłowe przednie",
+      "remarks": null
+    },
+    {
+      "sign": "C",
+      "type": "Mijania",
+      "remarks": null
+    },
+    {
+      "sign": "R",
+      "type": "Drogowe",
+      "remarks": null
+    },
+    {
+      "sign": "CR",
+      "type": "Mijania i Drogowe",
+      "remarks": null
+    },
+    {
+      "sign": "C/R",
+      "type": "Mijania lub Drogowe",
+      "remarks": null
+    },
+    {
+      "sign": "HC",
+      "type": "Halogenowe Mijania",
+      "remarks": null
+    },
+    {
+      "sign": "HR",
+      "type": "Halogenowe Drogowe",
+      "remarks": null
+    },
+    {
+      "sign": "HCR",
+      "type": "Halogenowe Mijania i Drogowe",
+      "remarks": null
+    },
+    {
+      "sign": "HC/R",
+      "type": "Halogenowe Mijania lub Drogowe",
+      "remarks": null
+    },
+    {
+      "sign": "DC",
+      "type": "Ksenonowe Mijania",
+      "remarks": null
+    },
+    {
+      "sign": "DR",
+      "type": "Ksenonowe Drogowe",
+      "remarks": null
+    },
+    {
+      "sign": "DC/R",
+      "type": "Ksenonowe Mijania lub Drogowe",
+      "remarks": null
+    },
+    {
+      "sign": "RL",
+      "type": "Do jazdy dziennej",
+      "remarks": null
+    },
+    {
+      "sign": "X",
+      "type": "Adaptacyjne Światła Mijania",
+      "remarks": null
+    },
+    {
+      "sign": "K",
+      "type": "Doświetlające Zakręty",
+      "remarks": null
+    },
+    {
+      "sign": "Strzałka w lewo",
+      "type": "Ruch Lewostronny",
+      "remarks": null
+    },
+    {
+      "sign": "Strzałka w prawo i lewo",
+      "type": "Ruch lewostronny lub prawostronny",
+      "remarks": null
+    },
+    {
+      "sign": "Strzałka w prawo lub brak strzałki",
+      "type": "Ruch Prawostronnyx",
+      "remarks": null
+    }
+    ],
+  "light_others": [
+    {
+      "sign": "A",
+      "type": "Postojowe"
+    },
+    {
+      "sign": "AR",
+      "type": "Cofania"
+    },
+    {
+      "sign": "B",
+      "type": "Przednie przeciwmgłowe"
+    },
+    {
+      "sign": "IA",
+      "type": "Odblaskowe"
+    },
+    {
+      "sign": "R",
+      "type": "Pozycyjne tylne"
+    },
+    {
+      "sign": "RL",
+      "type": "Do jazdy dziennej"
+    },
+    {
+      "sign": "L",
+      "type": "Podświetlenie tablicy rejestracyjnej"
+    },
+    {
+      "sign": "S1, S2, S3",
+      "type": "Hamowania/Stop"
+    },    {
+      "sign": "SM1, SM2",
+      "type": "Obrysowe boczne"
+    },
+    {
+      "sign": "1, 1a, 1b",
+      "type": "Kierunkowskazy przednie"
+    },    {
+      "sign": "2a, 2b",
+      "type": "Kierunkowskazy tylne"
+    },
+    {
+      "sign": "F",
+      "type": "Przeciwmgłowe tylne"
+    },    {
+      "sign": "5, 6",
+      "type": "Kierunkowskazy boczne"
+    },
+    {
+      "sign": "Strzałka w prawo",
+      "type": "Prawa strona montażu"
+    },
+    {
+      "sign": "Strzałka w lewo",
+      "type": "Lewa strona montażu"
+    },
+    {
+      "sign": "Strzałka w obie strony",
+      "type": "Montaż obustronnyx"
+    }
+  ],
+  "approval": [
+    {
+      "symbol": "E1",
+      "issue_country": "Niemcy"
+    },
+    {
+      "symbol": "E2",
+      "issue_country": "Francja"
+    },
+    {
+      "symbol": "E3",
+      "issue_country": "Włochy"
+    },
+    {
+      "symbol": "E4",
+      "issue_country": "Holandia"
+    },
+    {
+      "symbol": "E5",
+      "issue_country": "Szwecja"
+    },
+    {
+      "symbol": "E6",
+      "issue_country": "Belgia"
+    },
+    {
+      "symbol": "E7",
+      "issue_country": "Węgry"
+    },
+    {
+      "symbol": "E8",
+      "issue_country": "Czechy"
+    },
+    {
+      "symbol": "E9",
+      "issue_country": "Hiszpania"
+    },
+    {
+      "symbol": "E10",
+      "issue_country": "Serbia"
+    },
+    {
+      "symbol": "E11",
+      "issue_country": "Wielka Brytania"
+    },
+    {
+      "symbol": "E12",
+      "issue_country": "Austria"
+    },
+    {
+      "symbol": "E13",
+      "issue_country": "Luksemburg"
+    },
+    {
+      "symbol": "E14",
+      "issue_country": "Szwajcaria"
+    },
+    {
+      "symbol": "E16",
+      "issue_country": "Norwegia"
+    },
+    {
+      "symbol": "E17",
+      "issue_country": "Finladnia"
+    },
+    {
+      "symbol": "E18",
+      "issue_country": "Dania"
+    },
+    {
+      "symbol": "E19",
+      "issue_country": "Rumunia"
+    },
+    {
+      "symbol": "E20",
+      "issue_country": "Polska"
+    },
+    {
+      "symbol": "E21",
+      "issue_country": "Portugalia"
+    },
+    {
+      "symbol": "E22",
+      "issue_country": "Rosja"
+    },
+    {
+      "symbol": "E23",
+      "issue_country": "Grecja"
+    },
+    {
+      "symbol": "E24",
+      "issue_country": "Irlandia"
+    },
+    {
+      "symbol": "E25",
+      "issue_country": "Chorwacja"
+    },
+    {
+      "symbol": "E26",
+      "issue_country": "Słowenia"
+    },
+    {
+      "symbol": "E27",
+      "issue_country": "Słowacja"
+    },
+    {
+      "symbol": "E28",
+      "issue_country": "Białoruś"
+    },
+    {
+      "symbol": "E29",
+      "issue_country": "Estonia"
+    },
+    {
+      "symbol": "E30",
+      "issue_country": "Mołdawia"
+    },
+    {
+      "symbol": "E31",
+      "issue_country": "Bośnia i Hercegowina"
+    },
+    {
+      "symbol": "E32",
+      "issue_country": "Łotwa"
+    },
+    {
+      "symbol": "E34",
+      "issue_country": "Bułgaria"
+    },
+    {
+      "symbol": "E35",
+      "issue_country": "Kazachstan"
+    },
+    {
+      "symbol": "E36",
+      "issue_country": "Litwa"
+    },
+    {
+      "symbol": "E37",
+      "issue_country": "Turcja"
+    },
+    {
+      "symbol": "E38",
+      "issue_country": "Azerbejdżan"
+    },
+    {
+      "symbol": "E39",
+      "issue_country": "Macedonia Północna"
+    },
+    {
+      "symbol": "E42",
+      "issue_country": "UE"
+    },
+    {
+      "symbol": "E43",
+      "issue_country": "Japonia"
+    },
+    {
+      "symbol": "E45",
+      "issue_country": "Australia"
+    },
+    {
+      "symbol": "E46",
+      "issue_country": "Ukraina"
+    },
+    {
+      "symbol": "E47",
+      "issue_country": "RPA"
+    },
+    {
+      "symbol": "E48",
+      "issue_country": "Nowa Zelandia"
+    },
+    {
+      "symbol": "E49",
+      "issue_country": "Cypr"
+    },
+    {
+      "symbol": "E50",
+      "issue_country": "Malta"
+    },
+    {
+      "symbol": "E51",
+      "issue_country": "Korea Południowa"
+    },
+    {
+      "symbol": "E52",
+      "issue_country": "Malezja"
+    },
+    {
+      "symbol": "E53",
+      "issue_country": "Tajlandia"
+    },
+    {
+      "symbol": "E54",
+      "issue_country": "Albania"
+    },
+    {
+      "symbol": "E56",
+      "issue_country": "Czarnogóra"
+    },
+    {
+      "symbol": "E57",
+      "issue_country": "San Marino"
+    },
+    {
+      "symbol": "E58",
+      "issue_country": "Tunezja"
+    },
+    {
+      "symbol": "E60",
+      "issue_country": "Gruzja"
+    },
+    {
+      "symbol": "E62",
+      "issue_country": "Egipt"
+    }
+
+  ]
+}

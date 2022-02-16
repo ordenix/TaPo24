@@ -42,6 +42,8 @@
 
 <script>
 
+import axios from 'axios'
+
 export default {
   name: 'Law.vue',
   components: {
@@ -94,6 +96,18 @@ export default {
       this.$store.state.open_pdf = false
     },
     gen_pdf (path, fileName) {
+      if (navigator.onLine) {
+        const headers = {
+          'Content-Type': 'application/json'
+        }
+        const data = {
+          moduleName: path
+        }
+        axios
+          .post(this.$store.state.path_api + '/module_clicked', data, { headers })
+      } else {
+        this.$store.commit('ADD_TO_OFFLINE_STACK_MODULE_NAME', path)
+      }
       this.adobeDCView = new window.AdobeDC.View({ clientId: this.adobe_key, divId: 'adobe-dc-view' })
       this.adobeDCView.previewFile({
         content: { location: { url: this.master_path + path } },

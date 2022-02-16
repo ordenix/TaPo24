@@ -7294,6 +7294,62 @@
       "path": null
     },
     {
+      "category": "prevention",
+      "name": "Kradzież lub przywłaszczenie cudzej rzeczy ruchomej",
+      "text": "art. 119 KW",
+      "tax": "20-500",
+      "points": 0,
+      "code": "null",
+      "law_sub": {
+        "1": "art. 119 § 1 KW Kto kradnie lub przywłaszcza sobie cudzą rzecz ruchomą, jeżeli jej wartość nie przekracza 500 złotych,\npodlega karze aresztu, ograniczenia wolności albo grzywny",
+        "2": "art. 119 § 2 KW Usiłowanie, podżeganie i pomocnictwo są karalne",
+        "3": "art. 119 § 3 KW Jeżeli sprawca czynu określonego w § 1 dopuścił się go na szkodę osoby najbliższej, ściganie następuje na żądanie pokrzywdzonego",
+        "4": "art. 119 § 4 KW W razie popełnienia wykroczenia określonego w § 1, można orzec obowiązek zapłaty równowartości ukradzionego lub przywłaszczonego mienia, jeżeli szkoda nie została naprawiona"
+      },
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "category": "prevention",
+      "name": "Palenie wyrobów tytoniowych, nowatorskich wyrobów tytoniowych lub papierosów elektronicznych w miejscach objętych zakazem",
+      "text": "art. 13 ust. 2 U.O.Z.T.",
+      "tax": "20-500",
+      "points": 0,
+      "code": "null",
+      "law_sub": {
+        "1": "art. 13 ust. 2 U.O.Z.T. Kto pali wyroby tytoniowe, nowatorskie wyroby tytoniowe lub papierosy\nelektroniczne wbrew postanowieniom art. 5,\npodlega karze grzywny do 500 zł",
+        "2": "art. 13 ust. 3 U.O.Z.T W przypadkach określonych w ust. 1 i 2 orzekanie następuje w trybie\nprzepisów o postępowaniu w sprawach o wykroczenia",
+        "3": "art. 5 ust. 1 pkt 1 U.O.Z.T Zabrania się palenia wyrobów tytoniowych, w tym palenia\nnowatorskich wyrobów tytoniowych, i palenia papierosów elektronicznych, z\nzastrzeżeniem art. 5a na terenie zakładów leczniczych podmiotów leczniczych i w pomieszczeniach\ninnych obiektów, w których są udzielane świadczenia zdrowotne",
+        "4": "art. 5 ust. 1 pkt 2 U.O.Z.T Zabrania się palenia wyrobów tytoniowych, w tym palenia\nnowatorskich wyrobów tytoniowych, i palenia papierosów elektronicznych, z\nzastrzeżeniem art. 5a na terenie jednostek organizacyjnych systemu oświaty, o których mowa\nw przepisach o systemie oświaty, oraz jednostek organizacyjnych pomocy\nspołecznej, o których mowa w przepisach o pomocy społecznej",
+        "5": "art. 5 ust. 1 pkt 3 U.O.Z.T Zabrania się palenia wyrobów tytoniowych, w tym palenia\nnowatorskich wyrobów tytoniowych, i palenia papierosów elektronicznych, z\nzastrzeżeniem art. 5a na terenie uczelni",
+        "6": "art. 5 ust. 1 pkt 4 U.O.Z.T Zabrania się palenia wyrobów tytoniowych, w tym palenia\nnowatorskich wyrobów tytoniowych, i palenia papierosów elektronicznych, z\nzastrzeżeniem art. 5a w pomieszczeniach zakładów pracy innych niż wymienione w pkt 1 i 2",
+        "7": "art. 5 ust. 1 pkt 5 U.O.Z.T Zabrania się palenia wyrobów tytoniowych, w tym palenia\nnowatorskich wyrobów tytoniowych, i palenia papierosów elektronicznych, z\nzastrzeżeniem art. 5a w pomieszczeniach obiektów kultury i wypoczynku do użytku publicznego",
+        "8": "art. 5 ust. 1 pkt 6 U.O.Z.T Zabrania się palenia wyrobów tytoniowych, w tym palenia\nnowatorskich wyrobów tytoniowych, i palenia papierosów elektronicznych, z\nzastrzeżeniem art. 5a w lokalach gastronomiczno-rozrywkowych",
+        "9": "art. 5 ust. 1 pkt 7 U.O.Z.T Zabrania się palenia wyrobów tytoniowych, w tym palenia\nnowatorskich wyrobów tytoniowych, i palenia papierosów elektronicznych, z\nzastrzeżeniem art. 5a w środkach pasażerskiego transportu publicznego oraz w obiektach służących\nobsłudze podróżnych",
+        "10": "art. 5 ust. 1 pkt 8 U.O.Z.T Zabrania się palenia wyrobów tytoniowych, w tym palenia\nnowatorskich wyrobów tytoniowych, i palenia papierosów elektronicznych, z\nzastrzeżeniem art. 5a na przystankach komunikacji publicznej",
+        "11": "art. 5 ust. 1 pkt 9 U.O.Z.T Zabrania się palenia wyrobów tytoniowych, w tym palenia\nnowatorskich wyrobów tytoniowych, i palenia papierosów elektronicznych, z\nzastrzeżeniem art. 5a w pomieszczeniach obiektów sportowych",
+        "12": "art. 5 ust. 1 pkt 10 U.O.Z.T Zabrania się palenia wyrobów tytoniowych, w tym palenia\nnowatorskich wyrobów tytoniowych, i palenia papierosów elektronicznych, z\nzastrzeżeniem art. 5a w ogólnodostępnych miejscach przeznaczonych do zabaw dzieci",
+        "13": "art. 5 ust. 1 pkt 11 U.O.Z.T Zabrania się palenia wyrobów tytoniowych, w tym palenia\nnowatorskich wyrobów tytoniowych, i palenia papierosów elektronicznych, z\nzastrzeżeniem art. 5a w innych pomieszczeniach dostępnych do użytku publicznego",
+        "14": "art. 5 ust. 1a U.O.Z.T Właściciel lub zarządzający obiektem lub środkiem transportu, w którym\nobowiązuje zakaz palenia wyrobów tytoniowych i palenia papierosów\nelektronicznych, jest obowiązany umieścić w widocznych miejscach odpowiednie\noznaczenie słowne i graficzne informujące o zakazie palenia wyrobów tytoniowych i\npalenia papierosów elektronicznych na terenie obiektu lub w środku transportu, zwane\ndalej „informacją o zakazie palenia",
+        "15": "art. 5 ust. 4 U.O.Z.T Rada gminy może ustalić, w drodze uchwały, dla terenu gminy inne niż\nwymienione w ust. 1 miejsca przeznaczone do użytku publicznego jako strefy wolne\nod dymu tytoniowego, pary z papierosów elektronicznych i substancji uwalnianych za\npomocą nowatorskiego wyrobu tytoniowego",
+        "16": "art. 5a ust. 1 U.O.Z.T Właściciel lub zarządzający może wyłączyć spod zakazu określonego\nw art. 5 indywidualne pokoje w obiektach służących celom mieszkalnym",
+        "17": "art. 5a ust. 1 pkt 1a U.O.Z.T Dopuszcza się używanie wyrobów tytoniowych, w tym nowatorskich\nwyrobów tytoniowych, lub papierosów elektronicznych w palarniach oraz innych\nmiejscach wyznaczonych na terenie obiektów jednostek organizacyjnych lub organów\npodległych lub nadzorowanych przez Ministra Obrony Narodowej, ministra\nwłaściwego do spraw wewnętrznych i Ministra Sprawiedliwości oraz w urzędach\nobsługujących tych ministrów, a także w środkach przewozu osób używanych przez\nte podmioty",
+        "18": "art. 5a ust. 2 U.O.Z.T Minister Obrony Narodowej, minister właściwy do spraw wewnętrznych i\nMinister Sprawiedliwości określą, w drodze rozporządzeń, szczegółowe warunki\nużywania wyrobów tytoniowych, w tym nowatorskich wyrobów tytoniowych, lub papierosów elektronicznych na terenie obiektów oraz urzędów, o których mowa w ust.\n1a, i w środkach przewozu osób używanych przez podmioty określone w ust. 1a,\nuwzględniając potrzebę zachowania miejsc pracy, nauki i służby jako stref wolnych\nod dymu tytoniowego, substancji uwalnianych za pomocą nowatorskiego wyrobu\ntytoniowego lub pary z papierosów elektronicznych oraz ochrony osób niepalących\nprzed dymem tytoniowym, substancjami uwalnianymi za pomocą nowatorskich\nwyrobów tytoniowych lub parą z papierosów elektronicznych",
+        "19": "art. 5 ust. 3 pkt 1  U.O.Z.T Właściciel lub zarządzający może wyznaczyć palarnię w domach pomocy społecznej lub domach spokojnej starości",
+        "20": "art. 5 ust. 3 pkt 1a  U.O.Z.T Właściciel lub zarządzający może wyznaczyć palarnię w całodobowych oddziałach psychiatrycznych, z wyłączeniem oddziałów\ndysponujących warunkami wzmocnionego i maksymalnego zabezpieczenia",
+        "21": "art. 5 ust. 3 pkt 2  U.O.Z.T Właściciel lub zarządzający może wyznaczyć palarnię w hotelach",
+        "22": "art. 5 ust. 3 pkt 3  U.O.Z.T Właściciel lub zarządzający może wyznaczyć palarnię w obiektach służących obsłudze podróżnych",
+        "23": "art. 5 ust. 3 pkt 4  U.O.Z.T Właściciel lub zarządzający może wyznaczyć palarnię na terenie uczelni",
+        "24": "art. 5 ust. 3 pkt 5  U.O.Z.T Właściciel lub zarządzający może wyznaczyć palarnię w pomieszczeniach zakładów pracy",
+        "25": "art. 5 ust. 3 pkt 6  U.O.Z.T Właściciel lub zarządzający może wyznaczyć palarnię w lokalach gastronomiczno-rozrywkowych",
+        "26": "art. 5 ust. 4 pkt 1  U.O.Z.T Właściciel lub zarządzający lokalem gastronomiczno-rozrywkowym z co\nnajmniej dwoma pomieszczeniami przeznaczonymi do konsumpcji może wyłączyć\nspod zakazu określonego w art. 5 jedno zamknięte pomieszczenie konsumpcyjne w\nzakresie palenia papierosów elektronicznych lub nowatorskich wyrobów tytoniowych",
+        "27": "art. 5 ust. 4 pkt 2  U.O.Z.T Właściciel lub zarządzający lokalem gastronomiczno-rozrywkowym z co\nnajmniej dwoma pomieszczeniami przeznaczonymi do konsumpcji może wyłączyć\nspod zakazu określonego w art. 5 jedno zamknięte pomieszczenie konsumpcyjne w\nzakresie palenia wyrobów tytoniowych, w tym nowatorskich wyrobów tytoniowych i papierosów\nelektronicznych, jeżeli to zamknięte pomieszczenie konsumpcyjne jest\nwyposażone w wentylację zapewniającą, aby dym tytoniowy nie przenikał do\ninnych pomieszczeń"
+      },
+      "paragraph": "",
+      "path": null
+    },
+
+    {
       "visible": false,
       "category": "prevention",
       "name": "xxxxxxxxxx",
