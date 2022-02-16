@@ -2,59 +2,147 @@
   "towing_array": [
     {
       "condition": "PRZYPADEK NP KIEROWAŁ NA FLEKU",
-      "law": "PEŁAN PODSTAWA PRAWNA ARt fofnasty puknt bla bla bla ba",
+      "law": "PEŁNA PODSTAWA PRAWNA ARt fofnasty puknt bla bla bla ba",
       "type": "zlecenie/dyspozycja",
       "necessity": "Obligatoryjne/fakultatywne",
       "cost": "właściciel/policja",
-      "info do damiana do usunięcia": "poniżej flase jeżeli nie wymaga okazania zezwolenia true jeżeli wymaga ",
+      "info do damiana do usunięcia": "poniżej flase jeżeli nie wymaga okazania zezwolenia true jeżeli wymaga",
       "permission": false
     },
     {
-      "condition": "xxxxxxxxxxxxx",
-      "law": "xxxxxxxxxxxxxxx",
-      "type": "xxxxxxxxxxxxxxxxxxxxx",
-      "necessity": "xxxxxxxxxxxxx",
-      "cost": "xxxxxxxxxxxx",
+      "condition": "Pozostawienia pojazdu w miejscu, gdzie jest to zabronione i utrudnia ruch lub w inny sposób zagraża bezpieczeństwu",
+      "law": "art. 130a ust. 1 pkt 1 PRD Pojazd jest usuwany z drogi na koszt właściciela w przypadku pozostawienia pojazdu w miejscu, gdzie jest to zabronione i utrudnia ruch lub w inny sposób zagraża bezpieczeństwu",
+      "type": "Dyspozycja",
+      "necessity": "Obligatoryjne",
+      "cost": "Właściciel",
+      "permission": true
+    },
+    {
+      "condition": "Nieokazanie OC - dotyczy kraju niebędącym państwem członkowskim",
+      "law": "art. 130a ust. 1 pkt 2 PRD Pojazd jest usuwany z drogi na koszt właściciela w przypadku nieokazania przez kierującego dokumentu potwierdzającego zawarcie umowy obowiązkowego ubezpieczenia odpowiedzialności cywilnej posiadacza pojazdu lub dowodu opłacenia składki za to ubezpieczenie, jeżeli pojazd ten jest zarejestrowany w kraju, o którym mowa w art. 129 ust. 2 pkt 8 lit. c PRD",
+      "type": "Dyspozycja",
+      "necessity": "Obligatoryjne",
+      "cost": "Właściciel",
+      "permission": true
+    },
+    {
+      "condition": "Przekroczenia wymiarów, dopuszczalnej masy całkowitej lub nacisku osi",
+      "law": "art. 130a ust. 1 pkt 3 PRD Pojazd jest usuwany z drogi na koszt właściciela w przypadku przekroczenia wymiarów, dopuszczalnej masy całkowitej lub nacisku osi określonych w przepisach ruchu drogowego, chyba że istnieje możliwość skierowania pojazdu na pobliską drogę, na której dopuszczalny jest ruch takiego pojazdu",
+      "type": "Dyspozycja",
+      "necessity": "Obligatoryjne",
+      "cost": "Właściciel",
+      "permission": true
+    },
+    {
+      "condition": "Karta parkingowa osoby niepełnosprawnej",
+      "law": "art. 130a ust. 1 pkt 4 PRD Pojazd jest usuwany z drogi na koszt właściciela w przypadku pozostawienia pojazdu nieoznakowanego kartą parkingową, w miejscu przeznaczonym dla pojazdu kierowanego przez osoby wymienione w art. 8 ust. 1 i 2 PRD",
+      "type": "Dyspozycja",
+      "necessity": "Obligatoryjne",
+      "cost": "Właściciel",
+      "permission": true
+    },
+    {
+      "condition": "Pozostawienia pojazdu w miejscu obowiązywania znaku wskazującego, że zaparkowany pojazd zostanie usunięty na koszt właściciela",
+      "law": "art. 130a ust. 1 pkt 5 PRD Pojazd jest usuwany z drogi na koszt właściciela w przypadku pozostawienia pojazdu w miejscu obowiązywania znaku wskazującego, że zaparkowany pojazd zostanie usunięty na koszt właściciela",
+      "type": "Dyspozycja",
+      "necessity": "Obligatoryjne",
+      "cost": "Właściciel",
+      "permission": true
+    },
+    {
+      "condition": "Osoba nieposiadająca uprawnienia do kierowania pojazdami albo której zatrzymano prawo jazdy",
+      "law": "art. 130a ust. 1 pkt 6 PRD Pojazd jest usuwany z drogi na koszt właściciela w przypadku kierowania nim przez osobę nieposiadającą uprawnienia do kierowania pojazdami albo której zatrzymano prawo jazdy i nie ma możliwości zabezpieczenia pojazdu przez przekazanie go osobie znajdującej się w nim i posiadającej uprawnienie do kierowania tym pojazdem; przepisu nie stosuje się, jeżeli kierujący posiada pokwitowanie, o którym mowa w art. 135 ust. 4 lub 5 PRD albo w art. 135a ust. 5 lub 6 PRD, upoważniające do kierowania pojazdem",
+      "type": "Dyspozycja",
+      "necessity": "Obligatoryjne",
+      "cost": "Właściciel",
+      "permission": true
+    },
+    {
+      "condition": "Przejazd po drogach publicznych pojazdów nienormatywnych bez zezwolenia lub brak wymaganej liczby pojazdów wykonujących pilotowanie, brak wymaganego wyposażenia lub oznakowania pojazdu wykonującego pilotowanie, brak wymaganego szkolenia, o którym mowa w art. 6 ust. 3a PRD, przez pilota",
+      "law": "art. 130a ust. 1a PRD Pojazd jest usuwany z drogi na koszt wykonującego przejazd drogowy w przypadku, o którym mowa w art. 140ad ust. 7",
+      "type": "Dyspozycja",
+      "necessity": "Obligatoryjne",
+      "cost": "Podmiot wykonujący przejazd pojazdem nienormatywnym",
+      "permission": true
+    },
+    {
+      "condition": "Stan nietrzeźwości, stan po użyciu alkoholu albo środka działającego podobnie do alkoholu",
+      "law": "art. 130a ust. 2 pkt 1 lit a PRD Pojazd może być usunięty z drogi na koszt właściciela, jeżeli nie ma możliwości zabezpieczenia go w inny sposób, w przypadku gdy kierowała nim osoba znajdująca się w stanie nietrzeźwości lub w stanie po użyciu alkoholu albo środka działającego podobnie do alkoholu",
+      "type": "Dyspozycja",
+      "necessity": "Fakultatywne",
+      "cost": "Właściciel",
       "permission": false
     },
     {
-      "condition": "xxxxxxxxxxxxx",
-      "law": "xxxxxxxxxxxxxxx",
-      "type": "xxxxxxxxxxxxxxxxxxxxx",
-      "necessity": "xxxxxxxxxxxxx",
-      "cost": "xxxxxxxxxxxx",
+      "condition": "Brak wymaganych dokumentów uprawniających do kierowania lub używania pojazdu",
+      "law": "art. 130a ust. 2 pkt 1 lit b PRD Pojazd może być usunięty z drogi na koszt właściciela, jeżeli nie ma możliwości zabezpieczenia go w inny sposób, w przypadku gdy kierowała nim osoba nieposiadająca przy sobie wymaganych dokumentów uprawniających do kierowania lub używania pojazdu",
+      "type": "Dyspozycja",
+      "necessity": "Fakultatywne",
+      "cost": "Właściciel",
       "permission": false
     },
     {
-      "condition": "xxxxxxxxxxxxx",
-      "law": "xxxxxxxxxxxxxxx",
-      "type": "xxxxxxxxxxxxxxxxxxxxx",
-      "necessity": "xxxxxxxxxxxxx",
-      "cost": "xxxxxxxxxxxx",
+      "condition": "Stan techniczny pojazdu powoduje uszkodzenie drogi albo narusza wymagania ochrony środowiska",
+      "law": "art. 130a ust. 2 pkt 2 PRD Pojazd może być usunięty z drogi na koszt właściciela, jeżeli nie ma możliwości zabezpieczenia go w inny sposób, w przypadku gdy jego stan techniczny zagraża bezpieczeństwu ruchu drogowego, powoduje uszkodzenie drogi albo narusza wymagania ochrony środowiska",
+      "type": "Dyspozycja",
+      "necessity": "Fakultatywne",
+      "cost": "Właściciel",
       "permission": false
     },
     {
-      "condition": "xxxxxxxxxxxxx",
-      "law": "xxxxxxxxxxxxxxx",
-      "type": "xxxxxxxxxxxxxxxxxxxxx",
-      "necessity": "xxxxxxxxxxxxx",
-      "cost": "xxxxxxxxxxxx",
+      "condition": "Pojazd utrudnia prowadzenie akcji ratowniczej",
+      "law": "art. 130a ust. 3 PRD Pojazd może być przemieszczony lub usunięty z drogi, jeżeli utrudnia prowadzenie akcji ratowniczej",
+      "type": "Dyspozycja",
+      "necessity": "Obligatoryjnie",
+      "cost": "Właściciel",
       "permission": false
     },
     {
-      "condition": "xxxxxxxxxxxxx",
-      "law": "xxxxxxxxxxxxxxx",
-      "type": "xxxxxxxxxxxxxxxxxxxxx",
-      "necessity": "xxxxxxxxxxxxx",
-      "cost": "xxxxxxxxxxxx",
+      "condition": "Pojazd pozostawiony bez tablic rejestracyjnych lub pojazd, którego stan wskazuje na to, że nie jest używany",
+      "law": "art. 50a ust. 1 PRD Pojazd pozostawiony bez tablic rejestracyjnych lub pojazd, którego stan wskazuje na to, że nie jest używany, może zostać usunięty z drogi przez straż gminną lub Policję na koszt właściciela lub posiadacza",
+      "type": "Dyspozycja",
+      "necessity": "Fakultatywne",
+      "cost": "Właściciel lub posiadacz",
       "permission": false
     },
     {
-      "condition": "xxxxxxxxxxxxx",
-      "law": "xxxxxxxxxxxxxxx",
-      "type": "xxxxxxxxxxxxxxxxxxxxx",
-      "necessity": "xxxxxxxxxxxxx",
-      "cost": "xxxxxxxxxxxx",
+      "condition": "Oględziny",
+      "law": "art. 207 § 1 KPK lub art. 43 KPOW w zw. z art. 207 § 1 KPK",
+      "type": "Zlecenie",
+      "necessity": null,
+      "cost": "Policja",
+      "permission": false
+    },
+    {
+      "condition": "Zatrzymanie / odebranie rzeczy",
+      "law": "art. 217 § 1 KPK lub art. 48 KPOW",
+      "type": "Zlecenie",
+      "necessity": null,
+      "cost": "Policja",
+      "permission": false
+    },
+    {
+      "condition": "Przeszukanie",
+      "law": "art. 219 § 1 KPK lub art. 44 KPOW",
+      "type": "Zlecenie",
+      "necessity": null,
+      "cost": "Policja",
+      "permission": false
+    },
+    {
+      "condition": "Tymczasowe zajęcie",
+      "law": "art. 295 § 1 KPK lub art. 48 KPOW",
+      "type": "Zlecenie",
+      "necessity": null,
+      "cost": "Policja",
+      "permission": false
+    },
+    {
+      "condition": "Konieczność zabezpieczenia pojazdu przez Policję przed jego utratą lub uszkodzeniem",
+      "law": null,
+      "type": "Zlecenie",
+      "necessity": null,
+      "cost": "Policja",
       "permission": false
     }
   ]
