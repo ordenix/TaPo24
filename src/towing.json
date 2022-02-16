@@ -1,0 +1,61 @@
+{
+  "towing_array": [
+    {
+      "condition": "PRZYPADEK NP KIEROWAŁ NA FLEKU",
+      "law": "PEŁAN PODSTAWA PRAWNA ARt fofnasty puknt bla bla bla ba",
+      "type": "zlecenie/dyspozycja",
+      "necessity": "Obligatoryjne/fakultatywne",
+      "cost": "właściciel/policja",
+      "info do damiana do usunięcia": "poniżej flase jeżeli nie wymaga okazania zezwolenia true jeżeli wymaga ",
+      "permission": false
+    },
+    {
+      "condition": "xxxxxxxxxxxxx",
+      "law": "xxxxxxxxxxxxxxx",
+      "type": "xxxxxxxxxxxxxxxxxxxxx",
+      "necessity": "xxxxxxxxxxxxx",
+      "cost": "xxxxxxxxxxxx",
+      "permission": false
+    },
+    {
+      "condition": "xxxxxxxxxxxxx",
+      "law": "xxxxxxxxxxxxxxx",
+      "type": "xxxxxxxxxxxxxxxxxxxxx",
+      "necessity": "xxxxxxxxxxxxx",
+      "cost": "xxxxxxxxxxxx",
+      "permission": false
+    },
+    {
+      "condition": "xxxxxxxxxxxxx",
+      "law": "xxxxxxxxxxxxxxx",
+      "type": "xxxxxxxxxxxxxxxxxxxxx",
+      "necessity": "xxxxxxxxxxxxx",
+      "cost": "xxxxxxxxxxxx",
+      "permission": false
+    },
+    {
+      "condition": "xxxxxxxxxxxxx",
+      "law": "xxxxxxxxxxxxxxx",
+      "type": "xxxxxxxxxxxxxxxxxxxxx",
+      "necessity": "xxxxxxxxxxxxx",
+      "cost": "xxxxxxxxxxxx",
+      "permission": false
+    },
+    {
+      "condition": "xxxxxxxxxxxxx",
+      "law": "xxxxxxxxxxxxxxx",
+      "type": "xxxxxxxxxxxxxxxxxxxxx",
+      "necessity": "xxxxxxxxxxxxx",
+      "cost": "xxxxxxxxxxxx",
+      "permission": false
+    },
+    {
+      "condition": "xxxxxxxxxxxxx",
+      "law": "xxxxxxxxxxxxxxx",
+      "type": "xxxxxxxxxxxxxxxxxxxxx",
+      "necessity": "xxxxxxxxxxxxx",
+      "cost": "xxxxxxxxxxxx",
+      "permission": false
+    }
+  ]
+}

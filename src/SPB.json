@@ -357,6 +357,59 @@
         "3": "Środki pirotechniczne o właściwościach ogłuszających lub olśniewających służą do ograniczania możliwości działania osób zatrzymywanych przez krótkotrwałe zakłócenie ich orientacji przestrzennej lub odwrócenie ich uwagi od działań uprawnionego, gdy istnieje podejrzenie, że osoby te będą stawiać intensywny opór"
       },
       "path": null
+    }
+
+  ],
+  "weapon_array": [
+    {
+      "name": "xxxxxxxxxxxxxxxxxxxxxx",
+      "used_conditionals": {
+        "1": "bla bla bla"
+      },
+      "exception": {
+        "1": "bla bla bla"
+      },
+      "path": null
+    },
+    {
+      "name": "xxxxxxxxxxxxxxxxxxxxxx",
+      "used_conditionals": {
+        "1": "bla bla bla"
+      },
+      "exception": {
+        "1": "bla bla bla"
+      },
+      "path": null
+    },
+    {
+      "name": "xxxxxxxxxxxxxxxxxxxxxx",
+      "used_conditionals": {
+        "1": "bla bla bla"
+      },
+      "exception": {
+        "1": "bla bla bla"
+      },
+      "path": null
+    },
+    {
+      "name": "xxxxxxxxxxxxxxxxxxxxxx",
+      "used_conditionals": {
+        "1": "bla bla bla"
+      },
+      "exception": {
+        "1": "bla bla bla"
+      },
+      "path": null
+    },
+    {
+      "name": "xxxxxxxxxxxxxxxxxxxxxx",
+      "used_conditionals": {
+        "1": "bla bla bla"
+      },
+      "exception": {
+        "1": "bla bla bla"
+      },
+      "path": null
     },
     {
       "name": "xxxxxxxxxxxxxxxxxxxxxx",
@@ -408,6 +461,6 @@
       },
       "path": null
     }
-
   ]
+
 }

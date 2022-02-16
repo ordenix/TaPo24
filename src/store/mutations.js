@@ -6,6 +6,9 @@ export default {
       localStorage.setItem('favorites_array', JSON.stringify(state.favorites_array))
     }
   },
+  ADD_TO_OFFLINE_STACK (state) {
+    console.log('s')
+  },
   REMOVE_FAVORITES_FROM_ARRAY (state, item) {
     const index = state.favorites_array.indexOf(item)
     if (index !== -1) {
