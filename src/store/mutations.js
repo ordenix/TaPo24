@@ -23,7 +23,10 @@ export default {
       if (stackData) {
         const stackParsedData = JSON.parse(stackData)
         for (const element of Object.keys(stackParsedData)) {
-          console.log(stackParsedData[element])
+          for (let i = 0; i < 100000; i++) {
+            if (navigator.onLine) continue
+            else break
+          }
           const headers = {
             'Content-Type': 'application/json'
           }
