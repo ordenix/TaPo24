@@ -6,256 +6,157 @@
       "remarks": null
     },
     {
-      "sign": "xxxxxxxxxx",
-      "type": "xxxxxxxxxxx",
+      "sign": "B",
+      "type": "Przeciwmgłowe przednie",
       "remarks": null
     },
     {
-      "sign": "xxxxxxxxxx",
-      "type": "xxxxxxxxxxx",
+      "sign": "C",
+      "type": "Mijania",
       "remarks": null
     },
     {
-      "sign": "xxxxxxxxxx",
-      "type": "xxxxxxxxxxx",
+      "sign": "R",
+      "type": "Drogowe",
       "remarks": null
     },
     {
-      "sign": "xxxxxxxxxx",
-      "type": "xxxxxxxxxxx",
+      "sign": "CR",
+      "type": "Mijania i Drogowe",
       "remarks": null
     },
     {
-      "sign": "xxxxxxxxxx",
-      "type": "xxxxxxxxxxx",
+      "sign": "C/R",
+      "type": "Mijania lub Drogowe",
       "remarks": null
     },
     {
-      "sign": "xxxxxxxxxx",
-      "type": "xxxxxxxxxxx",
+      "sign": "HC",
+      "type": "Halogenowe Mijania",
       "remarks": null
     },
     {
-      "sign": "xxxxxxxxxx",
-      "type": "xxxxxxxxxxx",
+      "sign": "HR",
+      "type": "Halogenowe Drogowe",
       "remarks": null
     },
     {
-      "sign": "xxxxxxxxxx",
-      "type": "xxxxxxxxxxx",
+      "sign": "HCR",
+      "type": "Halogenowe Mijania i Drogowe",
       "remarks": null
     },
     {
-      "sign": "xxxxxxxxxx",
-      "type": "xxxxxxxxxxx",
+      "sign": "HC/R",
+      "type": "Halogenowe Mijania lub Drogowe",
       "remarks": null
     },
     {
-      "sign": "xxxxxxxxxx",
-      "type": "xxxxxxxxxxx",
+      "sign": "DC",
+      "type": "Ksenonowe Mijania",
       "remarks": null
     },
     {
-      "sign": "xxxxxxxxxx",
-      "type": "xxxxxxxxxxx",
+      "sign": "DR",
+      "type": "Ksenonowe Drogowe",
       "remarks": null
     },
     {
-      "sign": "xxxxxxxxxx",
-      "type": "xxxxxxxxxxx",
+      "sign": "DC/R",
+      "type": "Ksenonowe Mijania lub Drogowe",
       "remarks": null
     },
     {
-      "sign": "xxxxxxxxxx",
-      "type": "xxxxxxxxxxx",
+      "sign": "RL",
+      "type": "Do jazdy dziennej",
       "remarks": null
     },
     {
-      "sign": "xxxxxxxxxx",
-      "type": "xxxxxxxxxxx",
+      "sign": "X",
+      "type": "Adaptacyjne Światła Mijania",
       "remarks": null
     },
     {
-      "sign": "xxxxxxxxxx",
-      "type": "xxxxxxxxxxx",
+      "sign": "K",
+      "type": "Doświetlające Zakręty",
       "remarks": null
     },
     {
-      "sign": "xxxxxxxxxx",
-      "type": "xxxxxxxxxxx",
+      "sign": "Strzałka w lewo",
+      "type": "Ruch Lewostronny",
       "remarks": null
     },
     {
-      "sign": "xxxxxxxxxx",
-      "type": "xxxxxxxxxxx",
+      "sign": "Strzałka w prawo i lewo",
+      "type": "Ruch lewostronny lub prawostronny",
       "remarks": null
     },
     {
-      "sign": "xxxxxxxxxx",
-      "type": "xxxxxxxxxxx",
-      "remarks": null
-    },
-    {
-      "sign": "xxxxxxxxxx",
-      "type": "xxxxxxxxxxx",
-      "remarks": null
-    },
-    {
-      "sign": "xxxxxxxxxx",
-      "type": "xxxxxxxxxxx",
-      "remarks": null
-    },
-    {
-      "sign": "xxxxxxxxxx",
-      "type": "xxxxxxxxxxx",
-      "remarks": null
-    },
-    {
-      "sign": "xxxxxxxxxx",
-      "type": "xxxxxxxxxxx",
-      "remarks": null
-    },
-    {
-      "sign": "xxxxxxxxxx",
-      "type": "xxxxxxxxxxx",
-      "remarks": null
-    },
-    {
-      "sign": "xxxxxxxxxx",
-      "type": "xxxxxxxxxxx",
-      "remarks": null
-    },
-    {
-      "sign": "xxxxxxxxxx",
-      "type": "xxxxxxxxxxx",
-      "remarks": null
-    },
-    {
-      "sign": "xxxxxxxxxx",
-      "type": "xxxxxxxxxxx",
-      "remarks": null
-    },
-    {
-      "sign": "xxxxxxxxxx",
-      "type": "xxxxxxxxxxx",
-      "remarks": null
-    },
-    {
-      "sign": "xxxxxxxxxx",
-      "type": "xxxxxxxxxxx",
-      "remarks": null
-    },
-    {
-      "sign": "xxxxxxxxxx",
-      "type": "xxxxxxxxxxx",
-      "remarks": null
-    },
-    {
-      "sign": "xxxxxxxxxx",
-      "type": "xxxxxxxxxxx",
+      "sign": "Strzałka w prawo lub brak strzałki",
+      "type": "Ruch Prawostronnyx",
       "remarks": null
     }
     ],
   "light_others": [
     {
-      "sign": "xxxxxxxxxx",
-      "type": "xxxxxxxxxxx"
+      "sign": "A",
+      "type": "Postojowe"
     },
     {
-      "sign": "xxxxxxxxxx",
-      "type": "xxxxxxxxxxx"
+      "sign": "AR",
+      "type": "Cofania"
     },
     {
-      "sign": "xxxxxxxxxx",
-      "type": "xxxxxxxxxxx"
+      "sign": "B",
+      "type": "Przednie przeciwmgłowe"
     },
     {
-      "sign": "xxxxxxxxxx",
-      "type": "xxxxxxxxxxx"
+      "sign": "IA",
+      "type": "Odblaskowe"
     },
     {
-      "sign": "xxxxxxxxxx",
-      "type": "xxxxxxxxxxx"
+      "sign": "R",
+      "type": "Pozycyjne tylne"
     },
     {
-      "sign": "xxxxxxxxxx",
-      "type": "xxxxxxxxxxx"
+      "sign": "RL",
+      "type": "Do jazdy dziennej"
     },
     {
-      "sign": "xxxxxxxxxx",
-      "type": "xxxxxxxxxxx"
+      "sign": "L",
+      "type": "Podświetlenie tablicy rejestracyjnej"
     },
     {
-      "sign": "xxxxxxxxxx",
-      "type": "xxxxxxxxxxx"
+      "sign": "S1, S2, S3",
+      "type": "Hamowania/Stop"
     },    {
-      "sign": "xxxxxxxxxx",
-      "type": "xxxxxxxxxxx"
+      "sign": "SM1, SM2",
+      "type": "Obrysowe boczne"
     },
     {
-      "sign": "xxxxxxxxxx",
-      "type": "xxxxxxxxxxx"
+      "sign": "1, 1a, 1b",
+      "type": "Kierunkowskazy przednie"
     },    {
-      "sign": "xxxxxxxxxx",
-      "type": "xxxxxxxxxxx"
+      "sign": "2a, 2b",
+      "type": "Kierunkowskazy tylne"
     },
     {
-      "sign": "xxxxxxxxxx",
-      "type": "xxxxxxxxxxx"
+      "sign": "F",
+      "type": "Przeciwmgłowe tylne"
     },    {
-      "sign": "xxxxxxxxxx",
-      "type": "xxxxxxxxxxx"
+      "sign": "5, 6",
+      "type": "Kierunkowskazy boczne"
     },
     {
-      "sign": "xxxxxxxxxx",
-      "type": "xxxxxxxxxxx"
+      "sign": "Strzałka w prawo",
+      "type": "Prawa strona montażu"
     },
     {
-      "sign": "xxxxxxxxxx",
-      "type": "xxxxxxxxxxx"
+      "sign": "Strzałka w lewo",
+      "type": "Lewa strona montażu"
     },
     {
-      "sign": "xxxxxxxxxx",
-      "type": "xxxxxxxxxxx"
-    },
-    {
-      "sign": "xxxxxxxxxx",
-      "type": "xxxxxxxxxxx"
-    },
-    {
-      "sign": "xxxxxxxxxx",
-      "type": "xxxxxxxxxxx"
-    },
-    {
-      "sign": "xxxxxxxxxx",
-      "type": "xxxxxxxxxxx"
-    },
-    {
-      "sign": "xxxxxxxxxx",
-      "type": "xxxxxxxxxxx"
-    },    {
-      "sign": "xxxxxxxxxx",
-      "type": "xxxxxxxxxxx"
-    },
-    {
-      "sign": "xxxxxxxxxx",
-      "type": "xxxxxxxxxxx"
-    },
-    {
-      "sign": "xxxxxxxxxx",
-      "type": "xxxxxxxxxxx"
-    },
-    {
-      "sign": "xxxxxxxxxx",
-      "type": "xxxxxxxxxxx"
-    },
-    {
-      "sign": "xxxxxxxxxx",
-      "type": "xxxxxxxxxxx"
-    },
-    {
-      "sign": "xxxxxxxxxx",
-      "type": "xxxxxxxxxxx"
+      "sign": "Strzałka w obie strony",
+      "type": "Montaż obustronnyx"
     }
   ],
   "approval": [
@@ -264,264 +165,216 @@
       "issue_country": "Niemcy"
     },
     {
-      "symbol": "ssssssssss",
-      "issue_country": "ssssssssss"
+      "symbol": "E2",
+      "issue_country": "Francja"
     },
     {
-      "symbol": "ssssssssss",
-      "issue_country": "ssssssssss"
+      "symbol": "E3",
+      "issue_country": "Włochy"
     },
     {
-      "symbol": "ssssssssss",
-      "issue_country": "ssssssssss"
+      "symbol": "E4",
+      "issue_country": "Holandia"
     },
     {
-      "symbol": "ssssssssss",
-      "issue_country": "ssssssssss"
+      "symbol": "E5",
+      "issue_country": "Szwecja"
     },
     {
-      "symbol": "ssssssssss",
-      "issue_country": "ssssssssss"
+      "symbol": "E6",
+      "issue_country": "Belgia"
     },
     {
-      "symbol": "ssssssssss",
-      "issue_country": "ssssssssss"
+      "symbol": "E7",
+      "issue_country": "Węgry"
     },
     {
-      "symbol": "ssssssssss",
-      "issue_country": "ssssssssss"
+      "symbol": "E8",
+      "issue_country": "Czechy"
     },
     {
-      "symbol": "ssssssssss",
-      "issue_country": "ssssssssss"
+      "symbol": "E9",
+      "issue_country": "Hiszpania"
     },
     {
-      "symbol": "ssssssssss",
-      "issue_country": "ssssssssss"
+      "symbol": "E10",
+      "issue_country": "Serbia"
     },
     {
-      "symbol": "ssssssssss",
-      "issue_country": "ssssssssss"
+      "symbol": "E11",
+      "issue_country": "Wielka Brytania"
     },
     {
-      "symbol": "ssssssssss",
-      "issue_country": "ssssssssss"
+      "symbol": "E12",
+      "issue_country": "Austria"
     },
     {
-      "symbol": "ssssssssss",
-      "issue_country": "ssssssssss"
+      "symbol": "E13",
+      "issue_country": "Luksemburg"
     },
     {
-      "symbol": "ssssssssss",
-      "issue_country": "ssssssssss"
+      "symbol": "E14",
+      "issue_country": "Szwajcaria"
     },
     {
-      "symbol": "ssssssssss",
-      "issue_country": "ssssssssss"
+      "symbol": "E16",
+      "issue_country": "Norwegia"
     },
     {
-      "symbol": "ssssssssss",
-      "issue_country": "ssssssssss"
+      "symbol": "E17",
+      "issue_country": "Finladnia"
     },
     {
-      "symbol": "ssssssssss",
-      "issue_country": "ssssssssss"
+      "symbol": "E18",
+      "issue_country": "Dania"
     },
     {
-      "symbol": "ssssssssss",
-      "issue_country": "ssssssssss"
+      "symbol": "E19",
+      "issue_country": "Rumunia"
     },
     {
-      "symbol": "ssssssssss",
-      "issue_country": "ssssssssss"
+      "symbol": "E20",
+      "issue_country": "Polska"
     },
     {
-      "symbol": "ssssssssss",
-      "issue_country": "ssssssssss"
+      "symbol": "E21",
+      "issue_country": "Portugalia"
     },
     {
-      "symbol": "ssssssssss",
-      "issue_country": "ssssssssss"
+      "symbol": "E22",
+      "issue_country": "Rosja"
     },
     {
-      "symbol": "ssssssssss",
-      "issue_country": "ssssssssss"
+      "symbol": "E23",
+      "issue_country": "Grecja"
     },
     {
-      "symbol": "ssssssssss",
-      "issue_country": "ssssssssss"
+      "symbol": "E24",
+      "issue_country": "Irlandia"
     },
     {
-      "symbol": "ssssssssss",
-      "issue_country": "ssssssssss"
+      "symbol": "E25",
+      "issue_country": "Chorwacja"
     },
     {
-      "symbol": "ssssssssss",
-      "issue_country": "ssssssssss"
+      "symbol": "E26",
+      "issue_country": "Słowenia"
     },
     {
-      "symbol": "ssssssssss",
-      "issue_country": "ssssssssss"
+      "symbol": "E27",
+      "issue_country": "Słowacja"
     },
     {
-      "symbol": "ssssssssss",
-      "issue_country": "ssssssssss"
+      "symbol": "E28",
+      "issue_country": "Białoruś"
     },
     {
-      "symbol": "ssssssssss",
-      "issue_country": "ssssssssss"
+      "symbol": "E29",
+      "issue_country": "Estonia"
     },
     {
-      "symbol": "ssssssssss",
-      "issue_country": "ssssssssss"
+      "symbol": "E30",
+      "issue_country": "Mołdawia"
     },
     {
-      "symbol": "ssssssssss",
-      "issue_country": "ssssssssss"
+      "symbol": "E31",
+      "issue_country": "Bośnia i Hercegowina"
     },
     {
-      "symbol": "ssssssssss",
-      "issue_country": "ssssssssss"
+      "symbol": "E32",
+      "issue_country": "Łotwa"
     },
     {
-      "symbol": "ssssssssss",
-      "issue_country": "ssssssssss"
+      "symbol": "E34",
+      "issue_country": "Bułgaria"
     },
     {
-      "symbol": "ssssssssss",
-      "issue_country": "ssssssssss"
+      "symbol": "E35",
+      "issue_country": "Kazachstan"
     },
     {
-      "symbol": "ssssssssss",
-      "issue_country": "ssssssssss"
+      "symbol": "E36",
+      "issue_country": "Litwa"
     },
     {
-      "symbol": "ssssssssss",
-      "issue_country": "ssssssssss"
+      "symbol": "E37",
+      "issue_country": "Turcja"
     },
     {
-      "symbol": "ssssssssss",
-      "issue_country": "ssssssssss"
+      "symbol": "E38",
+      "issue_country": "Azerbejdżan"
     },
     {
-      "symbol": "ssssssssss",
-      "issue_country": "ssssssssss"
+      "symbol": "E39",
+      "issue_country": "Macedonia Północna"
     },
     {
-      "symbol": "ssssssssss",
-      "issue_country": "ssssssssss"
+      "symbol": "E42",
+      "issue_country": "UE"
     },
     {
-      "symbol": "ssssssssss",
-      "issue_country": "ssssssssss"
+      "symbol": "E43",
+      "issue_country": "Japonia"
     },
     {
-      "symbol": "ssssssssss",
-      "issue_country": "ssssssssss"
+      "symbol": "E45",
+      "issue_country": "Australia"
     },
     {
-      "symbol": "ssssssssss",
-      "issue_country": "ssssssssss"
+      "symbol": "E46",
+      "issue_country": "Ukraina"
     },
     {
-      "symbol": "ssssssssss",
-      "issue_country": "ssssssssss"
+      "symbol": "E47",
+      "issue_country": "RPA"
     },
     {
-      "symbol": "ssssssssss",
-      "issue_country": "ssssssssss"
+      "symbol": "E48",
+      "issue_country": "Nowa Zelandia"
     },
     {
-      "symbol": "ssssssssss",
-      "issue_country": "ssssssssss"
+      "symbol": "E49",
+      "issue_country": "Cypr"
     },
     {
-      "symbol": "ssssssssss",
-      "issue_country": "ssssssssss"
+      "symbol": "E50",
+      "issue_country": "Malta"
     },
     {
-      "symbol": "ssssssssss",
-      "issue_country": "ssssssssss"
+      "symbol": "E51",
+      "issue_country": "Korea Południowa"
     },
     {
-      "symbol": "ssssssssss",
-      "issue_country": "ssssssssss"
+      "symbol": "E52",
+      "issue_country": "Malezja"
     },
     {
-      "symbol": "ssssssssss",
-      "issue_country": "ssssssssss"
+      "symbol": "E53",
+      "issue_country": "Tajlandia"
     },
     {
-      "symbol": "ssssssssss",
-      "issue_country": "ssssssssss"
+      "symbol": "E54",
+      "issue_country": "Albania"
     },
     {
-      "symbol": "ssssssssss",
-      "issue_country": "ssssssssss"
+      "symbol": "E56",
+      "issue_country": "Czarnogóra"
     },
     {
-      "symbol": "ssssssssss",
-      "issue_country": "ssssssssss"
+      "symbol": "E57",
+      "issue_country": "San Marino"
     },
     {
-      "symbol": "ssssssssss",
-      "issue_country": "ssssssssss"
+      "symbol": "E58",
+      "issue_country": "Tunezja"
     },
     {
-      "symbol": "ssssssssss",
-      "issue_country": "ssssssssss"
+      "symbol": "E60",
+      "issue_country": "Gruzja"
     },
     {
-      "symbol": "ssssssssss",
-      "issue_country": "ssssssssss"
-    },
-    {
-      "symbol": "ssssssssss",
-      "issue_country": "ssssssssss"
-    },
-    {
-      "symbol": "ssssssssss",
-      "issue_country": "ssssssssss"
-    },
-    {
-      "symbol": "ssssssssss",
-      "issue_country": "ssssssssss"
-    },
-    {
-      "symbol": "ssssssssss",
-      "issue_country": "ssssssssss"
-    },
-    {
-      "symbol": "ssssssssss",
-      "issue_country": "ssssssssss"
-    },
-    {
-      "symbol": "ssssssssss",
-      "issue_country": "ssssssssss"
-    },
-    {
-      "symbol": "ssssssssss",
-      "issue_country": "ssssssssss"
-    },
-    {
-      "symbol": "ssssssssss",
-      "issue_country": "ssssssssss"
-    },
-    {
-      "symbol": "ssssssssss",
-      "issue_country": "ssssssssss"
-    },
-    {
-      "symbol": "ssssssssss",
-      "issue_country": "ssssssssss"
-    },
-    {
-      "symbol": "ssssssssss",
-      "issue_country": "ssssssssss"
-    },
-    {
-      "symbol": "ssssssssss",
-      "issue_country": "ssssssssss"
+      "symbol": "E62",
+      "issue_country": "Egipt"
     }
 
   ]
