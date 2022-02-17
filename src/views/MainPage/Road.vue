@@ -33,6 +33,10 @@
         <div class="icon"><i class="fas fa-lightbulb"></i></div>
         <div class="label">Oświetlenie pojazdu</div>
       </div>
+      <div class="element" @click="globalGoTo('/Towing/', 'Towing')">
+        <div class="icon"><i class="fas fa-truck-loading"></i></div>
+        <div class="label">Holowanie pojazdu</div>
+      </div>
     </div>
   </div>
 </template>

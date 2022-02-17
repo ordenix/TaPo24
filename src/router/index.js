@@ -20,6 +20,7 @@ import DocumentHolding from '@/views/RoadsModule/Document_holding'
 import KSIPCode from '@/views/RoadsModule/KSIPcode'
 import SignDetails from '@/views/Sign/SignDetails'
 import Lights from '@/views/RoadsModule/Lights'
+import Towing from '@/views/RoadsModule/Towing'
 Vue.use(VueRouter)
 
 const routes = [
@@ -122,6 +123,11 @@ const routes = [
     path: '/Lights/',
     name: 'Lights',
     component: Lights
+  },
+  {
+    path: '/Towing/',
+    name: 'Towing',
+    component: Towing
   },
   {
     path: '/about',
