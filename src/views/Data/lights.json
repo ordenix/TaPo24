@@ -43,7 +43,7 @@
     {
       "sign": "HCR",
       "type": "Halogenowe Mijania i Drogowe",
-      "remarks": null
+      "remarks": "Reflektor z osobnymi żarówkami świateł mijania i drogowych. Można je włączyć równocześnie."
     },
     {
       "sign": "HC/R",
@@ -92,7 +92,7 @@
     },
     {
       "sign": "Strzałka w prawo lub brak strzałki",
-      "type": "Ruch Prawostronnyx",
+      "type": "Ruch Prawostronny",
       "remarks": null
     }
     ],
@@ -156,7 +156,7 @@
     },
     {
       "sign": "Strzałka w obie strony",
-      "type": "Montaż obustronnyx"
+      "type": "Montaż obustronny"
     }
   ],
   "approval": [
@@ -222,7 +222,7 @@
     },
     {
       "symbol": "E17",
-      "issue_country": "Finladnia"
+      "issue_country": "Finlandia"
     },
     {
       "symbol": "E18",

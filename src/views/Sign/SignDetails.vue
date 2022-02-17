@@ -25,14 +25,14 @@
 </template>
 
 <script>
-import ASignData from '@/A_sign_data.json'
-import BSignData from '@/B_sign_data.json'
-import CSignData from '@/C_sign_data.json'
-import DSignData from '@/D_sign_data.json'
-import FSignData from '@/F_sign_data.json'
-import PSignData from '@/P_sign_data.json'
-import SSignData from '@/S_sign_data.json'
-import tariffData from '@/tariff_data.json'
+import ASignData from '@/views/Data/A_sign_data.json'
+import BSignData from '@/views/Data/B_sign_data.json'
+import CSignData from '@/views/Data/C_sign_data.json'
+import DSignData from '@/views/Data/D_sign_data.json'
+import FSignData from '@/views/Data/F_sign_data.json'
+import PSignData from '@/views/Data/P_sign_data.json'
+import SSignData from '@/views/Data/S_sign_data.json'
+import tariffData from '@/views/Data/tariff_data.json'
 
 export default {
   name: 'SignDetails.vue',
@@ -76,7 +76,7 @@ export default {
 </script>
 
 <style scoped lang="scss">
-@import "../main_layout.scss";
+@import "../main_layout";
 img {
   width: 300px;
   height: 300px;

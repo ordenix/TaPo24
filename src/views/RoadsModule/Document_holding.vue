@@ -56,7 +56,7 @@
 </template>
 
 <script>
-import HoldingData from '@/holding.json'
+import HoldingData from '@/views/Data/holding.json'
 export default {
   name: 'Document_holding.vue',
   computed: {
@@ -88,8 +88,8 @@ export default {
 </script>
 
 <style scoped lang="scss">
-@import "main_layout";
-@import "grid";
+@import "src/views/main_layout";
+@import "src/views/grid";
 .small_main_container {
   margin: 10px 10px;
   font-family: $text-family;

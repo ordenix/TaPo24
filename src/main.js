@@ -24,15 +24,17 @@ Vue.mixin({
   },
   methods: {
     globalGoTo: function (path, moduleName, type) {
-      if (navigator.onLine) {
-        const headers = {
-          'Content-Type': 'application/json'
+      if (moduleName !== null) {
+        if (navigator.onLine) {
+          const headers = {
+            'Content-Type': 'application/json'
+          }
+          this.payload.moduleName = moduleName
+          axios
+            .post(this.$store.state.path_api + '/module_clicked', this.payload, { headers })
+        } else {
+          this.$store.commit('ADD_TO_OFFLINE_STACK_MODULE_NAME', moduleName)
         }
-        this.payload.moduleName = moduleName
-        axios
-          .post(this.$store.state.path_api + '/module_clicked', this.payload, { headers })
-      } else {
-        this.$store.commit('ADD_TO_OFFLINE_STACK_MODULE_NAME', moduleName)
       }
       if (type === 'web') {
         window.open(path)
