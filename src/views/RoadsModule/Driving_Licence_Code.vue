@@ -5,7 +5,7 @@
     </div>
     <div class="master_container">
       <div v-for="(element, index) in filter_data" :key="index" :class="element.sub_title==='' ? 'code_element_title': 'code_element'">
-          <div class="code">{{element.code}}</div>
+          <div class="cont">{{element.code}}</div>
           <div v-if="element.sub_title===''" class="title">{{element.title}}</div>
           <div class="sub_title" v-if="element.sub_title!==''">{{element.sub_title}}</div>
       </div>
@@ -14,7 +14,7 @@
 </template>
 
 <script>
-import drivingLicence from '@/driving_licence.json'
+import drivingLicence from '@/views/Data/driving_licence.json'
 export default {
   name: 'Driving_Licence_Code',
   computed: {
@@ -35,7 +35,7 @@ export default {
 </script>
 
 <style scoped lang="scss">
-@import "main_layout";
+@import "src/views/main_layout";
 .master_container {
   width: auto;
   font-family: $text-family;
@@ -53,7 +53,7 @@ export default {
   padding: 8px 0;
   align-items: center;
 }
-.code {
+.cont {
   width: 70px;
 }
 .title {

@@ -13,15 +13,15 @@
       </div>
       <div class="description2">
         <div>1. W przeglądarce otwórz stronę tapo24.pl i kliknij ikonę udostępniana</div>
-        <img :src="require(`../assets/install_iOS/step1.jpeg`)" alt="Sign"/>
+        <img :src="require(`@/assets/install_iOS/step1.jpeg`)" alt="Sign"/>
       </div>
       <div class="description2">
         <div>2. Wybieramy opcję dodaj do ekranu początkowego</div>
-        <img :src="require(`../assets/install_iOS/step2.jpeg`)" alt="Sign"/>
+        <img :src="require(`@/assets/install_iOS/step2.jpeg`)" alt="Sign"/>
       </div>
       <div class="description2">
         <div>3. Zatwierdź klikając dodaj</div>
-        <img :src="require(`../assets/install_iOS/step3.jpeg`)" alt="Sign"/>
+        <img :src="require(`@/assets/install_iOS/step3.jpeg`)" alt="Sign"/>
       </div>
     </div>
   </div>
@@ -34,7 +34,7 @@ export default {
 </script>
 
 <style scoped lang="scss">
-@import "main_layout";
+@import "src/views/main_layout";
 .view {
   display: flex;
   align-items: center;

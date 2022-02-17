@@ -55,7 +55,7 @@
 
 <script>
 import tariffCard from '@/components/tariffCard'
-import tariffdata from '@/tariff_data.json'
+import tariffdata from '@/views/Data/tariff_data.json'
 import { mapState } from 'vuex'
 export default {
   name: 'Tariff',
@@ -198,7 +198,7 @@ export default {
 </script>
 
 <style scoped lang="scss">
-@import "main_layout";
+@import "src/views/main_layout";
 #view {
   margin: 8px;
   height: 100%;

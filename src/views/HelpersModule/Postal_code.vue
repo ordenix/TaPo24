@@ -226,8 +226,8 @@ export default {
 </script>
 
 <style scoped lang="scss">
-@import "others";
-@import "main_layout";
+@import "src/views/others";
+@import "src/views/main_layout";
 .title {
   font-family: 'Readex Pro', sans-serif;
   font-weight: bold;

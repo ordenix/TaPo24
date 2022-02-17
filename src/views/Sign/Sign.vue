@@ -45,8 +45,8 @@ export default {
 </script>
 
 <style scoped lang="scss">
-@import "src/views/grid";
-@import "src/views/main_layout.scss";
+@import "../grid";
+@import "../main_layout";
 img {
   width: 40px;
   height: 40px;

@@ -7,7 +7,7 @@
 </template>
 
 <script>
-import LicenceData from '@/driving_licence.json'
+import LicenceData from '@/views/Data/driving_licence.json'
 import LicenceCard from '@/components/licenceCard'
 export default {
   name: 'Driving_Licence.vue',

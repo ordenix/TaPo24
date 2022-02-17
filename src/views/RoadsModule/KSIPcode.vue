@@ -7,7 +7,7 @@
 </template>
 
 <script>
-import codeKsipData from '@/codeKSIP.json'
+import codeKsipData from '@/views/Data/codeKSIP.json'
 import KSIPCodeCard from '@/components/KSIPCodeCard'
 export default {
   name: 'KSIP_code.vue',

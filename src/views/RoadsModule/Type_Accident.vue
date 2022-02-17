@@ -21,6 +21,6 @@ export default {
 </script>
 
 <style scoped lang="scss">
-@import "grid";
+@import "src/views/grid";
 
 </style>
