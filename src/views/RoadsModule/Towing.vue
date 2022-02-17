@@ -9,11 +9,10 @@
         <div class="law">{{element.law}}</div>
         <hr>
         <div class="type">Rodzaj: {{element.type}}</div>
-        <div class="necessity">Konieczność: {{element.necessity}}</div>
+        <div class="necessity" v-if="element.necessity">Konieczność: {{element.necessity}}</div>
         <div class="necessity">Holowanie na koszt: {{element.cost}}</div>
         <div class="permission" v-if="element.type==='Dyspozycja' && element.permission">Odbiór pojazdu z parkingu wymaga okazania zezwolenia</div>
         <div class="permission" v-if="element.type==='Dyspozycja' && !element.permission">Odbiór pojazdu z parkingu nie wymaga okazania zezwolenia</div>
-
       </div>
     </div>
   </div>
