@@ -1,24 +1,25 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
-import Home from '../views/Home.vue'
-import Tariff from '@/views/Tariff'
-import Law from '@/views/Law'
-import Helpers from '@/views/Helpers'
-import Road from '@/views/Road'
-import Privacy from '@/views/Privacy'
-import PostalCode from '@/views/Postal_code'
+import Home from '../views/MainPage/Home.vue'
+import Tariff from '@/views/MainPage/Tariff'
+import Law from '@/views/MainPage/Law'
+import Helpers from '@/views/MainPage/Helpers'
+import Road from '@/views/MainPage/Road'
+import Privacy from '@/views/MainPage/Privacy'
+import PostalCode from '@/views/HelpersModule/Postal_code'
 import Sign from '@/views/Sign/Sign'
 import FormSigns from '@/views/Sign/Form_signs'
-import InstallIOS from '@/views/instal_iOS'
-import PointsCalc from '@/views/Points_Calc'
-import QualificationsAccident2 from '@/views/Qualifications_Accident2'
-import TypeAccident from '@/views/Type_Accident'
-import ControlList from '@/views/ControlList'
-import DrivingLicence from '@/views/Driving_Licence'
-import DrivingLicenceCode from '@/views/Driving_Licence_Code'
-import DocumentHolding from '@/views/Document_holding'
-import KSIPCode from '@/views/KSIPcode'
+import InstallIOS from '@/views/MainPage/instal_iOS'
+import PointsCalc from '@/views/HelpersModule/Points_Calc'
+import QualificationsAccident2 from '@/views/RoadsModule/Qualifications_Accident2'
+import TypeAccident from '@/views/RoadsModule/Type_Accident'
+import ControlList from '@/views/RoadsModule/ControlList'
+import DrivingLicence from '@/views/RoadsModule/Driving_Licence'
+import DrivingLicenceCode from '@/views/RoadsModule/Driving_Licence_Code'
+import DocumentHolding from '@/views/RoadsModule/Document_holding'
+import KSIPCode from '@/views/RoadsModule/KSIPcode'
 import SignDetails from '@/views/Sign/SignDetails'
+import Lights from '@/views/RoadsModule/Lights'
 Vue.use(VueRouter)
 
 const routes = [
@@ -118,12 +119,17 @@ const routes = [
     component: SignDetails
   },
   {
+    path: '/Lights/',
+    name: 'Lights',
+    component: Lights
+  },
+  {
     path: '/about',
     name: 'About',
     // route level code-splitting
     // this generates a separate chunk (about.[hash].js) for this route
     // which is lazy-loaded when the route is visited.
-    component: () => import(/* webpackChunkName: "about" */ '../views/About.vue')
+    component: () => import(/* webpackChunkName: "about" */ '../views/MainPage/About.vue')
   }
 ]
 

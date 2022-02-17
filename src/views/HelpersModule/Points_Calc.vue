@@ -34,7 +34,7 @@
 </template>
 
 <script>
-import CodeDataArray from '@/code_array_data.json'
+import CodeDataArray from '@/views/Data/code_array_data.json'
 export default {
   name: 'Points_Calc',
   data () {
@@ -112,8 +112,8 @@ export default {
 </script>
 
 <style scoped lang="scss">
-@import "others";
-@import "main_layout";
+@import "src/views/others";
+@import "src/views/main_layout";
 .title {
   font-family: 'Readex Pro', sans-serif;
   font-weight: bold;

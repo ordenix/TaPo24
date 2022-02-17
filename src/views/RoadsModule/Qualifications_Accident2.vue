@@ -15,7 +15,7 @@
 </template>
 
 <script>
-import AccidentData from '@/Accident_data.json'
+import AccidentData from '@/views/Data/Accident_data.json'
 export default {
   name: 'Qualifications_Accident.vue',
   data () {
@@ -42,8 +42,8 @@ export default {
 </script>
 
 <style scoped lang="scss">
-@import "main_layout";
-@import "others";
+@import "src/views/main_layout";
+@import "src/views/others";
 .title {
   font-family: 'Readex Pro', sans-serif;
   font-weight: bold;

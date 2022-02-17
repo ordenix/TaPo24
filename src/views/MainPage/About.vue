@@ -25,7 +25,7 @@ export default {
 }
 </script>
 <style lang="scss" scoped>
-@import "main_layout";
+@import "src/views/main_layout";
 .title {
   margin: 10px;
   color: #EE6C4D;

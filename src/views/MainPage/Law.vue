@@ -129,8 +129,8 @@ export default {
 </script>
 
 <style scoped lang="scss">
-@import "grid";
-@import "main_layout";
+@import "src/views/grid";
+@import "src/views/main_layout";
 #pdf_container {
   overflow: hidden;
   z-index: 10;

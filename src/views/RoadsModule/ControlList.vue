@@ -61,7 +61,7 @@
 </template>
 
 <script>
-import controlListData from '@/ControlList_data.json'
+import controlListData from '@/views/Data/ControlList_data.json'
 export default {
   name: 'control_list.vue',
   computed: {
@@ -142,7 +142,7 @@ export default {
 </script>
 
 <style scoped lang="scss">
-@import "main_layout";
+@import "src/views/main_layout";
 #container {
   padding: 10px;
   background-color: #3D5A80;

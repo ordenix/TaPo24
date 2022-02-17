@@ -29,6 +29,10 @@
         <div class="icon"><i class="fas fa-info"></i></div>
         <div class="label">Statusy Prawa Jazdy KSIP</div>
       </div>
+      <div class="element" @click="globalGoTo('/Lights/', 'Lights')">
+        <div class="icon"><i class="fas fa-lightbulb"></i></div>
+        <div class="label">Oświetlenie pojazdu</div>
+      </div>
     </div>
   </div>
 </template>
@@ -49,6 +53,6 @@ export default {
 </script>
 
 <style scoped lang="scss">
-@import "grid";
+@import "src/views/grid";
 
 </style>
