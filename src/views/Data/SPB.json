@@ -362,9 +362,13 @@
   ],
   "weapon_array": [
     {
-      "name": "xxxxxxxxxxxxxxxxxxxxxx",
+      "name": "Broń palna",
       "used_conditionals": {
-        "1": "bla bla bla"
+        "1": "1a - Konieczność odparcia bezpośredniego, bezprawnego zamachu na życie, zdrowie lub wolność uprawnionego lub innej osoby albo konieczność przeciwdziałania czynnościom zmierzającym bezpośrednio do takiego zamachu",
+        "2": "1b - Konieczność odparcia bezpośredniego, bezprawnego zamachu na ważne obiekty, urządzenia lub obszary albo konieczność przeciwdziałania czynnościom zmierzającym bezpośrednio do takiego zamachu",
+        "3": "1c - Konieczność odparcia bezpośredniego, bezprawnego zamachu na mienie, który stwarza jednocześnie bezpośrednie zagrożenie życia, zdrowia lub wolności uprawnionego lub innej osoby, albo konieczność przeciwdziałania czynnościom zmierzającym bezpośrednio do takiego zamachu",
+        "4": "1d - Konieczność odparcia bezpośredniego, bezprawnego zamachu na nienaruszalność granicy państwowej przez osobę, która wymusza przekroczenie granicy państwowej przy użyciu pojazdu, broni palnej lub innego niebezpiecznego przedmiotu",
+        "5": "1e - Konieczność odparcia bezpośredniego, bezprawnego zamachu na bezpieczeństwo konwoju lub doprowadzenia"
       },
       "exception": {
         "1": "bla bla bla"
@@ -372,9 +376,10 @@
       "path": null
     },
     {
-      "name": "xxxxxxxxxxxxxxxxxxxxxx",
+      "name": "Broń palna",
       "used_conditionals": {
-        "1": "bla bla bla"
+        "1": "2a - Konieczność przeciwstawienia się osobie niepodporządkowującej się wezwaniu do natychmiastowego porzucenia broni, materiału wybuchowego lub innego niebezpiecznego przedmiotu, którego użycie może zagrozić życiu, zdrowiu lub wolności uprawnionego lub innej osoby ",
+        "2": "2b - Konieczność przeciwstawienia się osobie która usiłuje bezprawnie odebrać broń palną uprawnionemu lub innej osobie uprawnionej do jej posiadania "
       },
       "exception": {
         "1": "bla bla bla"
@@ -382,9 +387,10 @@
       "path": null
     },
     {
-      "name": "xxxxxxxxxxxxxxxxxxxxxx",
+      "name": "Broń palna",
       "used_conditionals": {
-        "1": "bla bla bla"
+        "1": "3a - Bezpośredni pościg za osobą, wobec której użycie broni palnej było dopuszczalne w przypadkach określonych w pkt 1 lit. a–d i pkt 2",
+        "2": "3b - Bezpośredni pościg za osobą, wobec której istnieje uzasadnione podejrzenie, że popełniła przestępstwo, o którym mowa w art. 115 § 20 KK (. przestępstwo o charakterze terrorystycznym ), art. 148 KK ( Zabójstwo ) , art. 156 § 1 KK ( ciężki uszczerbek na zdrowiu ), art. 163–165 KK ( zdarzenie, które zagraża życiu lub zdrowiu wielu osób albo mieniu w wielkich rozmiarach, bezpośrednie niebezpieczeństwo zdarzenia określonego w art. 163 § 1 KK, niebezpieczeństwo dla życia lub zdrowia wielu\nosób albo dla mienia w wielkich rozmiarach ), art. 197 KK (doprowadzenie innej osoby do obcowania płciowego) art. 252 KK ( przetrzymywanie zakładnika ), art. 280–282 ( rozbój, kradzież rozbójnicza, wymuszenie rozbójnicze)"
       },
       "exception": {
         "1": "bla bla bla"
