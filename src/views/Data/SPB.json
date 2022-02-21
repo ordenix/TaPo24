@@ -403,31 +403,13 @@
         "1": "4a - Konieczność ujęcia osoby wobec której użycie broni palnej było dopuszczalne w przypadkach określonych w pkt 1 lit. a–d i pkt 2",
         "2": "4a - Konieczność ujęcia osoby wobec której istnieje uzasadnione podejrzenie, że popełniła przestępstwo, o którym mowa w art. 115 § 20 KK (. przestępstwo o charakterze terrorystycznym ), art. 148 KK ( Zabójstwo ) , art. 156 § 1 KK ( ciężki uszczerbek na zdrowiu ), art. 163–165 KK ( zdarzenie, które zagraża życiu lub zdrowiu wielu osób albo mieniu w wielkich rozmiarach, bezpośrednie niebezpieczeństwo zdarzenia określonego w art. 163 § 1 KK, niebezpieczeństwo dla życia lub zdrowia wielu\nosób albo dla mienia w wielkich rozmiarach ), art. 197 KK (doprowadzenie innej osoby do obcowania płciowego) art. 252 KK ( przetrzymywanie zakładnika ), art. 280–282 ( rozbój, kradzież rozbójnicza, wymuszenie rozbójnicze)",
         "3": "4a - Konieczność ujęcia osoby dokonującej zamachu, o którym mowa w pkt 1 lit. d lub e",
-        "4": "4a - Konieczność ujęcia osoby jeżeli schroniła się w miejscu trudno dostępnym, a z okoliczności zdarzenia wynika, że może użyć broni palnej lub innego niebezpiecznego przedmiotu"
-      },
-      "exception": {
-        "1": "bla bla bla"
-      },
-      "path": null
-    },
-    {
-      "name": "Broń palna - użycie",
-      "used_conditionals": {
-        "1": "4b - ujęcia lub udaremnienia ucieczki osoby zatrzymanej, tymczasowo aresztowanej lub odbywającej karę pozbawienia wolności, jeżeli ucieczka tej osoby stwarza zagrożenie życia lub zdrowia uprawnionego lub innej osoby",
-        "2": "4b - ujęcia lub udaremnienia ucieczki osoby zatrzymanej, tymczasowo aresztowanej lub odbywającej karę pozbawienia wolności, jeżeli istnieje uzasadnione podejrzenie, że osoba ta może użyć materiałów wybuchowych, broni palnej lub innego niebezpiecznego przedmiotu",
-        "3": "4b - ujęcia lub udaremnienia ucieczki osoby zatrzymanej, tymczasowo aresztowanej lub odbywającej karę pozbawienia wolności, jeżeli pozbawienie wolności nastąpiło w związku z uzasadnionym podejrzeniem lub stwierdzeniem popełnienia przestępstwa, o którym mowa w art. 115 § 20 KK (. przestępstwo o charakterze terrorystycznym ), art. 148 KK ( Zabójstwo ) , art. 156 § 1 KK ( ciężki uszczerbek na zdrowiu ), art. 163–165 KK ( zdarzenie, które zagraża życiu lub zdrowiu wielu osób albo mieniu w wielkich rozmiarach, bezpośrednie niebezpieczeństwo zdarzenia określonego w art. 163 § 1 KK, niebezpieczeństwo dla życia lub zdrowia wielu\nosób albo dla mienia w wielkich rozmiarach ), art. 197 KK (doprowadzenie innej osoby do obcowania płciowego) art. 252 KK ( przetrzymywanie zakładnika ), art. 280–282 ( rozbój, kradzież rozbójnicza, wymuszenie rozbójnicze)"
-      },
-      "exception": {
-        "1": "bla bla bla"
-      },
-      "path": null
-    },
-    {
-      "name": "Broń palna - użycie",
-      "used_conditionals": {
-        "1": "4c - ujęcia lub udaremnienia ucieczki osoby zatrzymanej, tymczasowo aresztowanej lub odbywającej karę pozbawienia wolności w związku z uzasadnionym podejrzeniem lub stwierdzeniem popełnienia lub przygotowania do popełnienia przestępstwa, o którym mowa w art. 5 ust. 1 pkt 2 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2018 r. poz. 2387, z późn. zm.3)),",
-        "2": "4c - ujęcia lub udaremnienia ucieczki osoby zatrzymanej, tymczasowo aresztowanej lub odbywającej karę pozbawienia wolności w związku z uzasadnionym podejrzeniem lub stwierdzeniem popełnienia lub przygotowania do popełnienia przestępstwa, o którym mowa w art. 2 ust. 1 pkt 1 ustawy z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym (Dz. U. z 2019 r. poz. 1921 i 2020)",
-        "3": "4c - ujęcia lub udaremnienia ucieczki osoby zatrzymanej, tymczasowo aresztowanej lub odbywającej karę pozbawienia wolności w związku z uzasadnionym podejrzeniem lub stwierdzeniem popełnienia lub przygotowania do popełnienia przestępstwa, o którym mowa w art. 5 ust. 1 pkt 1 ustawy z dnia 9 czerwca 2006 r. o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego (Dz. U. z 2019 r. poz. 687)"
+        "4": "4a - Konieczność ujęcia osoby jeżeli schroniła się w miejscu trudno dostępnym, a z okoliczności zdarzenia wynika, że może użyć broni palnej lub innego niebezpiecznego przedmiotu",
+        "5": "4b - ujęcia lub udaremnienia ucieczki osoby zatrzymanej, tymczasowo aresztowanej lub odbywającej karę pozbawienia wolności, jeżeli ucieczka tej osoby stwarza zagrożenie życia lub zdrowia uprawnionego lub innej osoby",
+        "6": "4b - ujęcia lub udaremnienia ucieczki osoby zatrzymanej, tymczasowo aresztowanej lub odbywającej karę pozbawienia wolności, jeżeli istnieje uzasadnione podejrzenie, że osoba ta może użyć materiałów wybuchowych, broni palnej lub innego niebezpiecznego przedmiotu",
+        "7": "4b - ujęcia lub udaremnienia ucieczki osoby zatrzymanej, tymczasowo aresztowanej lub odbywającej karę pozbawienia wolności, jeżeli pozbawienie wolności nastąpiło w związku z uzasadnionym podejrzeniem lub stwierdzeniem popełnienia przestępstwa, o którym mowa w art. 115 § 20 KK (. przestępstwo o charakterze terrorystycznym ), art. 148 KK ( Zabójstwo ) , art. 156 § 1 KK ( ciężki uszczerbek na zdrowiu ), art. 163–165 KK ( zdarzenie, które zagraża życiu lub zdrowiu wielu osób albo mieniu w wielkich rozmiarach, bezpośrednie niebezpieczeństwo zdarzenia określonego w art. 163 § 1 KK, niebezpieczeństwo dla życia lub zdrowia wielu\nosób albo dla mienia w wielkich rozmiarach ), art. 197 KK (doprowadzenie innej osoby do obcowania płciowego) art. 252 KK ( przetrzymywanie zakładnika ), art. 280–282 ( rozbój, kradzież rozbójnicza, wymuszenie rozbójnicze)",
+        "8": "4c - ujęcia lub udaremnienia ucieczki osoby zatrzymanej, tymczasowo aresztowanej lub odbywającej karę pozbawienia wolności w związku z uzasadnionym podejrzeniem lub stwierdzeniem popełnienia lub przygotowania do popełnienia przestępstwa, o którym mowa w art. 5 ust. 1 pkt 2 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2018 r. poz. 2387, z późn. zm.3)),",
+        "9": "4c - ujęcia lub udaremnienia ucieczki osoby zatrzymanej, tymczasowo aresztowanej lub odbywającej karę pozbawienia wolności w związku z uzasadnionym podejrzeniem lub stwierdzeniem popełnienia lub przygotowania do popełnienia przestępstwa, o którym mowa w art. 2 ust. 1 pkt 1 ustawy z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym (Dz. U. z 2019 r. poz. 1921 i 2020)",
+        "10": "4c - ujęcia lub udaremnienia ucieczki osoby zatrzymanej, tymczasowo aresztowanej lub odbywającej karę pozbawienia wolności w związku z uzasadnionym podejrzeniem lub stwierdzeniem popełnienia lub przygotowania do popełnienia przestępstwa, o którym mowa w art. 5 ust. 1 pkt 1 ustawy z dnia 9 czerwca 2006 r. o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego (Dz. U. z 2019 r. poz. 687)"
       },
       "exception": {
         "1": "bla bla bla"
