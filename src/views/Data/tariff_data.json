@@ -5396,7 +5396,21 @@
         "1": "art. 94§1 KW Kto na drodze publicznej, w strefie zamieszkania lub strefie ruchu\nprowadzi pojazd mechaniczny, nie mając do tego uprawnienia,\npodlega karze aresztu, ograniczenia wolności albo grzywny nie niższej niż\n1500 złotych",
         "2": "art. 94§2 KW Tej samej karze podlega, kto prowadzi na drodze publicznej, w strefie\nzamieszkania lub strefie ruchu pojazd pomimo braku dopuszczenia pojazdu do ruchuKW"
       },
-      "paragraph": "",
+      "paragraph_sub": {
+        "1": "art. 71 ust. 1 PRD Dokumentem stwierdzającym dopuszczenie do ruchu pojazdu samochodowego, ciągnika rolniczego, pojazdu wolnobieżnego wchodzącego w skład kolejki turystycznej, motoroweru lub przyczepy jest dowód rejestracyjny albo pozwolenie czasowe. Przepis ten nie dotyczy pojazdów, o których mowa w ust. 3",
+        "2": "art. 71 ust. 2 PRD Pojazdy określone w ust. 1 są dopuszczone do ruchu, jeżeli odpowiadają warunkom określonym w art. 66 PRD oraz są zarejestrowane i zaopatrzone w zalegalizowane tablice (tablicę) rejestracyjne, a w przypadku pojazdów samochodowych, z wyłączeniem motocykli, w nalepkę kontrolną",
+        "3": "art. 71 ust. 2a PRD Pojazd elektryczny i pojazd napędzany wodorem posiadają tablice rejestracyjne wskazujące na rodzaj paliwa wykorzystywanego do ich napędu",
+        "4": "art. 71 ust. 3 PRD Pojazd niewymieniony w ust. 1, przyczepa motocyklowa oraz przyczepa specjalna przeznaczona do ciągnięcia przez ciągnik rolniczy lub pojazd wolnobieżny jest dopuszczony do ruchu, jeżeli odpowiada warunkom określonym w art. 66 PRD",
+        "5": "art. 71 ust. 4 PRD Zespół pojazdów składający się z pojazdu samochodowego o dopuszczalnej masie całkowitej nieprzekraczającej 3,5 t i przyczepy albo autobusu i przyczepy może być dopuszczony do ruchu po uzyskaniu odpowiedniej adnotacji w dowodzie rejestracyjnym pojazdu silnikowego, dokonanej na podstawie przeprowadzonego badania technicznego. Przepis ten nie dotyczy motocykla",
+        "6": "art. 71 ust. 4a PRD Przepis ust. 4 dotyczy także ciągnika rolniczego i pojazdu wolnobieżnego wchodzącego w skład kolejki turystycznej. W przypadku ciągnika rolniczego może być on dopuszczony do ruchu po uzyskaniu odpowiedniej adnotacji w dowodzie rejestracyjnym o ograniczeniu prędkości konstrukcyjnej do 25 km/h",
+        "7": "art. 71 ust. 5 PRD Pojazd zarejestrowany za granicą dopuszcza się do ruchu, jeżeli odpowiada wymaganym warunkom technicznym i jest zaopatrzony w tablice rejestracyjne z numerem rejestracyjnym składającym się z liter alfabetu łacińskiego i cyfr arabskich, z zastrzeżeniem art. 59 ust. 2 i 3 PRD, a kierujący pojazdem ma przy sobie dokument stwierdzający dokonanie rejestracji",
+        "8": "art. 71 ust. 5a PRD W przypadku gdy z dokumentu stwierdzającego dokonanie rejestracji pojazdu, o którym mowa w ust. 5, nie wynika prawo do używania pojazdu przez kierującego, osoba ta obowiązana jest posiadać przy sobie i okazywać na żądanie organu kontroli ruchu drogowego dokument potwierdzający to prawo",
+        "9": "art. 71 ust. 6 PRD Pojazd sprowadzony z terytorium państwa niebędącego państwem członkowskim Unii Europejskiej, po dokonaniu zwolnienia pojazdu przez naczelnika urzędu celno-skarbowego do procedury dopuszczenia do obrotu, dopuszcza się do ruchu na okres 30 dni",
+        "10": "art. 71 ust. 7 PRD Właściciel pojazdu, niebędącego nowym pojazdem, sprowadzonego z terytorium państwa członkowskiego Unii Europejskiej jest obowiązany zarejestrować pojazd na terytorium Rzeczypospolitej Polskiej w terminie 30 dni od dnia jego sprowadzenia",
+        "11": "art. 59 ust. 1 PRD Pojazd zarejestrowany w Rzeczypospolitej Polskiej, który ma być używany w ruchu międzynarodowym, powinien być oznaczony znakiem z literami „PL”",
+        "12": "art. 59 ust. 2 PRD Pojazd zarejestrowany za granicą uczestniczący w ruchu na terytorium Rzeczypospolitej Polskiej powinien być oznaczony znakiem określającym państwo, w którym jest zarejestrowany",
+        "13": "art. 59 ust. 3 PRD Obowiązek, o którym mowa w ust. 1 i 2, uważa się za spełniony, jeżeli na tablicy rejestracyjnej jest umieszczony znak określający państwo, w którym pojazd został zarejestrowany"
+      },
       "path": null
     },
     {
