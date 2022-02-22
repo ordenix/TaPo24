@@ -42,6 +42,7 @@
         </option>
       </select>
       <input type="text" name="title" placeholder="Wyszukaj" v-model="search_text">
+      <searchInput @on-item-selected="dropdownSelection = $event" @on-item-reset="dropdownSelection = {}" />
     </div>
     <div id="view">
       <div v-for="(element, index) in filtered_data" :key="index" @click=click_on_tariff_card(element)>
@@ -54,13 +55,15 @@
 </template>
 
 <script>
+import searchInput from '@/components/searchInput'
 import tariffCard from '@/components/tariffCard'
 import tariffdata from '@/views/Data/tariff_data.json'
 import { mapState } from 'vuex'
 export default {
   name: 'Tariff',
   components: {
-    tariffCard
+    tariffCard,
+    searchInput
   },
   computed: {
     ...mapState([
@@ -95,6 +98,7 @@ export default {
   },
   data () {
     return {
+      dropdownSelection: {},
       open_special_card: false,
       options_category: [
         { value: 'all', text: 'Wszystkie wykroczenia' },
