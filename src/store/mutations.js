@@ -52,5 +52,19 @@ export default {
   },
   SET_FAVORITES (state, data) {
     state.favorites_array = data
+  },
+  SET_BLOCKING (state) {
+    const status = localStorage.getItem('BLOCKING')
+    if (status) {
+      state.block_ini_logo = true
+    }
+  },
+  SET_FLAG_BLOCKING (state) {
+    localStorage.setItem('BLOCKING', JSON.stringify('BLOCKING'))
+    state.block_ini_logo = true
+  },
+  REMOVE_FLAG_BLOCKING (state) {
+    localStorage.removeItem('BLOCKING')
+    state.block_ini_logo = false
   }
 }
