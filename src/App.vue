@@ -14,6 +14,7 @@
 
 <script>
 import navBar from '@/components/navBar'
+import { mapState } from 'vuex'
 
 export default {
   name: 'App',
@@ -26,8 +27,18 @@ export default {
       login_form: false
     }
   },
+  computed: {
+    ...mapState([
+      'block_ini_logo'
+    ])
+  },
+  created () {
+    this.$store.commit('SET_BLOCKING')
+  },
   mounted () {
-    setTimeout(this.show_app, 4001)
+    if (this.block_ini_logo) {
+      this.show_app()
+    } else setTimeout(this.show_app, 4001)
     const nav = document.querySelector('.navbar')
     const searchBox = document.querySelector('#search_top_bar2')
     let lastScrollY = window.scrollY
