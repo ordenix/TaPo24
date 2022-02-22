@@ -31,7 +31,7 @@
     </div>
     <div class="home">
       <div class="title"> TAryfikator POlicyjny24 </div>
-      <div class="date">2022-01-11</div>
+      <div class="date">2022-01-12</div>
       <div class="whats_news">Co nowego?</div>
       <p>- Dodanie znaków poziomych (P)</p>
       <p>- Dodanie kalkulatora punktów</p>
