@@ -38,7 +38,7 @@ export default {
   mounted () {
     if (this.block_ini_logo) {
       this.show_app()
-    } else setTimeout(this.show_app, 4000)
+    } else setTimeout(this.show_app, 4001)
     const nav = document.querySelector('.navbar')
     const searchBox = document.querySelector('#search_top_bar2')
     let lastScrollY = window.scrollY
