@@ -24,9 +24,11 @@ export default {
     }
   },
   SET_FLAG_BLOCKING (state) {
-
+    localStorage.setItem('BLOCKING', JSON.stringify('BLOCKING'))
+    state.block_ini_logo = true
   },
-  REMOVE_FLAG_BLOCKING (state, data) {
-    state.favorites_array = data
+  REMOVE_FLAG_BLOCKING (state) {
+    localStorage.removeItem('BLOCKING')
+    state.block_ini_logo = false
   }
 }

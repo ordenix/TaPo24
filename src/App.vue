@@ -73,7 +73,12 @@ export default {
     clear_timeout () {
       window.clearTimeout(this.timer)
     },
+    remove_blocking () {
+      this.$store.commit('REMOVE_FLAG_BLOCKING')
+    },
     show_app () {
+      this.$store.commit('SET_FLAG_BLOCKING')
+      setTimeout(this.remove_blocking, 2000)
       this.login_form = true
     }
   },
