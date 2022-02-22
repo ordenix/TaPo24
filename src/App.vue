@@ -38,7 +38,7 @@ export default {
   mounted () {
     if (this.block_ini_logo) {
       this.show_app()
-    } else setTimeout(this.show_app, 4001)
+    } else setTimeout(this.show_app, 4000)
     const nav = document.querySelector('.navbar')
     const searchBox = document.querySelector('#search_top_bar2')
     let lastScrollY = window.scrollY
@@ -78,7 +78,7 @@ export default {
     },
     show_app () {
       this.$store.commit('SET_FLAG_BLOCKING')
-      setTimeout(this.remove_blocking, 2000)
+      setTimeout(this.remove_blocking, 10000)
       this.login_form = true
     }
   },
