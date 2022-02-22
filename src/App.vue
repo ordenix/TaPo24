@@ -27,7 +27,7 @@ export default {
     }
   },
   mounted () {
-    setTimeout(this.show_app, 4000)
+    setTimeout(this.show_app, 4001)
     const nav = document.querySelector('.navbar')
     const searchBox = document.querySelector('#search_top_bar2')
     let lastScrollY = window.scrollY
