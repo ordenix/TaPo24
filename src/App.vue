@@ -1,7 +1,9 @@
 <template>
   <div id="app">
     <div id="login_screen" v-if="!login_form && $route.name==='Home'">
-    logo
+      <video class="video" autoplay muted>
+        <source :src="require(`@/assets/others/video.mp4`)" type="video/mp4">
+      </video>
     </div>
     <navBar class="navbar" v-if="login_form || $route.name!=='Home'"/>
     <div id="view" v-if="login_form || $route.name!=='Home'">
@@ -25,7 +27,7 @@ export default {
     }
   },
   mounted () {
-    setTimeout(this.show_app, 3000)
+    setTimeout(this.show_app, 4000)
     const nav = document.querySelector('.navbar')
     const searchBox = document.querySelector('#search_top_bar2')
     let lastScrollY = window.scrollY
@@ -107,9 +109,15 @@ html, body {
   height: 100%;
 }
 #login_screen {
-  background-color: #006bb3;
+  background-color: #293241;
   z-index: 100;
   width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+video{
   height: 100%;
 }
 .navbar {
