@@ -3,7 +3,7 @@
     <div class="header">
       <div class="ico_logo">
       </div>
-      <div class="htl" @click="goto_web('https://holdtheline.pl/')">
+      <div class="htl" @click="globalGoTo('https://holdtheline.pl/','link to htl', 'web')">
         <img :src="require(`../assets/others/logo-kolor2.png`)" alt="Sign"/>
       </div>
       <div>
