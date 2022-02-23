@@ -8,5 +8,6 @@ export default {
   selected_tariff_data: {
     options_category: 'all',
     search_text: ''
-  }
+  },
+  block_ini_logo: false
 }

@@ -29,6 +29,10 @@
         <div class="icon"><i class="fas fa-tty"></i></div>
         <div class="label">Link do książki telefonicznej (Policja)</div>
       </div>
+      <div class="element" @click="globalGoTo('https://specbrands.pl/','link to specbrands', 'web')">
+        <div class="icon"><img :src="require(`@/assets/others/logo_black.png`)" alt="Sign"/></div>
+        <div class="label">Sklep mundurowy</div>
+      </div>
     </div>
   </div>
 </template>
@@ -75,5 +79,7 @@ export default {
 
 <style scoped lang="scss">
 @import "src/views/grid";
-
+img {
+  width: 80px;
+}
 </style>

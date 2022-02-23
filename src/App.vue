@@ -1,8 +1,12 @@
 <template>
   <div id="app">
-    <navBar class="navbar"/>
-    <div class="test"></div>
-    <div id="view">
+    <div id="login_screen" v-if="!login_form && $route.name==='Home'">
+      <video class="video" autoplay muted>
+        <source :src="require(`@/assets/others/video.mp4`)" type="video/mp4">
+      </video>
+    </div>
+    <navBar class="navbar" v-if="login_form || $route.name!=='Home'"/>
+    <div id="view" v-if="login_form || $route.name!=='Home'">
       <router-view/>
     </div>
   </div>
@@ -10,6 +14,7 @@
 
 <script>
 import navBar from '@/components/navBar'
+import { mapState } from 'vuex'
 
 export default {
   name: 'App',
@@ -18,10 +23,22 @@ export default {
   },
   data () {
     return {
-      timer: null
+      timer: null,
+      login_form: false
     }
   },
+  computed: {
+    ...mapState([
+      'block_ini_logo'
+    ])
+  },
+  created () {
+    this.$store.commit('SET_BLOCKING')
+  },
   mounted () {
+    if (this.block_ini_logo) {
+      this.show_app()
+    } else setTimeout(this.show_app, 4001)
     const nav = document.querySelector('.navbar')
     const searchBox = document.querySelector('#search_top_bar2')
     let lastScrollY = window.scrollY
@@ -55,6 +72,14 @@ export default {
     },
     clear_timeout () {
       window.clearTimeout(this.timer)
+    },
+    remove_blocking () {
+      this.$store.commit('REMOVE_FLAG_BLOCKING')
+    },
+    show_app () {
+      this.$store.commit('SET_FLAG_BLOCKING')
+      setTimeout(this.remove_blocking, 10000)
+      this.login_form = true
     }
   },
   updated () {
@@ -87,15 +112,29 @@ export default {
 <style lang="scss">
 @import url('https://fonts.googleapis.com/css2?family=Readex+Pro:wght@300&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Readex+Pro:wght@300&display=swap');
-body {
+html, body {
   background-color: #293241;
   padding: 0;
   margin: 0;
   overscroll-behavior-y: contain;
-  --nav-height: 72px;
+  --nav-height: 112px;
+  height: 100%;
 }
 #app {
   background-color: #293241;
+  height: 100%;
+}
+#login_screen {
+  background-color: #293241;
+  z-index: 100;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+video{
+  height: 100%;
 }
 .navbar {
   position: fixed;
@@ -104,17 +143,17 @@ body {
   transition: transform 0.2s;
 }
 .navbar--hidden {
-  transform: translateY(-72px);
+  transform: translateY(-112px);
   box-shadow: none;
 }
 #view {
   transition: 0.2s;
-  margin-top: 72px;
+  margin-top: 112px;
 }
 #search_top_bar2 {
   position: sticky;
   position: -webkit-sticky;
-  top: 70px; /* required */
+  top: 110px; /* required */
   background-color: #EE6C4D;
   padding: 10px 10px;
   display: flex;
@@ -124,18 +163,18 @@ body {
   transition: transform 0.2s;
 }
 .search_top_bar2--hidden {
-  transform: translateY(-72px);
+  transform: translateY(-112px);
   box-shadow: none;
  }
 @media only screen and (min-width: 560px) {
   #search_top_bar2 {
-  top: 52px;
+  top: 90px;
   }
   #view {
-    margin-top: 52px;
+    margin-top: 90px;
   }
   .search_top_bar2--hidden {
-    transform: translateY(-52px);
+    transform: translateY(-90px);
   }
 }
 </style>

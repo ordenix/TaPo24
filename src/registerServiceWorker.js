@@ -21,7 +21,9 @@ if (process.env.NODE_ENV === 'production') {
     },
     updated () {
       console.log('New content is available; please refresh.')
-      window.location.reload(true)
+      setTimeout(() => {
+        window.location.reload(true)
+      }, 5000)
     },
     offline () {
       console.log('No internet connection found. App is running in offline mode.')

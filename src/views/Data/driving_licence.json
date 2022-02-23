@@ -1054,6 +1054,734 @@
       "title": "posiada orzeczenie lekarskie stwierdzające przeciwwskazania do kierowania pojazdami w zakresie\nprawa jazdy kategorii A1, A2 i A",
       "sub_title": ""
     }
+  ],
+  "permitted_licence": [
+    {
+      "country": "Kraj",
+      "remarks": "uwagi lub samo null"
+    },
+    {
+      "country": "Albania",
+      "used_remarks": {
+        "1": "Krajowe lub międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym sporządzonej w Wiedniu w dniu 8 listopada 1968 r.",
+        "2": "Międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym, podpisanej w Genewie dnia 19 września 1949 r."
+      }
+    },
+    {
+      "country": "Armenia",
+      "remarks": "Krajowe lub międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym sporządzonej w Wiedniu w dniu 8 listopada 1968 r."
+    },
+    {
+      "country": "Austria",
+      "used_remarks": {
+        "1": "Krajowe lub międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym sporządzonej w Wiedniu w dniu 8 listopada 1968 r.",
+        "2": "Krajowe prawo jazdy wydane w innym państwie członkowskim UE, Konfederacji Szwajcarskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA)",
+        "3": "Międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym, podpisanej w Genewie dnia 19 września 1949 r."
+      }
+    },
+    {
+      "country": "Azerbejdżan",
+      "remarks": "Krajowe lub międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym sporządzonej w Wiedniu w dniu 8 listopada 1968 r."
+    },
+    {
+      "country": "Arabia Saudyjska",
+      "remarks": "Krajowe lub międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym sporządzonej w Wiedniu w dniu 8 listopada 1968 r."
+    },
+    {
+      "country": "Bahamy",
+      "remarks": "Krajowe lub międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym sporządzonej w Wiedniu w dniu 8 listopada 1968 r."
+    },
+    {
+      "country": "Bahrajn",
+      "remarks": "Krajowe lub międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym sporządzonej w Wiedniu w dniu 8 listopada 1968 r."
+    },
+    {
+      "country": "Białoruś",
+      "remarks": "Krajowe lub międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym sporządzonej w Wiedniu w dniu 8 listopada 1968 r."
+    },
+    {
+      "country": "Belgia",
+      "used_remarks": {
+        "1": "Krajowe lub międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym sporządzonej w Wiedniu w dniu 8 listopada 1968 r.",
+        "2": "Krajowe prawo jazdy wydane w innym państwie członkowskim UE, Konfederacji Szwajcarskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA)",
+        "3": "Międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym, podpisanej w Genewie dnia 19 września 1949 r."
+      }
+    },
+    {
+      "country": "Bośnia i Hercegowina",
+      "remarks": "Krajowe lub międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym sporządzonej w Wiedniu w dniu 8 listopada 1968 r."
+    },
+    {
+      "country": "Brazylia",
+      "remarks": "Krajowe lub międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym sporządzonej w Wiedniu w dniu 8 listopada 1968 r."
+    },
+    {
+      "country": "Bułgaria",
+      "used_remarks": {
+        "1": "Krajowe lub międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym sporządzonej w Wiedniu w dniu 8 listopada 1968 r.",
+        "2": "Krajowe prawo jazdy wydane w innym państwie członkowskim UE, Konfederacji Szwajcarskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA)",
+        "3": "Międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym, podpisanej w Genewie dnia 19 września 1949 r."
+      }
+    },
+    {
+      "country": "Czarnogóra",
+      "remarks": "Krajowe lub międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym sporządzonej w Wiedniu w dniu 8 listopada 1968 r."
+    },
+    {
+      "country": "Chile",
+      "remarks": "Krajowe lub międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym sporządzonej w Wiedniu w dniu 8 listopada 1968 r."
+    },
+    {
+      "country": "Chorwacja",
+      "used_remarks": {
+        "1": "Krajowe lub międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym sporządzonej w Wiedniu w dniu 8 listopada 1968 r.",
+        "2": "Krajowe prawo jazdy wydane w innym państwie członkowskim UE, Konfederacji Szwajcarskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA)"
+      }
+    },
+    {
+      "country": "Demokratyczna Republika Konga",
+      "remarks": "Krajowe lub międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym sporządzonej w Wiedniu w dniu 8 listopada 1968 r."
+    },
+    {
+      "country": "Dania",
+      "used_remarks": {
+        "1": "Krajowe lub międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym sporządzonej w Wiedniu w dniu 8 listopada 1968 r.",
+        "2": "Krajowe prawo jazdy wydane w innym państwie członkowskim UE, Konfederacji Szwajcarskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA)"
+      }
+    },
+    {
+      "country": "Ekwador",
+      "used_remarks":{
+        "1": "Krajowe lub międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym sporządzonej w Wiedniu w dniu 8 listopada 1968 r.",
+        "2": "Międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym, podpisanej w Genewie dnia 19 września 1949 r."
+      }
+    },
+    {
+      "country": "Estonia",
+      "used_remarks": {
+        "1": "Krajowe lub międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym sporządzonej w Wiedniu w dniu 8 listopada 1968 r.",
+        "2": "Krajowe prawo jazdy wydane w innym państwie członkowskim UE, Konfederacji Szwajcarskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA)"
+      }
+    },
+    {
+      "country": "Finlandia",
+      "used_remarks": {
+        "1": "Krajowe lub międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym sporządzonej w Wiedniu w dniu 8 listopada 1968 r.",
+        "2": "Krajowe prawo jazdy wydane w innym państwie członkowskim UE, Konfederacji Szwajcarskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA)",
+        "3": "Międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym, podpisanej w Genewie dnia 19 września 1949 r."
+      }
+    },
+    {
+      "country": "Francja",
+      "used_remarks": {
+        "1": "Krajowe lub międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym sporządzonej w Wiedniu w dniu 8 listopada 1968 r.",
+        "2": "Krajowe prawo jazdy wydane w innym państwie członkowskim UE, Konfederacji Szwajcarskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA)",
+        "3": "Międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym, podpisanej w Genewie dnia 19 września 1949 r."
+      }
+    },
+    {
+      "country": "Federacja Rosyjska",
+      "used_remarks":{
+        "1": "Krajowe lub międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym sporządzonej w Wiedniu w dniu 8 listopada 1968 r.",
+        "2": "Międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym, podpisanej w Genewie dnia 19 września 1949 r."
+      }
+    },
+    {
+      "country": "Filipiny",
+      "used_remarks":{
+        "1": "Krajowe lub międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym sporządzonej w Wiedniu w dniu 8 listopada 1968 r.",
+        "2": "Międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym, podpisanej w Genewie dnia 19 września 1949 r."
+      }
+    },
+    {
+      "country": "Ghana",
+      "used_remarks":{
+        "1": "Krajowe lub międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym sporządzonej w Wiedniu w dniu 8 listopada 1968 r.",
+        "2": "Międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym, podpisanej w Genewie dnia 19 września 1949 r."
+      }
+    },
+    {
+      "country": "Grecja",
+      "used_remarks": {
+        "1": "Krajowe lub międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym sporządzonej w Wiedniu w dniu 8 listopada 1968 r.",
+        "2": "Krajowe prawo jazdy wydane w innym państwie członkowskim UE, Konfederacji Szwajcarskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA)",
+        "3": "Międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym, podpisanej w Genewie dnia 19 września 1949 r."
+      }
+    },
+    {
+      "country": "Gujana",
+      "remarks": "Krajowe lub międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym sporządzonej w Wiedniu w dniu 8 listopada 1968 r."
+    },
+    {
+      "country": "Gruzja",
+      "used_remarks":{
+        "1": "Krajowe lub międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym sporządzonej w Wiedniu w dniu 8 listopada 1968 r.",
+        "2": "Międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym, podpisanej w Genewie dnia 19 września 1949 r."
+      }
+    },
+    {
+      "country": "Holandia",
+      "used_remarks": {
+        "1": "Krajowe lub międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym sporządzonej w Wiedniu w dniu 8 listopada 1968 r.",
+        "2": "Krajowe prawo jazdy wydane w innym państwie członkowskim UE, Konfederacji Szwajcarskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA)",
+        "3": "Międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym, podpisanej w Genewie dnia 19 września 1949 r."
+      }
+    },
+    {
+      "country": "Hiszpania",
+      "used_remarks": {
+        "1": "Krajowe lub międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym sporządzonej w Wiedniu w dniu 8 listopada 1968 r.",
+        "2": "Krajowe prawo jazdy wydane w innym państwie członkowskim UE, Konfederacji Szwajcarskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA)",
+        "3": "Międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym, podpisanej w Genewie dnia 19 września 1949 r."
+      }
+    },
+    {
+      "country": "Indonezja",
+      "remarks": "Krajowe lub międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym sporządzonej w Wiedniu w dniu 8 listopada 1968 r."
+    },
+    {
+      "country": "Iran",
+      "remarks": "Krajowe lub międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym sporządzonej w Wiedniu w dniu 8 listopada 1968 r."
+    },
+    {
+      "country": "Irak",
+      "remarks": "Krajowe lub międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym sporządzonej w Wiedniu w dniu 8 listopada 1968 r."
+    },
+    {
+      "country": "Izrael",
+      "used_remarks":{
+        "1": "Krajowe lub międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym sporządzonej w Wiedniu w dniu 8 listopada 1968 r.",
+        "2": "Międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym, podpisanej w Genewie dnia 19 września 1949 r."
+      }
+    },
+    {
+      "country": "Kazachstan",
+      "remarks": "Krajowe lub międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym sporządzonej w Wiedniu w dniu 8 listopada 1968 r."
+    },
+    {
+      "country": "Katar",
+      "remarks": "Krajowe lub międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym sporządzonej w Wiedniu w dniu 8 listopada 1968 r."
+    },
+    {
+      "country": "Kenia",
+      "remarks": "Krajowe lub międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym sporządzonej w Wiedniu w dniu 8 listopada 1968 r."
+    },
+    {
+      "country": "Kuwejt",
+      "remarks": "Krajowe lub międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym sporządzonej w Wiedniu w dniu 8 listopada 1968 r."
+    },
+    {
+      "country": "Kuba",
+      "used_remarks": {
+        "1": "Krajowe lub międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym sporządzonej w Wiedniu w dniu 8 listopada 1968 r.",
+        "2": "Międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym, podpisanej w Genewie dnia 19 września 1949 r."
+      }
+    },
+    {
+      "country": "Kirgistan",
+      "used_remarks":{
+        "1": "Krajowe lub międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym sporządzonej w Wiedniu w dniu 8 listopada 1968 r.",
+        "2": "Międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym, podpisanej w Genewie dnia 19 września 1949 r."
+      }
+    },
+    {
+      "country": "Kostaryka",
+      "remarks": "Krajowe lub międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym sporządzonej w Wiedniu w dniu 8 listopada 1968 r."
+    },
+    {
+      "country": "Liberia",
+      "remarks": "Krajowe lub międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym sporządzonej w Wiedniu w dniu 8 listopada 1968 r."
+    },
+    {
+      "country": "Litwa",
+      "used_remarks": {
+        "1": "Krajowe lub międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym sporządzonej w Wiedniu w dniu 8 listopada 1968 r.",
+        "2": "Krajowe prawo jazdy wydane w innym państwie członkowskim UE, Konfederacji Szwajcarskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA)"
+      }
+    },
+    {
+      "country": "Luksemburg",
+      "used_remarks": {
+        "1": "Krajowe lub międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym sporządzonej w Wiedniu w dniu 8 listopada 1968 r.",
+        "2": "Krajowe prawo jazdy wydane w innym państwie członkowskim UE, Konfederacji Szwajcarskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA)",
+        "3": "Międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym, podpisanej w Genewie dnia 19 września 1949 r."
+      }
+    },
+    {
+      "country": "Łotwa",
+      "used_remarks": {
+        "1": "Krajowe lub międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym sporządzonej w Wiedniu w dniu 8 listopada 1968 r.",
+        "2": "Krajowe prawo jazdy wydane w innym państwie członkowskim UE, Konfederacji Szwajcarskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA)"
+      }
+    },
+    {
+      "country": "Maroko",
+      "used_remarks":{
+        "1": "Krajowe lub międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym sporządzonej w Wiedniu w dniu 8 listopada 1968 r.",
+        "2": "Międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym, podpisanej w Genewie dnia 19 września 1949 r."
+      }
+    },
+    {
+      "country": "Macedonia",
+      "remarks": "KKrajowe lub międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym sporządzonej w Wiedniu w dniu 8 listopada 1968 r."
+    },
+    {
+      "country": "Meksyk",
+      "remarks": "Krajowe lub międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym sporządzonej w Wiedniu w dniu 8 listopada 1968 r."
+    },
+    {
+      "country": "Mołdawia",
+      "remarks": "Krajowe lub międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym sporządzonej w Wiedniu w dniu 8 listopada 1968 r."
+    },
+    {
+      "country": "Monako",
+      "used_remarks":{
+        "1": "Krajowe lub międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym sporządzonej w Wiedniu w dniu 8 listopada 1968 r.",
+        "2": "Międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym, podpisanej w Genewie dnia 19 września 1949 r."
+      }
+    },
+    {
+      "country": "Mongolia",
+      "remarks": "Krajowe lub międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym sporządzonej w Wiedniu w dniu 8 listopada 1968 r."
+    },
+    {
+      "country": "Niemcy",
+      "used_remarks": {
+        "1": "Krajowe lub międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym sporządzonej w Wiedniu w dniu 8 listopada 1968 r.",
+        "2": "Krajowe prawo jazdy wydane w innym państwie członkowskim UE, Konfederacji Szwajcarskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA)"
+      }
+    },
+    {
+      "country": "Niger",
+      "used_remarks":{
+        "1": "Krajowe lub międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym sporządzonej w Wiedniu w dniu 8 listopada 1968 r.",
+        "2": "Międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym, podpisanej w Genewie dnia 19 września 1949 r."
+      }
+    },
+    {
+      "country": "Nigeria",
+      "used_remarks":{
+        "1": "Krajowe lub międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym sporządzonej w Wiedniu w dniu 8 listopada 1968 r.",
+        "2": "Międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym, podpisanej w Genewie dnia 19 września 1949 r."
+      }
+    },
+    {
+      "country": "Norwegia",
+      "used_remarks": {
+        "1": "Krajowe lub międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym sporządzonej w Wiedniu w dniu 8 listopada 1968 r.",
+        "2": "Państwo Członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA)",
+        "3": "Międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym, podpisanej w Genewie dnia 19 września 1949 r."
+      }
+    },
+    {
+      "country": "Pakistan",
+      "remarks": "Krajowe lub międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym sporządzonej w Wiedniu w dniu 8 listopada 1968 r."
+    },
+    {
+      "country": "Peru",
+      "used_remarks": {
+        "1": "Krajowe lub międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym sporządzonej w Wiedniu w dniu 8 listopada 1968 r.",
+        "2": "Międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym, podpisanej w Genewie dnia 19 września 1949 r."
+      }
+    },
+    {
+      "country": "Portugalia",
+      "used_remarks": {
+        "1": "Krajowe lub międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym sporządzonej w Wiedniu w dniu 8 listopada 1968 r.",
+        "2": "Krajowe prawo jazdy wydane w innym państwie członkowskim UE, Konfederacji Szwajcarskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA)",
+        "3": "Międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym, podpisanej w Genewie dnia 19 września 1949 r."
+      }
+    },
+    {
+      "country": "Republika Korei",
+      "remarks": "Krajowe lub międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym sporządzonej w Wiedniu w dniu 8 listopada 1968 r."
+    },
+    {
+      "country": "Republika Południowej Afryki",
+      "used_remarks":{
+        "1": "Krajowe lub międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym sporządzonej w Wiedniu w dniu 8 listopada 1968 r.",
+        "2": "Międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym, podpisanej w Genewie dnia 19 września 1949 r."
+      }
+    },
+    {
+      "country": "Republika Zielonego Przylądka",
+      "remarks": "Krajowe lub międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym sporządzonej w Wiedniu w dniu 8 listopada 1968 r."
+    },
+    {
+      "country": "Republika Środkowoafrykańska",
+      "used_remarks":{
+        "1": "Krajowe lub międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym sporządzonej w Wiedniu w dniu 8 listopada 1968 r.",
+        "2": "Międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym, podpisanej w Genewie dnia 19 września 1949 r."
+      }
+    },
+    {
+      "country": "Republika Czeska",
+      "used_remarks": {
+        "1": "Krajowe lub międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym sporządzonej w Wiedniu w dniu 8 listopada 1968 r.",
+        "2": "Krajowe prawo jazdy wydane w innym państwie członkowskim UE, Konfederacji Szwajcarskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA)",
+        "3": "Międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym, podpisanej w Genewie dnia 19 września 1949 r."
+      }
+    },
+    {
+      "country": "Rumunia",
+      "used_remarks": {
+        "1": "Krajowe lub międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym sporządzonej w Wiedniu w dniu 8 listopada 1968 r.",
+        "2": "Krajowe prawo jazdy wydane w innym państwie członkowskim UE, Konfederacji Szwajcarskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA)",
+        "3": "Międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym, podpisanej w Genewie dnia 19 września 1949 r."
+      }
+    },
+    {
+      "country": "San Marino",
+      "used_remarks":{
+        "1": "Krajowe lub międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym sporządzonej w Wiedniu w dniu 8 listopada 1968 r.",
+        "2": "Międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym, podpisanej w Genewie dnia 19 września 1949 r."
+      }
+    },
+    {
+      "country": "Senegal",
+      "used_remarks":{
+        "1": "Krajowe lub międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym sporządzonej w Wiedniu w dniu 8 listopada 1968 r.",
+        "2": "Międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym, podpisanej w Genewie dnia 19 września 1949 r."
+      }
+    },
+    {
+      "country": "Serbia",
+      "used_remarks":{
+        "1": "Krajowe lub międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym sporządzonej w Wiedniu w dniu 8 listopada 1968 r.",
+        "2": "Międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym, podpisanej w Genewie dnia 19 września 1949 r."
+      }
+    },
+    {
+      "country": "Seszele",
+      "remarks": "Krajowe lub międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym sporządzonej w Wiedniu w dniu 8 listopada 1968 r."
+    },
+    {
+      "country": "Słowacja",
+      "used_remarks": {
+        "1": "Krajowe lub międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym sporządzonej w Wiedniu w dniu 8 listopada 1968 r.",
+        "2": "Krajowe prawo jazdy wydane w innym państwie członkowskim UE, Konfederacji Szwajcarskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA)",
+        "3": "Międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym, podpisanej w Genewie dnia 19 września 1949 r."
+      }
+    },
+    {
+      "country": "Słowenia",
+      "used_remarks": {
+        "1": "Krajowe lub międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym sporządzonej w Wiedniu w dniu 8 listopada 1968 r.",
+        "2": "Krajowe prawo jazdy wydane w innym państwie członkowskim UE, Konfederacji Szwajcarskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA)"
+      }
+    },
+    {
+      "country": "Szwecja",
+      "used_remarks": {
+        "1": "Krajowe lub międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym sporządzonej w Wiedniu w dniu 8 listopada 1968 r.",
+        "2": "Krajowe prawo jazdy wydane w innym państwie członkowskim UE, Konfederacji Szwajcarskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA)",
+        "3": "Międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym, podpisanej w Genewie dnia 19 września 1949 r."
+      }
+    },
+    {
+      "country": "Szwajcaria",
+      "used_remarks": {
+        "1": "Krajowe lub międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym sporządzonej w Wiedniu w dniu 8 listopada 1968 r.",
+        "2": "Krajowe prawo jazdy wydane w innym państwie członkowskim UE, Konfederacji Szwajcarskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA)",
+        "3": "Międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym, podpisanej w Genewie dnia 19 września 1949 r."
+      }
+    },
+    {
+      "country": "Tadżykistan",
+      "remarks": "Krajowe lub międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym sporządzonej w Wiedniu w dniu 8 listopada 1968 r."
+    },
+    {
+      "country": "Tajlandia",
+      "used_remarks":{
+        "1": "Krajowe lub międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym sporządzonej w Wiedniu w dniu 8 listopada 1968 r.",
+        "2": "Międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym, podpisanej w Genewie dnia 19 września 1949 r."
+      }
+    },
+    {
+      "country": "Tunezja",
+      "used_remarks":{
+        "1": "Krajowe lub międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym sporządzonej w Wiedniu w dniu 8 listopada 1968 r.",
+        "2": "Międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym, podpisanej w Genewie dnia 19 września 1949 r."
+      }
+    },
+    {
+      "country": "Turcja",
+      "used_remarks":{
+        "1": "Krajowe lub międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym sporządzonej w Wiedniu w dniu 8 listopada 1968 r.",
+        "2": "Międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym, podpisanej w Genewie dnia 19 września 1949 r."
+      }
+    },
+    {
+      "country": "Turkmenistan",
+      "remarks": "Krajowe lub międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym sporządzonej w Wiedniu w dniu 8 listopada 1968 r."
+    },
+    {
+      "country": "Uzbekistan",
+      "remarks": "Krajowe lub międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym sporządzonej w Wiedniu w dniu 8 listopada 1968 r."
+    },
+    {
+      "country": "Urugwaj",
+      "remarks": "Krajowe lub międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym sporządzonej w Wiedniu w dniu 8 listopada 1968 r."
+    },
+    {
+      "country": "Ukraina",
+      "remarks": "Krajowe lub międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym sporządzonej w Wiedniu w dniu 8 listopada 1968 r."
+    },
+    {
+      "country": "Wybrzeże Kości Słoniowej",
+      "remarks": "Krajowe lub międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym sporządzonej w Wiedniu w dniu 8 listopada 1968 r."
+    },
+    {
+      "country": "Watykan",
+      "remarks": "Krajowe lub międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym sporządzonej w Wiedniu w dniu 8 listopada 1968 r."
+    },
+    {
+      "country": "Wietnam",
+      "used_remarks":{
+        "1": "Krajowe lub międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym sporządzonej w Wiedniu w dniu 8 listopada 1968 r.",
+        "2": "Międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym, podpisanej w Genewie dnia 19 września 1949 r."
+      }
+    },
+    {
+      "country": "Węgry",
+      "used_remarks": {
+        "1": "Krajowe lub międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym sporządzonej w Wiedniu w dniu 8 listopada 1968 r.",
+        "2": "Krajowe prawo jazdy wydane w innym państwie członkowskim UE, Konfederacji Szwajcarskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA)"
+      }
+    },
+    {
+      "country": "Włochy",
+      "used_remarks": {
+        "1": "Krajowe lub międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym sporządzonej w Wiedniu w dniu 8 listopada 1968 r.",
+        "2": "Krajowe prawo jazdy wydane w innym państwie członkowskim UE, Konfederacji Szwajcarskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA)"
+      }
+    },
+    {
+      "country": "Wenezuela ( Boliwariańska Republika )",
+      "used_remarks":{
+        "1": "Krajowe lub międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym sporządzonej w Wiedniu w dniu 8 listopada 1968 r.",
+        "2": "Międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym, podpisanej w Genewie dnia 19 września 1949 r."
+      }
+    },
+    {
+      "country": "Zjednoczone Emiraty Arabskie",
+      "remarks": "Krajowe lub międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym sporządzonej w Wiedniu w dniu 8 listopada 1968 r."
+    },
+    {
+      "country": "Zjednoczone Królestwo Wielkiej Brytanii i Irlandii Północnej",
+      "used_remarks": {
+        "1": "Krajowe lub międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym sporządzonej w Wiedniu w dniu 8 listopada 1968 r.",
+        "2": "Krajowe prawo jazdy wydane w innym państwie członkowskim UE, Konfederacji Szwajcarskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA)"
+      }
+    },
+    {
+      "country": "Zimbabwe",
+      "remarks": "Krajowe lub międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym sporządzonej w Wiedniu w dniu 8 listopada 1968 r."
+    },
+    {
+      "country": "Cypr",
+      "used_remarks": {
+        "1": "Krajowe prawo jazdy wydane w innym państwie członkowskim UE, Konfederacji Szwajcarskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA)",
+        "2": "Międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym, podpisanej w Genewie dnia 19 września 1949 r."
+      }
+    },
+    {
+      "country": "Irlandia",
+      "used_remarks":{
+        "1": "Krajowe lub międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym sporządzonej w Wiedniu w dniu 8 listopada 1968 r.",
+        "2": "Międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym, podpisanej w Genewie dnia 19 września 1949 r."
+      }
+    },
+    {
+      "country": "Malta",
+      "used_remarks":{
+        "1": "Krajowe lub międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym sporządzonej w Wiedniu w dniu 8 listopada 1968 r.",
+        "2": "Międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym, podpisanej w Genewie dnia 19 września 1949 r."
+      }
+    },
+    {
+      "country": "Islandia",
+      "used_remarks":{
+        "1": "Krajowe lub międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym sporządzonej w Wiedniu w dniu 8 listopada 1968 r.",
+        "2": "Międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym, podpisanej w Genewie dnia 19 września 1949 r."
+      }
+    },
+    {
+      "country": "Liechtenstein",
+      "remarks": "Państwo Członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA)"
+    },
+    {
+      "country": "Algeria",
+      "remarks": "Międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym, podpisanej w Genewie dnia 19 września 1949 r"
+    },
+    {
+      "country": "Argentyna",
+      "remarks": "Międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym, podpisanej w Genewie dnia 19 września 1949 r"
+    },
+    {
+      "country": "Australia",
+      "remarks": "Międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym, podpisanej w Genewie dnia 19 września 1949 r"
+    },
+    {
+      "country": "Bangladesz",
+      "remarks": "Międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym, podpisanej w Genewie dnia 19 września 1949 r"
+    },
+    {
+      "country": "Barbados",
+      "remarks": "Międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym, podpisanej w Genewie dnia 19 września 1949 r"
+    },
+    {
+      "country": "Benin",
+      "remarks": "Międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym, podpisanej w Genewie dnia 19 września 1949 r"
+    },
+    {
+      "country": "Botswana",
+      "remarks": "Międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym, podpisanej w Genewie dnia 19 września 1949 r"
+    },
+    {
+      "country": "Burkina Faso",
+      "remarks": "Międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym, podpisanej w Genewie dnia 19 września 1949 r"
+    },
+    {
+      "country": "Chile",
+      "remarks": "Międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym, podpisanej w Genewie dnia 19 września 1949 r"
+    },
+    {
+      "country": "Kambodża",
+      "remarks": "Międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym, podpisanej w Genewie dnia 19 września 1949 r"
+    },
+    {
+      "country": "Egipt",
+      "remarks": "Międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym, podpisanej w Genewie dnia 19 września 1949 r"
+    },
+    {
+      "country": "Fidżi",
+      "remarks": "Międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym, podpisanej w Genewie dnia 19 września 1949 r"
+    },
+    {
+      "country": "Gwatemala",
+      "remarks": "Międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym, podpisanej w Genewie dnia 19 września 1949 r"
+    },
+    {
+      "country": "Haiti",
+      "remarks": "Międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym, podpisanej w Genewie dnia 19 września 1949 r"
+    },
+    {
+      "country": "Indie",
+      "remarks": "Międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym, podpisanej w Genewie dnia 19 września 1949 r"
+    },
+    {
+      "country": "Jamajka",
+      "remarks": "Międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym, podpisanej w Genewie dnia 19 września 1949 r"
+    },
+    {
+      "country": "Japonia",
+      "used_remarks": {
+        "1": "Międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym, podpisanej w Genewie dnia 19 września 1949 r",
+        "2": "Krajowe prawo jazdy określone w umowie, której stroną jest Rzeczpospolita Polska"
+      }
+    },
+    {
+      "country": "Jordania",
+      "remarks": "Międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym, podpisanej w Genewie dnia 19 września 1949 r"
+    },
+    {
+      "country": "Kanada",
+      "remarks": "Międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym, podpisanej w Genewie dnia 19 września 1949 r"
+    },
+    {
+      "country": "Kongo",
+      "remarks": "Międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym, podpisanej w Genewie dnia 19 września 1949 r"
+    },
+    {
+      "country": "Laos",
+      "remarks": "Międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym, podpisanej w Genewie dnia 19 września 1949 r"
+    },
+    {
+      "country": "Liban",
+      "remarks": "Międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym, podpisanej w Genewie dnia 19 września 1949 r"
+    },
+    {
+      "country": "Lesotho",
+      "remarks": "Międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym, podpisanej w Genewie dnia 19 września 1949 r"
+    },
+    {
+      "country": "Madagaskar",
+      "remarks": "Międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym, podpisanej w Genewie dnia 19 września 1949 r"
+    },
+    {
+      "country": "Malawi",
+      "remarks": "Międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym, podpisanej w Genewie dnia 19 września 1949 r"
+    },
+    {
+      "country": "Malezja",
+      "remarks": "Międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym, podpisanej w Genewie dnia 19 września 1949 r"
+    },
+    {
+      "country": "Mali",
+      "remarks": "Międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym, podpisanej w Genewie dnia 19 września 1949 r"
+    },
+    {
+      "country": "Nowa Zelandia",
+      "remarks": "Międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym, podpisanej w Genewie dnia 19 września 1949 r"
+    },
+    {
+      "country": "Namibia",
+      "remarks": "Międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym, podpisanej w Genewie dnia 19 września 1949 r"
+    },
+    {
+      "country": "Paragwaj",
+      "remarks": "Międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym, podpisanej w Genewie dnia 19 września 1949 r"
+    },
+    {
+      "country": "Papua Nowa Gwinea",
+      "remarks": "Międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym, podpisanej w Genewie dnia 19 września 1949 r"
+    },
+    {
+      "country": "Republika Dominikany",
+      "remarks": "Międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym, podpisanej w Genewie dnia 19 września 1949 r"
+    },
+    {
+      "country": "Republika Korei",
+      "remarks": "Międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym, podpisanej w Genewie dnia 19 września 1949 r"
+    },
+    {
+      "country": "Rwanda",
+      "remarks": "Międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym, podpisanej w Genewie dnia 19 września 1949 r"
+    },
+    {
+      "country": "Sierra Leone",
+      "remarks": "Międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym, podpisanej w Genewie dnia 19 września 1949 r"
+    },
+    {
+      "country": "Stany Zjednoczone Ameryki Północnej",
+      "remarks": "Międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym, podpisanej w Genewie dnia 19 września 1949 r"
+    },
+    {
+      "country": "Singapur",
+      "remarks": "Międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym, podpisanej w Genewie dnia 19 września 1949 r"
+    },
+    {
+      "country": "Sri Lanka",
+      "remarks": "Międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym, podpisanej w Genewie dnia 19 września 1949 r"
+    },
+    {
+      "country": "Togo",
+      "remarks": "Międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym, podpisanej w Genewie dnia 19 września 1949 r"
+    },
+    {
+      "country": "Trynidad i Tobago",
+      "remarks": "Międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym, podpisanej w Genewie dnia 19 września 1949 r."
+    },
+    {
+      "country": "Uganda",
+      "remarks": "Międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym, podpisanej w Genewie dnia 19 września 1949 r"
+    },
+    {
+      "country": "Korea Południowa",
+      "remarks": "Krajowe prawo jazdy określone w umowie, której stroną jest Rzeczpospolita Polska"
+    }
+
   ]
 }
 
