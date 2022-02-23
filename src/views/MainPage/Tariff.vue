@@ -92,10 +92,6 @@ export default {
     }
   },
   created () {
-    const form = document.getElementById('search_top_bar2')
-    form.addEventListener('focusout', () => {
-      this.hide_mask()
-    })
     window.addEventListener('scroll', this.onScroll)
     window.addEventListener('popstate', () => {
       if (this.$store.state.ini_back && this.open_special_card) {
@@ -155,13 +151,15 @@ export default {
       itemList: [],
       apiLoaded: false,
       hidden_mask: false,
-      apiUrl: 'https://otavi-pl.ent.europe-west3.gcp.cloud.es.io/api/as/v1/engines/es/query_suggestion',
-      apiUrl2: 'https://otavi-pl.ent.europe-west3.gcp.cloud.es.io/api/as/v1/engines/es/search.json'
+      apiUrl: 'https://otavi-pl.ent.europe-west3.gcp.cloud.es.io/api/as/v1/engines/tapo24engine/query_suggestion',
+      apiUrl2: 'https://otavi-pl.ent.europe-west3.gcp.cloud.es.io/api/as/v1/engines/tapo24engine/search.json',
+      apiUrl3: 'https://otavi-pl.ent.europe-west3.gcp.cloud.es.io/api/as/v1/engines/tapo24engine/click'
+
     }
   },
   methods: {
     hide_mask () {
-      this.requestData()
+      if (this.inputValue !== '') this.requestData()
       this.hidden_mask = false
       document.getElementById('dropdown-list').style.visibility = 'hidden'
     },
@@ -187,11 +185,26 @@ export default {
       if (this.hidden_mask) {
         this.hide_mask()
       } else {
+        if (navigator.onLine && data.id) {
+          // console.log(data.id)
+          const payload = {
+            query: this.inputValue,
+            document_id: data.id
+          }
+          const headers = {
+            'Content-Type': 'application/json',
+            Authorization: 'Bearer search-9p14wcq44phvsdpqm9tj2dvb'
+          }
+          axios.post(this.apiUrl3, payload, { headers }).then(response => {
+            // const obj = JSON.parse(response.request.response)
+            // console.log(obj.results.documents)
+          })
+        }
         this.open_special_card = true
         this.selected_data = data
         const form = document.getElementById('search_top_bar2')
         form.addEventListener('focusout', () => {
-          this.hide_mask()
+          // this.hide_mask()
           this.focus = true
           setTimeout(this.focus_delay, 300)
         })
@@ -236,9 +249,10 @@ export default {
     },
     resetSelection () {
       this.selectedItem = {}
-      this.hide_mask()
       this.inputValue = ''
       this.itemList = []
+      this.tariff_array = tariffdata.tariff_array
+      this.hide_mask()
       this.$nextTick(() => this.$refs.dropdowninput.focus())
     },
     requestData () {
@@ -257,9 +271,10 @@ export default {
         axios.post(this.apiUrl2, data, { headers }).then(response => {
           // const test = response.data.results[0].code
           this.tariff_array = []
-          console.log(response.data.results)
+          // console.log(response.data.results)
           for (let i = 0; i < response.data.results.length; i++) {
             const patern = {
+              id: '',
               category: 'others',
               name: '',
               text: '',
@@ -270,8 +285,13 @@ export default {
               paragraph: '',
               paragraph_sub: '',
               law_sub: '',
-              path: ''
+              path: '',
+              sub_name: '',
+              visible: '',
+              max_speed: '',
+              min_speed: ''
             }
+            patern.id = response.data.results[i].id.raw
             patern.category = response.data.results[i].category.raw
             patern.name = response.data.results[i].name.raw
             patern.text = response.data.results[i].text.raw
@@ -281,6 +301,18 @@ export default {
             if (response.data.results[i].law) {
               patern.law = response.data.results[i].law.raw
             } else patern.law = null
+            if (response.data.results[i].sub_name) {
+              patern.sub_name = response.data.results[i].sub_name.raw
+            } else patern.sub_name = null
+            if (response.data.results[i].max_speed) {
+              patern.max_speed = response.data.results[i].max_speed.raw
+            } else patern.max_speed = null
+            if (response.data.results[i].min_speed) {
+              patern.min_speed = response.data.results[i].min_speed.raw
+            } else patern.min_speed = null
+            if (response.data.results[i].visible) {
+              patern.visible = false
+            } else patern.visible = null
             if (response.data.results[i].paragraph) {
               patern.paragraph = response.data.results[i].paragraph.raw
             } else patern.paragraph = null
@@ -311,9 +343,10 @@ export default {
       }
     },
     selectItem (theItem) {
+      console.log(theItem)
       this.selectedItem = theItem
       this.inputValue = theItem.suggestion
-      this.requestData()
+      if (this.inputValue !== '') this.requestData()
     },
     itemVisible (item) {
       const currentName = item.suggestion.toLowerCase()
@@ -329,8 +362,8 @@ export default {
         Authorization: 'Bearer search-9p14wcq44phvsdpqm9tj2dvb'
       }
       axios.post(this.apiUrl, data, { headers }).then(response => {
-        const obj = JSON.parse(response.request.response)
-        console.log(obj.results.documents)
+        // const obj = JSON.parse(response.request.response)
+        // console.log(obj.results.documents)
         // this.itemList = obj.results.documents
         this.apiLoaded = true
       })
@@ -351,13 +384,14 @@ export default {
         }
         axios.post(this.apiUrl, data, { headers }).then(response => {
           const obj = JSON.parse(response.request.response)
-          console.log(obj.results.documents)
+          // console.log(obj.results.documents)
           this.itemList = obj.results.documents
           this.apiLoaded = true
         })
       } else {
         this.itemList = []
         this.hide_mask()
+        this.tariff_array = tariffdata.tariff_array
       }
     }
   }
