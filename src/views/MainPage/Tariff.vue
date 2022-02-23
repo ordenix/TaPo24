@@ -41,7 +41,18 @@
           {{ option.text }}
         </option>
       </select>
-      <input type="text" name="title" placeholder="Wyszukaj" v-model="search_text">
+      <input v-if="!new_search" type="text" name="title" placeholder="Wyszukaj" v-model="search_text">
+      <div v-if="new_search" class="new_search">
+        <div class="dropdown">
+            <input ref="dropdowninput" v-model="inputValue" class="dropdown-input" type="text" placeholder="Wyszukaj" @click="show_mask"/>
+            <button @click="resetSelection"><i class="fas fa-eraser"></i></button>
+          <div v-show="inputValue && apiLoaded" id="dropdown-list">
+            <div @click="selectItem(item)" v-show="itemVisible(item)" v-for="item in itemList" :key="item.suggestion" class="dropdown-item">
+              {{ item.suggestion }}
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
     <div id="view">
       <div v-for="(element, index) in filtered_data" :key="index" @click=click_on_tariff_card(element)>
@@ -57,6 +68,7 @@
 import tariffCard from '@/components/tariffCard'
 import tariffdata from '@/views/Data/tariff_data.json'
 import { mapState } from 'vuex'
+import axios from 'axios'
 export default {
   name: 'Tariff',
   components: {
@@ -78,6 +90,11 @@ export default {
     }
   },
   created () {
+    if (!navigator.onLine) this.new_search = false
+    // const log = document.getElementById('buttonIn')
+    // document.addEventListener('keyup', () => {
+    // this.get_Sugestion()
+    // })
     window.addEventListener('scroll', this.onScroll)
     window.addEventListener('popstate', () => {
       if (this.$store.state.ini_back && this.open_special_card) {
@@ -95,6 +112,8 @@ export default {
   },
   data () {
     return {
+      dropdownSelection: {},
+      new_search: true,
       open_special_card: false,
       options_category: [
         { value: 'all', text: 'Wszystkie wykroczenia' },
@@ -129,10 +148,28 @@ export default {
       },
       search_text: '',
       focus: false,
-      on_favorites: false
+      on_favorites: false,
+      selectedItem: {},
+      inputValue: '',
+      itemList: [],
+      apiLoaded: false,
+      hidden_mask: false,
+      apiUrl: 'https://otavi-pl.ent.europe-west3.gcp.cloud.es.io/api/as/v1/engines/tapo24engine/query_suggestion',
+      apiUrl2: 'https://otavi-pl.ent.europe-west3.gcp.cloud.es.io/api/as/v1/engines/tapo24engine/search.json',
+      apiUrl3: 'https://otavi-pl.ent.europe-west3.gcp.cloud.es.io/api/as/v1/engines/tapo24engine/click'
+
     }
   },
   methods: {
+    hide_mask () {
+      if (this.inputValue !== '') this.requestData()
+      this.hidden_mask = false
+      document.getElementById('dropdown-list').style.visibility = 'hidden'
+    },
+    show_mask () {
+      this.hidden_mask = true
+      document.getElementById('dropdown-list').style.visibility = 'visible'
+    },
     set_scroll_pos () {
       window.scrollTo(0, this.scroll_pos_tariff)
       this.$store.state.ini_back = true
@@ -148,18 +185,38 @@ export default {
       this.focus = false
     },
     click_on_tariff_card (data) {
-      this.open_special_card = true
-      this.selected_data = data
-      const form = document.getElementById('search_top_bar2')
-      form.addEventListener('focusout', () => {
-        this.focus = true
-        setTimeout(this.focus_delay, 300)
-      })
-      if (!this.focus) {
-        document.getElementById('overlay').style.visibility = 'visible'
-        document.getElementById('overlay_container').style.visibility = 'visible'
-        document.getElementById('overlay').style.opacity = '50%'
-        document.getElementById('overlay_container').style.opacity = '100%'
+      if (this.hidden_mask) {
+        this.hide_mask()
+      } else {
+        if (navigator.onLine && data.id) {
+          // console.log(data.id)
+          const payload = {
+            query: this.inputValue,
+            document_id: data.id
+          }
+          const headers = {
+            'Content-Type': 'application/json',
+            Authorization: 'Bearer search-9p14wcq44phvsdpqm9tj2dvb'
+          }
+          axios.post(this.apiUrl3, payload, { headers }).then(response => {
+            // const obj = JSON.parse(response.request.response)
+            // console.log(obj.results.documents)
+          })
+        }
+        this.open_special_card = true
+        this.selected_data = data
+        const form = document.getElementById('search_top_bar2')
+        form.addEventListener('focusout', () => {
+          // this.hide_mask()
+          this.focus = true
+          setTimeout(this.focus_delay, 300)
+        })
+        if (!this.focus) {
+          document.getElementById('overlay').style.visibility = 'visible'
+          document.getElementById('overlay_container').style.visibility = 'visible'
+          document.getElementById('overlay').style.opacity = '50%'
+          document.getElementById('overlay_container').style.opacity = '100%'
+        }
       }
     },
     click_on_favorites () {
@@ -192,6 +249,157 @@ export default {
       if (this.$store.state.ini_back) {
         this.$store.state.scroll_pos_tariff = e.target.documentElement.scrollTop
       }
+    },
+    resetSelection () {
+      this.selectedItem = {}
+      this.inputValue = ''
+      this.itemList = []
+      this.tariff_array = tariffdata.tariff_array
+      this.hide_mask()
+      this.$nextTick(() => this.$refs.dropdowninput.focus())
+    },
+    requestData () {
+      if (this.inputValue !== '') {
+        const data = {
+          query: this.inputValue.toLowerCase(),
+          page: {
+            size: 150,
+            current: 1
+          }
+        }
+        const headers = {
+          'Content-Type': 'application/json',
+          Authorization: 'Bearer search-9p14wcq44phvsdpqm9tj2dvb'
+        }
+        axios.post(this.apiUrl2, data, { headers }).then(response => {
+          // const test = response.data.results[0].code
+          this.tariff_array = []
+          // console.log(response.data.results)
+          for (let i = 0; i < response.data.results.length; i++) {
+            const patern = {
+              id: '',
+              category: 'others',
+              name: '',
+              text: '',
+              tax: '',
+              points: '',
+              code: '',
+              law: '',
+              paragraph: '',
+              paragraph_sub: '',
+              law_sub: '',
+              path: '',
+              sub_name: '',
+              visible: '',
+              max_speed: '',
+              min_speed: ''
+            }
+            patern.id = response.data.results[i].id.raw
+            patern.category = response.data.results[i].category.raw
+            patern.name = response.data.results[i].name.raw
+            patern.text = response.data.results[i].text.raw
+            patern.tax = response.data.results[i].tax.raw
+            patern.points = response.data.results[i].points.raw
+            patern.code = response.data.results[i].code.raw
+            if (response.data.results[i].law) {
+              patern.law = response.data.results[i].law.raw
+            } else patern.law = null
+            if (response.data.results[i].sub_name) {
+              patern.sub_name = response.data.results[i].sub_name.raw
+            } else patern.sub_name = null
+            if (response.data.results[i].max_speed) {
+              patern.max_speed = response.data.results[i].max_speed.raw
+            } else patern.max_speed = null
+            if (response.data.results[i].min_speed) {
+              patern.min_speed = response.data.results[i].min_speed.raw
+            } else patern.min_speed = null
+            if (response.data.results[i].visible) {
+              patern.visible = false
+            } else patern.visible = null
+            if (response.data.results[i].paragraph) {
+              patern.paragraph = response.data.results[i].paragraph.raw
+            } else patern.paragraph = null
+            if (response.data.results[i].paragraph_sub) {
+              patern.paragraph_sub = JSON.parse(response.data.results[i].paragraph_sub.raw)
+            } else patern.paragraph_sub = null
+            if (response.data.results[i].law_sub) {
+              patern.law_sub = JSON.parse(response.data.results[i].law_sub.raw)
+            } else patern.law_sub = null
+            // patern.law = response.data.results[i].law.raw
+            // patern.paragraph = response.data.results[i].paragraph.raw
+            patern.path = response.data.results[i].path.raw
+            this.tariff_array.push(patern)
+            // console.log(response.data.results[i].code.raw)
+          }
+          // console.log(test.raw)
+          // patern.code = test.raw
+          // this.tariff_array.push(patern)
+          // for (const element of Object.keys(response.data.results)) {
+          // console.log(element.code)
+          // }
+          // const obj = JSON.parse(response.data.results)
+          // this.tariff_array = obj
+          // console.log(obj.results.documents)
+          // this.itemList = obj.results.documents
+        })
+      } else {
+      }
+    },
+    selectItem (theItem) {
+      console.log(theItem)
+      this.selectedItem = theItem
+      this.inputValue = theItem.suggestion
+      if (this.inputValue !== '') this.requestData()
+    },
+    itemVisible (item) {
+      const currentName = item.suggestion.toLowerCase()
+      const currentInput = this.inputValue.toLowerCase()
+      return currentName.includes(currentInput)
+    },
+    getList () {
+      const data = {
+        query: 'kto'
+      }
+      const headers = {
+        'Content-Type': 'application/json',
+        Authorization: 'Bearer search-9p14wcq44phvsdpqm9tj2dvb'
+      }
+      axios.post(this.apiUrl, data, { headers }).then(response => {
+        // const obj = JSON.parse(response.request.response)
+        // console.log(obj.results.documents)
+        // this.itemList = obj.results.documents
+        this.apiLoaded = true
+      })
+    },
+    get_Sugestion () {
+      console.log(this.inputValue)
+      if (this.inputValue !== '') {
+        for (let i = 0; i < 10000; i++) {
+        }
+        this.show_mask()
+        const data = {
+          query: this.inputValue
+        }
+        const headers = {
+          'Content-Type': 'application/json',
+          Authorization: 'Bearer search-9p14wcq44phvsdpqm9tj2dvb'
+        }
+        axios.post(this.apiUrl, data, { headers }).then(response => {
+          const obj = JSON.parse(response.request.response)
+          // console.log(obj.results.documents)
+          this.itemList = obj.results.documents
+          this.apiLoaded = true
+        })
+      } else {
+        this.itemList = []
+        this.hide_mask()
+        this.tariff_array = tariffdata.tariff_array
+      }
+    }
+  },
+  watch: {
+    inputValue: function (val) {
+      this.get_Sugestion()
     }
   }
 }
@@ -199,6 +407,9 @@ export default {
 
 <style scoped lang="scss">
 @import "src/views/main_layout";
+#search_top_bar2{
+  z-index: 10;
+}
 #view {
   margin: 8px;
   height: 100%;
@@ -291,6 +502,67 @@ export default {
 .favorites-label {
   font-size: 10px;
 }
+
+.dropdown{
+  position: relative;
+  width: 100%;
+  max-width: 400px;
+  margin: 0 auto;
+  z-index: 1000;
+}
+.dropdown-input, .dropdown-selected{
+  width: auto;
+  padding: 10px 16px;
+  border: 1px solid transparent;
+  background: #edf2f7;
+  line-height: 1.5em;
+  outline: none;
+  border-radius: 8px;
+  margin-left: 0;
+}
+.dropdown-input:focus, .dropdown-selected:hover{
+  background: #fff;
+  border-color: #e2e8f0;
+}
+.dropdown-input::placeholder{
+  opacity: 0.7;
+}
+.dropdown-selected{
+  font-weight: bold;
+  cursor: pointer;
+}
+#dropdown-list{
+  position: absolute;
+  width: 100%;
+  max-height: 300px;
+  overflow: auto;
+  margin-top: 4px;
+  background: #ffffff;
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+  border-radius: 8px;
+}
+.dropdown-item{
+  padding: 11px 16px;
+  cursor: pointer;
+}
+.dropdown-item:hover{
+  background: #edf2f7;
+}
+.new_search2{
+  width: 500px;
+}
+button {
+  position: absolute;
+  border-radius: 5px;
+  right: 0;
+  z-index: 2;
+  border: none;
+  height: 100%;
+  cursor: pointer;
+  color: black;
+  transform: translateX(2px);
+}
+
 @media only screen and (min-width: 560px) {
   input {
     margin-top: 0;

@@ -2,6 +2,16 @@
   <div class="view2">
     <div class="home">
       <div class="title"> TAryfikator POlicyjny24 </div>
+      <div class="date">2022-02-23</div>
+      <div class="whats_news">Co nowego?</div>
+      <p>- Implementacja dynamicznego silnika wyszukiwania taryfikatora</p>
+      <div class="whats_news">INFORMACJE</div>
+      <p>- Nowy silnik działa tylko z połączeniem internetowym, spowodowane jest to tym, że urządzenie mobilne nie posiada wymaganej mocy obliczeniowej</p>
+      <p>- Aby zwiększyć trafność wyników prosimy aby po znalezieniu szukanego wykroczenia kliknąć na kafelek z wykroczeniem ponieważ wtedy do silnika zostaje wysłana informacja o trafieniu i w procesie uczenia maszynowego następne wyniki wyszukiwania będą trafniejsze</p>
+      <div class="version">{{ version }}</div>
+    </div>
+    <div class="home">
+      <div class="title"> TAryfikator POlicyjny24 </div>
       <div class="whats_news">Instalacja</div>
       <p>Aplikacja umożliwia zainstalowanie jej na urządzeniach mobilnych oraz oferuje pełną funkcjonalność działania jako strona internetowa.</p>
       <div class="install_container">
