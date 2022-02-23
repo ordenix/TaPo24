@@ -92,6 +92,10 @@ export default {
     }
   },
   created () {
+    const form = document.getElementById('search_top_bar2')
+    form.addEventListener('focusout', () => {
+      this.hide_mask()
+    })
     window.addEventListener('scroll', this.onScroll)
     window.addEventListener('popstate', () => {
       if (this.$store.state.ini_back && this.open_special_card) {
@@ -157,6 +161,7 @@ export default {
   },
   methods: {
     hide_mask () {
+      this.requestData()
       this.hidden_mask = false
       document.getElementById('dropdown-list').style.visibility = 'hidden'
     },
@@ -186,6 +191,7 @@ export default {
         this.selected_data = data
         const form = document.getElementById('search_top_bar2')
         form.addEventListener('focusout', () => {
+          this.hide_mask()
           this.focus = true
           setTimeout(this.focus_delay, 300)
         })
@@ -235,27 +241,79 @@ export default {
       this.itemList = []
       this.$nextTick(() => this.$refs.dropdowninput.focus())
     },
+    requestData () {
+      if (this.inputValue !== '') {
+        const data = {
+          query: this.inputValue.toLowerCase(),
+          page: {
+            size: 150,
+            current: 1
+          }
+        }
+        const headers = {
+          'Content-Type': 'application/json',
+          Authorization: 'Bearer search-9p14wcq44phvsdpqm9tj2dvb'
+        }
+        axios.post(this.apiUrl2, data, { headers }).then(response => {
+          // const test = response.data.results[0].code
+          this.tariff_array = []
+          console.log(response.data.results)
+          for (let i = 0; i < response.data.results.length; i++) {
+            const patern = {
+              category: 'others',
+              name: '',
+              text: '',
+              tax: '',
+              points: '',
+              code: '',
+              law: '',
+              paragraph: '',
+              paragraph_sub: '',
+              law_sub: '',
+              path: ''
+            }
+            patern.category = response.data.results[i].category.raw
+            patern.name = response.data.results[i].name.raw
+            patern.text = response.data.results[i].text.raw
+            patern.tax = response.data.results[i].tax.raw
+            patern.points = response.data.results[i].points.raw
+            patern.code = response.data.results[i].code.raw
+            if (response.data.results[i].law) {
+              patern.law = response.data.results[i].law.raw
+            } else patern.law = null
+            if (response.data.results[i].paragraph) {
+              patern.paragraph = response.data.results[i].paragraph.raw
+            } else patern.paragraph = null
+            if (response.data.results[i].paragraph_sub) {
+              patern.paragraph_sub = JSON.parse(response.data.results[i].paragraph_sub.raw)
+            } else patern.paragraph_sub = null
+            if (response.data.results[i].law_sub) {
+              patern.law_sub = JSON.parse(response.data.results[i].law_sub.raw)
+            } else patern.law_sub = null
+            // patern.law = response.data.results[i].law.raw
+            // patern.paragraph = response.data.results[i].paragraph.raw
+            patern.path = response.data.results[i].path.raw
+            this.tariff_array.push(patern)
+            // console.log(response.data.results[i].code.raw)
+          }
+          // console.log(test.raw)
+          // patern.code = test.raw
+          // this.tariff_array.push(patern)
+          // for (const element of Object.keys(response.data.results)) {
+          // console.log(element.code)
+          // }
+          // const obj = JSON.parse(response.data.results)
+          // this.tariff_array = obj
+          // console.log(obj.results.documents)
+          // this.itemList = obj.results.documents
+        })
+      } else {
+      }
+    },
     selectItem (theItem) {
       this.selectedItem = theItem
       this.inputValue = theItem.suggestion
-      console.log('sss')
-      const data = {
-        query: this.selectedItem.suggestion.toLowerCase(),
-        page: {
-          size: 150,
-          current: 1
-        }
-      }
-      const headers = {
-        'Content-Type': 'application/json',
-        Authorization: 'Bearer search-9p14wcq44phvsdpqm9tj2dvb'
-      }
-      axios.post(this.apiUrl2, data, { headers }).then(response => {
-        console.log(response)
-        const obj = JSON.parse(response.request.response)
-        console.log(obj.results.documents)
-        // this.itemList = obj.results.documents
-      })
+      this.requestData()
     },
     itemVisible (item) {
       const currentName = item.suggestion.toLowerCase()
