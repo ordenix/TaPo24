@@ -103,7 +103,7 @@ export default {
   },
   data () {
     return {
-      version: '1.3 [BETA]'
+      version: 'dcffd81[BETA]'
     }
   },
   methods: {
