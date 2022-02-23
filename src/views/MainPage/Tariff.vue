@@ -44,10 +44,8 @@
       <input v-if="!new_search" type="text" name="title" placeholder="Wyszukaj" v-model="search_text">
       <div v-if="new_search" class="new_search">
         <div class="dropdown">
-          <div class="buttonIn">
-            <input ref="dropdowninput" v-model.trim="inputValue" class="dropdown-input" type="text" placeholder="Wyszukaj" @click="show_mask"/>
+            <input ref="dropdowninput" v-model="inputValue" class="dropdown-input" type="text" placeholder="Wyszukaj" @click="show_mask"/>
             <button @click="resetSelection"><i class="fas fa-eraser"></i></button>
-          </div>
           <div v-show="inputValue && apiLoaded" id="dropdown-list">
             <div @click="selectItem(item)" v-show="itemVisible(item)" v-for="item in itemList" :key="item.suggestion" class="dropdown-item">
               {{ item.suggestion }}
@@ -92,6 +90,11 @@ export default {
     }
   },
   created () {
+    if (!navigator.onLine) this.new_search = false
+    // const log = document.getElementById('buttonIn')
+    // document.addEventListener('keyup', () => {
+    // this.get_Sugestion()
+    // })
     window.addEventListener('scroll', this.onScroll)
     window.addEventListener('popstate', () => {
       if (this.$store.state.ini_back && this.open_special_card) {
@@ -367,10 +370,9 @@ export default {
         // this.itemList = obj.results.documents
         this.apiLoaded = true
       })
-    }
-  },
-  watch: {
-    inputValue: function (val) {
+    },
+    get_Sugestion () {
+      console.log(this.inputValue)
       if (this.inputValue !== '') {
         for (let i = 0; i < 10000; i++) {
         }
@@ -393,6 +395,11 @@ export default {
         this.hide_mask()
         this.tariff_array = tariffdata.tariff_array
       }
+    }
+  },
+  watch: {
+    inputValue: function (val) {
+      this.get_Sugestion()
     }
   }
 }
@@ -542,8 +549,7 @@ export default {
   background: #edf2f7;
 }
 .new_search2{
-  width: 100%;
-  height: 100%;
+  width: 500px;
 }
 button {
   position: absolute;
