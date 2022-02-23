@@ -1,14 +1,12 @@
 <template>
   <div class="dropdown">
-    <input v-if="Object.keys(selectedItem).length === 0" ref="dropdowninput" v-model.trim="inputValue" class="dropdown-input" type="text" placeholder="Find country" />
+    <input v-if="true" ref="dropdowninput" v-model.trim="inputValue" class="dropdown-input" type="text" placeholder="Wyszukaj" @change="onChange"/>
     <div v-else @click="resetSelection" class="dropdown-selected">
-      <img :src="selectedItem.flag" class="dropdown-item-flag" />
-      {{ selectedItem.name }}
+      {{ selectedItem }}
     </div>
     <div v-show="inputValue && apiLoaded" class="dropdown-list">
-      <div @click="selectItem(item)" v-show="itemVisible(item)" v-for="item in itemList" :key="item.name" class="dropdown-item">
-        <img :src="item.flag" class="dropdown-item-flag" />
-        {{ item.name }}
+      <div @click="selectItem(item)" v-show="itemVisible(item)" v-for="item in itemList" :key="item.suggestion" class="dropdown-item">
+        {{ item.suggestion }}
       </div>
     </div>
   </div>
@@ -23,13 +21,33 @@ export default {
       inputValue: '',
       itemList: [],
       apiLoaded: false,
-      apiUrl: 'https://restcountries.eu/rest/v2/all?fields=name;flag'
+      apiUrl: 'https://otavi-pl.ent.europe-west3.gcp.cloud.es.io/api/as/v1/engines/es/query_suggestion'
     }
   },
   mounted () {
     this.getList()
   },
+  watch: {
+    inputValue: function (val) {
+      const data = {
+        query: this.inputValue
+      }
+      const headers = {
+        'Content-Type': 'application/json',
+        Authorization: 'Bearer search-9p14wcq44phvsdpqm9tj2dvb'
+      }
+      axios.post(this.apiUrl, data, { headers }).then(response => {
+        const obj = JSON.parse(response.request.response)
+        console.log(obj.results.documents)
+        this.itemList = obj.results.documents
+        this.apiLoaded = true
+      })
+    }
+  },
   methods: {
+    onChange () {
+      console.log('on')
+    },
     resetSelection () {
       this.selectedItem = {}
       this.$nextTick(() => this.$refs.dropdowninput.focus())
@@ -37,17 +55,26 @@ export default {
     },
     selectItem (theItem) {
       this.selectedItem = theItem
-      this.inputValue = ''
+      this.inputValue = theItem.suggestion
       this.$emit('on-item-selected', theItem)
     },
     itemVisible (item) {
-      const currentName = item.name.toLowerCase()
+      const currentName = item.suggestion.toLowerCase()
       const currentInput = this.inputValue.toLowerCase()
       return currentName.includes(currentInput)
     },
     getList () {
-      axios.get(this.apiUrl).then(response => {
-        this.itemList = response.data
+      const data = {
+        query: 'kto'
+      }
+      const headers = {
+        'Content-Type': 'application/json',
+        Authorization: 'Bearer search-9p14wcq44phvsdpqm9tj2dvb'
+      }
+      axios.post(this.apiUrl, data, { headers }).then(response => {
+        const obj = JSON.parse(response.request.response)
+        console.log(obj.results.documents)
+        // this.itemList = obj.results.documents
         this.apiLoaded = true
       })
     }
@@ -61,6 +88,7 @@ export default {
   width: 100%;
   max-width: 400px;
   margin: 0 auto;
+  z-index: 1000;
 }
 .dropdown-input, .dropdown-selected{
   width: 100%;

@@ -41,8 +41,20 @@
           {{ option.text }}
         </option>
       </select>
-      <input type="text" name="title" placeholder="Wyszukaj" v-model="search_text">
-      <searchInput @on-item-selected="dropdownSelection = $event" @on-item-reset="dropdownSelection = {}" />
+      <input v-if="!new_search" type="text" name="title" placeholder="Wyszukaj" v-model="search_text">
+      <div v-if="new_search" class="new_search">
+        <div class="dropdown">
+          <div class="buttonIn">
+            <input ref="dropdowninput" v-model.trim="inputValue" class="dropdown-input" type="text" placeholder="Wyszukaj" @click="show_mask"/>
+            <button @click="resetSelection"><i class="fas fa-eraser"></i></button>
+          </div>
+          <div v-show="inputValue && apiLoaded" id="dropdown-list">
+            <div @click="selectItem(item)" v-show="itemVisible(item)" v-for="item in itemList" :key="item.suggestion" class="dropdown-item">
+              {{ item.suggestion }}
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
     <div id="view">
       <div v-for="(element, index) in filtered_data" :key="index" @click=click_on_tariff_card(element)>
@@ -55,15 +67,14 @@
 </template>
 
 <script>
-import searchInput from '@/components/searchInput'
 import tariffCard from '@/components/tariffCard'
 import tariffdata from '@/views/Data/tariff_data.json'
 import { mapState } from 'vuex'
+import axios from 'axios'
 export default {
   name: 'Tariff',
   components: {
-    tariffCard,
-    searchInput
+    tariffCard
   },
   computed: {
     ...mapState([
@@ -99,6 +110,7 @@ export default {
   data () {
     return {
       dropdownSelection: {},
+      new_search: true,
       open_special_card: false,
       options_category: [
         { value: 'all', text: 'Wszystkie wykroczenia' },
@@ -133,10 +145,25 @@ export default {
       },
       search_text: '',
       focus: false,
-      on_favorites: false
+      on_favorites: false,
+      selectedItem: {},
+      inputValue: '',
+      itemList: [],
+      apiLoaded: false,
+      hidden_mask: false,
+      apiUrl: 'https://otavi-pl.ent.europe-west3.gcp.cloud.es.io/api/as/v1/engines/es/query_suggestion',
+      apiUrl2: 'https://otavi-pl.ent.europe-west3.gcp.cloud.es.io/api/as/v1/engines/es/search.json'
     }
   },
   methods: {
+    hide_mask () {
+      this.hidden_mask = false
+      document.getElementById('dropdown-list').style.visibility = 'hidden'
+    },
+    show_mask () {
+      this.hidden_mask = true
+      document.getElementById('dropdown-list').style.visibility = 'visible'
+    },
     set_scroll_pos () {
       window.scrollTo(0, this.scroll_pos_tariff)
       this.$store.state.ini_back = true
@@ -152,18 +179,22 @@ export default {
       this.focus = false
     },
     click_on_tariff_card (data) {
-      this.open_special_card = true
-      this.selected_data = data
-      const form = document.getElementById('search_top_bar2')
-      form.addEventListener('focusout', () => {
-        this.focus = true
-        setTimeout(this.focus_delay, 300)
-      })
-      if (!this.focus) {
-        document.getElementById('overlay').style.visibility = 'visible'
-        document.getElementById('overlay_container').style.visibility = 'visible'
-        document.getElementById('overlay').style.opacity = '50%'
-        document.getElementById('overlay_container').style.opacity = '100%'
+      if (this.hidden_mask) {
+        this.hide_mask()
+      } else {
+        this.open_special_card = true
+        this.selected_data = data
+        const form = document.getElementById('search_top_bar2')
+        form.addEventListener('focusout', () => {
+          this.focus = true
+          setTimeout(this.focus_delay, 300)
+        })
+        if (!this.focus) {
+          document.getElementById('overlay').style.visibility = 'visible'
+          document.getElementById('overlay_container').style.visibility = 'visible'
+          document.getElementById('overlay').style.opacity = '50%'
+          document.getElementById('overlay_container').style.opacity = '100%'
+        }
       }
     },
     click_on_favorites () {
@@ -196,6 +227,80 @@ export default {
       if (this.$store.state.ini_back) {
         this.$store.state.scroll_pos_tariff = e.target.documentElement.scrollTop
       }
+    },
+    resetSelection () {
+      this.selectedItem = {}
+      this.hide_mask()
+      this.inputValue = ''
+      this.itemList = []
+      this.$nextTick(() => this.$refs.dropdowninput.focus())
+    },
+    selectItem (theItem) {
+      this.selectedItem = theItem
+      this.inputValue = theItem.suggestion
+      console.log('sss')
+      const data = {
+        query: this.selectedItem.suggestion.toLowerCase(),
+        page: {
+          size: 150,
+          current: 1
+        }
+      }
+      const headers = {
+        'Content-Type': 'application/json',
+        Authorization: 'Bearer search-9p14wcq44phvsdpqm9tj2dvb'
+      }
+      axios.post(this.apiUrl2, data, { headers }).then(response => {
+        console.log(response)
+        const obj = JSON.parse(response.request.response)
+        console.log(obj.results.documents)
+        // this.itemList = obj.results.documents
+      })
+    },
+    itemVisible (item) {
+      const currentName = item.suggestion.toLowerCase()
+      const currentInput = this.inputValue.toLowerCase()
+      return currentName.includes(currentInput)
+    },
+    getList () {
+      const data = {
+        query: 'kto'
+      }
+      const headers = {
+        'Content-Type': 'application/json',
+        Authorization: 'Bearer search-9p14wcq44phvsdpqm9tj2dvb'
+      }
+      axios.post(this.apiUrl, data, { headers }).then(response => {
+        const obj = JSON.parse(response.request.response)
+        console.log(obj.results.documents)
+        // this.itemList = obj.results.documents
+        this.apiLoaded = true
+      })
+    }
+  },
+  watch: {
+    inputValue: function (val) {
+      if (this.inputValue !== '') {
+        for (let i = 0; i < 10000; i++) {
+        }
+        this.show_mask()
+        const data = {
+          query: this.inputValue
+        }
+        const headers = {
+          'Content-Type': 'application/json',
+          Authorization: 'Bearer search-9p14wcq44phvsdpqm9tj2dvb'
+        }
+        axios.post(this.apiUrl, data, { headers }).then(response => {
+          const obj = JSON.parse(response.request.response)
+          console.log(obj.results.documents)
+          this.itemList = obj.results.documents
+          this.apiLoaded = true
+        })
+      } else {
+        this.itemList = []
+        this.hide_mask()
+      }
     }
   }
 }
@@ -203,6 +308,9 @@ export default {
 
 <style scoped lang="scss">
 @import "src/views/main_layout";
+#search_top_bar2{
+  z-index: 10;
+}
 #view {
   margin: 8px;
   height: 100%;
@@ -295,6 +403,68 @@ export default {
 .favorites-label {
   font-size: 10px;
 }
+
+.dropdown{
+  position: relative;
+  width: 100%;
+  max-width: 400px;
+  margin: 0 auto;
+  z-index: 1000;
+}
+.dropdown-input, .dropdown-selected{
+  width: auto;
+  padding: 10px 16px;
+  border: 1px solid transparent;
+  background: #edf2f7;
+  line-height: 1.5em;
+  outline: none;
+  border-radius: 8px;
+  margin-left: 0;
+}
+.dropdown-input:focus, .dropdown-selected:hover{
+  background: #fff;
+  border-color: #e2e8f0;
+}
+.dropdown-input::placeholder{
+  opacity: 0.7;
+}
+.dropdown-selected{
+  font-weight: bold;
+  cursor: pointer;
+}
+#dropdown-list{
+  position: absolute;
+  width: 100%;
+  max-height: 300px;
+  overflow: auto;
+  margin-top: 4px;
+  background: #ffffff;
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+  border-radius: 8px;
+}
+.dropdown-item{
+  padding: 11px 16px;
+  cursor: pointer;
+}
+.dropdown-item:hover{
+  background: #edf2f7;
+}
+.new_search2{
+  width: 100%;
+  height: 100%;
+}
+button {
+  position: absolute;
+  border-radius: 5px;
+  right: 0;
+  z-index: 2;
+  border: none;
+  height: 100%;
+  cursor: pointer;
+  color: black;
+  transform: translateX(2px);
+}
+
 @media only screen and (min-width: 560px) {
   input {
     margin-top: 0;
