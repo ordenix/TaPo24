@@ -72,6 +72,7 @@ a {
 }
 .htl > img {
   width: 150px;
+  height: 39px;
 }
 .ico_logo {
   display: flex;
