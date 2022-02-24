@@ -85,7 +85,6 @@ export default {
         axios
           .post(state.path_api + '/installation/install_Param', payload, { headers })
           .then(response => {
-            console.log(response)
             state.version = response.data.version_number
             localStorage.setItem('VERSION', JSON.stringify(state.version))
           })
@@ -101,7 +100,6 @@ export default {
         axios
           .get(state.path_api + '/installation/get_UID', { headers })
           .then(response => {
-            console.log(response)
             state.UID = response.data.UID
             localStorage.setItem('UID', JSON.stringify(state.UID))
             const payload = {
@@ -113,7 +111,6 @@ export default {
             axios
               .post(state.path_api + '/installation/install_Param', payload, { headers })
               .then(response => {
-                console.log(response)
                 state.version = response.data.version_number
                 localStorage.setItem('VERSION', JSON.stringify(state.version))
               })
