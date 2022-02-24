@@ -34,6 +34,7 @@ export default {
   },
   created () {
     this.$store.commit('SET_BLOCKING')
+    this.$store.commit('GET_INSTALLATION_PARAM')
   },
   mounted () {
     if (this.block_ini_logo) {

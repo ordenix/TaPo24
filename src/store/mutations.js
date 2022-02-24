@@ -66,5 +66,59 @@ export default {
   REMOVE_FLAG_BLOCKING (state) {
     localStorage.removeItem('BLOCKING')
     state.block_ini_logo = false
+  },
+  GET_INSTALLATION_PARAM (state) {
+    const UID = localStorage.getItem('UID')
+    const headers = {
+      'Content-Type': 'application/json'
+    }
+    if (UID) {
+      const UID_PARSED = JSON.parse(UID)
+      state.UID = UID_PARSED
+      const payload = {
+        id: 0,
+        UID: state.UID,
+        version_number: 0,
+        last_start: 0
+      }
+      if (navigator.onLine) {
+        axios
+          .post(state.path_api + '/installation/install_Param', payload, { headers })
+          .then(response => {
+            console.log(response)
+            state.version = response.data.version_number
+            localStorage.setItem('VERSION', JSON.stringify(state.version))
+          })
+      } else {
+        const version = localStorage.getItem('VERSION')
+        if (version) {
+          const versionParsed = JSON.parse(version)
+          state.version = versionParsed
+        }
+      }
+    } else {
+      if (navigator.onLine) {
+        axios
+          .get(state.path_api + '/installation/get_UID', { headers })
+          .then(response => {
+            console.log(response)
+            state.UID = response.data.UID
+            localStorage.setItem('UID', JSON.stringify(state.UID))
+            const payload = {
+              id: 0,
+              UID: state.UID,
+              version_number: 0,
+              last_start: 0
+            }
+            axios
+              .post(state.path_api + '/installation/install_Param', payload, { headers })
+              .then(response => {
+                console.log(response)
+                state.version = response.data.version_number
+                localStorage.setItem('VERSION', JSON.stringify(state.version))
+              })
+          })
+      }
+    }
   }
 }
