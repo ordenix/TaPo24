@@ -103,8 +103,11 @@ export default {
   },
   data () {
     return {
-      version: 'dcffd81[BETA]'
+      version: this.$store.state.version + '[BETA]'
     }
+  },
+  mounted () {
+    this.version = this.$store.state.version + '[BETA]'
   },
   methods: {
     clearCookie () {
