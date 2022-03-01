@@ -1,8 +1,8 @@
 <template>
   <div class="select_list">
     <div class="dropdown2" >
-      <div @click="show_list">
-      <input ref="dropdown_select" v-model="select_value" class="dropdown-input2" type="search" placeholder="Wyszukaj" @click="show_list" disabled="disabled"/>
+      <div @click="click_on_input">
+      <input ref="dropdown_select" v-model="select_value" class="dropdown-input2" type="search" placeholder="Wyszukaj" @click="click_on_input" disabled="disabled"/>
         <button><i class="fas fa-caret-down"></i></button>
       </div>
       <div id="dropdown-list2">
@@ -51,6 +51,11 @@ export default {
     }
   },
   mounted () {
+    const list = document.getElementById('dropdown-list2')
+    list.addEventListener('scroll', () => {
+      this.clear_timeout()
+      this.timer2 = setTimeout(this.hide_list, 2000)
+    })
     this.select_value = this.category_filter(this.$store.state.selected_tariff_data.options_category)
   },
   methods: {
@@ -69,7 +74,7 @@ export default {
       console.log('klik')
       this.clear_timeout()
       document.getElementById('dropdown-list2').style.visibility = 'visible'
-      this.timer2 = setTimeout(this.hide_list, 3800)
+      this.timer2 = setTimeout(this.hide_list, 2000)
     },
     clear_timeout () {
       window.clearTimeout(this.timer2)
@@ -78,6 +83,17 @@ export default {
       if (data === null) return null
       const temp = this.options_category.filter(name => name.value.toLowerCase().includes(data.toLowerCase()))
       return temp[0].text
+    },
+    click_on_input () {
+      console.log('sssssssssssss')
+      if (this.show) {
+        this.show = false
+        this.clear_timeout()
+        this.hide_list()
+      } else {
+        this.show = true
+        this.show_list()
+      }
     }
   }
 }
