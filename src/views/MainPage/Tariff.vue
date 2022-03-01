@@ -112,6 +112,11 @@ export default {
     })
   },
   mounted () {
+    const inputText = document.getElementById('dropdown-list')
+    inputText.addEventListener('scroll', () => {
+      this.clear_timeout()
+      this.timer = setTimeout(this.hide_suggestion_list, 1800)
+    })
     window.scrollTo(0, this.scroll_pos_tariff)
     setTimeout(this.set_scroll_pos, 1)
   },
@@ -178,7 +183,7 @@ export default {
       this.clear_timeout()
       this.hidden_mask = true
       document.getElementById('dropdown-list').style.visibility = 'visible'
-      this.timer = setTimeout(this.hide_suggestion_list, 2800)
+      this.timer = setTimeout(this.hide_suggestion_list, 1800)
     },
     set_scroll_pos () {
       window.scrollTo(0, this.scroll_pos_tariff)
@@ -389,7 +394,7 @@ export default {
         this.tariff_array = tariffdata.tariff_array
       }
       this.clear_timeout()
-      this.timer = setTimeout(this.hide_suggestion_list, 2800)
+      this.timer = setTimeout(this.hide_suggestion_list, 1800)
     },
     clear_timeout () {
       window.clearTimeout(this.timer)
