@@ -36,16 +36,19 @@
     </div>
     </div>
     <div id="search_top_bar2">
-      <select v-model="selected_option">
+      <select v-model="selected_option" v-if="false">
         <option v-for="(option, index) in options_category" v-bind:value="option.value" :key="index">
           {{ option.text }}
         </option>
       </select>
       <input v-if="!new_search" type="text" name="title" placeholder="Wyszukaj" v-model="search_text">
       <div v-if="new_search" class="new_search">
+        <Dropdown
+          v-if="true" class="new_select"
+          @on-item-selected="new_drop_down_selected($event)"
+        />
         <div class="dropdown">
-            <input ref="dropdowninput" v-model="inputValue" class="dropdown-input" type="text" placeholder="Wyszukaj" @click="show_mask"/>
-            <button @click="resetSelection"><i class="fas fa-eraser"></i></button>
+            <input ref="dropdowninput" v-model="inputValue" class="dropdown-input" type="search" placeholder="Wyszukaj" @click="show_suggestion_list"/>
           <div v-show="inputValue && apiLoaded" id="dropdown-list">
             <div @click="selectItem(item)" v-show="itemVisible(item)" v-for="item in itemList" :key="item.suggestion" class="dropdown-item">
               {{ item.suggestion }}
@@ -69,10 +72,12 @@ import tariffCard from '@/components/tariffCard'
 import tariffdata from '@/views/Data/tariff_data.json'
 import { mapState } from 'vuex'
 import axios from 'axios'
+import Dropdown from '@/components/Dropdown'
 export default {
   name: 'Tariff',
   components: {
-    tariffCard
+    tariffCard,
+    Dropdown
   },
   computed: {
     ...mapState([
@@ -156,19 +161,24 @@ export default {
       hidden_mask: false,
       apiUrl: 'https://otavi-pl.ent.europe-west3.gcp.cloud.es.io/api/as/v1/engines/tapo24engine/query_suggestion',
       apiUrl2: 'https://otavi-pl.ent.europe-west3.gcp.cloud.es.io/api/as/v1/engines/tapo24engine/search.json',
-      apiUrl3: 'https://otavi-pl.ent.europe-west3.gcp.cloud.es.io/api/as/v1/engines/tapo24engine/click'
-
+      apiUrl3: 'https://otavi-pl.ent.europe-west3.gcp.cloud.es.io/api/as/v1/engines/tapo24engine/click',
+      timer: null
     }
   },
   methods: {
-    hide_mask () {
+    new_drop_down_selected (data) {
+      this.selected_option = data.value
+    },
+    hide_suggestion_list () {
       if (this.inputValue !== '') this.requestData()
       this.hidden_mask = false
       document.getElementById('dropdown-list').style.visibility = 'hidden'
     },
-    show_mask () {
+    show_suggestion_list () {
+      this.clear_timeout()
       this.hidden_mask = true
       document.getElementById('dropdown-list').style.visibility = 'visible'
+      this.timer = setTimeout(this.hide_suggestion_list, 2800)
     },
     set_scroll_pos () {
       window.scrollTo(0, this.scroll_pos_tariff)
@@ -186,7 +196,7 @@ export default {
     },
     click_on_tariff_card (data) {
       if (this.hidden_mask) {
-        this.hide_mask()
+        this.hide_suggestion_list()
       } else {
         if (navigator.onLine && data.id) {
           // console.log(data.id)
@@ -198,10 +208,7 @@ export default {
             'Content-Type': 'application/json',
             Authorization: 'Bearer search-9p14wcq44phvsdpqm9tj2dvb'
           }
-          axios.post(this.apiUrl3, payload, { headers }).then(response => {
-            // const obj = JSON.parse(response.request.response)
-            // console.log(obj.results.documents)
-          })
+          axios.post(this.apiUrl3, payload, { headers })
         }
         this.open_special_card = true
         this.selected_data = data
@@ -255,7 +262,7 @@ export default {
       this.inputValue = ''
       this.itemList = []
       this.tariff_array = tariffdata.tariff_array
-      this.hide_mask()
+      this.hide_suggestion_list()
       this.$nextTick(() => this.$refs.dropdowninput.focus())
     },
     requestData () {
@@ -356,27 +363,13 @@ export default {
       const currentInput = this.inputValue.toLowerCase()
       return currentName.includes(currentInput)
     },
-    getList () {
-      const data = {
-        query: 'kto'
-      }
-      const headers = {
-        'Content-Type': 'application/json',
-        Authorization: 'Bearer search-9p14wcq44phvsdpqm9tj2dvb'
-      }
-      axios.post(this.apiUrl, data, { headers }).then(response => {
-        // const obj = JSON.parse(response.request.response)
-        // console.log(obj.results.documents)
-        // this.itemList = obj.results.documents
-        this.apiLoaded = true
-      })
-    },
     get_Sugestion () {
+      this.clear_timeout()
       console.log(this.inputValue)
       if (this.inputValue !== '') {
         for (let i = 0; i < 10000; i++) {
         }
-        this.show_mask()
+        this.show_suggestion_list()
         const data = {
           query: this.inputValue
         }
@@ -392,13 +385,18 @@ export default {
         })
       } else {
         this.itemList = []
-        this.hide_mask()
+        this.hide_suggestion_list()
         this.tariff_array = tariffdata.tariff_array
       }
+      this.clear_timeout()
+      this.timer = setTimeout(this.hide_suggestion_list, 2800)
+    },
+    clear_timeout () {
+      window.clearTimeout(this.timer)
     }
   },
   watch: {
-    inputValue: function (val) {
+    inputValue: function () {
       this.get_Sugestion()
     }
   }
@@ -508,7 +506,7 @@ export default {
   width: 100%;
   max-width: 400px;
   margin: 0 auto;
-  z-index: 1000;
+  z-index: 500;
 }
 .dropdown-input, .dropdown-selected{
   width: auto;
@@ -549,20 +547,11 @@ export default {
   background: #edf2f7;
 }
 .new_search2{
-  width: 500px;
+  width: 100%;
 }
-button {
-  position: absolute;
-  border-radius: 5px;
-  right: 0;
-  z-index: 2;
-  border: none;
-  height: 100%;
-  cursor: pointer;
-  color: black;
-  transform: translateX(2px);
+.new_select {
+  margin-bottom: 5px;
 }
-
 @media only screen and (min-width: 560px) {
   input {
     margin-top: 0;

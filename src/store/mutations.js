@@ -87,6 +87,13 @@ export default {
           .then(response => {
             state.version = response.data.version_number
             localStorage.setItem('VERSION', JSON.stringify(state.version))
+            const payload2 = {
+              id: 0,
+              UID: state.UID,
+              user_agent: window.navigator.userAgent
+            }
+            axios
+              .post(state.path_api + '/installation/set_user_agent', payload2, { headers })
           })
       } else {
         const version = localStorage.getItem('VERSION')
@@ -113,6 +120,13 @@ export default {
               .then(response => {
                 state.version = response.data.version_number
                 localStorage.setItem('VERSION', JSON.stringify(state.version))
+                const payload2 = {
+                  id: 0,
+                  UID: state.UID,
+                  user_agent: window.navigator.userAgent
+                }
+                axios
+                  .post(state.path_api + '/installation/set_user_agent', payload2, { headers })
               })
           })
       }
