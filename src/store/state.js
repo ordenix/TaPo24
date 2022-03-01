@@ -1,4 +1,5 @@
 export default {
+  alert_show: false,
   favorites_array: [],
   scroll_pos_tariff: 0,
   ini_back: true,

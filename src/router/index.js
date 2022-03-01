@@ -21,6 +21,7 @@ import KSIPCode from '@/views/RoadsModule/KSIPcode'
 import SignDetails from '@/views/Sign/SignDetails'
 import Lights from '@/views/RoadsModule/Lights'
 import Towing from '@/views/RoadsModule/Towing'
+import Validation from '@/views/HelpersModule/Validation'
 Vue.use(VueRouter)
 
 const routes = [
@@ -128,6 +129,11 @@ const routes = [
     path: '/Towing/',
     name: 'Towing',
     component: Towing
+  },
+  {
+    path: '/Validation/',
+    name: 'Validation',
+    component: Validation
   },
   {
     path: '/about',

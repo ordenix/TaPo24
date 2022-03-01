@@ -39,8 +39,24 @@ Vue.mixin({
       if (type === 'web') {
         window.open(path)
       } else {
+        if (navigator.onLine && !this.$store.state.alert_show) {
+          this.vcs()
+        }
         this.$router.push({ path: path })
       }
+    },
+    vcs: function () {
+      const headers = {
+        'Content-Type': 'application/json'
+      }
+      axios
+        .get(this.$store.state.path_api + '/installation/get_last_versions', { headers })
+        .then(response => {
+          if (this.$store.state.version !== response.data.version_number) {
+            alert('Na serwerze produkcyjnym znaleziono nowszą wersję aplikacji, aby ją pobrać zrestartuj aplikację (zakończ działanie aplikacji w tle)')
+            this.$store.state.alert_show = true
+          }
+        })
     }
   }
 })
