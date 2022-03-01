@@ -19,7 +19,7 @@
       </div>
       <div class="element" @click="globalGoTo('/Validation/', null)">
         <div class="icon"><i class="fas fa-clipboard-check"></i></div>
-        <div class="label">Kontrola dokumentów</div>
+        <div class="label">Kontrola autentyczności dokumentów</div>
       </div>
       <div class="element" @click="globalGoTo('/Points_Calc/','module Points Calculator')">
         <div class="icon"><i class="fas fa-calculator"></i></div>
