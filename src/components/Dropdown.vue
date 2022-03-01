@@ -69,12 +69,17 @@ export default {
       this.show = false
       document.getElementById('dropdown-list2').style.visibility = 'hidden'
     },
+    add_event () {
+      window.addEventListener('click', event => {
+        this.hide_list()
+      }, true)
+    },
     show_list () {
       this.show = true
-      console.log('klik')
       this.clear_timeout()
       document.getElementById('dropdown-list2').style.visibility = 'visible'
       this.timer2 = setTimeout(this.hide_list, 2000)
+      setTimeout(this.add_event, 1000)
     },
     clear_timeout () {
       window.clearTimeout(this.timer2)
