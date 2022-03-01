@@ -17,7 +17,7 @@
         <div class="icon"><i class="fas fa-history"></i></div>
         <div class="label">Link do historii pojazdu</div>
       </div>
-      <div class="element" @click="globalGoTo('/Validation/')">
+      <div class="element" @click="globalGoTo('/Validation/', null)">
         <div class="icon"><i class="fas fa-clipboard-check"></i></div>
         <div class="label">Kontrola dokumentów</div>
       </div>
