@@ -40,8 +40,8 @@ export default {
       adobeApiReady: false,
       pdf_list: [
         { name: 'Weryfikacja dowodu osobistego', path: 'wer_do.pdf', icon: 'fas fa-fingerprint', short: 'DO' },
-        { name: 'Weryfikacja praw jazdy na terenie UE', path: 'KW.pdf', icon: 'fas fa-id-card', short: 'PJ' },
-        { name: 'Weryfikacja paszportu', path: 'RWSK.pdf', icon: 'fas fa-passport', short: 'Paszport' }
+        { name: 'Weryfikacja praw jazdy na terenie UE', path: 'wzoryPJ.pdf', icon: 'fas fa-id-card', short: 'PJ' },
+        { name: 'Weryfikacja paszportu', path: 'Paszport.pdf', icon: 'fas fa-passport', short: 'Paszport' }
       ],
       master_path: 'https://tapo24.pl/static/',
       serach_text: ''
