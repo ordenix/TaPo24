@@ -1,0 +1,36 @@
+{
+  "uto_array": [
+    {
+      "id": 1,
+      "name": "Hulajnoga elektryczna",
+      "definition": "fdddddddddddddddd",
+      "rights": "ssssssssssss",
+      "where": "sssssss",
+      "speed": "ssssss",
+      "prohibition": "sssssssss",
+      "behavior": "sssssssss",
+      "stop": "sssss"
+    },
+    {
+      "id": 2,
+      "name": "Hulajnoga elektryczna",
+      "definition": "fdddddddddddddddd",
+      "rights": "ssssssssssss",
+      "where": "sssssss",
+      "speed": "ssssss",
+      "prohibition": "sssssssss",
+      "behavior": "sssssssss",
+      "stop": "sssss"
+    },    {
+      "id": 3,
+      "name": "Hulajnoga elektryczna",
+      "definition": "fdddddddddddddddd",
+      "rights": "ssssssssssss",
+      "where": "sssssss",
+      "speed": "ssssss",
+      "prohibition": "sssssssss",
+      "behavior": "sssssssss",
+      "stop": "sssss"
+    }
+  ]
+}
