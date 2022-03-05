@@ -7422,6 +7422,115 @@
       "paragraph": "",
       "path": null
     },
+    {
+      "category": "prevention",
+      "name": "Posiadanie w miejscu publicznym noża, maczety lub innego niebezpiecznego przedmiotu",
+      "text": "art. 50a KW",
+      "tax": "nie mniej niż 3000 zł",
+      "points": 0,
+      "code": "null",
+      "law_sub": {
+        "1": "§ 1. Kto w miejscu publicznym posiada nóż, maczetę lub inny podobnie niebezpieczny przedmiot, a okoliczności jego posiadania wskazują na zamiar użycia go w celu popełnienia przestępstwa,\npodlega karze aresztu, ograniczenia wolności albo grzywny nie niższej niż 3000 zł",
+        "2": "§ 1a. Tej samej karze podlega, kto będąc uczestnikiem przejazdu zorganizowanej grupy uczestników masowej imprezy sportowej, posiada przedmioty określone w § 1 lub wyroby pirotechniczne",
+        "3": "§ 2. W razie popełnienia wykroczenia określonego w § 1 lub 1a orzeka się przepadek przedmiotów stanowiących przedmiot wykroczenia, choćby nie stanowiły własności sprawcy"
+      },
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "category": "prevention",
+      "name": "Noszenie munduru przez osobę, która nie ma do tego prawa ",
+      "text": "art. 61 KW",
+      "tax": "20-500",
+      "points": 0,
+      "code": "null",
+      "law_sub": {
+        "1": "art. 61 § 1 KW Kto przywłaszcza sobie stanowisko, tytuł lub stopień albo publicznie używa lub nosi odznaczenie, odznakę, strój lub mundur, do których nie ma prawa, podlega karze grzywny do 1000 złotych albo karze nagany",
+        "2": "art. 61 § 2 KW Kto ustanawia, wytwarza, rozpowszechnia publicznie, używa lub nosi: godło, chorągiew albo inną odznakę lub mundur, co do których został wydany zakaz, albo odznakę lub mundur organizacji prawnie nieistniejącej, albo odznakę lub mundur, na których ustanowienie lub noszenie nie uzyskano wymaganego zezwolenia, podlega karze aresztu albo grzywny",
+        "3": "art. 61 § 3 KW W razie popełnienia wykroczenia określonego w § 1 można orzec, a w razie popełnienia wykroczenia określonego w § 2 orzeka się przepadek wymienionych w tych przepisach przedmiotów, jak również innych przedmiotów służących do popełnienia wykroczenia, takich jak pieczęcie, stemple, papier firmowy lub bilety wizytowe, choćby nie stanowiły własności sprawcy"
+      },
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "category": "prevention",
+      "name": "Umieszczanie w miejscu publicznym do tego nieprzeznaczonym ogłoszenia, plakatu, afiszu, apelu, ulotki lub napisu",
+      "text": "art. 63a KW",
+      "tax": "20-500",
+      "points": 0,
+      "code": "null",
+      "law_sub": {
+        "1": "art. 63a § 1 KW Kto umieszcza w miejscu publicznym do tego nieprzeznaczonym ogłoszenie, plakat, afisz, apel, ulotkę, napis lub rysunek albo wystawia je na widok publiczny w innym miejscu bez zgody zarządzającego tym miejscem,\npodlega karze ograniczenia wolności albo grzywny",
+        "2": "art. 63a § 1a KW Podżeganie i pomocnictwo są karalne",
+        "3": "art. 63a § 2 KW W razie popełnienia wykroczenia można orzec przepadek przedmiotów służących lub przeznaczonych do popełnienia wykroczenia, choćby nie stanowiły własności sprawcy, oraz nawiązkę w wysokości do 1500 złotych lub obowiązek przywrócenia do stanu poprzedniego"
+      },
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "category": "prevention",
+      "name": "Rzucanie kamieniami lub innymi przedmiotami w pojazd mechaniczny będący w ruchu,",
+      "text": "art. 76 KW",
+      "tax": "20-500",
+      "points": 0,
+      "code": "null",
+      "law": "art. 76 KW Kto rzuca kamieniami lub innymi przedmiotami w pojazd mechaniczny będący w ruchu, podlega karze aresztu, ograniczenia wolności albo grzywny",
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "category": "prevention",
+      "name": "Dopuszczenie do przebywania w okolicznościach niebezpiecznych dla zdrowia człowieka małoletniemu do lat 7",
+      "text": "art. 106 KW",
+      "tax": "20-500",
+      "points": 0,
+      "code": "null",
+      "law": "art. 106 KW Kto, mając obowiązek opieki lub nadzoru nad małoletnim do lat 7 albo nad inną osobą niezdolną rozpoznać lub obronić się przed niebezpieczeństwem, dopuszcza do jej przebywania w okolicznościach niebezpiecznych dla zdrowia człowieka,\npodlega karze grzywny albo karze nagany",
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "category": "prevention",
+      "name": "Szczucie psem człowieka",
+      "text": "art. 108 KW",
+      "tax": "20-500",
+      "points": 0,
+      "code": "null",
+      "law": "art. 108 KW Kto szczuje psem człowieka,\npodlega karze ograniczenia wolności, grzywny albo karze nagany",
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "category": "prevention",
+      "name": "Niszczenie, uszkadzanie lub czynienie niezdatnej do użytku cudzej rzeczy",
+      "text": "art. 124 KW",
+      "tax": "20-500",
+      "points": 0,
+      "code": "null",
+      "law_sub": {
+        "1": "art. 124 § 1 KW Kto cudzą rzecz umyślnie niszczy, uszkadza lub czyni niezdatną do użytku, jeżeli szkoda nie przekracza 500 złotych,\npodlega karze aresztu, ograniczenia wolności albo grzywny",
+        "2": "art. 124 § 2 KW Usiłowanie, podżeganie i pomocnictwo są karalne",
+        "3": "art. 124 § 3 KW Ściganie następuje na żądanie pokrzywdzonego",
+        "4": "art. 124 § 4 KW W razie popełnienia wykroczenia można orzec obowiązek zapłaty równowartości wyrządzonej szkody lub obowiązek przywrócenia do stanu poprzedniego"
+      },
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "category": "prevention",
+      "name": "Samowolne używanie cudzej rzeczy ruchomej",
+      "text": "art. 127 KW",
+      "tax": "",
+      "points": 0,
+      "code": "null",
+      "law_sub": {
+        "1": "art. 127 § 1 KW Kto samowolnie używa cudzej rzeczy ruchomej, podlega karze grzywny albo nagany",
+        "2": "art. 127 § 2 KW Ściganie następuje na żądanie pokrzywdzonego"
+      },
+      "paragraph": "",
+      "path": null
+    },
+
 
     {
       "visible": false,
