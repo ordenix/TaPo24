@@ -3,34 +3,87 @@
     {
       "id": 1,
       "name": "Hulajnoga elektryczna",
-      "definition": "fdddddddddddddddd",
-      "rights": "ssssssssssss",
-      "where": "sssssss",
-      "speed": "ssssss",
-      "prohibition": "sssssssss",
-      "behavior": "sssssssss",
-      "stop": "sssss"
+      "definition": "Hulajnoga elektryczna – pojazd napędzany elektrycznie, dwuosiowy, z kierownicą, bez siedzenia i pedałów, konstrukcyjnie przeznaczony do poruszania się wyłącznie przez kierującego znajdującego się na tym pojeździe",
+      "rights": {
+        "1": "Zabrania się dopuszczania dziecka w wieku do 10 lat do kierowania hulajnogą elektryczną lub urządzeniem transportu osobistego na drodze",
+        "2": "W strefie zamieszkania dopuszcza się kierowanie hulajnogą elektryczną lub urządzeniem transportu osobistego przez dziecko w wieku do 10 lat wyłącznie pod opieką osoby dorosłej",
+        "3": "Dokumentem stwierdzającym posiadanie uprawnienia do kierowania jest karta rowerowa lub prawo jazdy kategorii AM, A1, B1 lub T – w przypadku osób, które nie ukończyły 18 lat ( 10 - 18 lat)"
+      },
+      "where": {
+        "1": "Droga dla rowerów",
+        "2": "Pas ruchu dla rowerów",
+        "3": "Jezdnia – obowiązkowo, gdy ruch pojazdów odbywa się po niej z dozwoloną prędkością nie większą niż 30 km/h oraz brakuje drogi dla rowerów lub pasa ruchu dla rowerów",
+        "4": "Chodnik –\ndozwolone, gdy ruch pojazdów odbywa się po niej z dozwoloną prędkością większą niż 30 km/h\noraz brakuje drogi dla rowerów\nlub pasa ruchu dla rowerów"
+      },
+      "speed": {
+        "1": "20 km/h",
+        "2": "Na chodniku i drodze\ndla pieszych - prędkość zbliżona do prędkości pieszego"
+      },
+      "prohibition": {
+        "1": "Ciągnięcia lub holowania innego pojazdu;",
+        "2": "Przewożenia innej osoby, zwierzęcia lub ładunku",
+        "3": "Czepiania się pojazdów.",
+        "4": "Kierowania w stanie nietrzeźwości, w stanie po użyciu alkoholu lub środka działającego podobnie\ndo alkoholu"
+      },
+      "behavior": "Na chodniku albo drodze dla pieszych zachować szczególną ostrożność, ustępować pierwszeństwa pieszemu oraz nie utrudniać jego ruchu",
+      "stop": "Dopuszcza się postój hulajnogi elektrycznej na chodniku w miejscu do tego przeznaczonym, a w razie braku takiego miejsca – jak najbliżej zewnętrznej krawędzi chodnika najbardziej oddalonej od jezdni oraz równolegle do tej krawędzi, pod warunkiem, że szerokość chodnika pozostawionego dla pieszych jest taka, że nie utrudni im ruchu i jest nie mniejsza niż 1,5 m"
     },
     {
       "id": 2,
-      "name": "Hulajnoga elektryczna",
-      "definition": "fdddddddddddddddd",
-      "rights": "ssssssssssss",
-      "where": "sssssss",
-      "speed": "ssssss",
-      "prohibition": "sssssssss",
-      "behavior": "sssssssss",
-      "stop": "sssss"
+      "name": "Urządzenie transportu osobistego",
+      "definition": "urządzenie transportu osobistego – pojazd napędzany elektrycznie, z wyłączeniem hulajnogi elektrycznej, bez siedzenia i pedałów, konstrukcyjnie przeznaczony do poruszania się wyłącznie przez kierującego znajdującego się na tym pojeździe",
+      "rights": {
+        "1": "Zabrania się dopuszczania dziecka w wieku do 10 lat do kierowania hulajnogą elektryczną lub urządzeniem transportu osobistego na drodze",
+        "2": "W strefie zamieszkania dopuszcza się kierowanie hulajnogą elektryczną lub urządzeniem transportu osobistego przez dziecko w wieku do 10 lat wyłącznie pod opieką osoby dorosłej",
+        "3": "Dokumentem stwierdzającym posiadanie uprawnienia do kierowania jest karta rowerowa lub prawo jazdy kategorii AM, A1, B1 lub T – w przypadku osób, które nie ukończyły 18 lat ( 10 - 18 lat)"
+      },
+      "where": {
+        "1": "Droga dla rowerów, jeżeli jest ona wyznaczona dla kierunku, w którym się porusza lub zamierza skręcić",
+        "2": "Chodnik lub droga dla pieszych - gdy brakuje wydzielonej drogi dla rowerów"
+      },
+      "speed": {
+        "1": "20 km/h",
+        "2": "Na chodniku i drodze\ndla pieszych - prędkość zbliżona do prędkości pieszego"
+      },
+      "prohibition": {
+        "1": "Ciągnięcia lub holowania innego pojazdu;",
+        "2": "Przewożenia innej osoby, zwierzęcia lub ładunku",
+        "3": "Czepiania się pojazdów.",
+        "4": "Kierowania w stanie nietrzeźwości, w stanie po użyciu alkoholu lub środka działającego podobnie\ndo alkoholu"
+      },
+      "behavior": "Na chodniku albo drodze dla pieszych zachować szczególną ostrożność, ustępować pierwszeństwa pieszemu oraz nie utrudniać jego ruchu",
+      "stop": "Dopuszcza się postój hulajnogi elektrycznej na chodniku w miejscu do tego przeznaczonym, a w razie braku takiego miejsca – jak najbliżej zewnętrznej krawędzi chodnika najbardziej oddalonej od jezdni oraz równolegle do tej krawędzi, pod warunkiem, że szerokość chodnika pozostawionego dla pieszych jest taka, że nie utrudni im ruchu i jest nie mniejsza niż 1,5 m"
     },    {
       "id": 3,
-      "name": "Hulajnoga elektryczna",
-      "definition": "fdddddddddddddddd",
-      "rights": "ssssssssssss",
-      "where": "sssssss",
-      "speed": "ssssss",
-      "prohibition": "sssssssss",
-      "behavior": "sssssssss",
-      "stop": "sssss"
+      "name": "Urządzenie wspomagające ruch",
+      "definition": "Urządzenie wspomagające ruch – urządzenie lub sprzęt sportowo-rekreacyjny, przeznaczone do poruszania się osoby w pozycji stojącej, napędzane siłą mięśni",
+      "rights": "Nie są wymagane",
+      "where":{
+        "1": "Chodnik",
+        "2": "Droga dla pieszych",
+        "3": "Droga dla rowerów –\nobowiązuje ruch prawostronny"
+      },
+      "speed": "korzystając z chodnika albo drogi dla pieszych, jest obowiązana poruszać się z prędkością zbliżoną do prędkości pieszego",
+      "prohibition": {
+        "1": "Ciągnięcia lub holowania innego pojazdu;",
+        "2": "Przewożenia innej osoby, zwierzęcia lub ładunku",
+        "3": "Czepiania się pojazdów.",
+        "4": "Kierowania w stanie nietrzeźwości, w stanie po użyciu alkoholu lub środka działającego podobnie\ndo alkoholu",
+        "5": "Poruszania się tyłem"
+      },
+      "behavior": {
+        "1": "Poruszać się z prędkością zapewniającą panowanie nad tym urządzeniem, z uwzględnieniem warunków, w jakich ruch się odbywa",
+        "2": "Przy wymijaniu zachować bezpieczny odstęp od wymijanego pojazdu lub uczestnika ruchu",
+        "3": "Przy omijaniu zachować bezpieczny odstęp od omijanego pojazdu, uczestnika ruchu lub przeszkody",
+        "4": "Przed wyprzedzaniem upewnić się, czy ma dostateczne miejsce do wyprzedzania bez utrudnienia komukolwiek ruchu",
+        "5": "Zbliżając się do przejścia dla pieszych, zachować szczególną ostrożność i ustąpić pierwszeństwa pieszemu znajdującemu się na przejściu",
+        "6": "Na chodniku albo drodze dla pieszych zachować szczególną ostrożność, ustępować pierwszeństwa pieszemu oraz nie utrudniać jego ruchu",
+        "7": "W strefie zamieszkania osoba poruszająca się przy użyciu urządzenia wspomagającego ruch korzysta z całej szerokości drogi i ma pierwszeństwo przed pojazdem",
+        "8": "W strefie zamieszkania obowiązek ustąpienia pierwszeństwa pieszemu",
+        "9": "Przekraczając jezdnię zachować szczególną ostrożność oraz korzystać odpowiednio z przejazdu dla rowerzystów albo przejścia dla pieszych",
+        "10": "Przekraczanie torowiska wyodrębnionego z jezdni przez osobę poruszającą się przy użyciu urządzenia wspomagającego ruch jest dozwolone tylko w miejscu do tego przeznaczonym"
+      },
+      "stop": null
     }
   ]
 }
