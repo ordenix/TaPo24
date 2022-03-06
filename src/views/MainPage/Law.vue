@@ -91,6 +91,7 @@ export default {
     }
   },
   methods: {
+    // TODO create new viewer in other page
     close_pdf () {
       document.getElementById('pdf_container').style.visibility = 'hidden'
       this.$store.state.open_pdf = false

@@ -33,6 +33,10 @@
         <div class="icon"><img :src="require(`@/assets/others/logo_black.png`)" alt="Sign"/></div>
         <div class="label">Sklep mundurowy</div>
       </div>
+      <div class="element" @click="globalGoTo('/SPB/home/', 'SPB')">
+        <div class="icon"><i class="fa-solid fa-gun"></i></div>
+        <div class="label">ŚPB</div>
+      </div>
     </div>
   </div>
 </template>
