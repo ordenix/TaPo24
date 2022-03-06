@@ -429,14 +429,14 @@
     {
       "name": "Broń palna - wykorzystanie",
       "used_conditionals": {
-        "1": "Broń palną można wykorzystać w przypadku konieczności podjęcia co najmniej jednego z następujących działań zatrzymanie pojazdu, jeżeli jego działanie zagraża życiu lub zdrowiu uprawnionego lub innej osoby lub stwarza zagrożenie dla ważnych obiektów, urządzeń lub obszarów",
-        "2": "Broń palną można wykorzystać w przypadku konieczności podjęcia co najmniej jednego z następujących działań pokonanie przeszkody uniemożliwiającej lub utrudniającej ujęcie osoby albo ratowanie życia lub zdrowia uprawnionego, innej osoby lub ratowanie mienia",
-        "3": "Broń palną można wykorzystać w przypadku konieczności podjęcia co najmniej jednego z następujących działań pokonanie przeszkody w przypadku naruszenia porządku lub bezpieczeństwa publicznego przez osobę pozbawioną wolności, zatrzymaną lub umieszczoną w strzeżonym ośrodku albo areszcie w celu wydalenia",
-        "4": "Broń palną można wykorzystać w przypadku konieczności podjęcia co najmniej jednego z następujących działań zaalarmowanie lub wezwanie pomocy",
-        "5": "Broń palną można wykorzystać w przypadku konieczności podjęcia co najmniej jednego z następujących działań neutralizacja przedmiotów lub urządzeń mogących stwarzać niebezpieczeństwo wybuchu, powodujących jednocześnie bezpośrednie zagrożenie zdrowia lub życia uprawnionego lub innej osoby",
-        "6": "Broń palną można wykorzystać w przypadku konieczności podjęcia co najmniej jednego z następujących działań unieszkodliwienie zwierzęcia, którego zachowanie zagraża bezpośrednio życiu lub zdrowiu uprawnionego lub innej osoby",
-        "7": "Broń palną można wykorzystać w przypadku konieczności podjęcia co najmniej jednego z następujących działań oddanie strzału ostrzegawczego",
-        "8": "Broń palną można wykorzystać w przypadku konieczności podjęcia co najmniej jednego z następujących działań zniszczenia lub unieruchomienia bezzałogowego statku powietrznego, w przypadkach określonych w ustawie z dnia 3 lipca 2002 r. – Prawo lotnicze"
+        "1": "Zatrzymanie pojazdu, jeżeli jego działanie zagraża życiu lub zdrowiu uprawnionego lub innej osoby lub stwarza zagrożenie dla ważnych obiektów, urządzeń lub obszarów",
+        "2": "Pokonanie przeszkody uniemożliwiającej lub utrudniającej ujęcie osoby albo ratowanie życia lub zdrowia uprawnionego, innej osoby lub ratowanie mienia",
+        "3": "Pokonanie przeszkody w przypadku naruszenia porządku lub bezpieczeństwa publicznego przez osobę pozbawioną wolności, zatrzymaną lub umieszczoną w strzeżonym ośrodku albo areszcie w celu wydalenia",
+        "4": "Zaalarmowanie lub wezwanie pomocy",
+        "5": "Neutralizacja przedmiotów lub urządzeń mogących stwarzać niebezpieczeństwo wybuchu, powodujących jednocześnie bezpośrednie zagrożenie zdrowia lub życia uprawnionego lub innej osoby",
+        "6": "Unieszkodliwienie zwierzęcia, którego zachowanie zagraża bezpośrednio życiu lub zdrowiu uprawnionego lub innej osoby",
+        "7": "Oddanie strzału ostrzegawczego",
+        "8": "Zniszczenia lub unieruchomienia bezzałogowego statku powietrznego, w przypadkach określonych w ustawie z dnia 3 lipca 2002 r. – Prawo lotnicze"
       },
       "exception": {
         "1": "bla bla bla"
