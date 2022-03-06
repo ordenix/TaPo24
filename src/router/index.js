@@ -22,6 +22,7 @@ import SignDetails from '@/views/Sign/SignDetails'
 import Lights from '@/views/RoadsModule/Lights'
 import Towing from '@/views/RoadsModule/Towing'
 import Validation from '@/views/HelpersModule/Validation'
+import SPB from '@/views/HelpersModule/SPB'
 Vue.use(VueRouter)
 
 const routes = [
@@ -134,6 +135,11 @@ const routes = [
     path: '/Validation/',
     name: 'Validation',
     component: Validation
+  },
+  {
+    path: '/SPB/:status/',
+    name: 'SPB',
+    component: SPB
   },
   {
     path: '/about',
