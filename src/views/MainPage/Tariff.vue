@@ -164,9 +164,9 @@ export default {
       itemList: [],
       apiLoaded: false,
       hidden_mask: false,
-      apiUrl: 'https://otavi-pl.ent.europe-west3.gcp.cloud.es.io/api/as/v1/engines/tapo24engine/query_suggestion',
-      apiUrl2: 'https://otavi-pl.ent.europe-west3.gcp.cloud.es.io/api/as/v1/engines/tapo24engine/search.json',
-      apiUrl3: 'https://otavi-pl.ent.europe-west3.gcp.cloud.es.io/api/as/v1/engines/tapo24engine/click',
+      apiUrl: 'https://elastic-enterprise-search.otavi.pl/api/as/v1/engines/tapo24/query_suggestion',
+      apiUrl2: 'https://elastic-enterprise-search.otavi.pl/api/as/v1/engines/tapo24/search.json',
+      apiUrl3: 'https://elastic-enterprise-search.otavi.pl/api/as/v1/engines/tapo24/click',
       timer: null
     }
   },
@@ -211,7 +211,7 @@ export default {
           }
           const headers = {
             'Content-Type': 'application/json',
-            Authorization: 'Bearer search-9p14wcq44phvsdpqm9tj2dvb'
+            Authorization: 'Bearer search-u3qcx2mkbm73x1tdd8mpi4tj'
           }
           axios.post(this.apiUrl3, payload, { headers })
         }
@@ -281,7 +281,7 @@ export default {
         }
         const headers = {
           'Content-Type': 'application/json',
-          Authorization: 'Bearer search-9p14wcq44phvsdpqm9tj2dvb'
+          Authorization: 'Bearer search-u3qcx2mkbm73x1tdd8mpi4tj'
         }
         axios.post(this.apiUrl2, data, { headers }).then(response => {
           // const test = response.data.results[0].code
@@ -380,7 +380,7 @@ export default {
         }
         const headers = {
           'Content-Type': 'application/json',
-          Authorization: 'Bearer search-9p14wcq44phvsdpqm9tj2dvb'
+          Authorization: 'Bearer search-u3qcx2mkbm73x1tdd8mpi4tj'
         }
         axios.post(this.apiUrl, data, { headers }).then(response => {
           const obj = JSON.parse(response.request.response)

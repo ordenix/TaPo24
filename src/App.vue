@@ -81,6 +81,7 @@ export default {
       this.$store.commit('SET_FLAG_BLOCKING')
       setTimeout(this.remove_blocking, 10000)
       this.login_form = true
+      document.getElementsByTagName('body')[0].style.height = 'unset'
     }
   },
   updated () {
