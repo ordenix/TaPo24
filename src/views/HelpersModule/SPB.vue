@@ -34,7 +34,7 @@
       <div v-if="$route.params.status==='spb_list'">
         <div class="container2">
           <div v-for="(element, index) in spb_data" :key="index" class="element2" @click="onSpbClicked(element)">
-            <div class="icon"><i class="fa-regular fa-hand-point-up"></i></div>
+            <div class="icon"></div>
             <div class="label" v-if="!element.name_short">{{element.name}}</div>
             <div class="label" v-if="element.name_short">{{element.name_short}}</div>
           </div>
