@@ -411,7 +411,7 @@ export default {
 <style scoped lang="scss">
 @import "src/views/main_layout";
 #search_top_bar2{
-  z-index: 10;
+  z-index: 9;
 }
 #view {
   margin: 8px;
