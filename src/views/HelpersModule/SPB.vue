@@ -18,6 +18,10 @@
           <div class="icon"><i class="fa-solid fa-briefcase-medical"></i></div>
           <div class="label">Pomoc po użyciu</div>
         </div>
+        <div class="element" @click="globalGoTo('/SPB/help_gun/', null)">
+          <div class="icon"><i class="fa-solid fa-gun"></i><i class="fa-solid fa-briefcase-medical"></i></div>
+          <div class="label">Pomoc po użyciu broni palnej</div>
+        </div>
         <div class="element" @click="globalGoTo('/SPB/use/', null)">
           <div class="icon"><i class="fa-solid fa-briefcase"></i></div>
           <div class="label">Skutkowe użycie - uprawniony</div>
@@ -26,7 +30,7 @@
           <div class="icon"><i class="fa-solid fa-business-time"></i></div>
           <div class="label">Skutkowe użycie - przełożony</div>
         </div>
-        <div v-if="false" class="element" @click="globalGoTo('/SPB/before/', null)">
+        <div class="element" @click="globalGoTo('/SPB/before/', null)">
           <div class="icon"><i class="fa-solid fa-list-check"></i></div>
           <div class="label">Procedura przed użyciem</div>
         </div>
@@ -55,6 +59,12 @@
           :spb_data = spb.help
         />
       </div>
+      <div v-if="$route.params.status==='help_gun'">
+        <SPBProcedure
+          title="Pomoc po użyciu ŚPB"
+          :spb_data = spb.help_gun
+        />
+      </div>
       <div v-if="$route.params.status==='use'">
         <SPBProcedure
           title="Skutkowe użycie - uprawniony"
@@ -68,7 +78,10 @@
         />
       </div>
       <div v-if="$route.params.status==='before'">
-        <SPBBefore/>
+        <SPBProcedure
+          title="Procedura przed użyciem broni palnej"
+          :spb_data = spb.before_gun
+        />
       </div>
     </div>
   </div>
@@ -80,15 +93,13 @@ import SPBComponent from '@/components/SPB/SPBComponent'
 import SPBWeaponUsed from '@/components/SPB/SPBWeaponUsed'
 import SPBWeapon from '@/components/SPB/SPBWeapon'
 import SPBProcedure from '@/components/SPB/SPBProcedure'
-import SPBBefore from '@/components/SPB/SPBBefore'
 export default {
   name: 'SPB',
   components: {
     SPBProcedure,
     SPBComponent,
     SPBWeaponUsed,
-    SPBWeapon,
-    SPBBefore
+    SPBWeapon
   },
   data () {
     return {

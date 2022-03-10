@@ -37,6 +37,10 @@
         <div class="icon"><i class="fa-solid fa-gun"></i></div>
         <div class="label">ŚPB</div>
       </div>
+      <div class="element" @click="globalGoTo('/UTO/home/', 'UTO')">
+        <div class="icon"><i class="fa-brands fa-accessible-icon"></i></div>
+        <div class="label">UTO</div>
+      </div>
     </div>
   </div>
 </template>

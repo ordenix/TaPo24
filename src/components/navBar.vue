@@ -13,8 +13,9 @@
           </div>
           <div>
             <div id="dropdown-content">
-              <div>Info. o wersji aplikacji</div>
-              <div>Kontakt</div>
+              <router-link :to="{name: 'InstallationInfo'}"><div class="setting_item">Info. o wersji aplikacji</div></router-link>
+              <router-link :to="{name: 'About'}"><div class="setting_item">Kontakt</div></router-link>
+
             </div>
           </div>
         </div>
@@ -48,11 +49,13 @@ export default {
     },
     click_on_settings () {
       this.clear_timeout()
+      document.getElementById('dropdown-content').style.transition = 'visibility 0s linear 0s, opacity 300ms'
       document.getElementById('dropdown-content').style.visibility = 'visible'
       document.getElementById('dropdown-content').style.opacity = '95%'
       this.timer = setTimeout(this.hide_drop_down, 2000)
     },
     hide_drop_down () {
+      document.getElementById('dropdown-content').style.transition = 'visibility 0s linear 300ms, opacity 300ms'
       document.getElementById('dropdown-content').style.visibility = 'hidden'
       document.getElementById('dropdown-content').style.opacity = '0'
     }
@@ -188,14 +191,17 @@ a {
   transition: visibility 0s linear 300ms, opacity 300ms;
   -webkit-transition: visibility 0s linear 300ms, opacity 300ms;
 }
-#dropdown-content > div {
+.setting_item {
   color: #e0fbfc;
   text-align: center;
   background-color: rgba(61, 90, 128, 0.25);
   padding: 10px 0;
   margin: 5px 0;
 }
-.dropdown:hover #dropdown-content {
+.dropdown:hover {
+  cursor: pointer;
+}
+.dropdown:hover #dropdown-content2 {
   display: block;
   visibility: visible;
   opacity: 95%;

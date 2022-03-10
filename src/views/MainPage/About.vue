@@ -46,8 +46,7 @@ export default {
   background-color: #3d5a80;
   padding: 8px;
   border-radius: 8px;
-  margin: 10px;
-  margin-top: 80px;
+  margin: 120px 10px 10px;
 }
 .authors {
   color: #e0fbfc;
