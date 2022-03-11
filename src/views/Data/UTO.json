@@ -46,9 +46,9 @@
         "2": "Na chodniku i drodze\ndla pieszych - prędkość zbliżona do prędkości pieszego"
       },
       "prohibition": {
-        "1": "Ciągnięcia lub holowania innego pojazdu;",
+        "1": "Ciągnięcia lub holowania innego pojazdu",
         "2": "Przewożenia innej osoby, zwierzęcia lub ładunku",
-        "3": "Czepiania się pojazdów.",
+        "3": "Czepiania się pojazdów",
         "4": "Kierowania w stanie nietrzeźwości, w stanie po użyciu alkoholu lub środka działającego podobnie\ndo alkoholu"
       },
       "behavior": "Na chodniku albo drodze dla pieszych zachować szczególną ostrożność, ustępować pierwszeństwa pieszemu oraz nie utrudniać jego ruchu",
@@ -65,9 +65,9 @@
       },
       "speed": "korzystając z chodnika albo drogi dla pieszych, jest obowiązana poruszać się z prędkością zbliżoną do prędkości pieszego",
       "prohibition": {
-        "1": "Ciągnięcia lub holowania innego pojazdu;",
+        "1": "Ciągnięcia lub holowania innego pojazdu",
         "2": "Przewożenia innej osoby, zwierzęcia lub ładunku",
-        "3": "Czepiania się pojazdów.",
+        "3": "Czepiania się pojazdów",
         "4": "Kierowania w stanie nietrzeźwości, w stanie po użyciu alkoholu lub środka działającego podobnie\ndo alkoholu",
         "5": "Poruszania się tyłem"
       },
