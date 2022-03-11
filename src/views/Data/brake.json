@@ -1,84 +1,57 @@
 {
   "brake": [
     {
-      "name": "ssssss",
-      "remarks": "ssssss"
+      "name": "Poleć kierowcy zabezpieczyć pojazd przed stoczeniem się poprzez zablokowanie tylnego koła"
     },
     {
-      "name": "ssssss",
-      "remarks": "ssssss"
+      "name": "Zapytaj kierowcę gdzie znajduje się manometr wskazujący ciśnienie w układzie pneumatycznym oraz ustal w jakich jednostkach jest skalibrowany (MPa, bar, atm)"
     },
     {
-      "name": "ssssss",
-      "remarks": "ssssss"
+      "name": "Poleć kierowcy aby zwolnił dźwignię hamulca postojowego ( w przypadku wskazań na manometrze elektronicznym drzwi pojazdu muszą być obowiązkowo zamknięte)"
     },
     {
-      "name": "ssssss",
-      "remarks": "ssssss"
+      "name": "Poleć kierowcy uruchomić silnik celem uzyskania ciśnienia nominalnego (do czasu zadziałania zaworu bezpieczeństwa)",
+      "remarks": "Zanotuj wskazanie"
     },
     {
-      "name": "ssssss",
-      "remarks": "ssssss"
+      "name": "Odczekaj chwilę aby ciśnienie w układzie wyrównało się a następnie obchodząc pojazd (ok. 1 min.) sprawdź ewentualne ubytki ciśnienia ( zwróć szczególną uwagę w okolicach kół pojazdu a w przypadku zespołu pojazdów na połączenia przewodów: pojazd - przyczepa ) ",
+      "remarks": "Ubytek ciśnienia - zatrzymania dowodu rejestracyjnego"
     },
     {
-      "name": "ssssss",
-      "remarks": "ssssss"
+      "name": "Uzyskaj wskazanie ciśnienia kontrolnego ( przedział: 75 - 90% ciśnienia nominalnego, pamiętaj o pełnej jednostce np. 7,0 atm. )",
+      "remarks": "Zanotuj wskazanie"
     },
     {
-      "name": "ssssss",
-      "remarks": "ssssss"
+      "name": "Poleć kierowcy aby nacisnął i trzymał naciśnięty pedał hamulca obchodząc pojazd. Sprawdź jak w pkt. 6 ( ok. 1 min. )",
+      "remarks": "Ubytek ciśnienia - zatrzymanie dowodu rejestracyjnego"
     },
     {
-      "name": "ssssss",
-      "remarks": "ssssss"
+      "name": "Poleć kierowcy aby zwolnił pedał hamulca a następnie nacisnął go jeszcze dwa razy, sprawdź ubytek ciśnienia ( pamiętaj, że na jedno naciśnięcie nie może przekraczać 0,6 atm. czyli na trzy naciśnięcia 1,8 atm. )",
+      "remarks": "Ubytek ciśnienia powyżej 2,0 atmosfery - zatrzymania dowodu rejestracyjnego"
     },
     {
-      "name": "ssssss",
-      "remarks": "ssssss"
+      "name": "Zapytaj kierowcę w jaki sposób sygnalizowany jest spadek ciśnienia do ciśnienia awaryjnego ( lampka sygnalizacyjna, sygnał akustyczny lub jedno i drugie )"
     },
     {
-      "name": "ssssss",
-      "remarks": "ssssss"
+      "name": "Uzyskaj wskazanie ciśnienia awaryjnego ( minimalnie 65% ciśnienia nominalnego )"
     },
     {
-      "name": "ssssss",
-      "remarks": "ssssss"
+      "name": "Poleć kierowcy aby dwa razy nacisnął na pedał hamulca ( obowiązkowo ma starczyć ciśnienia na dwa naciśnięcia )",
+      "remarks": "Brak możliwości drugiego naciśnięcia pedału - zatrzymanie dowodu rejestracyjnego"
     },
     {
-      "name": "ssssss",
-      "remarks": "ssssss"
+      "name": "Poleć kierowcy całkowicie wypuścić ciśnienie z układu ( sprawdzenie wyskalowania manometru - ma wskazać 0,00 atm. Pamiętaj, że w nowych pojazdach uzyskanie takiego wskazania może skutkować pojawieniem się błędu w układzie elektronicznym oraz koniecznością naprawy przed ponownym ruszeniem ).",
+      "remarks": "Wskazanie manometru wyraźnie powyżej 0,00 atm. - zatrzymanie dowodu rejestracyjnego"
     },
     {
-      "name": "ssssss",
-      "remarks": "ssssss"
+      "name": "Poleć kierowcy uruchomić silnik celem sprawdzenia czasu do uzyskania ciśnienia nominalnego ( nie jest obecnie określony, wcześniej wynosił 5 min. ) ",
+      "remarks": "Zbyt długi czas - zatrzymanie dowodu rejestracyjnego"
     },
     {
-      "name": "ssssss",
-      "remarks": "ssssss"
+      "name": "Poleć kierowcy uruchomić hamulec postojowy"
     },
     {
-      "name": "ssssss",
-      "remarks": "ssssss"
-    },
-    {
-      "name": "ssssss",
-      "remarks": "ssssss"
-    },
-    {
-      "name": "ssssss",
-      "remarks": "ssssss"
-    },
-    {
-      "name": "ssssss",
-      "remarks": "ssssss"
-    },
-    {
-      "name": "ssssss",
-      "remarks": "ssssss"
-    },
-    {
-      "name": "ssssss",
-      "remarks": "ssssss"
+      "name": "Poleć kierowcy odblokować tylne koło"
     }
   ]
 }
