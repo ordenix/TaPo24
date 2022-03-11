@@ -47,7 +47,15 @@
           }
         }
       ],
-      "przypadki": ""
+      "przypadki": "",
+      "procedura_po_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
     }
   ]
 }
