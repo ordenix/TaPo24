@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Hulajnoga elektryczna",
-      "definition": "Hulajnoga elektryczna – pojazd napędzany elektrycznie, dwuosiowy, z kierownicą, bez siedzenia i pedałów, konstrukcyjnie przeznaczony do poruszania się wyłącznie przez kierującego znajdującego się na tym pojeździe",
+      "definition": "pojazd napędzany elektrycznie, dwuosiowy, z kierownicą, bez siedzenia i pedałów, konstrukcyjnie przeznaczony do poruszania się wyłącznie przez kierującego znajdującego się na tym pojeździe",
       "rights": {
         "1": "Zabrania się dopuszczania dziecka w wieku do 10 lat do kierowania hulajnogą elektryczną lub urządzeniem transportu osobistego na drodze",
         "2": "W strefie zamieszkania dopuszcza się kierowanie hulajnogą elektryczną lub urządzeniem transportu osobistego przez dziecko w wieku do 10 lat wyłącznie pod opieką osoby dorosłej",
@@ -16,7 +16,7 @@
         "4": "Chodnik –\ndozwolone, gdy ruch pojazdów odbywa się po niej z dozwoloną prędkością większą niż 30 km/h\noraz brakuje drogi dla rowerów\nlub pasa ruchu dla rowerów"
       },
       "speed": {
-        "1": "20 km/h",
+        "1": "do 20 km/h",
         "2": "Na chodniku i drodze\ndla pieszych - prędkość zbliżona do prędkości pieszego"
       },
       "prohibition": {
@@ -31,7 +31,7 @@
     {
       "id": 2,
       "name": "Urządzenie transportu osobistego",
-      "definition": "urządzenie transportu osobistego – pojazd napędzany elektrycznie, z wyłączeniem hulajnogi elektrycznej, bez siedzenia i pedałów, konstrukcyjnie przeznaczony do poruszania się wyłącznie przez kierującego znajdującego się na tym pojeździe",
+      "definition": "pojazd napędzany elektrycznie, z wyłączeniem hulajnogi elektrycznej, bez siedzenia i pedałów, konstrukcyjnie przeznaczony do poruszania się wyłącznie przez kierującego znajdującego się na tym pojeździe",
       "rights": {
         "1": "Zabrania się dopuszczania dziecka w wieku do 10 lat do kierowania hulajnogą elektryczną lub urządzeniem transportu osobistego na drodze",
         "2": "W strefie zamieszkania dopuszcza się kierowanie hulajnogą elektryczną lub urządzeniem transportu osobistego przez dziecko w wieku do 10 lat wyłącznie pod opieką osoby dorosłej",
@@ -42,7 +42,7 @@
         "2": "Chodnik lub droga dla pieszych - gdy brakuje wydzielonej drogi dla rowerów"
       },
       "speed": {
-        "1": "20 km/h",
+        "1": "do 20 km/h",
         "2": "Na chodniku i drodze\ndla pieszych - prędkość zbliżona do prędkości pieszego"
       },
       "prohibition": {
@@ -56,14 +56,18 @@
     },    {
       "id": 3,
       "name": "Urządzenie wspomagające ruch",
-      "definition": "Urządzenie wspomagające ruch – urządzenie lub sprzęt sportowo-rekreacyjny, przeznaczone do poruszania się osoby w pozycji stojącej, napędzane siłą mięśni",
-      "rights": "Nie są wymagane",
+      "definition": "urządzenie lub sprzęt sportowo-rekreacyjny, przeznaczone do poruszania się osoby w pozycji stojącej, napędzane siłą mięśni",
+      "rights": {
+        "1": "Nie są wymagane"
+      },
       "where":{
         "1": "Chodnik",
         "2": "Droga dla pieszych",
         "3": "Droga dla rowerów –\nobowiązuje ruch prawostronny"
       },
-      "speed": "korzystając z chodnika albo drogi dla pieszych, jest obowiązana poruszać się z prędkością zbliżoną do prędkości pieszego",
+      "speed": {
+        "1": "korzystając z chodnika albo drogi dla pieszych, jest obowiązana poruszać się z prędkością zbliżoną do prędkości pieszego"
+      },
       "prohibition": {
         "1": "Ciągnięcia lub holowania innego pojazdu",
         "2": "Przewożenia innej osoby, zwierzęcia lub ładunku",
@@ -71,7 +75,7 @@
         "4": "Kierowania w stanie nietrzeźwości, w stanie po użyciu alkoholu lub środka działającego podobnie\ndo alkoholu",
         "5": "Poruszania się tyłem"
       },
-      "behavior": {
+      "behavior_sub": {
         "1": "Poruszać się z prędkością zapewniającą panowanie nad tym urządzeniem, z uwzględnieniem warunków, w jakich ruch się odbywa",
         "2": "Przy wymijaniu zachować bezpieczny odstęp od wymijanego pojazdu lub uczestnika ruchu",
         "3": "Przy omijaniu zachować bezpieczny odstęp od omijanego pojazdu, uczestnika ruchu lub przeszkody",

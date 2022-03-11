@@ -485,9 +485,13 @@
       "law": "Przepisów ust. 1 pkt 1 i 2:",
       "sub_law": {
         "1": "1) nie stosuje się w przypadku zniszczenia mienia na terenie jednostki organizacyjnej Służby\nWięziennej;",
-        "2": "2) a można nie stosować, w przypadku gdy zagroziłoby to życiu, zdrowiu lub bezpieczeństwu uprawnionego lub innej osoby",
-        "3": "2) b można nie stosować, w przypadku gdy spowodowałoby to konieczność zaniechania przez uprawnionego czynności ochronnych\nwobec osób, ważnych obiektów, urządzeń lub obszarów lub w ramach konwoju lub\ndoprowadzenia – do czasu ustania tego zagrożenia lub tej konieczności"
+        "2": "2) a. można nie stosować, w przypadku gdy zagroziłoby to życiu, zdrowiu lub bezpieczeństwu uprawnionego lub innej osoby",
+        "3": "2) b. można nie stosować, w przypadku gdy spowodowałoby to konieczność zaniechania przez uprawnionego czynności ochronnych\nwobec osób, ważnych obiektów, urządzeń lub obszarów lub w ramach konwoju lub\ndoprowadzenia – do czasu ustania tego zagrożenia lub tej konieczności"
       }
+    },
+    {
+      "paragraph": "Art.49 ust. 1",
+      "law": "Do postępowania po użyciu lub wykorzystaniu broni palnej stosuje się przepisy art.\n\n36 ust. 1–4, art. 37 ust. 1 i 2 pkt 2, oraz art. 39."
     }
   ],
   "supervisor": [
@@ -511,6 +515,66 @@
         "1": "1) ustala, czy użycie lub wykorzystanie środków przymusu bezpośredniego nastąpiło\nzgodnie z prawem",
         "2": "2) niezwłoczne powiadamia właściwego przełożonego"
       }
+    },
+    {
+      "paragraph": "Art.49 ust. 1",
+      "law": "Do postępowania po użyciu lub wykorzystaniu broni palnej stosuje się przepisy art.\n\n36 ust. 1–4, art. 37 ust. 1 i 2 pkt 2, oraz art. 39."
+    }
+  ],
+  "before_gun": [
+    {
+      "paragraph": "Art. 48 ust. 1",
+      "law": "Przed użyciem broni palnej uprawniony podejmuje następujące działania:",
+      "sub_law": {
+        "1": "1) identyfikuje swoją formację albo służbę okrzykiem przez wskazanie jej pełnej nazwy\nlub ustawowego skrótu, a w przypadku uprawnionego, o którym mowa w art. 2 ust. 1\npkt 20 – okrzykiem: „POLICJA!”;",
+        "2": "2) wzywa osobę do zachowania zgodnego z prawem, a w szczególności do:",
+        "3": " a) natychmiastowego porzucenia broni lub innego niebezpiecznego przedmiotu, którego\nużycie może zagrozić życiu, zdrowiu lub wolności uprawnionego lub innej osoby,",
+        "4": " b) zaniechania ucieczki",
+        "5": " c) odstąpienia od użycia przemocy."
+      }
+    },
+    {
+      "paragraph": "Art. 48 ust. 2",
+      "law": "W przypadku niepodporządkowania się wezwaniom, o których mowa w ust. 1 pkt 2,\nuprawniony uprzedza o użyciu broni palnej okrzykiem: „Stój, bo strzelam!”, a jeżeli wezwanie to\nokaże się nieskuteczne, oddaje strzał ostrzegawczy w bezpiecznym kierunku."
+    },
+    {
+      "paragraph": "Art. 48 ust. 3",
+      "law": "Od procedury, o której mowa w ust. 1 i 2, lub jej poszczególnych elementów, w szczególności\nod oddania strzału ostrzegawczego, można odstąpić, jeżeli:",
+      "sub_law": {
+        "1": "1) ich zrealizowanie groziłoby bezpośrednim niebezpieczeństwem dla życia lub zdrowia\nuprawnionego lub innej osoby lub",
+        "2": "2) jest to niezbędne dla zapobieżenia wystąpieniu zdarzenia o charakterze terrorystycznym, o\nktórym mowa w art. 2 pkt 7 ustawy z dnia 10 czerwca 2016 r. o działaniach antyterrorystycznych\n(Dz. U. z 2019 r. poz. 796), a inne środki ze względu na okoliczności mogłyby okazać się\nniewystarczające"
+      }
+    },
+    {
+      "paragraph": "Art. 48 ust. 4",
+      "law": "Przed rozpoczęciem konwoju lub doprowadzenia uprawniony uprzedza osobę pozbawioną\nwolności, w stosunku do której zgodnie z art. 45 pkt 4 lit. b i c możliwe jest użycie broni palnej, o\nmożliwości użycia w stosunku do niej broni palnej w przypadku podjęcia przez nią próby\nucieczki."
+    }
+  ],
+  "help_gun": [
+    {
+      "paragraph": "Art. 49 ust. 1",
+      "law": "Do postępowania po użyciu lub wykorzystaniu broni palnej stosuje się przepisy art.\n36 ust. 1–4, art. 37 ust. 1 i 2 pkt 2, oraz art. 39."
+    },
+    {
+      "paragraph": "Art. 36 ust. 1",
+      "law": "W przypadku gdy w wyniku użycia lub wykorzystania środków przymusu\nbezpośredniego nastąpiło zranienie osoby lub wystąpiły inne widoczne objawy zagrożenia życia\nlub zdrowia tej osoby, uprawniony udziela jej niezwłocznie pierwszej pomocy, a w razie potrzeby\nzapewnia wezwanie kwalifikowanej pierwszej pomocy lub podmiotów świadczących medyczne\nczynności ratunkowe."
+    },
+    {
+      "paragraph": "Art. 36 ust. 2",
+      "law": "Uprawniony może odstąpić od udzielenia pierwszej pomocy, w przypadku gdy\nzachodzi jedna z następujących okoliczności:",
+      "sub_law": {
+        "1": "1) udzielenie tej pomocy może zagrozić życiu, zdrowiu lub bezpieczeństwu uprawnionego lub\ninnej osoby",
+        "2": "2) udzielenie tej pomocy spowodowałoby konieczność zaniechania przez uprawnionego\nczynności ochronnych wobec osób, ważnych obiektów, urządzeń lub obszarów lub w ramach\nkonwoju lub doprowadzenia",
+        "3": "3) udzielenie pomocy osobie poszkodowanej zostało zapewnione przez inne osoby lub podmioty\nzobowiązane do jej udzielenia"
+      }
+    },
+    {
+      "paragraph": "Art. 36 ust. 3",
+      "law": "W przypadku odstąpienia od udzielenia pierwszej pomocy lub gdy osoba\nposzkodowana sprzeciwia się udzieleniu tej pomocy uprawniony zapewnia wezwanie\nkwalifikowanej pierwszej pomocy lub podmiotów świadczących medyczne czynności ratunkowe."
+    },
+    {
+      "paragraph": "Art. 36 ust. 4",
+      "law": "Uprawniony nie może odstąpić od zapewnienia udzielenia medycznych czynności\nratunkowych kobiecie ciężarnej, wobec której użyto środków przymusu bezpośredniego."
     }
   ]
 }

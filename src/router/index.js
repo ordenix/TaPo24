@@ -23,6 +23,8 @@ import Lights from '@/views/RoadsModule/Lights'
 import Towing from '@/views/RoadsModule/Towing'
 import Validation from '@/views/HelpersModule/Validation'
 import SPB from '@/views/HelpersModule/SPB'
+import InstallationInfo from '@/views/Settings/InstallationInfo'
+import UTO from '@/views/HelpersModule/UTO'
 Vue.use(VueRouter)
 
 const routes = [
@@ -140,6 +142,16 @@ const routes = [
     path: '/SPB/:status/',
     name: 'SPB',
     component: SPB
+  },
+  {
+    path: '/InstallationInfo/',
+    name: 'InstallationInfo',
+    component: InstallationInfo
+  },
+  {
+    path: '/UTO/:status/',
+    name: 'UTO',
+    component: UTO
   },
   {
     path: '/about',
