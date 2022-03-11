@@ -1,0 +1,66 @@
+{
+  "documents": [
+    {
+      "document": "",
+      "poland": "yes",
+      "ue": "yes",
+      "3": "yes"
+    }
+  ],
+  "ard": [
+    {
+      "document": "",
+      "poland": "yes",
+      "ue": "yes",
+      "3": "yes"
+    }
+  ],
+  "atp": [
+    {
+      "document": "",
+      "poland": "yes",
+      "ue": "yes",
+      "3": "yes"
+    }
+  ],
+  "animals": [
+    {
+      "document": "",
+      "poland": "yes",
+      "ue": "yes",
+      "3": "yes"
+    }
+  ],
+  "waste_list": [
+    {
+      "document": "",
+      "poland": "yes",
+      "ue": "yes",
+      "3": "yes"
+    }
+  ],
+  "waste": [
+    {
+      "document": "",
+      "poland": "yes",
+      "ue": "yes",
+      "3": "yes"
+    }
+  ],
+  "documents_waybill": [
+    {
+      "document": "",
+      "poland": "yes",
+      "ue": "yes",
+      "3": "yes"
+    }
+  ],
+  "documents_others": [
+    {
+      "document": "",
+      "poland": "yes",
+      "ue": "yes",
+      "3": "yes"
+    }
+  ]
+}

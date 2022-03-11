@@ -6,7 +6,19 @@
       <div class="htl" @click="globalGoTo('https://holdtheline.pl/','link to htl', 'web')">
         <img :src="require(`../assets/others/logo-kolor2.png`)" alt="Sign"/>
       </div>
-      <div>
+      <div class="right_slot" @click="click_on_settings">
+        <div class="dropdown">
+          <div class="avatar">
+            <i class="fa-solid fa-gear" style="padding: 0 10px 0 0"></i>
+          </div>
+          <div>
+            <div id="dropdown-content">
+              <router-link :to="{name: 'InstallationInfo'}"><div class="setting_item">Info. o wersji aplikacji</div></router-link>
+              <router-link :to="{name: 'About'}"><div class="setting_item">Kontakt</div></router-link>
+
+            </div>
+          </div>
+        </div>
       </div>
     </div>
     <div class="routeBar" v-if="true">
@@ -23,9 +35,29 @@
 <script>
 export default {
   name: 'navBar.vue',
+  data () {
+    return {
+      timer: null
+    }
+  },
   methods: {
+    clear_timeout () {
+      window.clearTimeout(this.timer)
+    },
     goto_web (path) {
       window.open(path)
+    },
+    click_on_settings () {
+      this.clear_timeout()
+      document.getElementById('dropdown-content').style.transition = 'visibility 0s linear 0s, opacity 300ms'
+      document.getElementById('dropdown-content').style.visibility = 'visible'
+      document.getElementById('dropdown-content').style.opacity = '95%'
+      this.timer = setTimeout(this.hide_drop_down, 2000)
+    },
+    hide_drop_down () {
+      document.getElementById('dropdown-content').style.transition = 'visibility 0s linear 300ms, opacity 300ms'
+      document.getElementById('dropdown-content').style.visibility = 'hidden'
+      document.getElementById('dropdown-content').style.opacity = '0'
     }
   }
 }
@@ -136,6 +168,56 @@ a {
   display: flex;
   justify-content: center;
 }
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+  width: 100%;
+}
+
+#dropdown-content {
+  display: block;
+  visibility: hidden;
+  position: absolute;
+  background-color: #293241;
+  opacity: 0;
+  width: 200px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 99;
+  border-radius: 5px;
+  right: 0;
+  margin-right: 5px;
+  padding: 10px 0;
+  transition: visibility 0s linear 300ms, opacity 300ms;
+  -webkit-transition: visibility 0s linear 300ms, opacity 300ms;
+}
+.setting_item {
+  color: #e0fbfc;
+  text-align: center;
+  background-color: rgba(61, 90, 128, 0.25);
+  padding: 10px 0;
+  margin: 5px 0;
+}
+.dropdown:hover {
+  cursor: pointer;
+}
+.dropdown:hover #dropdown-content2 {
+  display: block;
+  visibility: visible;
+  opacity: 95%;
+  transition: visibility 0s linear 0s, opacity 300ms;
+  -webkit-transition: visibility 0s linear 0s, opacity 300ms;
+}
+.avatar {
+  font-size: 33px;
+  width: 100%;
+  text-align: center;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  color: #e0fbfc;
+}
 @media only screen and (min-width: 560px) {
   .desktop {
     display: unset;
@@ -161,6 +243,11 @@ a {
   }
   .navBar2 {
     height: 90px;
+  }
+}
+@media only screen and (min-width: 680px) {
+  #dropdown-content {
+    width: 100%;
   }
 }
 </style>
