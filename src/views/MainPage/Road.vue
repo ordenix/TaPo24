@@ -21,6 +21,10 @@
         <div class="icon"><i class="fas fa-glasses"></i></div>
         <div class="label">Kody ograniczeń prawa jazdy</div>
       </div>
+      <div class="element" @click="globalGoTo('/DrivingLicenceCountry/', 'PJzag')">
+        <div class="icon"><i class="fa-solid fa-flag"></i></div>
+        <div class="label">Honorowane zagraniczne PJ </div>
+      </div>
       <div class="element" @click="globalGoTo('/DocumentHolding/', 'document holding')">
         <div class="icon"><i class="fas fa-hand-holding"></i></div>
         <div class="label">Zatrzymywanie dokumentów</div>
@@ -36,6 +40,10 @@
       <div class="element" @click="globalGoTo('/Towing/', 'Towing')">
         <div class="icon"><i class="fas fa-truck-loading"></i></div>
         <div class="label">Holowanie pojazdu</div>
+      </div>
+      <div class="element" @click="globalGoTo('/UTO/home/', 'UTO')">
+        <div class="icon"><i class="fa-brands fa-accessible-icon"></i></div>
+        <div class="label">UTO</div>
       </div>
     </div>
   </div>

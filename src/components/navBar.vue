@@ -9,7 +9,7 @@
       <div class="right_slot" @click="click_on_settings">
         <div class="dropdown">
           <div class="avatar">
-            <i class="fa-solid fa-gear"></i>
+            <i class="fa-solid fa-gear" style="padding: 0 10px 0 0"></i>
           </div>
           <div>
             <div id="dropdown-content">
@@ -215,7 +215,7 @@ a {
   height: 100%;
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: flex-end;
   color: #e0fbfc;
 }
 @media only screen and (min-width: 560px) {

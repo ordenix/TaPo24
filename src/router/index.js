@@ -25,6 +25,7 @@ import Validation from '@/views/HelpersModule/Validation'
 import SPB from '@/views/HelpersModule/SPB'
 import InstallationInfo from '@/views/Settings/InstallationInfo'
 import UTO from '@/views/HelpersModule/UTO'
+import DrivingLicenceCountry from '@/views/RoadsModule/Driving_Licence_Country'
 Vue.use(VueRouter)
 
 const routes = [
@@ -152,6 +153,11 @@ const routes = [
     path: '/UTO/:status/',
     name: 'UTO',
     component: UTO
+  },
+  {
+    path: '/DrivingLicenceCountry/',
+    name: 'DrivingLicenceCountry',
+    component: DrivingLicenceCountry
   },
   {
     path: '/about',

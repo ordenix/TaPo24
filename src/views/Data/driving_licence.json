@@ -1057,10 +1057,6 @@
   ],
   "permitted_licence": [
     {
-      "country": "Kraj",
-      "remarks": "uwagi lub samo null"
-    },
-    {
       "country": "Albania",
       "used_remarks": {
         "1": "Krajowe lub międzynarodowe prawo jazdy określone w Konwencji o ruchu drogowym sporządzonej w Wiedniu w dniu 8 listopada 1968 r.",
