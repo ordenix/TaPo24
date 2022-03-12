@@ -1,6 +1,259 @@
 {
   "transport_drogowy": [
     {
+      "nr_naruszenia": "1.1.1",
+      "nazwa": "Nieokazanie jednego z niniejszych dokumentów – za każdy dokument: wypisu z zezwolenia na wykonywanie zawodu przewoźnika drogowego",
+      "kwota": "200",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "Powiązane przepisy\tart. 87 ustawa z dnia 6 września 2001 r. o transporcie drogowym (t.j. Dz. U. z 2017 r. poz. 2200, z 2018 r. poz. 12, 79, 138, 650, 1039);\n"
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "art. 87. ust. 1 ustawy o transporcie drogowym 1. Podczas wykonywania przewozu drogowego kierowca pojazdu samochodowego, z zastrzeżeniem ust. 4, jest obowiązany mieć przy sobie i okazywać, na żądanie uprawnionego organu kontroli, a ponadto:",
+          "podpunkty": {
+            "1": "1)\twykonując transport drogowy - wypis z zezwolenia na wykonywanie zawodu przewoźnika drogowego albo wypis z licencji"
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "Przypadki (przykłady) zastosowania\tKierowca wykonujący krajowy transport drogowy rzeczy lub osób nie okazuje wymaganego dokumentu do kontroli"
+      },
+      "procedura_kontroli": "Istotnym jest, że kierowca nie okazał wymaganego dokumentu. Przy tej sankcji nie rozpatrujemy, czy został on w ten dokument wyposażony, a także czy taki dokument jest w posiadaniu przedsiębiorcy",
+      "Powiązania z załącznikami": {
+        "1": "Załącznik nr 3 ustawy o transporcie drogowym lp. 1.1.",
+        "2": "Załącznik nr 4 do ustawy o transporcie drogowym lp.1.1"
+      },
+      "Uwagi": {
+        "1": "W przypadku wykonywania transportu drogowego przez przedsiębiorców wykonujących działalność w ramach spółki cywilnej należy zażądać wypisy z zezwolenia dla każdego ze wspólników. Powyższe będzie miało zastosowanie tylko do kierowców wykonujących krajowy transport drogowy rzeczy lub osób"
+      }
+    },
+    {
+      "nr_naruszenia": "1.1.2 ",
+      "nazwa": "Nieokazanie jednego z niniejszych dokumentów – za każdy dokument: wypisu z licencji",
+      "kwota": "200",
+      "nr_grupy_naruszen": "10.2 BPN, 11.2 BPN",
+      "powiązane_przepisy": {
+        "1": "art. 87 ustawa z dnia 6 września 2001 r. o transporcie drogowym (t.j. Dz. U. z 2017 r. poz. 2200, z 2018 r. poz. 12, 79, 138, 650, 1039)",
+        "2": "art. 4 ust. 6 rozporządzenie Parlamentu Europejskiego i Rady (WE) nr 1072/2009 z dnia 21 października 2009 r. dotyczącego wspólnych zasad dostępu do rynku międzynarodowych przewozów drogowych (Dz. Urz. UE L 300 z 14.11.2009, str. 72, z późn. zm.",
+        "3": "art. 4 ust.3 rozporządzenie Parlamentu Europejskiego i Rady (WE) nr 1073/2009 z dnia 21 października 2009 r. w sprawie wspólnych zasad dostępu do międzynarodowego rynku usług autokarowych i autobusowych i zmieniającego rozporządzenie (WE) nr 561/2006,"
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "art. 87. ust. 1 ustawy o transporcie drogowym 1. Podczas wykonywania przewozu drogowego kierowca pojazdu samochodowego, z zastrzeżeniem ust. 4, jest obowiązany mieć przy sobie i okazywać, na żądanie uprawnionego organu kontroli, (…), a ponadto:",
+          "podpunkty": {
+            "1": "1) wykonując transport drogowy - wypis z zezwolenia na wykonywanie zawodu przewoźnika drogowego albo wypis z licencji"
+          }
+        },
+        {
+          "opis_główny": "art. 4 ust. 6 rozporządzenie 1072/2009 Licencja wspólnotowa wydawana jest na nazwisko/nazwę przewoźnika i nie może być przekazywana osobie trzeciej. Uwierzytelniony wypis z licencji wspólnotowej przechowywany jest w każdym z pojazdów przewoźnika i musi być okazywany na każde żądanie upoważnionego funkcjonariusza służb kontrolnych"
+        },
+        {
+          "opis_główny": "art. 4 ust.3 rozporządzenie 1073/2009 Licencja wspólnotowa jest udzielana na rzecz określonego przewoźnika i nie może być przenoszona. W każdym z pojazdów przewoźnika przechowuje się kopię licencji wspólnotowej poświadczoną za zgodność z oryginałem, która jest okazywana na żądanie upoważnionego funkcjonariusza służb kontrolnych."
+        }
+      ],
+      "przypadki": {
+        "1": "Kierowca wykonujący krajowy lub międzynarodowy transport drogowy transport drogowy rzeczy lub osób, w imieniu przedsiębiorcy krajowego lub posiadającego siedzibę na terytorium Unii Europejskiej, również w przypadku wykonywania transportu do/lub z kraju trzeciego."
+      },
+      "procedura_kontroli": "Istotnym jest, że kierowca nie okazał wymaganego dokumentu. Przy tej sankcji nie rozpatrujemy, czy został on w ten dokument wyposażony, a także czy taki dokument jest w posiadaniu przedsiębiorcy",
+      "Powiązania z załącznikami": {
+        "1": "Załącznik nr 4 do ustawy o transporcie drogowym lp. 1.2.",
+        "2": "Załącznik nr 3 do ustawy o transporcie drogowym lp. 1.1."
+      },
+      "Uwagi": {
+        "1": "W przypadku wykonywania transportu drogowego przez przedsiębiorców wykonujących działalność w ramach spółki cywilnej należy zażądać wypis z licencji dla każdego ze wspólników",
+        "2": "Należy zwrócić uwagę na treść art. 1 ust 5 rozporządzenia 1072/2009, następujące rodzaje przewozu i przejazdów bez ładunku dokonywanych w powiązaniu z takim przewozem nie wymagają posiadania licencji wspólnotowej oraz są zwolnione z wszelkich zezwoleń przewozowych:",
+        "3": "a) przewóz przesyłek pocztowych jako usługi powszechnej",
+        "4": "b) przewóz pojazdów uszkodzonych lub zepsutych",
+        "5": "c) przewóz rzeczy pojazdami silnikowymi, których dopuszczalna masa całkowita, włącznie z dopuszczalną masą całkowitą przyczep, nie przekracza 3,5 tony",
+        "6": "d) przewóz rzeczy pojazdami silnikowymi, wykonujące przewozów drogowe na potrzeby własne przy zachowaniu warunków określonych dla tych przewozów",
+        "7": "e) przewóz produktów leczniczych, urządzeń i sprzętu oraz innych artykułów niezbędnych do opieki medycznej w nagłych wypadkach, szczególnie w przypadku klęsk żywiołowych",
+        "8": "Stosownie do treści art. 1 ust. 4 rozporządzenia 1071/2009 nie wymaga się zezwolenia w drodze odstępstwa od ust. 2, o ile prawo krajowe nie stanowi inaczej, niniejsze rozporządzenie nie ma zastosowania do:",
+        "9": "a) przedsiębiorców wykonujących zawód przewoźnika drogowego rzeczy wyłącznie pojazdami silnikowymi lub zespołami pojazdów, których dopuszczalna masa całkowita nie przekracza 3,5 tony. Państwa członkowskie mogą jednak obniżyć powyższy limit dla wszystkich lub wybranych rodzajów przewozów drogowych",
+        "10": "b) przedsiębiorców wykonujących usługi drogowego transportu osób wyłącznie w celach niezarobkowych lub których główna działalność nie obejmuje drogowego transportu osób",
+        "11": "c) przedsiębiorców wykonujących zawód przewoźnika drogowego wyłącznie pojazdami silnikowymi, których maksymalna dopuszczalna prędkość nie przekracza 40 km/h.",
+        "12": "Wykonujący międzynarodowy okazjonalny przewóz osób pojazdem do 9 osób zwolniony jest z uzyskania licencji wspólnotowej",
+        "13": "W powyższych sytuacjach kierowca nie ma musi posiadać wypisu z licencji"
+      }
+    },
+    {
+      "nr_naruszenia": "1.1.3",
+      "nazwa": "Nieokazanie jednego z niniejszych dokumentów – za każdy dokument: świadectwa kierowcy",
+      "kwota": "150",
+      "nr_grupy_naruszen": "10.4 PN",
+      "powiązane_przepisy": {
+        "1": "art. 87 uts.1 pkt 4, art. 32a. ustawa z dnia 6 września 2001 r. o transporcie drogowym (t.j. Dz. U. z 2017 r. poz. 2200, z 2018 r. poz. 12, 79, 138, 650, 1039)",
+        "2": "art. 5 ust. 6 rozporządzenie Parlamentu Europejskiego i Rady (WE) nr 1072/2009 z dnia 21 października 2009 r. dotyczącego wspólnych zasad dostępu do rynku międzynarodowych przewozów drogowych (Dz. Urz. UE L 300 z 14.11.2009, str. 72, z późn. zm."
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "art. 87. ust. 1 ustawy o transporcie drogowym 1. Podczas wykonywania przewozu drogowego kierowca pojazdu samochodowego, z zastrzeżeniem ust. 4, jest obowiązany mieć przy sobie i okazywać, na żądanie uprawnionego organu kontroli, (…), a ponadto:",
+          "podpunkty": {
+            "1": "4) w międzynarodowym transporcie drogowym - świadectwo kierowcy, jeżeli jest wymagane"
+          }
+        },
+        {
+          "opis_główny": "art. 32a. ustawy o transporcie drogowym Do kierowcy niebędącego obywatelem państwa członkowskiego Unii Europejskiej, zatrudnionego przez przedsiębiorcę mającego siedzibę na terytorium Rzeczypospolitej Polskiej, wykonującego międzynarodowy transport drogowy rzeczy, stosuje się przepisy Unii Europejskiej dotyczące świadectwa kierowcy"
+        },
+        {
+          "opis_główny": "art. 5 ust. 6 rozporządzenia 1072/2009 Świadectwo jest okazywane na wniosek każdego upoważnionego funkcjonariusza służb kontrolnych"
+        }
+      ],
+      "przypadki": {
+        "1": "Przedsiębiorca unijny wykonuje międzynarodowy przewóz drogowy rzeczy z Litwy do Włoch. Kierujący pojazdem jest obywatel Białorusi, który nie jest obywatelem państwa członkowskiego ani rezydentem długoterminowym w rozumieniu dyrektywy Rady 2003/109/WE, w związku z powyższym należy zażądać od kierowcy/przedsiębiorcy okazania świadectwa kierowcy"
+      },
+      "procedura_kontroli": "Istotnym jest, że kierowca nie okazał wymaganego dokumentu. Przy tej sankcji nie rozpatrujemy, czy został on w ten dokument wyposażony, a także czy taki dokument jest w posiadaniu przedsiębiorcy",
+      "Powiązania z załącznikami": {
+        "1": "Załącznik nr 4 do ustawy o transporcie drogowym: lp.1.6.",
+        "2": "Załącznik nr 3 do ustawy o transporcie drogowym: lp. 3.3."
+      },
+      "Uwagi": {
+        "1": "W przypadku kontroli kierowców okazujących paszport „NIEOBYWATELA-BEZPAŃSTWOWCA” nie żądamy świadectwa kierowcy"
+      }
+    },
+    {
+      "nr_naruszenia": "1.1.4",
+      "nazwa": "Nieokazanie jednego z niniejszych dokumentów – za każdy dokument: wykresówki, zapisów odręcznych, wydruków, karty kierowcy, jeżeli kierowca posiada taką kartę, za bieżący dzień oraz poprzednie 28 dni",
+      "kwota": "200",
+      "nr_grupy_naruszen": "2.21 BPN, 2.22 BPN, 2.23 BPN, 2.24 BPN",
+      "powiązane_przepisy": {
+        "1": "art. 87. ust. 1, art. 89  ustawa z dnia 6 września 2001 r. o transporcie drogowym (t.j. Dz. U. z 2017 r. poz. 2200, z 2018 r. poz. 12, 79, 138, 650, 1039)",
+        "2": "art. 36 rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 165/2014 z dnia 4 lutego 2014 r. w sprawie tachografów stosowanych w transporcie drogowym i uchylającego rozporządzenie Rady (EWG) nr 3821/85 w sprawie urządzeń rejestrujących stosowanych w transporcie drogowym oraz zmieniającego rozporządzenie (WE) nr 561/2006 Parlamentu Europejskiego i Rady w sprawie harmonizacji niektórych przepisów socjalnych odnoszących się do transportu drogowego (Dz. Urz. UE L 60 z 28.02.2014, str. 1)"
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "art. 87. ust. 1 ustawy o transporcie drogowym 1. Podczas wykonywania przewozu drogowego kierowca pojazdu samochodowego, z zastrzeżeniem ust. 4, jest obowiązany mieć przy sobie i okazywać, na żądanie uprawnionego organu kontroli, kartę kierowcy, wykresówki, zapisy odręczne i wydruki z tachografu oraz zaświadczenie, o którym mowa w art. 31 ustawy z dnia 16 kwietnia 2004 r. o czasie pracy kierowców"
+        },
+        {
+          "opis_główny": "Art. 89 ust. 1 ustawy o transporcie drogowym 1. Do kontroli dokumentów, o których mowa w art. 87, oraz warunków w nich określonych, z zastrzeżeniem ust. 2, uprawnieni są:",
+          "podpunkty": {
+            "1": "1)  funkcjonariusze Policji;",
+            "2": "2)  inspektorzy Inspekcji Transportu Drogowego",
+            "3": "3)  funkcjonariusze Służby Celno-Skarbowej",
+            "4": "4)  funkcjonariusze Straży Granicznej",
+            "5": "5)  upoważnieni pracownicy zarządców dróg publicznych -z wyłączeniem dokumentów, o których mowa w art. 87 ust. 1 pkt 1 i pkt 2 lit. a i ust. 4",
+            "6": "6)  inspektorzy Państwowej Inspekcji Pracy - w odniesieniu do zapisów urządzenia rejestrującego samoczynnie prędkość jazdy oraz czas jazdy postoju",
+            "7": "7)  upoważnieni pracownicy właściwego organu, o którym mowa w art. 18 ust. 1 - w odniesieniu do przewozów regularnych i regularnych specjalnych",
+            "8": "8)  strażnicy straży gminnych - w odniesieniu do publicznego transportu zbiorowego w zakresie określonym ustawą z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym"
+          }
+        },
+        {
+          "opis_główny": "art. 36 rozporządzenia 165 1. Jeśli kierowca prowadzi pojazd wyposażony w tachograf analogowy, musi być on w stanie okazać, na każde żądanie upoważnionego funkcjonariusza służb kontrolnych:",
+          "podpunkty": {
+            "1": "(i) wykresówki z bieżącego dnia oraz wykresówki używane przez kierowcę w ciągu poprzednich 28 dni",
+            "2": "(ii)  kartę kierowcy, jeśli ją posiada; oraz",
+            "3": "(iii)  wszelkie zapisy odręczne oraz wydruki sporządzone w ciągu bieżącego dnia oraz poprzednich 28 dni zgodnie z wymaganiami niniejszego rozporządzenia oraz rozporządzenia (WE) nr 561/2006",
+            "4": "2. Jeśli kierowca prowadzi pojazd wyposażony w tachograf cyfrowy, musi być w stanie okazać, na każde żądanie upoważnionego funkcjonariusza służb kontrolnych:",
+            "5": "(i) swoją kartę kierowcy",
+            "6": "(ii)  wszelkie zapisy odręczne oraz wydruki sporządzone w ciągu bieżącego dnia oraz poprzednich 28 dni zgodnie z wymaganiami niniejszego rozporządzenia oraz rozporządzenia (WE) nr 561/2006",
+            "7": "(iii) wykresówki odpowiadające okresowi, o którym mowa w ppkt (ii), w trakcie którego prowadził on pojazd wyposażony w tachograf analogowy",
+            "8": "3. Upoważniony funkcjonariusz służb kontrolnych może sprawdzić przestrzeganie przepisów rozporządzenia (WE) nr 561/2006 poprzez analizę wykresówek, wyświetlonych, wydrukowanych lub pobranych danych zapisanych przez tachograf na karcie kierowcy, lub w przypadku ich braku, wszelkich innych dokumentów pomocniczych, usprawiedliwiających nieprzestrzeganie przepisów, jak określono między innymi w art. 29 ust. 2 i w art. 37 ust. 2 niniejszego rozporządzenia"
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "W OPRACOWANIU"
+      },
+      "procedura_kontroli": "W OPRACOWANIU",
+      "Powiązania z załącznikami": {
+        "1": "W OPRACOWANIU"
+      },
+      "Uwagi": {
+        "1": "W OPRACOWANIU"
+      }
+    },
+    {
+      "nr_naruszenia": "1.5",
+      "nazwa": "Nieokazanie jednego z niniejszych dokumentów – za każdy dokument: zezwolenia na wykonywanie regularnych przewozów osób w międzynarodowym transporcie drogowym osób lub zezwolenia na wykonywanie regularnych specjalnych przewozów w międzynarodowym transporcie drogowym osób lub wypisów z tych zezwoleń",
+      "kwota": "150",
+      "nr_grupy_naruszen": "11.4 PN",
+      "powiązane_przepisy": {
+        "1": "art.19 rozporządzenie Parlamentu Europejskiego i Rady (WE) nr 1073/2009 z dnia 21 października 2009 r. w sprawie wspólnych zasad dostępu do międzynarodowego rynku usług autokarowych i autobusowych i zmieniającego rozporządzenie (WE) nr 561/2006",
+        "2": "art.18, art.87 ustawa z dnia 6 września 2001 r. o transporcie drogowym (t.j. Dz. U. z 2017 r. poz. 2200, z 2018 r. poz. 12, 79, 138, 650, 1039)"
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "art. 5 rozporządzenia 1073/2009",
+          "podpunkty": {
+            "1": "1. Usługi regularne są powszechnie dostępne, z zastrzeżeniem, w stosownych przypadkach, obowiązku rezerwacji. Świadczenie takich usług wymaga zezwolenia zgodnie z przepisami rozdziału III",
+            "2": "2. Szczególne usługi regularne obejmują:",
+            "3": "- przewóz pracowników na trasie między miejscem pracy a miejscem zamieszkania",
+            "4": "- przewóz uczniów i studentów do i z instytucji edukacyjnej",
+            "5": "Fakt, że usługi szczególne mogą być zróżnicowane w zależności od potrzeb użytkowników, nie ma wpływu na zaliczenie ich do usług regularnych.\nŚwiadczenie szczególnych usług regularnych nie wymaga zezwolenia zgodnie z rozdziałem III, jeżeli odbywa się na podstawie umowy pomiędzy organizatorem i przewoźnikiem"
+          }
+        },
+        {
+          "opis_główny": "art. 6 rozporządzenia 1073/2009",
+          "podpunkty": {
+            "1": "1. Zezwolenia są wydawane na rzecz określonego przewoźnika i nie mogą być przenoszone. Jednakże przewoźnik, który otrzymał zezwolenie, może, za zgodą właściwego organu państwa członkowskiego, na którego terytorium znajduje się miejsce odjazdu, zwanego dalej „organem wydającym”, świadczyć usługi przez podwykonawcę. W takim przypadku w zezwoleniu wskazuje się nazwę podwykonawcy. Podwykonawca musi spełniać warunki określone w art. 3 ust. 1. Na użytek niniejszego ustępu miejsce odjazdu oznacza „jeden z przystanków końcowych usługi”.\nW przypadku przedsiębiorstw zrzeszonych do celów świadczenia usług regularnych zezwolenie jest wydawane na rzecz wszystkich przedsiębiorstw i określa nazwy wszystkich przewoźników. Zostaje ono przekazane przedsiębiorstwu zarządzającemu działalnością, natomiast pozostałe przedsiębiorstwa otrzymują kopie",
+            "2": "2. Okres ważności zezwolenia nie przekracza pięciu lat. Okres ten może zostać skrócony, albo na żądanie wnioskodawcy, albo za wzajemną zgodą właściwych organów państw członkowskich, na których terytorium pasażerowie są zabierani bądź dowożeni",
+            "3": "3. W zezwoleniu określa się:",
+            "4": "- rodzaj usługi",
+            "5": "- trasę usługi, szczególnie miejsce odjazdu i miejsce docelowe",
+            "6": "- okres ważności zezwolenia",
+            "7": "przystanki oraz rozkład jazdy",
+            "8": "4. Komisja określa wzór zezwoleń. Środki te, mające na celu zmianę innych niż istotne elementów niniejszego rozporządzenia, przyjmuje się zgodnie z procedurą regulacyjną połączoną z kontrolą, o której mowa w art. 26 ust. 2",
+            "9": "5. Zezwolenie upoważnia posiadacza lub posiadaczy do świadczenia usług regularnych na terytorium wszystkich państw członkowskich, przez które przebiega trasa usług",
+            "10": "6.Przewoźnik wykonujący usługi regularne może wykorzystać dodatkowe pojazdy w przypadkach tymczasowych i wyjątkowych. Takie dodatkowe pojazdy mogą być wykorzystywane wyłącznie na takich samych warunkach, jak określono w zezwoleniu, o którym mowa w ust. 3."
+          }
+        },
+        {
+          "opis_główny": "art. 19 rozporządzenia 1073/2009 1. Zezwolenie lub dokument kontrolny są przechowywane w pojeździe i okazywane na żądanie każdego upoważnionego funkcjonariusza służb kontrolnych"
+        },
+        {
+          "opis_główny": "art.18.1. ustawy o transporcie drogowym Wykonywanie przewozów regularnych i przewozów regularnych specjalnych wymaga zezwolenia:",
+          "podpunkty": {
+            "1": "2) w międzynarodowym transporcie drogowym:",
+            "2": "a) wydanego przez Głównego Inspektora Transportu Drogowego – dla linii komunikacyjnych wykraczających poza obszar państw członkowskich Unii Europejskiej, Konfederacji Szwajcarskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym",
+            "3": "b) wydanego przez Głównego Inspektora Transportu Drogowego lub organ innego państwa członkowskiego Unii Europejskiej, Konfederacji Szwajcarskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym – dla linii komunikacyjnych niewykraczających poza obszar tych państw"
+          }
+        },
+        {
+          "opis_główny": "treść obowiązująca od 01.01.2019r",
+          "podpunkty": {
+            "1": "2) przewozów regularnych i przewozów regularnych specjalnych w międzynarodowym transporcie drogowym – wymaga zezwolenia wydanego przez:",
+            "2": "a) Głównego Inspektora Transportu Drogowego – dla linii komunikacyjnych wykraczających poza obszar państw członkowskich Unii Europejskiej, Konfederacji Szwajcarskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym",
+            "3": "b) Głównego Inspektora Transportu Drogowego lub organ innego państwa członkowskiego Unii Europejskiej, Konfederacji Szwajcarskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym – dla linii komunikacyjnych nie wykraczających poza obszar tych państw"
+          }
+        },
+        {
+          "opis_główny": "art. 87 ustawy o transporcie drogowym ",
+          "podpunkty": {
+            "1": "1. Podczas wykonywania przewozu drogowego kierowca pojazdu samochodowego, z zastrzeżeniem ust. 4, jest obowiązany mieć przy sobie i okazywać, na żądanie uprawnionego organu kontroli, kartę kierowcy, wykresówki, zapisy odręczne i wydruki z tachografu oraz zaświadczenie, o którym mowa w art. 31 ustawy z dnia 16 kwietnia 2004 r. o czasie pracy kierowców, a ponadto",
+            "2": "2) wykonując przewóz drogowy osób",
+            "3": "a) przy wykonywaniu przewozów regularnych i regularnych specjalnych – odpowiednie zezwolenie lub wypis z zezwolenia wraz z obowiązującym rozkładem jazdy"
+          }
+        },
+        {
+          "opis_główny": "treść obowiązująca od 01.01.2019r",
+          "podpunkty": {
+            "1": "a) przy wykonywaniu przewozu regularnego specjalnego i międzynarodowego przewozu regularnego – odpowiednie zezwolenie lub wypis z zezwolenia wraz z aktualnym rozkładem jazdy i formularz jazdy, jeżeli są one wymagane"
+          }
+        }
+          ],
+      "przypadki": {
+        "1": "Kontrola drogowa: Brak możliwości ukarania za przewóz wykonany w okresie wcześniejszym, np. kontrola w momencie przejazdu po zakończeniu przewozu regularnego do bazy czy hotelu"
+      },
+      "procedura_kontroli":{
+        "1": "Powyższe ma zastosowanie jeśli mamy pewność, iż kierowca wykonywał międzynarodowy regularny lub regularny specjalny przewóz drogowy osób, zatrzymanie do kontroli miało miejsce w trakcie wykonywania tego przewozu",
+        "2": "Celowym było by zgromadzenie dodatkowych dowodów w kwestii przyczyny nieokazania dokumentu tj. przesłuchanie kierowcy",
+        "3": "Należy rozważyć wszczęcie postępowania na zarządzającego transportem w zakresie lp. 1.4. zał. nr 4"
+      },
+      "Powiązania z załącznikami": {
+        "1": "Załącznik nr 4 do ustawy o transporcie drogowym: lp. 1.4.",
+        "2": "Załącznik nr 3 do ustawy o transporcie drogowym: lp. 2.1.1."
+      },
+      "Uwagi": {
+        "1": "Zwrócić uwagę, że w przypadku przewoźnika z poza UE zawsze żądamy polskiego wypisu z zezwolenia wraz z rozkładem jazdy oraz aktualnym cennikiem",
+        "2": "W przypadku przewoźnika z UE żądamy zezwolenia lub wypisu z zezwolenia wraz z rozkładem jazdy wydanego przez właściwy organ kraju jednego z przewoźników wykonujących wspólnie przewozy",
+        "3": "Możliwa jest sytuacja (np. w przypadku świąt lub innych okresów o zwiększonym natężeniu ruchu), że przewoźnicy będą realizować większą liczbę przewozów niż posiadają wypisów z zezwoleń – wówczas zgodnie z art.6 ust.6 rozporządzenia 1073/2009 \nW takim przypadku przewoźnik zapewnia, by w pojeździe znajdowały się następujące dokumenty:",
+        "4": "a) kopia zezwolenia na świadczenie usługi regularnej",
+        "5": "b) kopia umowy między przewoźnikiem wykonującym usługę regularną a przedsiębiorstwem zapewniającym dodatkowe pojazdy lub równoważny dokument",
+        "6": "c) poświadczona za zgodność z oryginałem kopia licencji wspólnotowej wydanej przewoźnikowi udostępniającemu dodatkowe pojazdy w celu świadczenia usługi"
+      }
+    },
+    {
+      "nr_naruszenia": "",
       "nazwa": "",
       "kwota": "",
       "nr_grupy_naruszen": "",
@@ -47,7 +300,6592 @@
           }
         }
       ],
-      "przypadki": ""
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
+    },
+    {
+      "nr_naruszenia": "",
+      "nazwa": "",
+      "kwota": "",
+      "nr_grupy_naruszen": "",
+      "powiązane_przepisy": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "opis_stanu_prawnego": [
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        {
+          "opis_główny": "",
+          "podpunkty": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      ],
+      "przypadki": {
+        "1": "",
+        "2": "",
+        "3": ""
+      },
+      "procedura_kontroli": "",
+      "Powiązania z ustawą o tachografach": "",
+      "Powiązania z załącznikami": {
+        "1": ""
+      },
+      "Uwagi": {
+        "1": ""
+      }
     }
+
   ]
 }

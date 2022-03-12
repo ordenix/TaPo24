@@ -1,66 +1,354 @@
 {
   "documents": [
     {
-      "document": "",
-      "poland": "yes",
-      "ue": "yes",
-      "3": "yes"
+      "document": "Prawo Jazdy (B, C, CE, D, DE)",
+      "poland": "Tak (nie musi posiadać do kontroli)",
+      "ue": "Tak",
+      "3": "Tak"
+    },
+    {
+      "document": "Dowód tożsamości lub Paszport",
+      "poland": "Nie obowiązkowe",
+      "ue": "Tak",
+      "3": "Tak"
+    },
+    {
+      "document": "Świadectwo Kwalifikacji Zawodowej (Kod 95)",
+      "poland": "Tak",
+      "ue": "Tak ( Może być w rubryce 12 prawa jazdy albo na odrębnym blankiecie )",
+      "3": "Nie/Tak ( Chyba że kierowca zatrudniony w Unii Europejskiej – Świadectwo Kwalifikacji )"
+    },
+    {
+      "document": "Orzeczenie psychologiczne (wydane na podst. art. 39k ustawy o transporcie drogowym)",
+      "poland": "Tak ( wpis do prawo jazdy – rubryka 11 )",
+      "ue": "Tak ( wpis do prawo jazdy – rubryka 11 )",
+      "3": "Nie"
+    },
+    {
+      "document": "Orzeczenie lekarskie (na podst. art. 39j ustawy o transporcie drogowym)",
+      "poland": "Tak ( wpis do prawo jazdy – rubryka 11 )",
+      "ue": "Tak ( wpis do prawo jazdy – rubryka 11 )",
+      "3": "Nie"
+    },
+    {
+      "document": "Karta pobytu – Dla obywateli krajów 3",
+      "poland": "Nie",
+      "ue": "Tak",
+      "3": "Tak"
+    },
+    {
+      "document": "Upoważnienie (art. 71 ust. 5a - prawo do używania pojazdu przez kierującego)",
+      "poland": "Tak",
+      "ue": "Tak",
+      "3": "Tak"
     }
   ],
-  "ard": [
+  "adr": [
+    {
+      "document": "Zaświadczenie ADR",
+      "poland": "Tak",
+      "ue": "Tak",
+      "3": "Tak"
+    },
+    {
+      "document": "Instrukcja pisemna dla kierowcy (w języku zrozumiałym dla kierowcy)",
+      "poland": "Tak",
+      "ue": "Tak",
+      "3": "Tak"
+    },
+    {
+      "document": "Dokument przewozowy / CMR",
+      "poland": "Tak",
+      "ue": "Tak",
+      "3": "Tak"
+    },
+    {
+      "document": "Świadectwo dopuszczenia pojazdu",
+      "poland": "Tak",
+      "ue": "Tak",
+      "3": "Tak"
+    },
+    {
+      "document": "Protokół / Decyzja z TDT ",
+      "poland": "Tak",
+      "ue": "Nie",
+      "3": "Nie"
+    },
+    {
+      "document": "Certyfikat pakowania kontenera",
+      "poland": "Tak",
+      "ue": "Tak",
+      "3": "Tak"
+    },
     {
       "document": "",
       "poland": "yes",
       "ue": "yes",
       "3": "yes"
+    },
+    {
+      "document": "Rozładunek/Załadunek – specjalne zezwolenie właściwej władzy",
+      "poland": "Tak",
+      "ue": "Tak",
+      "3": "Tak"
+    },
+    {
+      "document": "Rozładunek/Załadunek – powiadomienie właściwej władzy",
+      "poland": "Tak",
+      "ue": "Tak",
+      "3": "Tak"
+    },
+    {
+      "document": "Świadectwo dopuszczenia osłony lub przedziału ładunkowego dla grup B i D",
+      "poland": "Tak",
+      "ue": "Tak",
+      "3": "Tak"
+    },
+    {
+      "document": "Karta charakterystyki",
+      "poland": "Tak",
+      "ue": "Tak",
+      "3": "Tak"
+    },
+    {
+      "document": "Wyposażenie indywidualne kierowcy",
+      "poland": "Tak",
+      "ue": "Tak",
+      "3": "Tak"
     }
   ],
   "atp": [
     {
-      "document": "",
-      "poland": "yes",
-      "ue": "yes",
-      "3": "yes"
+      "document": "Świadectwo zatwierdzenia środka transportu FRC/ATP",
+      "poland": "Tak",
+      "ue": "Tak",
+      "3": "Tak"
+    },
+    {
+      "document": "Świadectwo zatwierdzenia środka transportu FRC/ATP",
+      "poland": "Tak",
+      "ue": "Tak",
+      "3": "Tak"
+    },
+    {
+      "document": "Wydruk z temperaturą (jak jest drukarka)",
+      "poland": "Tak",
+      "ue": "Tak",
+      "3": "Tak"
+    },
+    {
+      "document": "Wydruk z temperaturą (jak jest drukarka)",
+      "poland": "Tak",
+      "ue": "Tak",
+      "3": "Tak"
     }
   ],
   "animals": [
     {
-      "document": "",
-      "poland": "yes",
-      "ue": "yes",
-      "3": "yes"
+      "document": "Kopie formularzy zezwoleń TYP I oraz TYP II",
+      "poland": "Tak",
+      "ue": "Tak",
+      "3": "Tak"
+    },
+    {
+      "document": "Kopie formularzy zezwoleń TYP I oraz TYP II",
+      "poland": "Tak",
+      "ue": "Tak",
+      "3": "Tak"
+    },
+    {
+      "document": "Kopia Świadectwa dopieszczenia środka transportu",
+      "poland": "Tak",
+      "ue": "Tak",
+      "3": "Tak"
+    },
+    {
+      "document": "Dziennik podróży (rozporządzenie 1/2005) – INTRA (nie dla drobiu)",
+      "poland": "Tak",
+      "ue": "Tak",
+      "3": "Tak"
+    },
+    {
+      "document": "Świadectwo zdrowia zwierząt",
+      "poland": "Tak",
+      "ue": "Tak",
+      "3": "Tak"
+    },
+    {
+      "document": "Paszporty i oznaczenia zwierząt",
+      "poland": "Tak",
+      "ue": "Tak",
+      "3": "Tak"
+    },
+    {
+      "document": "Książka / dokumentacja dezynfekcji potwierdzającej wykonanie czyszczenia pojazdu",
+      "poland": "Tak",
+      "ue": "Tak",
+      "3": "Tak"
+    },
+    {
+      "document": "Wydruk świadczący o temperaturze przestrzeni ładunkowej ",
+      "poland": "Tak",
+      "ue": "Tak",
+      "3": "Tak"
     }
   ],
   "waste_list": [
     {
-      "document": "",
-      "poland": "yes",
-      "ue": "yes",
-      "3": "yes"
+      "document": "Zezwolenie na wwóz , wywóz, tranzyt odpadów (Lista Bursztynowa) - Międzynarodowy",
+      "poland": "Tak",
+      "ue": "Tak",
+      "3": "Tak"
+    },
+    {
+      "document": "Zezwolenie na wwóz , wywóz, tranzyt odpadów (Lista Bursztynowa) - Międzynarodowy",
+      "poland": "Tak",
+      "ue": "Tak",
+      "3": "Tak"
+    },
+    {
+      "document": "Kopia dokumentów zgłoszenia transgranicznego przesyłania odpadów ",
+      "poland": "Tak",
+      "ue": "Tak",
+      "3": "Tak"
+    },
+    {
+      "document": "Kopa dokumentów zgłoszenia transgranicznego przesyłania odpadów ",
+      "poland": "Tak",
+      "ue": "Tak",
+      "3": "Tak"
     }
   ],
   "waste": [
     {
-      "document": "",
-      "poland": "yes",
-      "ue": "yes",
-      "3": "yes"
+      "document": "Załącznik nr 7 (karta przekazania)",
+      "poland": "Tak",
+      "ue": "Tak",
+      "3": "Tak"
+    },
+    {
+      "document": "Zgłoszenie do BDO",
+      "poland": "Tak",
+      "ue": "Tak",
+      "3": "Tak"
+    },
+    {
+      "document": "Nr rejestrowy BDO (zwracać uwagę na dział VII i na listę odpadów zgłoszonych do transportu)",
+      "poland": "Tak",
+      "ue": "Tak",
+      "3": "Tak"
+    },
+    {
+      "document": "Dokument potwierdzający rodzaj transportowanych odpadów oraz dane zlecającego transport odpadów, a w przypadku odbierania odpadów komunalnych od właścicieli nieruchomości rodzaj transportowanych odpadów oraz nazwę gminy, z terenu, której są odbierane odpady (art. 24 ust. 7 ustawa o odpadach):\n1)\tkarta przekazania odpadów, o której mowa w art. 67 ust. 1 pkt 1 lit. a\n2)\tfaktura sprzedaży odpadów\n3)\tpodstawowa charakterystyka odpadów, o której mowa w art. 67 ust. 2 pkt 1\n4)\tdokument dotyczący transgranicznego przemieszczania odpadów, o którym mowa w załączniku IB lub załączniku VII do rozporządzenia (WE) nr 1013/2006\n5)\tinny dokument potwierdzający rodzaj transportowanych odpadów oraz dane zlecającego transport odpadów, jeżeli transportujący odpady nie posiada dokumentów, o których mowa w pkt 1-4",
+      "poland": "Tak",
+      "ue": "Tak",
+      "3": "Tak"
     }
   ],
   "documents_waybill": [
     {
-      "document": "",
-      "poland": "yes",
-      "ue": "yes",
-      "3": "yes"
+      "document": "Dokument przewozowy (CMR)",
+      "poland": "Tak",
+      "ue": "Tak",
+      "3": "Tak"
+    },
+    {
+      "document": "Karnet TIR",
+      "poland": "Nie",
+      "ue": "Nie",
+      "3": "Tak"
+    },
+    {
+      "document": "T1 , T2 (Celny dokument)",
+      "poland": "Nie",
+      "ue": "Nie",
+      "3": "Tak"
+    },
+    {
+      "document": "Invoice / WZ",
+      "poland": "Nie",
+      "ue": "Nie",
+      "3": "Tak"
+    },
+    {
+      "document": "Faktura VAT",
+      "poland": "Tak",
+      "ue": "Tak",
+      "3": "Tak"
+    },
+    {
+      "document": "Faktura VAT",
+      "poland": "Tak",
+      "ue": "Tak",
+      "3": "Tak"
     }
   ],
   "documents_others": [
     {
-      "document": "",
-      "poland": "yes",
-      "ue": "yes",
-      "3": "yes"
+      "document": "Zezwolenie międzynarodowe jednorazowe",
+      "poland": "Tak (do/z Kraj 3)",
+      "ue": "Tak (do/z Kraj 3)",
+      "3": "Tak"
+    },
+    {
+      "document": "Zezwolenie EKMT/CEMT",
+      "poland": "Tak",
+      "ue": "Tak",
+      "3": "Tak"
+    },
+    {
+      "document": "Książka pojazdu (Zielona)",
+      "poland": "Tak",
+      "ue": "Tak",
+      "3": "Tak"
+    },
+    {
+      "document": "1. Świadectwo zgodności z wymaganiami technicznymi względem poziomu emisji spalin oraz hałasu i z wymaganiami bezpieczeństwa: „EURO IV”, „EURO V”, „EEV”, „EURO VI” (dokument koloru zielonego);\n2. Świadectwo zgodności z wymaganiami bezpieczeństwa dla przyczepy lub naczepy (dokument koloru żółtego);\n3. Zaświadczenia o sprawności technicznej dla pojazdów silnikowych oraz dla przyczepy lub naczepy",
+      "poland": "Tak",
+      "ue": "Tak",
+      "3": "Tak"
+    },
+    {
+      "document": "Licencja",
+      "poland": "Tak",
+      "ue": "Tak",
+      "3": "Nie"
+    },
+    {
+      "document": "Zezwolenie na wykonywanie zawodu przewoźnika",
+      "poland": "Tak",
+      "ue": "Nie",
+      "3": "Nie"
+    },
+    {
+      "document": "Wypis z zaświadczenia drogowego na potrzeby własne",
+      "poland": "Tak",
+      "ue": "Nie",
+      "3": "Nie"
+    },
+    {
+      "document": "Formularz jazdy (Międzynarodowy)",
+      "poland": "Tak",
+      "ue": "Tak",
+      "3": "Tak"
+    },
+    {
+      "document": "Interbus (Międzynarodowy)",
+      "poland": "Tak",
+      "ue": "Tak",
+      "3": "Tak"
+    },
+    {
+      "document": "Dokument potwierdzający aktualne badanie techniczne pojazdów",
+      "poland": "Tak",
+      "ue": "Tak",
+      "3": "Tak"
+    },
+    {
+      "document": "OC/Zielona Karta",
+      "poland": "Nie",
+      "ue": "Nie",
+      "3": "Tak"
     }
   ]
 }

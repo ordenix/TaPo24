@@ -21,7 +21,7 @@
         <div class="icon"><i class="fas fa-glasses"></i></div>
         <div class="label">Kody ograniczeń prawa jazdy</div>
       </div>
-      <div class="element" @click="globalGoTo('/DrivingLicenceCountry/', 'PJzag')">
+      <div v-if="false" class="element" @click="globalGoTo('/DrivingLicenceCountry/', 'PJzag')">
         <div class="icon"><i class="fa-solid fa-flag"></i></div>
         <div class="label">Honorowane zagraniczne PJ </div>
       </div>
