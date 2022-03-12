@@ -5,8 +5,8 @@ export default {
   ini_back: true,
   open_pdf: false,
   offline_stack_moduleName: [],
-  path_api: 'https://api2.tapo24.pl/api',
-  // path_api: 'http://localhost:8081/api',
+  // path_api: 'https://api2.tapo24.pl/api',
+  path_api: 'http://localhost:8081/api',
   selected_tariff_data: {
     options_category: 'all',
     search_text: ''
