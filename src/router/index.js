@@ -26,6 +26,8 @@ import SPB from '@/views/HelpersModule/SPB'
 import InstallationInfo from '@/views/Settings/InstallationInfo'
 import UTO from '@/views/HelpersModule/UTO'
 import DrivingLicenceCountry from '@/views/RoadsModule/Driving_Licence_Country'
+import RequiredDocuments from '@/views/Road_Transport/RequiredDocuments'
+import RoadTransportHome from '@/views/Road_Transport/Home'
 Vue.use(VueRouter)
 
 const routes = [
@@ -158,6 +160,16 @@ const routes = [
     path: '/DrivingLicenceCountry/',
     name: 'DrivingLicenceCountry',
     component: DrivingLicenceCountry
+  },
+  {
+    path: '/RoadTransportHome/',
+    name: 'RoadTransportHome',
+    component: RoadTransportHome
+  },
+  {
+    path: '/RequiredDocuments/',
+    name: 'RequiredDocuments',
+    component: RequiredDocuments
   },
   {
     path: '/about',
