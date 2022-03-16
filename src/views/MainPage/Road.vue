@@ -21,7 +21,7 @@
         <div class="icon"><i class="fas fa-glasses"></i></div>
         <div class="label">Kody ograniczeń prawa jazdy</div>
       </div>
-      <div v-if="false" class="element" @click="globalGoTo('/DrivingLicenceCountry/', 'PJzag')">
+      <div class="element" @click="globalGoTo('/DrivingLicenceCountry/', 'PJzag')">
         <div class="icon"><i class="fa-solid fa-flag"></i></div>
         <div class="label">Honorowane zagraniczne PJ </div>
       </div>
@@ -45,7 +45,7 @@
         <div class="icon"><i class="fa-brands fa-accessible-icon"></i></div>
         <div class="label">UTO</div>
       </div>
-      <div class="element" @click="globalGoTo('/RoadTransportHome/', 'Road transport')">
+      <div class="element" v-if="false" @click="globalGoTo('/RoadTransportHome/', 'Road transport')">
         <div class="icon"><i class="fa-solid fa-truck-fast"></i></div>
         <div class="label">Transport drogowy</div>
       </div>

@@ -13,5 +13,6 @@ export default {
   },
   block_ini_logo: false,
   UID: '',
-  version: ''
+  version: '',
+  speed_limit_save: ''
 }

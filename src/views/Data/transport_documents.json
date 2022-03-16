@@ -131,13 +131,7 @@
       "title_others": "Kraje 3-go świata"
     },
     {
-      "document": "Świadectwo zatwierdzenia środka transportu FRC/ATP",
-      "poland": "Tak",
-      "ue": "Tak",
-      "others": "Tak"
-    },
-    {
-      "document": "Świadectwo zatwierdzenia środka transportu FRC/ATP",
+      "document": "Świadectwo lub tabliczka zatwierdzenia środka transportu FRC/ATP",
       "poland": "Tak",
       "ue": "Tak",
       "others": "Tak"
@@ -169,7 +163,7 @@
       "others": "Tak"
     },
     {
-      "document": "Kopie formularzy zezwoleń TYP I oraz TYP II",
+      "document": "Oryginał przeszkolenia dla\nkierowców (owce, bydło, kozy,\ntucznik, drób)",
       "poland": "Tak",
       "ue": "Tak",
       "others": "Tak"

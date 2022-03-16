@@ -22,7 +22,7 @@
     />
     <RoadTransportDocumentsCard
       :data="Documents.waste"
-      title="Dokumenty odpady"
+      title="Dokumenty odpady lista zielona"
     />
     <RoadTransportDocumentsCard
       :data="Documents.documents_waybill"

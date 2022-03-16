@@ -37,6 +37,10 @@
         <div class="icon"><i class="fa-solid fa-gun"></i></div>
         <div class="label">ŚPB</div>
       </div>
+      <div v-if="false" class="element" @click="globalGoTo('/SpeedCalc/', 'SPEED CALC')">
+        <div class="icon"><i class="fa-solid fa-gauge-high"></i></div>
+        <div class="label">Kalkulator prędkości</div>
+      </div>
     </div>
   </div>
 </template>
