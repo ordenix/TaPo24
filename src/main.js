@@ -45,7 +45,6 @@ Vue.mixin({
         this.$router.push({ path: path })
       }
     },
-    // TODO: add force update and force date
     vcs: function () {
       const headers = {
         'Content-Type': 'application/json'

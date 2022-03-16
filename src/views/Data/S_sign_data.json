@@ -63,7 +63,8 @@
     {
       "name": "S-5",
       "description": "sygnalizator z sygnałami dla pieszych",
-      "path": "road_sign/S/S-5.png"
+      "path": "road_sign/S/S-5.png",
+      "link_id": 294
     },
     {
       "name": "S-6",

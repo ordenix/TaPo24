@@ -26,6 +26,11 @@ import SPB from '@/views/HelpersModule/SPB'
 import InstallationInfo from '@/views/Settings/InstallationInfo'
 import UTO from '@/views/HelpersModule/UTO'
 import DrivingLicenceCountry from '@/views/RoadsModule/Driving_Licence_Country'
+import RequiredDocuments from '@/views/Road_Transport/RequiredDocuments'
+import RoadTransportHome from '@/views/Road_Transport/Home'
+import SpeedCalc from '@/views/HelpersModule/SpeedCalc'
+import Alcohol from '@/views/RoadsModule/Alcohol'
+import Homeless from '@/views/RoadsModule/HomelessAlco'
 Vue.use(VueRouter)
 
 const routes = [
@@ -158,6 +163,31 @@ const routes = [
     path: '/DrivingLicenceCountry/',
     name: 'DrivingLicenceCountry',
     component: DrivingLicenceCountry
+  },
+  {
+    path: '/RoadTransportHome/',
+    name: 'RoadTransportHome',
+    component: RoadTransportHome
+  },
+  {
+    path: '/RequiredDocuments/',
+    name: 'RequiredDocuments',
+    component: RequiredDocuments
+  },
+  {
+    path: '/SpeedCalc/',
+    name: 'SpeedCalc',
+    component: SpeedCalc
+  },
+  {
+    path: '/Alcohol/:status/',
+    name: 'Alcohol',
+    component: Alcohol
+  },
+  {
+    path: '/Homeless/:status/',
+    name: 'Homeless',
+    component: Homeless
   },
   {
     path: '/about',
