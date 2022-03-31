@@ -317,7 +317,7 @@ export default {
               patern.law = response.data.results[i].law.raw
             } else patern.law = null
             if (response.data.results[i].sub_name) {
-              patern.sub_name = response.data.results[i].sub_name.raw
+              patern.sub_name = JSON.parse(response.data.results[i].sub_name.raw)
             } else patern.sub_name = null
             if (response.data.results[i].max_speed) {
               patern.max_speed = response.data.results[i].max_speed.raw

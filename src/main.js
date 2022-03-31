@@ -39,13 +39,12 @@ Vue.mixin({
       if (type === 'web') {
         window.open(path)
       } else {
-        if (navigator.onLine && !this.$store.state.alert_show) {
+        if (navigator.onLine) {
           this.vcs()
         }
         this.$router.push({ path: path })
       }
     },
-    // TODO: add force update and force date
     vcs: function () {
       const headers = {
         'Content-Type': 'application/json'
@@ -54,10 +53,35 @@ Vue.mixin({
         .get(this.$store.state.path_api + '/installation/get_last_versions', { headers })
         .then(response => {
           if (this.$store.state.version !== response.data.version_number) {
-            alert('Na serwerze produkcyjnym znaleziono nowszą wersję aplikacji, aby ją pobrać zrestartuj aplikację (zakończ działanie aplikacji w tle)')
-            this.$store.state.alert_show = true
+            if (response.data.force_update === true) {
+              alert('Na serwerze produkcyjnym znaleziono nowszą wersję aplikacji, która jest wdrożona automatycznie. Nastąpi restart aplikacji')
+              setTimeout(this.force_update, 3000)
+            } else {
+              if (response.data.date_force_update === 0) {
+                if (this.$store.state.alert_show === false) {
+                  alert('Na serwerze produkcyjnym znaleziono nowszą wersję aplikacji, aby ją pobrać zrestartuj aplikację (zakończ działanie aplikacji w tle)')
+                  this.$store.state.alert_show = true
+                }
+              } else {
+                const current = new Date()
+                const timestamp = response.data.date_force_update * 1000
+                const dateUpdate = new Date(timestamp)
+                if (timestamp > current.getTime()) {
+                  if (this.$store.state.alert_show === false) {
+                    alert('Na serwerze produkcyjnym znaleziono nowszą wersję aplikacji, aby ją pobrać zrestartuj aplikację (zakończ działanie aplikacji w tle). UWAGA: auto aktualizacja nastąpi:' + dateUpdate.toLocaleString('pl-PL', { weekday: 'long' }) + dateUpdate.toLocaleString('pl-PL'))
+                  }
+                  this.$store.state.alert_show = true
+                } else {
+                  alert('Na serwerze produkcyjnym znaleziono nowszą wersję aplikacji, która jest wdrożona automatycznie. Nastąpi restart aplikacji')
+                  this.force_update()
+                }
+              }
+            }
           }
         })
+    },
+    force_update: function () {
+      window.location.reload(true)
     }
   }
 })

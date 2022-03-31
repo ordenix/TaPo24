@@ -1,0 +1,225 @@
+{
+  "alkohol_array": [
+    {
+      "number_step": "0",
+      "question": "Czy kierujący zgadza się na poddanie badaniu na zawartość alkoholu w wydychanym powietrzu.?",
+      "answer_1": "Tak (minimum 15 minut od spożywania alkoholu/palenia)",
+      "step_answer_1": "1",
+      "answer_2": "Nie",
+      "step_answer_2": "2"
+    },
+    {
+      "number_step": "1",
+      "question": "Jakim urządzeniem będzie prowadzone badanie?",
+      "answer_1": "Utlenianie elektrochemiczne (np AS IV, Alcoquant, AlcoTrue P)",
+      "step_answer_1": "3",
+      "answer_2": "Spektrometrii w podczerwieni (np Alkometr, Drager 9510 IR)",
+      "step_answer_2": "11"
+    },
+    {
+      "number_step": "2",
+      "question": "Badanie krwi",
+      "final_step": true,
+      "answer_1": "xxxxxxxxxxx",
+      "to_do_list": {
+        "0": "§8 ust. 1 pkt. 1 rozp. ws. badań na zawartość alkoholu w organizmie"
+      },
+      "step_answer_1": "xxxxx",
+      "answer_2": "Nie, był tylko kierowca",
+      "step_answer_2": "xxxx"
+    },
+    {
+      "number_step": "3",
+      "question": "Jaki jest wynik I badania?",
+      "answer_1": "powyżej 0.00 mg/l",
+      "step_answer_1": "5",
+      "answer_2": "0.00 mg/l",
+      "step_answer_2": "4"
+    },
+    {
+      "number_step": "4",
+      "question": "Osoba trzeźwa",
+      "final_step": true,
+      "answer_1": "xxxxxxxxxxxxxxx",
+      "step_answer_1": "xxxxxxxxxxxxxxxxxxxxxxx",
+      "answer_2": "xxxxxxxxxxxxxxxxxxxxxx",
+      "step_answer_2": "xxxxxxxxxxxxxxxxxxxxx"
+    },
+    {
+      "number_step": "5",
+      "question": "Dokonaj 2 pomiaru po upływie 15 minut, pamiętając aby użyć nowego ustnika. Jaki jest wynik 2 badania?",
+      "answer_1": "2 badanie jest większe od 0.00 mg/l",
+      "step_answer_1": "8",
+      "answer_2": "2 badanie wynosi 0.00 mg/l",
+      "step_answer_2": "6"
+    },
+    {
+      "number_step": "6",
+      "question": "Czy 1 badanie wynosiło co najmniej 0.10 mg/l",
+      "answer_1": "Tak",
+      "step_answer_1": "7",
+      "answer_2": "Nie",
+      "step_answer_2": "4"
+    },
+    {
+      "number_step": "7",
+      "question": "Niezwłocznie dokonujemy 3 badania. Jeżeli wynik 3 badania wynosi 0,00 mg/l to badanie nie wskazuje na stan po użyciu alkoholu",
+      "final_step": true,
+      "answer_1": "xxxxxxxxxxxxxxx",
+      "step_answer_1": "xxxxxxxxxxxxxxxxxxxxxxx",
+      "answer_2": "xxxxxxxxxxxxxxxxxxxxxx",
+      "step_answer_2": "xxxxxxxxxxxxxxxxxxxxx"
+    },
+    {
+      "number_step": "8",
+      "question": "",
+      "answer_1": "Jeden z 2 wyników wynosi od 0,10 mg/l do 0,25 mg/l a drugi od 0,01 mg/l do 0,25 mg/l",
+      "step_answer_1": "9",
+      "answer_2": "Jeden z 2 wyników wynosi od 0,26 mg/l a drugi wynosi co najmniej 0,01 mg/l",
+      "step_answer_2": "10"
+    },
+    {
+      "number_step": "9",
+      "question": "Stan po użyciu alkoholu",
+      "final_step": true,
+      "answer_1": "xxxxxxxxxxxxxxx",
+      "step_answer_1": "xxxxxxxxxxxxxxxxxxxxxxx",
+      "answer_2": "xxxxxxxxxxxxxxxxxxxxxx",
+      "step_answer_2": "xxxxxxxxxxxxxxxxxxxxx"
+    },
+    {
+      "number_step": "10",
+      "question": "Stan nietrzeźwości. Jeżeli zachodzi uzasadnione podejrzenie popełnienia przestępstwa należy przeprowadzić badanie metodą spektrometrii w podczerwieni",
+      "final_step": true,
+      "answer_1": "xxxxxxxxxxxxxxx",
+      "step_answer_1": "xxxxxxxxxxxxxxxxxxxxxxx",
+      "answer_2": "xxxxxxxxxxxxxxxxxxxxxx",
+      "step_answer_2": "xxxxxxxxxxxxxxxxxxxxx"
+    },
+    {
+      "number_step": "11",
+      "question": "Jaki jest wynik I badania?",
+      "answer_1": "powyżej 0.00 mg/l",
+      "step_answer_1": "12",
+      "answer_2": "0.00 mg/l",
+      "step_answer_2": "4"
+    },
+    {
+      "number_step": "12",
+      "question": "Niezwłocznie przeprowadza się 2 badanie.",
+      "answer_1": "2 badanie wynosi ponad 0,00 mg/l",
+      "step_answer_1": "13",
+      "answer_2": "2 badanie wynosi 0,00 mg/l",
+      "step_answer_2": "6"
+    },
+    {
+      "number_step": "13",
+      "question": "",
+      "answer_1": "Jeden z 2 wyników wynosi od 0,10 mg/l do 0,25 mg/l a drugi od 0,01 mg/l do 0,25 mg/l",
+      "step_answer_1": "14",
+      "answer_2": "Jeden z 2 wyników wynosi od 0,26 mg/l a drugi wynosi co najmniej 0,01 mg/l",
+      "step_answer_2": "15"
+    },
+    {
+      "number_step": "14",
+      "question": "Stan po użyciu alkoholu",
+      "final_step": true,
+      "answer_1": "xxxxxxxxxxxxxxx",
+      "step_answer_1": "xxxxxxxxxxxxxxxxxxxxxxx",
+      "answer_2": "xxxxxxxxxxxxxxxxxxxxxx",
+      "step_answer_2": "xxxxxxxxxxxxxxxxxxxxx"
+    },
+    {
+      "number_step": "15",
+      "question": "Stan nietrzeźwości",
+      "final_step": true,
+      "answer_1": "xxxxxxxxxxxxxxx",
+      "step_answer_1": "xxxxxxxxxxxxxxxxxxxxxxx",
+      "answer_2": "xxxxxxxxxxxxxxxxxxxxxx",
+      "step_answer_2": "xxxxxxxxxxxxxxxxxxxxx"
+    }
+  ],
+  "homeless_array": [
+    {
+      "number_step": "0",
+      "question": "Jeżeli osoba podejrzana o popełnienie przestępstwa lub wykroczenia oddaliła się z miejsca zdarzenia przed badaniem jej stanu trzeźwości, a następnie została zatrzymana albo sama zgłosiła się do uprawnionego organu powołanego do ochrony porządku publicznego należy dokonać badania analizatorem wydechu. Dotyczy również osoby która nie oddaliła się z miejsca zdarzenia, ale zachodzi podejrzenie spożycia przez nią alkoholu po zdarzeniu. Czy osoba ta zgadza się na poddanie badaniu na zawartość alkoholu w wydychanym powietrzu.? ",
+      "answer_1": "Tak (minimum 15 minut od spożywania alkoholu/palenia)",
+      "step_answer_1": "1",
+      "answer_2": "Nie",
+      "step_answer_2": "7"
+    },
+    {
+      "number_step": "1",
+      "question": "Jakim urządzeniem będzie prowadzone badanie?",
+      "answer_1": "Utlenianie elektrochemiczne (np AS IV, Alcoquant, AlcoTrue P)",
+      "step_answer_1": "5",
+      "answer_2": "Spektrometrii w podczerwieni (np Alkometr, Drager 9510 IR)",
+      "step_answer_2": "2"
+    },
+    {
+      "number_step": "2",
+      "question": "Jaki jest wynik I badania?",
+      "answer_1": "powyżej 0.00 mg/l",
+      "step_answer_1": "4",
+      "answer_2": "0.00 mg/l",
+      "step_answer_2": "3"
+    },
+    {
+      "number_step": "3",
+      "question": "Osoba trzeźwa",
+      "final_step": true,
+      "answer_1": "powyżej 0.00 mg/l",
+      "step_answer_1": "5",
+      "answer_2": "0.00 mg/l",
+      "step_answer_2": "4"
+    },
+    {
+      "number_step": "4",
+      "question": "Niezwłocznie dokonuje się 2 pomiaru tym samym analizatorem wydechu.",
+      "final_step": true,
+      "to_do_list": {
+        "0": "Po upływie 30 minut przeprowadzamy trzeci pomiar",
+        "1": "Po upływie kolejnych 30 minut przeprowadzamy czwarty (ostatni pomiar)"
+      },
+      "answer_1": "",
+      "step_answer_1": "5",
+      "answer_2": "0.00 mg/l",
+      "step_answer_2": "4"
+    },
+    {
+      "number_step": "5",
+      "question": "Jaki jest wynik I badania?",
+      "answer_1": "powyżej 0.00 mg/l",
+      "step_answer_1": "6",
+      "answer_2": "0.00 mg/l",
+      "step_answer_2": "3"
+    },
+    {
+      "number_step": "6",
+      "question": "",
+      "final_step": true,
+      "to_do_list": {
+        "0": "Niezwłocznie dokonuje się 2-óch pomiarów analizatorem wydechu działającym na zasadzie spektrometrii w podczerwieni (np Alkometr, Drager 9510 IR)",
+        "1": "Po upływie 30 minut przeprowadzamy trzeci pomiar (urządzeniem powyżej)",
+        "2": "Po upływie kolejnych 30 minut przeprowadzamy czwarty (ostatni pomiar, urządzeniem powyżej)",
+        "3": "Sporządza się 2 odrębne protokoły"
+      },
+      "answer_1": "powyżej 0.00 mg/l",
+      "step_answer_1": "6",
+      "answer_2": "0.00 mg/l",
+      "step_answer_2": "3"
+    },
+    {
+      "number_step": "7",
+      "question": "Badanie krwi",
+      "final_step": true,
+      "answer_1": "xxxxxxxxxxx",
+      "to_do_list": {
+        "0": "§8 ust. 2 rozp. ws. badań na zawartość alkoholu w organizmie"
+      },
+      "step_answer_1": "xxxxx",
+      "answer_2": "Nie, był tylko kierowca",
+      "step_answer_2": "xxxx"
+    }
+  ]
+}

@@ -22,3 +22,21 @@
 .button_label {
   margin-right: 5px;
 }
+
+.input {
+  width: auto;
+  padding: 10px 16px;
+  border: 1px solid transparent;
+  background: #edf2f7;
+  line-height: 1.5em;
+  outline: none;
+  border-radius: 8px;
+  margin-left: 0;
+}
+.input:focus {
+  background: #fff;
+  border-color: #e2e8f0;
+}
+.input::placeholder{
+  opacity: 0.7;
+}
