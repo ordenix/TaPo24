@@ -7,8 +7,6 @@
     <div class="title">TWÓRCY:</div>
     <div class="authors">Jakub Drzymała front-end developer</div> <div class="contact"> jakubdrzmala95@gmail.com</div>
     <div class="authors">Damian Wieszołek social media,  data management specialist</div> <div class="contact">damianwieszolek@gmail.com</div>
-    <div class="authors" @click="goto_web('https://www.instagram.com/jakub.leo/')">Jakub Buława grafika </div> <div class="contact" @click="goto_web('https://www.instagram.com/jakub.leo/')"><i class="fab fa-instagram"></i>Instagram</div>
-    <div class="authors">Jakub Sikorski grafika </div> <div class="contact">jakubsikorski04@gmail.com</div>
   </div>
 </template>
 <script>

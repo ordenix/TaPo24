@@ -6194,6 +6194,17 @@
       "path": null
     },
     {
+      "category": "accident",
+      "name": "Stworzenie zagrożenia bezpieczeństwa innej osoby poza drogą publiczną, strefą zamieszkania lub strefą ruchu",
+      "text": "art. 98 KW",
+      "tax": "20-5000",
+      "points": 0,
+      "code": "Z 01",
+      "law": "art. 98 KW Kto, prowadząc pojazd poza drogą publiczną, strefą zamieszkania lub strefą ruchu, nie zachowuje należytej ostrożności, czym zagraża bezpieczeństwu innej osoby,\npodlega karze grzywny albo karze nagany",
+      "paragraph": "",
+      "path": null
+    },
+    {
       "info_tab_a_lp": "1",
       "category": "prevention",
       "name": "Zakłócenie spokoju, porządku publicznego, spoczynku nocnego albo wywoływanie\nzgorszenia w miejscu publicznym",
