@@ -553,6 +553,7 @@ export default {
 }
 .new_search2{
   width: 100%;
+  padding: 10px;
 }
 .new_select {
   margin-bottom: 5px;

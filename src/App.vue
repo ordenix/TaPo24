@@ -156,8 +156,8 @@ video{
   position: sticky;
   position: -webkit-sticky;
   top: 110px; /* required */
-  background-color: #EE6C4D;
-  padding: 10px 10px;
+  padding: 15px 15px;
+  border-radius: 15px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -170,10 +170,10 @@ video{
  }
 @media only screen and (min-width: 560px) {
   #search_top_bar2 {
-  top: 90px;
+  top: 120px;
   }
   #view {
-    margin-top: 90px;
+    margin-top: 120px;
   }
   .search_top_bar2--hidden {
     transform: translateY(-90px);

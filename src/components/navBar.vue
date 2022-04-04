@@ -184,6 +184,7 @@ a {
   position: relative;
   display: inline-block;
   width: 100%;
+  padding: 5px;
 }
 
 #dropdown-content {
