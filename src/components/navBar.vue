@@ -2,6 +2,15 @@
   <div class="navBar2">
     <div class="header">
       <div class="ico_logo">
+          <div class="tapo" @click="globalGoTo('https://tapo24.pl','link to tapo', 'web')">
+        <img :src="require(`../assets/others/tapo24.png`)" style="padding: 5px; width: 68px; height: 84px;" alt="Sign"/>
+      </div>
+      <div class="socialfb" @click="globalGoTo('https://www.facebook.com/TaPo24/','link to fb', 'web')">
+        <img :src="require(`../assets/others/facebook.png`)" style="padding: 5px; width: 32px; height: 32px; margin-top: 10px;" alt="Sign"/>
+      </div>
+       <div class="socialig" @click="globalGoTo('https://www.instagram.com/tapo24.pl/','link to ig', 'web')">
+        <img :src="require(`../assets/others/instagram.png`)" style="width: 32px; height: 32px; margin-top: 10px; background: #fff; border-radius: 12px;" alt="Sign"/>
+      </div>
       </div>
       <div class="htl" @click="globalGoTo('https://holdtheline.pl/','link to htl', 'web')">
         <img :src="require(`../assets/others/logo-kolor2.png`)" alt="Sign"/>
@@ -9,7 +18,7 @@
       <div class="right_slot" @click="click_on_settings">
         <div class="dropdown">
           <div class="avatar">
-            <i class="fa-solid fa-gear" style="padding: 0 10px 0 0"></i>
+            <i class="fa-solid fa-gear" style="height: 25px; padding: 0 10px 0 0"></i>
           </div>
           <div>
             <div id="dropdown-content">
@@ -67,13 +76,12 @@ export default {
 .navbar2 {
   display: flex;
   flex-wrap: wrap;
-  background-color: #3D5A80;
-  padding: 0;
+  padding: 15px 15px 15px;
   justify-content: center;
-  top: 0;
+  top: 10%;
   left: 0;
   width: 100%;
-  height: 72px;
+  height: 102px;
 }
 .navBar2 {
   display: flex;
@@ -82,17 +90,18 @@ export default {
   left: 0;
   width: 100%;
   height: 112px;
-  background-color: #3D5A80;
 }
 .routeBar {
   display: grid;
   grid-template-columns: repeat(4, minmax(0, 1fr));
   grid-template-rows: auto;
-  grid-gap: 3px;
+  grid-gap: 5px;
   justify-content: center;
-  background-color: #3D5A80;
   padding: 0;
-  width: 100%;
+  width: 80%;
+  left: 50%;
+  transform: translate(13%, -45%);
+  color: #fffafa;
   /*height: 72px;*/
 }
 .desktop {
@@ -103,6 +112,7 @@ a {
   text-decoration: unset;
 }
 .htl > img {
+  margin-top: 33px;
   width: 150px;
   height: 39px;
 }
@@ -130,7 +140,7 @@ a {
   font-size: 15px;
 }
 .nav_element_selected {
-  background-color: #98C1D9;
+  background-color: #000000;
   margin: 8px 2px;
   min-width: 10px;
   padding: 6px 5px;
@@ -149,10 +159,10 @@ a {
 }
 
 .nav_element:hover {
-  background-color: #e0fbfc;
+  background-color: #3d5a80;
 }
 .nav_element_selected:hover {
-  background-color: #e0fbfc;
+  background-color: #3d5a80;
 }
 .header {
   display: grid;
@@ -162,6 +172,7 @@ a {
   justify-content: center;
   background-color: #3D5A80;
   padding: 0;
+  border-bottom: solid 2px #ee6c4d;
   width: 100%;
 }
 .header > div {

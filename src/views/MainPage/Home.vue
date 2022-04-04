@@ -141,9 +141,10 @@ export default {
   width: 100%;
   padding: 8px;
   border-radius: 8px;
-  font-family: 'Readex Pro', sans-serif;
-  color: #98C1D9;
+  font-family: 'Readex Pro', sans-serif, 'FontAwesome';
+  color: #fffafa;
   margin: 10px 10px;
+  font-size: 13px;
 }
 .version {
   float: right;
@@ -152,8 +153,8 @@ export default {
   color: black;
 }
 .date {
-  font-size: 15px;
-  color: black;
+  font-size: 10px;
+  color: #fffafa;
 }
 .title {
   font-weight: bold;
