@@ -45,6 +45,10 @@ export default {
   padding: 8px;
   border-radius: 8px;
   margin: 120px 10px 10px;
+  max-width: 1080px;
+  top: 20%;
+  margin: 0 auto !important;
+  float: none !important;
 }
 .authors {
   color: #e0fbfc;

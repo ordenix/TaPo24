@@ -417,6 +417,9 @@ export default {
   margin: 8px;
   height: 100%;
   position: unset;
+  max-width: 1080px;
+  margin: 0 auto !important;
+  float: none !important;
 }
 .footer_container{
   color: #e0fbfc;

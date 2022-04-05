@@ -139,7 +139,7 @@ a {
   font-family: 'Readex Pro', sans-serif;
   font-size: 15px;
 }
-.nav_element_selected {
+  .nav_element_selected{
   background-color: #000000;
   margin: 8px 2px;
   min-width: 10px;
@@ -255,6 +255,14 @@ a {
   }
   .navBar2 {
     height: 90px;
+  }
+}
+@media only screen and (max-width: 580px){
+  .nav_element{
+    font-size: 12px;
+  }
+  .nav_element_selected {
+     font-size: 12px;
   }
 }
 @media only screen and (min-width: 680px) {
