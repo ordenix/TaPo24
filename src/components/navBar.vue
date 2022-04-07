@@ -3,7 +3,7 @@
     <div class="header">
       <div class="ico_logo">
           <div class="tapo" @click="globalGoTo('https://tapo24.pl','link to tapo', 'web')">
-        <img :src="require(`../assets/others/tapo24.png`)" style="padding: 5px; width: 68px; height: 84px;" alt="Sign"/>
+        <img :src="require(`../assets/others/tapo24.png`)" style="padding: 5px; width: 84px; height: 84px;" alt="Sign"/>
       </div>
       <div class="socialfb" @click="globalGoTo('https://www.facebook.com/TaPo24/','link to fb', 'web')">
         <img :src="require(`../assets/others/facebook.png`)" style="padding: 5px; width: 32px; height: 32px; margin-top: 10px;" alt="Sign"/>

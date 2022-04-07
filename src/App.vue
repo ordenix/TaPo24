@@ -154,7 +154,7 @@ video{
   margin-top: 112px;
 }
 #search_top_bar2 {
-  background-color: #293241ce;
+  background-color: #293241b7;
   position: sticky;
   position: -webkit-sticky;
   max-width: 450px;
@@ -162,7 +162,7 @@ video{
   left: 50%;
   top: 110px; /* required */
   padding: 15px 15px;
-  border-radius: 15px;
+  border-radius: 5px;
   display: flex;
   align-items: center;
   justify-content: center;

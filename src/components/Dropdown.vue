@@ -116,14 +116,15 @@ export default {
   z-index: 1000;
 }
 .dropdown-input2, .dropdown-selected2{
-  width: 100%;
   cursor: pointer;
-  padding: 10px 16px;
+  padding: 12px 8px;
+  width: 100%;
   border: 1px solid transparent;
   background: #edf2f7;
   line-height: 1.5em;
   outline: none;
-  border-radius: 8px;
+  border-top-left-radius: 8px;
+  border-bottom-left-radius: 8px;
   margin-left: 0;
 }
 .dropdown-input2:focus, .dropdown-selected2:hover{
@@ -138,12 +139,14 @@ export default {
   cursor: pointer;
 }
 #dropdown-list2{
+  font-family: 'Montserrat', sans-serif;
+  color: #9fa3b1;
   position: absolute;
   width: 100%;
-  max-height: 300px;
+  max-height: 400px;
   overflow: auto;
   margin-top: 4px;
-  background: #ffffff;
+  background: #edf2f7;
   box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
   border-radius: 8px;
   visibility: hidden;
@@ -157,13 +160,20 @@ export default {
 }
 button {
   position: absolute;
-  border-radius: 5px;
   right: 0;
   z-index: 2;
   border: none;
-  height: 100%;
+  border-right: 2px solid #9fa3b1;
+  top: 15%;
+  height: 70%;
   cursor: pointer;
-  color: black;
+  color: #3d5a80;
+  background: #edf2f7;
   transform: translateX(2px);
+}
+@media only screen and (min-width: 560px) {
+  .dropdown-input2, .dropdown-selected2 {
+  margin-right: 105px;
+  }
 }
 </style>
