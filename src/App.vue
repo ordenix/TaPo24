@@ -182,9 +182,14 @@ video{
 @media only screen and (min-width: 560px) {
   #search_top_bar2 {
   top: 120px;
+  border-radius: 15px;
   }
   #view {
-    margin-top: 120px;
+    margin-top: 120px !important;
+    max-width: 1080px;
+    margin: 10px auto;
+    float: none !important;
+    padding: 15px 15px 15px;
   }
   .search_top_bar2--hidden {
     transform: translateY(-90px);

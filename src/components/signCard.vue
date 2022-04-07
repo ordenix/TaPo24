@@ -38,7 +38,6 @@ img {
   border-radius: 2px;
   font-family: $text-family;
   color: $text;
-
 }
 .formatter {
   padding: 10px 5px;

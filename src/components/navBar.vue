@@ -5,15 +5,17 @@
           <div class="tapo" @click="globalGoTo('https://tapo24.pl','link to tapo', 'web')">
         <img :src="require(`../assets/others/tapo24.png`)" style="padding: 5px; width: 84px; height: 84px;" alt="Sign"/>
       </div>
-      <div class="socialfb" @click="globalGoTo('https://www.facebook.com/TaPo24/','link to fb', 'web')">
-        <img :src="require(`../assets/others/facebook.png`)" style="padding: 5px; width: 32px; height: 32px; margin-top: 10px;" alt="Sign"/>
+      <ul class="social">
+      <div class="social facebook" @click="globalGoTo('https://www.facebook.com/TaPo24/','link to fb', 'web')">
+       <li class="icon social facebook"><span><i class="fab fa-facebook-f"></i></span></li>
       </div>
-       <div class="socialig" @click="globalGoTo('https://www.instagram.com/tapo24.pl/','link to ig', 'web')">
-        <img :src="require(`../assets/others/instagram.png`)" style="width: 32px; height: 32px; margin-top: 10px; background: #fff; border-radius: 12px;" alt="Sign"/>
+       <div class="social instagram" @click="globalGoTo('https://www.instagram.com/tapo24.pl/','link to ig', 'web')">
+        <li class="icon social instagram"><span><i class="fab fa-instagram"></i></span></li>
       </div>
+      </ul>
       </div>
       <div class="htl" @click="globalGoTo('https://holdtheline.pl/','link to htl', 'web')">
-        <img :src="require(`../assets/others/logo-kolor2.png`)" alt="Sign"/>
+        <img :src="require(`../assets/others/logo-kolor2.png`)" style="" alt="Sign"/>
       </div>
       <div class="right_slot" @click="click_on_settings">
         <div class="dropdown">
@@ -140,7 +142,8 @@ a {
   font-size: 15px;
 }
   .nav_element_selected{
-  background-color: #000000;
+  background-color: #3d5a80;
+  box-shadow: 0 0 0.3em #ee6c4d;
   margin: 8px 2px;
   min-width: 10px;
   padding: 6px 5px;
@@ -148,6 +151,7 @@ a {
   text-align: center;
   font-family: 'Readex Pro', sans-serif;
   font-size: 15px;
+  transform: scale(0.95);
 }
 .logo {
   left: 0;
@@ -160,6 +164,7 @@ a {
 
 .nav_element:hover {
   background-color: #3d5a80;
+  transform: scale(1.07);
 }
 .nav_element_selected:hover {
   background-color: #3d5a80;
@@ -228,7 +233,58 @@ a {
   display: flex;
   align-items: center;
   justify-content: flex-end;
-  color: #e0fbfc;
+  color: #ee6c4d;
+}
+.social{
+  display: inline-flex;
+  list-style: none;
+}
+.social .icon{
+  position: relative;
+  background: #3D5A80;
+  color: #ee6c4d;
+  border-radius: 50%;
+  padding: 5px;
+  width: 15px;
+  height: 15px;
+  font-size: 18px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  box-shadow: 0 10px 10px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+  transition: all 0.2s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+}
+.social .tooltip{
+  position: absolute;
+  margin-top: 15px;
+  font-size: 14px;
+  background: #ffffff;
+  color: #000;
+  padding: 5px 8px;
+  border-radius: 5px;
+  box-shadow: 0 10px 10px rgba(0, 0, 0, 0.1);
+  opacity: 0;
+  pointer-events: none;
+  transition: all 0.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+}
+.social .tooltip:before{
+  position: absolute;
+  content: "";
+  height: 8px;
+  width: 8px;
+  background: transparent;
+  bottom: -3px;
+  left: 50%;
+  transform: translate(-20%) rotate(45deg);
+  transition: all 0.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+}
+.social .icon:hover .tooltip{
+  top: -45px;
+  opacity: 1;
+  visibility: visible;
+  pointer-events: auto;
 }
 @media only screen and (min-width: 560px) {
   .desktop {
@@ -263,6 +319,9 @@ a {
   }
   .nav_element_selected {
      font-size: 12px;
+  }
+  .social .icon{
+    left: -115%;
   }
 }
 @media only screen and (min-width: 680px) {

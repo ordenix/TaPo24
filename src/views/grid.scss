@@ -12,6 +12,7 @@
   float: none !important;
 }
 .element {
+  color: #e1dada;
   background-color: #EE6C4D;
   height: 100px;
   padding: 3px 3px;
@@ -23,7 +24,8 @@
   font-family: 'Readex Pro', sans-serif;
 }
 .element:hover {
-  background-color: #98C1D9;
+  background-color: #3d5a80;
+  transform: scale(0.95);
 }
 .icon {
   font-size: 30px;
