@@ -130,7 +130,7 @@ export default {
 
 <style scoped lang="scss">
 .view2 {
-  padding: 8px;
+  padding: 8px 25px;
   display: flex;
   flex-wrap: wrap;
   flex-direction: column;
