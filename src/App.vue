@@ -157,7 +157,7 @@ video{
   background-color: #293241b7;
   position: sticky;
   position: -webkit-sticky;
-  top: 0px; /* required */
+  top: 0; /* required */
   padding: 15px 15px;
   border-radius: 5px;
   display: flex;
@@ -172,19 +172,19 @@ video{
  }
 @media only screen and (max-width: 560px){
   #search_top_bar2 {
-  left: 70%;
-  transform: translate(0%, 0%);
+    top: 125px;
+    border-radius: 15px;
   }
 }
 @media only screen and (min-width: 560px) {
   #search_top_bar2 {
-  top: 120px;
+  top: 125px;
   border-radius: 15px;
   }
   #view {
     margin-top: 120px !important;
     float: none !important;
-    padding: 15px 0px 15px;
+    padding: 15px 0 15px;
   }
 }
 </style>
