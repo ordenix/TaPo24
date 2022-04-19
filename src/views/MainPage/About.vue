@@ -5,8 +5,10 @@
       TaPo24 jest dedykowaną aplikacją dla kierowców, pracowników MSWiA w Polsce. Aktualnie posiada moduł taryfikatora docelowo mają być zaimplementowane dodatkowe moduły wykorzystywane w codziennych czynnościach "na drodze"
     </div>
     <div class="title">TWÓRCY:</div>
-    <div class="authors">Jakub Drzymała front-end developer</div> <div class="contact"> jakubdrzmala95@gmail.com</div>
+    <div class="authors">Jakub Drzymała project manager, front-end developer</div> <div class="contact"> jakubdrzmala95@gmail.com</div>
     <div class="authors">Damian Wieszołek social media,  data management specialist</div> <div class="contact">damianwieszolek@gmail.com</div>
+    <div class="authors">Jakub Knap front-end developer</div> <div class="contact"> knapek14@gmail.com </div>
+
   </div>
 </template>
 <script>
