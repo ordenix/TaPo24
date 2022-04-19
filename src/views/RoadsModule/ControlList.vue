@@ -1,7 +1,7 @@
 <template>
   <div>
     <div id="search_top_bar2">
-      <input type="text" placeholder="Wprowadź opis" v-model="search_text">
+      <input style="border-radius: 15px; padding: 5px;" type="text" placeholder="Wprowadź opis" v-model="search_text">
       <div class="checkBox" v-if="false">
         <input type="checkbox" class="checkBox_box">
         <div>
@@ -218,6 +218,8 @@ export default {
   color: orange;
 }
 #footer {
+  padding: 5px;
+  color: #fff;
   position: fixed;
   left: 100%;
   bottom: 0;

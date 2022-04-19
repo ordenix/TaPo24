@@ -1,7 +1,7 @@
 <template>
   <div>
     <div id="search_top_bar2">
-      <input type="text" placeholder="Wprowadź nazwę aktu" v-model="serach_text">
+      <input type="text" style="border-radius: 10px; color: #6f768d; padding: 5px;" placeholder="Wprowadź nazwę aktu" v-model="serach_text">
       <div v-if="false" id="options_container">
         <div class="option">
           <input type="checkbox" class="checkBox" name="scales">

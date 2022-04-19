@@ -1,8 +1,8 @@
 <template>
   <div>
-    <div id="search_top_bar2"  v-show="selected_module!==''">
-      <input type="text" placeholder="Wprowadź opis" v-model="input_text">
-      <select v-model="selected_option">
+    <div id="search_top_bar2" v-show="selected_module!==''">
+      <input style="border-radius: 15px; padding: 5px;" type="text" placeholder="Wprowadź opis" v-model="input_text">
+      <select style="border-radius: 15px;"  v-model="selected_option">
         <option v-for="(option, index) in options_list" v-bind:value="option.value" :key="index">
           {{ option.text }}
         </option>
@@ -96,6 +96,12 @@ export default {
 }
 .master_title {
   font-size: 23px;
+}
+.new_search{
+  display: flex;
+  background: #edf2f7;
+  border-radius: 8px;
+  width: 100%;
 }
 .sub_title {
   color: #e0fbfc;

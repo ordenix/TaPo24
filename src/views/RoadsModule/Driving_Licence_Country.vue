@@ -1,7 +1,7 @@
 <template>
   <div>
     <div id="search_top_bar2">
-      <input type="search" name="title" placeholder="Wyszukaj kraj" v-model="search_text">
+      <input style="border-radius: 15px; padding: 5px;" type="search" name="title" placeholder="Wyszukaj kraj" v-model="search_text">
     </div>
     <div class="container">
       <div class="country_card" v-for="(element, index) in filter_data" :key="index">

@@ -2,14 +2,25 @@
   <div class="navBar2">
     <div class="header">
       <div class="ico_logo">
+          <div class="tapo" @click="globalGoTo('https://tapo24.pl','link to tapo', 'web')">
+        <img :src="require(`../assets/others/tapo24.png`)" style="padding: 5px; width: 84px; height: 84px;" alt="Sign"/>
+      </div>
+      <ul class="social">
+      <div class="social facebook" @click="globalGoTo('https://www.facebook.com/TaPo24/','link to fb', 'web')">
+       <li class="icon social facebook"><span><i class="fab fa-facebook-f"></i></span></li>
+      </div>
+       <div class="social instagram" @click="globalGoTo('https://www.instagram.com/tapo24.pl/','link to ig', 'web')">
+        <li class="icon social instagram"><span><i class="fab fa-instagram"></i></span></li>
+      </div>
+      </ul>
       </div>
       <div class="htl" @click="globalGoTo('https://holdtheline.pl/','link to htl', 'web')">
-        <img :src="require(`../assets/others/logo-kolor2.png`)" alt="Sign"/>
+        <img :src="require(`../assets/others/logo-kolor2.png`)" style="" alt="Sign"/>
       </div>
       <div class="right_slot" @click="click_on_settings">
         <div class="dropdown">
           <div class="avatar">
-            <i class="fa-solid fa-gear" style="padding: 0 10px 0 0"></i>
+            <i class="fa-solid fa-gear" style="height: 25px; padding: 0 10px 0 0"></i>
           </div>
           <div>
             <div id="dropdown-content">
@@ -67,13 +78,12 @@ export default {
 .navbar2 {
   display: flex;
   flex-wrap: wrap;
-  background-color: #3D5A80;
-  padding: 0;
+  padding: 15px 15px 15px;
   justify-content: center;
-  top: 0;
+  top: 10%;
   left: 0;
   width: 100%;
-  height: 71px;
+  height: 102px;
 }
 .navBar2 {
   display: flex;
@@ -81,18 +91,19 @@ export default {
   top: 0;
   left: 0;
   width: 100%;
-  height: 112px;
-  background-color: #3D5A80;
+  height: 120px;
 }
 .routeBar {
   display: grid;
   grid-template-columns: repeat(4, minmax(0, 1fr));
   grid-template-rows: auto;
-  grid-gap: 3px;
+  grid-gap: 5px;
   justify-content: center;
-  background-color: #3D5A80;
   padding: 0;
-  width: 100%;
+  width: 80%;
+  left: 50%;
+  transform: translate(13%, -45%);
+  color: #fffafa;
   /*height: 72px;*/
 }
 .desktop {
@@ -103,6 +114,7 @@ a {
   text-decoration: unset;
 }
 .htl > img {
+  margin-top: 33px;
   width: 150px;
   height: 39px;
 }
@@ -129,8 +141,9 @@ a {
   font-family: 'Readex Pro', sans-serif;
   font-size: 15px;
 }
-.nav_element_selected {
-  background-color: #98C1D9;
+  .nav_element_selected{
+  background-color: #3d5a80;
+  box-shadow: 0 0 0.3em #ee6c4d;
   margin: 8px 2px;
   min-width: 10px;
   padding: 6px 5px;
@@ -138,6 +151,7 @@ a {
   text-align: center;
   font-family: 'Readex Pro', sans-serif;
   font-size: 15px;
+  transform: scale(0.95);
 }
 .logo {
   left: 0;
@@ -149,10 +163,11 @@ a {
 }
 
 .nav_element:hover {
-  background-color: #e0fbfc;
+  background-color: #3d5a80;
+  transform: scale(1.07);
 }
 .nav_element_selected:hover {
-  background-color: #e0fbfc;
+  background-color: #3d5a80;
 }
 .header {
   display: grid;
@@ -162,6 +177,7 @@ a {
   justify-content: center;
   background-color: #3D5A80;
   padding: 0;
+  border-bottom: solid 2px #ee6c4d;
   width: 100%;
 }
 .header > div {
@@ -173,6 +189,7 @@ a {
   position: relative;
   display: inline-block;
   width: 100%;
+  padding: 5px;
 }
 
 #dropdown-content {
@@ -216,7 +233,58 @@ a {
   display: flex;
   align-items: center;
   justify-content: flex-end;
-  color: #e0fbfc;
+  color: #ee6c4d;
+}
+.social{
+  display: inline-flex;
+  list-style: none;
+}
+.social .icon{
+  position: relative;
+  background: #3D5A80;
+  color: #ee6c4d;
+  border-radius: 50%;
+  padding: 5px;
+  width: 15px;
+  height: 15px;
+  font-size: 18px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  box-shadow: 0 10px 10px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+  transition: all 0.2s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+}
+.social .tooltip{
+  position: absolute;
+  margin-top: 15px;
+  font-size: 14px;
+  background: #ffffff;
+  color: #000;
+  padding: 5px 8px;
+  border-radius: 5px;
+  box-shadow: 0 10px 10px rgba(0, 0, 0, 0.1);
+  opacity: 0;
+  pointer-events: none;
+  transition: all 0.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+}
+.social .tooltip:before{
+  position: absolute;
+  content: "";
+  height: 8px;
+  width: 8px;
+  background: transparent;
+  bottom: -3px;
+  left: 50%;
+  transform: translate(-20%) rotate(45deg);
+  transition: all 0.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+}
+.social .icon:hover .tooltip{
+  top: -45px;
+  opacity: 1;
+  visibility: visible;
+  pointer-events: auto;
 }
 @media only screen and (min-width: 560px) {
   .desktop {
@@ -243,6 +311,17 @@ a {
   }
   .navBar2 {
     height: 90px;
+  }
+}
+@media only screen and (max-width: 580px){
+  .nav_element{
+    font-size: 12px;
+  }
+  .nav_element_selected {
+     font-size: 12px;
+  }
+  .social .icon{
+    left: -115%;
   }
 }
 @media only screen and (min-width: 680px) {

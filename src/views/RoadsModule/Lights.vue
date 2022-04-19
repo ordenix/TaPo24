@@ -173,7 +173,8 @@ export default {
   left: 0;
   bottom: 0;
   width: 100%;
-  background-color: #EE6C4D;
+  color: #fff;
+  margin-bottom: 15px;
   z-index: 10;;
   font-family: $text-family;
   font-weight: bold;

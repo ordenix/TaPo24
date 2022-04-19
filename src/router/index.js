@@ -31,6 +31,7 @@ import RoadTransportHome from '@/views/Road_Transport/Home'
 import SpeedCalc from '@/views/HelpersModule/SpeedCalc'
 import Alcohol from '@/views/RoadsModule/Alcohol'
 import Homeless from '@/views/RoadsModule/HomelessAlco'
+import HomeAlcohol from '@/views/RoadsModule/HomeAlcohol'
 Vue.use(VueRouter)
 
 const routes = [
@@ -180,14 +181,19 @@ const routes = [
     component: SpeedCalc
   },
   {
-    path: '/Alcohol/:status/',
+    path: '/Alcohol//',
     name: 'Alcohol',
     component: Alcohol
   },
   {
-    path: '/Homeless/:status/',
+    path: '/Homeless/',
     name: 'Homeless',
     component: Homeless
+  },
+  {
+    path: '/HomeAlcohol/',
+    name: 'HomeAlcohol',
+    component: HomeAlcohol
   },
   {
     path: '/about',

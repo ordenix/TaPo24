@@ -1,7 +1,7 @@
 <template>
   <div>
     <div id="search_top_bar2">
-      <input type="text" placeholder="Wrowadź kod lub nazwę ograniczenia" v-model="search_text">
+      <input style="border-radius: 15px; padding: 5px;" type="text" placeholder="Wprowadź kod lub nazwę ograniczenia" v-model="search_text">
     </div>
     <div class="master_container">
       <div v-for="(element, index) in filter_data" :key="index" :class="element.sub_title==='' ? 'code_element_title': 'code_element'">

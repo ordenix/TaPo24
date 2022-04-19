@@ -9,6 +9,10 @@
         <div class="icon"><i class="fas fa-car-crash"></i></div>
         <div class="label">Kwalifikacja zdarzenia</div>
       </div>
+      <div class="element" @click="globalGoTo('/HomeAlcohol/', 'Alcohol')">
+        <div class="icon"><i class="fa-solid fa-wine-glass"></i></div>
+        <div class="label">Kontrola trzeźwości</div>
+      </div>
       <div class="element" @click="globalGoTo('/ControlList/', 'control list')">
         <div class="icon"><i class="fas fa-exclamation-triangle"></i></div>
         <div class="label">Kody usterek</div>

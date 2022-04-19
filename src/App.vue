@@ -13,6 +13,7 @@
 </template>
 
 <script>
+
 import navBar from '@/components/navBar'
 import { mapState } from 'vuex'
 
@@ -145,19 +146,20 @@ video{
   transition: transform 0.2s;
 }
 .navbar--hidden {
-  transform: translateY(-112px);
+  transform: translateY(-125px);
   box-shadow: none;
 }
 #view {
   transition: 0.2s;
-  margin-top: 112px;
+  margin-top: 120px;
 }
 #search_top_bar2 {
+  background-color: #293241b7;
   position: sticky;
   position: -webkit-sticky;
-  top: 110px; /* required */
-  background-color: #EE6C4D;
-  padding: 10px 10px;
+  top: 0; /* required */
+  padding: 15px 15px;
+  border-radius: 5px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -165,18 +167,24 @@ video{
   transition: transform 0.2s;
 }
 .search_top_bar2--hidden {
-  transform: translateY(-112px);
+  transform: translateY(-125px);
   box-shadow: none;
  }
+@media only screen and (max-width: 560px){
+  #search_top_bar2 {
+    top: 125px;
+    border-radius: 15px;
+  }
+}
 @media only screen and (min-width: 560px) {
   #search_top_bar2 {
-  top: 90px;
+  top: 125px;
+  border-radius: 15px;
   }
   #view {
-    margin-top: 90px;
-  }
-  .search_top_bar2--hidden {
-    transform: translateY(-90px);
+    margin-top: 120px !important;
+    float: none !important;
+    padding: 15px 0 15px;
   }
 }
 </style>

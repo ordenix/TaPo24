@@ -3,13 +3,12 @@
     <div class="small_main_container">
       <div id="alert">{{alert_text}}</div>
       <div class="title">Wprowadź kod czynu:</div>
-      <input id="input" type="text" placeholder="Wprowadź kod np A02" v-model="input_text">
+      <input style="border-radius: 15px; padding: 2px;" id="input" type="text" placeholder="Wprowadź kod np A02" v-model="input_text">
       <div class="place_button">
         <div class="orange_button" @click="addArray">
           <div class="button_label">
-            Dodaj
+          Dodaj <i class="far fa-plus-square"></i>
           </div>
-          <i class="far fa-plus-square"></i>
         </div>
       </div>
       <div v-for="(element, index) in codeArray" :key="index">
@@ -24,9 +23,8 @@
       <div class="place_button" v-if="codeArray.length">
         <div class="orange_button" @click="clearArray">
           <div class="button_label">
-            Wyczyść
+            Wyczyść   <i class="far fa-trash-alt"></i>
           </div>
-          <i class="far fa-trash-alt"></i>
         </div>
       </div>
     </div>

@@ -1,7 +1,7 @@
 <template>
   <div>
   <div id="search_top_bar2">
-    <input type="text" name="title" placeholder="Wyszukaj" v-model="search_text">
+    <input style="border-radius: 15px; padding: 5px;" type="text" name="title" placeholder="Wyszukaj" v-model="search_text">
   </div>
     <div class="main">
       <div v-for="(element, index) in filtered_data" :key="index" @click="signClick(element.name, element.link_id)">
@@ -70,6 +70,9 @@ export default {
 <style scoped lang="scss">
 @import "../main_layout";
 
+.search_top_bar2{
+  border-radius: 15px;
+}
 .main {
   padding: 10px 10px;
   display: grid;

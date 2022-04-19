@@ -3,14 +3,13 @@
     <div class="small_main_container">
       <div id="alert">{{alert_text}}</div>
       <div class="title">Wprowadź kod lub miasto:</div>
-      <input id="postal_input" @click="onInputPostalClick" type="text" name="postal-code" placeholder="Wprowadź kod pocztowy" v-model="postal">
-      <input id="postal_input2" v-if="true" @click="onInputCityClick" type="text" name="city" placeholder="Wprowadź miasto" v-model="city">
+      <input id="postal_input" class="postal_input" @click="onInputPostalClick" type="text" name="postal-code" placeholder="Wprowadź kod pocztowy" v-model="postal">
+      <input id="postal_input2" class="postal_input" v-if="true" @click="onInputCityClick" type="text" name="city" placeholder="Wprowadź miasto" v-model="city">
       <div class="place_button">
         <div class="orange_button" @click="onButtonClick">
           <div class="button_label">
-            Szukaj
+            <i class="fas fa-search"></i>Szukaj
           </div>
-          <i class="fas fa-search"></i>
         </div>
       </div>
       <div class="response_place">
@@ -233,6 +232,17 @@ export default {
   font-weight: bold;
   color: #EE6C4D;
   margin-bottom: 5px;
+}
+.postal_input{
+  width: 100%;
+  padding: 2px 2px;
+  border: 1px solid transparent;
+  background: #edf2f7;
+  line-height: 1.5em;
+  outline: none;
+  margin-bottom: 5px;
+  border-radius: 5px;
+  margin-left: 0;
 }
 #response {
   opacity: 0;
