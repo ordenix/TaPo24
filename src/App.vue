@@ -146,21 +146,18 @@ video{
   transition: transform 0.2s;
 }
 .navbar--hidden {
-  transform: translateY(-112px);
+  transform: translateY(-125px);
   box-shadow: none;
 }
 #view {
   transition: 0.2s;
-  margin-top: 112px;
+  margin-top: 120px;
 }
 #search_top_bar2 {
   background-color: #293241b7;
   position: sticky;
   position: -webkit-sticky;
-  max-width: 450px;
-  transform: translate(-50%, 0%);
-  left: 50%;
-  top: 110px; /* required */
+  top: 0px; /* required */
   padding: 15px 15px;
   border-radius: 5px;
   display: flex;
@@ -170,13 +167,13 @@ video{
   transition: transform 0.2s;
 }
 .search_top_bar2--hidden {
-  transform: translateY(-112px);
+  transform: translateY(-125px);
   box-shadow: none;
  }
 @media only screen and (max-width: 560px){
   #search_top_bar2 {
   left: 70%;
-  transform: translate(0%, 10%);
+  transform: translate(0%, 0%);
   }
 }
 @media only screen and (min-width: 560px) {
@@ -190,9 +187,6 @@ video{
     margin: 10px auto;
     float: none !important;
     padding: 15px 15px 15px;
-  }
-  .search_top_bar2--hidden {
-    transform: translateY(-90px);
   }
 }
 </style>
