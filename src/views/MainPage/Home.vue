@@ -133,6 +133,8 @@ export default {
   padding: 8px;
   display: flex;
   flex-wrap: wrap;
+  flex-direction: column;
+  margin: 10px auto;
   align-content: center;
   justify-content: space-around;
 }
