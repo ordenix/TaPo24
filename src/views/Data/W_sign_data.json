@@ -1,0 +1,39 @@
+{
+  "sign_array": [
+    {
+      "name": "W-1",
+      "description": "Klasa obciążenia mostu o ruchu jednokierunkowym",
+      "path": "road_sign/W/W-1.png"
+    },
+    {
+      "name": "W-2",
+      "description": "Klasa obciążenia mostu o ruchu dwukierunkowym",
+      "path": "road_sign/W/W-2.png"
+    },
+    {
+      "name": "W-ssssssssssssssssssssssssssssssssss",
+      "description": "sssssssssssssssssssssssssssssssssssssssssss",
+      "path": "road_sign/W/W-ssssssssssssssssssssssssssssssssssssss.png"
+    },
+    {
+      "name": "W-ssssssssssssssssssssssssssssssssss",
+      "description": "sssssssssssssssssssssssssssssssssssssssssss",
+      "path": "road_sign/W/W-ssssssssssssssssssssssssssssssssssssss.png"
+    },
+    {
+      "name": "W-ssssssssssssssssssssssssssssssssss",
+      "description": "sssssssssssssssssssssssssssssssssssssssssss",
+      "path": "road_sign/W/W-ssssssssssssssssssssssssssssssssssssss.png"
+    },
+    {
+      "name": "W-ssssssssssssssssssssssssssssssssss",
+      "description": "sssssssssssssssssssssssssssssssssssssssssss",
+      "path": "road_sign/W/W-ssssssssssssssssssssssssssssssssssssss.png"
+    },
+    {
+      "name": "W-ssssssssssssssssssssssssssssssssss",
+      "description": "sssssssssssssssssssssssssssssssssssssssssss",
+      "path": "road_sign/W/W-ssssssssssssssssssssssssssssssssssssss.png"
+    }
+  ]
+}

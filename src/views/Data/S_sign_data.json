@@ -3,62 +3,74 @@
     {
       "name": "S-1",
       "description": "sygnalizator ogólny z sygnałami do kierowania ruchem",
-      "path": "road_sign/S/S-1.png"
+      "path": "road_sign/S/S-1.png",
+      "link_id": 296
     },
     {
       "name": "S-1a",
       "description": "sygnalizator z sygnałami dla kierujących rowerem",
-      "path": "road_sign/S/S-1a.png"
+      "path": "road_sign/S/S-1a.png",
+      "link_id": 296
     },
     {
       "name": "S-2",
       "description": "sygnalizator z sygnałem dopuszczającym skręcanie w kierunku wskazanym strzałką",
-      "path": "road_sign/S/S-2.png"
+      "path": "road_sign/S/S-2.png",
+      "link_id": 296
     },
     {
       "name": "S-3a",
       "description": "sygnalizator kierunkowy na wprost i w lewo",
-      "path": "road_sign/S/S-3a.png"
+      "path": "road_sign/S/S-3a.png",
+      "link_id": 296
     },
     {
       "name": "S-3b",
       "description": "sygnalizator kierunkowy na wprost i w prawo",
-      "path": "road_sign/S/S-3b.png"
+      "path": "road_sign/S/S-3b.png",
+      "link_id": 296
     },
     {
       "name": "S-3c",
       "description": "sygnalizator kierunkowy na wprost",
-      "path": "road_sign/S/S-3.png"
+      "path": "road_sign/S/S-3.png",
+      "link_id": 296
     },
     {
       "name": "S-3d",
       "description": "sygnalizator kierunkowy w prawo",
-      "path": "road_sign/S/S-3d.png"
+      "path": "road_sign/S/S-3d.png",
+      "link_id": 296
     },
     {
       "name": "S-3e",
       "description": "sygnalizator kierunkowy w lewo",
-      "path": "road_sign/S/S-3e.png"
+      "path": "road_sign/S/S-3e.png",
+      "link_id": 296
     },
     {
       "name": "S-3f",
       "description": "sygnalizator kierunkowy w lewo zezwalający na zawracanie",
-      "path": "road_sign/S/S-3f.png"
+      "path": "road_sign/S/S-3f.png",
+      "link_id": 296
     },
     {
       "name": "S-3g",
       "description": "sygnalizator kierunkowy dla zawracających",
-      "path": "road_sign/S/S-3g.png"
+      "path": "road_sign/S/S-3g.png",
+      "link_id": 296
     },
     {
       "name": "S-3h",
       "description": "sygnalizator kierunkowy w lewo i w prawo",
-      "path": "road_sign/S/S-3h.png"
+      "path": "road_sign/S/S-3h.png",
+      "link_id": 296
     },
     {
       "name": "S-4",
       "description": "sygnalizator z sygnałami dla pasów ruchu",
-      "path": "road_sign/S/S-4.png"
+      "path": "road_sign/S/S-4.png",
+      "link_id": 296
     },
     {
       "name": "S-5",
@@ -69,37 +81,44 @@
     {
       "name": "S-6",
       "description": "sygnalizator z sygnałami dla rowerzystów",
-      "path": "road_sign/S/S-6.png"
+      "path": "road_sign/S/S-6.png",
+      "link_id": 296
     },
     {
       "name": "S-7",
       "description": "sygnalizator z sygnałem nakazującym opuszczenie pasa ruchu",
-      "path": "road_sign/S/S-7.png"
+      "path": "road_sign/S/S-7.png",
+      "link_id": 296
     },
     {
       "name": "SB",
       "description": "sygnalizator z sygnałami dla kierujących autobusami",
-      "path": "road_sign/S/S-SB.png"
+      "path": "road_sign/S/S-SB.png",
+      "link_id": 296
     },
     {
       "name": "ST",
       "description": "sygnalizator z sygnałami dla tramwajów",
-      "path": "road_sign/S/S-ST.png"
+      "path": "road_sign/S/S-ST.png",
+      "link_id": 296
     },
     {
       "name": "STK",
       "description": "sygnalizator kierunkowy dla tramwajów",
-      "path": "road_sign/S/S-STK.png"
+      "path": "road_sign/S/S-STK.png",
+      "link_id": 296
     },
     {
       "name": "STT-1",
       "description": "sygnał oznaczający zakaz wjazdu tramwaju za sygnalizator",
-      "path": "road_sign/S/S-STT.png"
+      "path": "road_sign/S/S-STT.png",
+      "link_id": 296
     },
     {
       "name": "STT-2",
       "description": "sygnał oznaczający zezwolenie na jazdę tramwaju we wskazanym kierunku (kierunkach)",
-      "path": "road_sign/S/S-STT2.png"
+      "path": "road_sign/S/S-STT2.png",
+      "link_id": 296
     }
   ]
 }
