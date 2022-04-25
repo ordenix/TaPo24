@@ -7622,6 +7622,36 @@
       "path": null
     },
     {
+      "info_tab_a_lp": "77",
+      "category": "prevention",
+      "name": "Usiłowanie spożywania napojów alkoholowych w miejscach objętych zakazem spożywania\nnapojów alkoholowych",
+      "text": "art. 43(1) ust. 2\nu.w.t.p.a.",
+      "tax": "20-500",
+      "points": null,
+      "code": "null",
+      "law_sub": {
+        "1": "art. 43(1) ust. 1 u.w.t.p.a. Kto spożywa napoje alkoholowe wbrew zakazom określonym\nw art. 14 ust. 1 i 2a–6 albo nabywa lub spożywa napoje alkoholowe w miejscach\nnielegalnej sprzedaży, albo spożywa napoje alkoholowe przyniesione przez siebie\nlub inną osobę w miejscach wyznaczonych do ich sprzedaży lub podawania,\npodlega karze grzywny",
+        "2": "art. 43(1) ust. 2 u.w.t.p.a. Usiłowanie wykroczenia określonego w ust. 1 jest karalne",
+        "3": "art. 43(1) ust. 2 u.w.t.p.a. W razie popełnienia wykroczenia określonego w ust. 1 można orzec\nprzepadek napojów alkoholowych, chociażby nie były własnością sprawcy, jeżeli\nich właściciel lub inna osoba uprawniona, nie zachowując ostrożności wymaganej\nw danych okolicznościach, przewidywała albo mogła przewidzieć, że mogą one\nsłużyć lub być przeznaczone do popełnienia wykroczenia",
+        "4": "art. 14 ust. 1 pkt 1 u.w.t.p.a. Zabrania się sprzedaży, podawania i spożywania napojów\nalkoholowych na terenie szkół oraz innych zakładów i placówek oświatowo-wychowawczych, opiekuńczych i domów studenckich",
+        "5": "art. 14 ust. 1 pkt 2 u.w.t.p.a. Zabrania się sprzedaży, podawania i spożywania napojów\nalkoholowych na terenie zakładów pracy oraz miejsc zbiorowego żywienia pracowników",
+        "6": "art. 14 ust. 1 pkt 3 u.w.t.p.a. Zabrania się sprzedaży, podawania i spożywania napojów\nalkoholowych w miejscach i czasie masowych zgromadzeń",
+        "7": "art. 14 ust. 1 pkt 4 lit. a u.w.t.p.a. Zabrania się sprzedaży, podawania i spożywania napojów\nalkoholowych w środkach i obiektach transportu publicznego, z wyjątkiem wagonów restauracyjnych i bufetów w pociągach komunikacji krajowej,\nw których dopuszcza się sprzedaż, podawanie i spożywanie napojów\nalkoholowych o zawartości do 4,5% alkoholu oraz piwa",
+        "8": "art. 14 ust. 1 pkt 4 lit. b u.w.t.p.a. Zabrania się sprzedaży, podawania i spożywania napojów\nalkoholowych w środkach i obiektach transportu publicznego, z wyjątkiem pociągów komunikacji międzynarodowej, w których dopuszcza się\nsprzedaż, podawanie i spożywanie:\n– napojów alkoholowych o zawartości do 4,5% alkoholu oraz piwa\nw wagonach restauracyjnych i bufetach oraz w wagonach\nsypialnych i z miejscami do leżenia| - napojów alkoholowych o zawartości powyżej 4,5% alkoholu przy\nstolikach w wagonach restauracyjnych, w tym napojów o zawartości\npowyżej 18% alkoholu tylko do posiłków ",
+        "9": "art. 14 ust. 1 pkt 4 lit. c u.w.t.p.a. Zabrania się sprzedaży, podawania i spożywania napojów\nalkoholowych w środkach i obiektach transportu publicznego, z wyjątkiem międzynarodowych portów lotniczych i samolotów komunikacji\nmiędzynarodowej",
+        "10": "art. 14 ust. 1 pkt 4 lit. d u.w.t.p.a. Zabrania się sprzedaży, podawania i spożywania napojów\nalkoholowych w środkach i obiektach transportu publicznego, z wyjątkiem statków i portów morskich",
+        "11": "art. 14 ust. 1 pkt 6 u.w.t.p.a. Zabrania się sprzedaży, podawania i spożywania napojów\nalkoholowych w obiektach zajmowanych przez organy wojskowe i spraw wewnętrznych, jak\nrównież w rejonie obiektów koszarowych i zakwaterowania przejściowego\njednostek wojskowych",
+        "12": "art. 14 ust. 2a u.w.t.p.a. Zabrania się spożywania napojów alkoholowych w miejscu publicznym,\nz wyjątkiem miejsc przeznaczonych do ich spożycia na miejscu, w punktach\nsprzedaży tych napojów",
+        "13": "art. 14 ust. 2b u.w.t.p.a.  Rada gminy może wprowadzić, w drodze uchwały, w określonym miejscu\npublicznym na terenie gminy odstępstwo od zakazu spożywania napojów\nalkoholowych, jeżeli uzna, że nie będzie to miało negatywnego wpływu na\nodpowiednie kształtowanie polityki społecznej w zakresie przeciwdziałania\nalkoholizmowi, o której mowa w art. 2 ust. 1, i nie będzie zakłócało\nbezpieczeństwa i porządku publicznego",
+        "14": "art. 14 ust. 3 u.w.t.p.a. Zabrania się sprzedaży, podawania i spożywania napojów zawierających\nwięcej niż 18% alkoholu w ośrodkach szkoleniowych",
+        "15": "art. 14 ust. 4 u.w.t.p.a. Zabrania się sprzedaży i podawania napojów zawierających więcej niż 18%\nalkoholu w domach wypoczynkowych",
+        "16": "art. 14 ust. 5 u.w.t.p.a. Sprzedaż, podawanie i spożywanie napojów zawierających więcej niż 4,5%\nalkoholu może się odbywać na imprezach na otwartym powietrzu oraz na\nstadionach i innych obiektach sportowych tylko za zezwoleniem i tylko\nw miejscach do tego wyznaczonych",
+        "17": "art. 14 ust. 6 u.w.t.p.a. W innych niewymienionych miejscach, obiektach lub na określonych\nobszarach gminy, ze względu na ich charakter, rada gminy może wprowadzić\nczasowy lub stały zakaz sprzedaży, podawania, spożywania oraz wnoszenia\nnapojów alkoholowych"
+      },
+      "paragraph": "",
+      "path": null
+    },
+    {
       "visible": false,
       "category": "prevention",
       "name": "xxxxxxxxxx",
