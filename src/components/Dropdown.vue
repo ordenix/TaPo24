@@ -28,6 +28,7 @@ export default {
     return {
       options_category: [
         { value: 'all', text: 'Wszystkie wykroczenia' },
+        { value: 'prevention', text: 'Prewencja' },
         { value: 'favorites', text: 'Ulubione' },
         { value: 'accident', text: 'Kolizja' },
         { value: 'pedestrian', text: 'Wykroczenia pieszych' },
@@ -42,8 +43,7 @@ export default {
         { value: 'stop', text: 'Postój/Zatrzymanie/ Cofanie/ Zawracanie/ Holowanie' },
         { value: 'allow', text: 'Dopuszczenie/ Kierowanie' },
         { value: 'package', text: 'Przewóz ładunku/ Tablice/ Przejazd Kolejowy lub tramw.' },
-        { value: 'others', text: 'Pozostałe' },
-        { value: 'prevention', text: 'Prewencja' }
+        { value: 'others', text: 'Pozostałe' }
       ],
       select_value: 'Wszystkie wykroczenia',
       timer2: null,

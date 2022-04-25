@@ -36,7 +36,7 @@
     </div>
     </div>
     <div id="search_top_bar2">
-      <select v-model="selected_option" v-if="false">
+      <select v-model="selected_option" v-if="!new_search">
         <option v-for="(option, index) in options_category" v-bind:value="option.value" :key="index">
           {{ option.text }}
         </option>
@@ -127,6 +127,7 @@ export default {
       open_special_card: false,
       options_category: [
         { value: 'all', text: 'Wszystkie wykroczenia' },
+        { value: 'prevention', text: 'Prewencja' },
         { value: 'favorites', text: 'Ulubione' },
         { value: 'accident', text: 'Kolizja' },
         { value: 'pedestrian', text: 'Wykroczenia pieszych' },
@@ -141,8 +142,7 @@ export default {
         { value: 'stop', text: 'Postój/Zatrzymanie/ Cofanie/ Zawracanie/ Holowanie' },
         { value: 'allow', text: 'Dopuszczenie/ Kierowanie' },
         { value: 'package', text: 'Przewóz ładunku/ Tablice/ Przejazd Kolejowy lub tramw.' },
-        { value: 'others', text: 'Pozostałe' },
-        { value: 'prevention', text: 'Prewencja' }
+        { value: 'others', text: 'Pozostałe' }
       ],
       tariff_array: tariffdata.tariff_array,
       selected_option: 'all',
