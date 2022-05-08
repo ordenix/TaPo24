@@ -1,64 +1,69 @@
 {
   "sign_array": [
     {
-      "name": "xxxxxxxxxxxxxxxxxxx-ssssssssssssssssssssssssssssssssss",
-      "description": "sssssssssssssssssssssssssssssssssssssssssss",
-      "path": "road_sign/ATBT/xxxxxxxxxxxxxxxxxxxxxxxxxx-ssssssssssssssssssssssssssssssssssssss.png"
+      "name": "AT-1",
+      "description": "Sygnalizacja świetlna",
+      "path": "road_sign/ATBT/AT-1.png"
     },
     {
-      "name": "xxxxxxxxxxxxxxxxxxx-ssssssssssssssssssssssssssssssssss",
-      "description": "sssssssssssssssssssssssssssssssssssssssssss",
-      "path": "road_sign/ATBT/xxxxxxxxxxxxxxxxxxxxxxxxxx-ssssssssssssssssssssssssssssssssssssss.png"
+      "name": "AT-2",
+      "description": "Sygnalizacja świetlna wzbudzana",
+      "path": "road_sign/ATBT/AT-2.png"
     },
     {
-      "name": "xxxxxxxxxxxxxxxxxxx-ssssssssssssssssssssssssssssssssss",
-      "description": "sssssssssssssssssssssssssssssssssssssssssss",
-      "path": "road_sign/ATBT/xxxxxxxxxxxxxxxxxxxxxxxxxx-ssssssssssssssssssssssssssssssssssssss.png"
+      "name": "AT-3",
+      "description": "Niebezpieczny zjazd",
+      "path": "road_sign/ATBT/AT-3.png"
     },
     {
-      "name": "xxxxxxxxxxxxxxxxxxx-ssssssssssssssssssssssssssssssssss",
-      "description": "sssssssssssssssssssssssssssssssssssssssssss",
-      "path": "road_sign/ATBT/xxxxxxxxxxxxxxxxxxxxxxxxxx-ssssssssssssssssssssssssssssssssssssss.png"
+      "name": "AT-4",
+      "description": "Stromy podjazd",
+      "path": "road_sign/ATBT/AT-4.png"
     },
     {
-      "name": "xxxxxxxxxxxxxxxxxxx-ssssssssssssssssssssssssssssssssss",
-      "description": "sssssssssssssssssssssssssssssssssssssssssss",
-      "path": "road_sign/ATBT/xxxxxxxxxxxxxxxxxxxxxxxxxx-ssssssssssssssssssssssssssssssssssssss.png"
+      "name": "AT-5",
+      "description": "Ruch kolizyjny",
+      "path": "road_sign/ATBT/AT-5.png"
     },
     {
-      "name": "xxxxxxxxxxxxxxxxxxx-ssssssssssssssssssssssssssssssssss",
-      "description": "sssssssssssssssssssssssssssssssssssssssssss",
-      "path": "road_sign/ATBT/xxxxxxxxxxxxxxxxxxxxxxxxxx-ssssssssssssssssssssssssssssssssssssss.png"
+      "name": "BT-1",
+      "description": "Ograniczenie prędkości",
+      "path": "road_sign/ATBT/BT-1.png"
     },
     {
-      "name": "xxxxxxxxxxxxxxxxxxx-ssssssssssssssssssssssssssssssssss",
-      "description": "sssssssssssssssssssssssssssssssssssssssssss",
-      "path": "road_sign/ATBT/xxxxxxxxxxxxxxxxxxxxxxxxxx-ssssssssssssssssssssssssssssssssssssss.png"
+      "name": "BT-2",
+      "description": "Koniec ograniczenia prędkości",
+      "path": "road_sign/ATBT/BT-2.png"
     },
     {
-      "name": "xxxxxxxxxxxxxxxxxxx-ssssssssssssssssssssssssssssssssss",
-      "description": "sssssssssssssssssssssssssssssssssssssssssss",
-      "path": "road_sign/ATBT/xxxxxxxxxxxxxxxxxxxxxxxxxx-ssssssssssssssssssssssssssssssssssssss.png"
+      "name": "BT-3",
+      "description": "Blokada zwrotnicy",
+      "path": "road_sign/ATBT/BT-3.png"
     },
     {
-      "name": "xxxxxxxxxxxxxxxxxxx-ssssssssssssssssssssssssssssssssss",
-      "description": "sssssssssssssssssssssssssssssssssssssssssss",
-      "path": "road_sign/ATBT/xxxxxxxxxxxxxxxxxxxxxxxxxx-ssssssssssssssssssssssssssssssssssssss.png"
+      "name": "BT-4",
+      "description": "Stop — zwrotnica eksploatowana jednostronnie",
+      "path": "road_sign/ATBT/BT-4.png"
     },
     {
-      "name": "xxxxxxxxxxxxxxxxxxx-ssssssssssssssssssssssssssssssssss",
-      "description": "sssssssssssssssssssssssssssssssssssssssssss",
-      "path": "road_sign/ATBT/xxxxxxxxxxxxxxxxxxxxxxxxxx-ssssssssssssssssssssssssssssssssssssss.png"
+      "name": "CT-1",
+      "description": "Izolator sekcyjny",
+      "path": "road_sign/ATBT/CT-1.png"
     },
     {
-      "name": "xxxxxxxxxxxxxxxxxxx-ssssssssssssssssssssssssssssssssss",
-      "description": "sssssssssssssssssssssssssssssssssssssssssss",
-      "path": "road_sign/ATBT/xxxxxxxxxxxxxxxxxxxxxxxxxx-ssssssssssssssssssssssssssssssssssssss.png"
+      "name": "CT-2",
+      "description": "Granica zasilania",
+      "path": "road_sign/ATBT/CT-2.png"
     },
     {
-      "name": "xxxxxxxxxxxxxxxxxxx-ssssssssssssssssssssssssssssssssss",
-      "description": "sssssssssssssssssssssssssssssssssssssssssss",
-      "path": "road_sign/ATBT/xxxxxxxxxxxxxxxxxxxxxxxxxx-ssssssssssssssssssssssssssssssssssssss.png"
+      "name": "DT-1",
+      "description": "Zwrotnica elektryczna lewoskrętna",
+      "path": "road_sign/ATBT/DT-2.png"
+    },
+    {
+      "name": "DT-2",
+      "description": "Zwrotnica elektryczna prawoskrętna",
+      "path": "road_sign/ATBT/DT-2.png"
     }
   ]
 }
