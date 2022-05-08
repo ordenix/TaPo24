@@ -1,228 +1,191 @@
 {
   "sign_array": [
     {
-      "name": "E-ssssssssssssssssssssssssssssssssss",
-      "description": "sssssssssssssssssssssssssssssssssssssssssss",
-      "path": "road_sign/E/E-ssssssssssssssssssssssssssssssssssssss.png"
+      "name": "E-1",
+      "description": "Tablica przeddrogowskazowa",
+      "path": "road_sign/E/E-1.png"
     },
     {
-      "name": "E-ssssssssssssssssssssssssssssssssss",
-      "description": "sssssssssssssssssssssssssssssssssssssssssss",
-      "path": "road_sign/E/E-ssssssssssssssssssssssssssssssssssssss.png"
+      "name": "E-1a",
+      "description": "Tablica przeddrogowskazowa na autostradzie",
+      "path": "road_sign/E/E-1a.png"
     },
     {
-      "name": "E-ssssssssssssssssssssssssssssssssss",
-      "description": "sssssssssssssssssssssssssssssssssssssssssss",
-      "path": "road_sign/E/E-ssssssssssssssssssssssssssssssssssssss.png"
+      "name": "E-1b",
+      "description": "„Tablica przeddrogowskazowa przed wjazdem na autostradę",
+      "path": "road_sign/E/E-1b.png"
     },    {
-      "name": "E-ssssssssssssssssssssssssssssssssss",
-      "description": "sssssssssssssssssssssssssssssssssssssssssss",
-      "path": "road_sign/E/E-ssssssssssssssssssssssssssssssssssssss.png"
+      "name": "E-2a",
+      "description": "Drogowskaz tablicowy umieszczany obok jezdni",
+      "path": "road_sign/E/E-2a.png"
     },
     {
-      "name": "E-ssssssssssssssssssssssssssssssssss",
-      "description": "sssssssssssssssssssssssssssssssssssssssssss",
-      "path": "road_sign/E/E-ssssssssssssssssssssssssssssssssssssss.png"
+      "name": "E-2b",
+      "description": "Drogowskaz tablicowy umieszczany nad jezdnią",
+      "path": "road_sign/E/E-2b.png"
     },    {
-      "name": "E-ssssssssssssssssssssssssssssssssss",
-      "description": "sssssssssssssssssssssssssssssssssssssssssss",
-      "path": "road_sign/E/E-ssssssssssssssssssssssssssssssssssssss.png"
+      "name": "E-2c",
+      "description": "Drogowskaz tablicowy umieszczany obok jezdni na autostradzie",
+      "path": "road_sign/E/E-2c.png"
     },
     {
-      "name": "E-ssssssssssssssssssssssssssssssssss",
-      "description": "sssssssssssssssssssssssssssssssssssssssssss",
-      "path": "road_sign/E/E-ssssssssssssssssssssssssssssssssssssss.png"
+      "name": "E-2d",
+      "description": "Drogowskaz tablicowy umieszczany nad jezdnią na autostradzie",
+      "path": "road_sign/E/E-2d.png"
     },
     {
-      "name": "E-ssssssssssssssssssssssssssssssssss",
-      "description": "sssssssssssssssssssssssssssssssssssssssssss",
-      "path": "road_sign/E/E-ssssssssssssssssssssssssssssssssssssss.png"
+      "name": "E-2e",
+      "description": "Drogowskaz tablicowy umieszczany obok jezdni przed wjazdem na autostradę",
+      "path": "road_sign/E/E-2e.png"
     },
     {
-      "name": "E-ssssssssssssssssssssssssssssssssss",
-      "description": "sssssssssssssssssssssssssssssssssssssssssss",
-      "path": "road_sign/E/E-ssssssssssssssssssssssssssssssssssssss.png"
+      "name": "E-2f",
+      "description": "Drogowskaz tablicowy umieszczany nad jezdnią przed wjazdem na autostradę",
+      "path": "road_sign/E/E-2f.png"
     },    {
-      "name": "E-ssssssssssssssssssssssssssssssssss",
-      "description": "sssssssssssssssssssssssssssssssssssssssssss",
-      "path": "road_sign/E/E-ssssssssssssssssssssssssssssssssssssss.png"
+      "name": "E-3",
+      "description": "Drogowskaz w kształcie strzały do miejscowości wskazujący numer drogi",
+      "path": "road_sign/E/E-3.png"
     },
     {
-      "name": "E-ssssssssssssssssssssssssssssssssss",
-      "description": "sssssssssssssssssssssssssssssssssssssssssss",
-      "path": "road_sign/E/E-ssssssssssssssssssssssssssssssssssssss.png"
+      "name": "E-4",
+      "description": "Drogowskaz w kształcie strzały do miejscowości podający do niej odległość",
+      "path": "road_sign/E/E-4.png"
     },    {
-      "name": "E-ssssssssssssssssssssssssssssssssss",
-      "description": "sssssssssssssssssssssssssssssssssssssssssss",
-      "path": "road_sign/E/E-ssssssssssssssssssssssssssssssssssssss.png"
+      "name": "E-5",
+      "description": "Drogowskaz do dzielnicy miasta",
+      "path": "road_sign/E/E-5.png"
     },
     {
-      "name": "E-ssssssssssssssssssssssssssssssssss",
-      "description": "sssssssssssssssssssssssssssssssssssssssssss",
-      "path": "road_sign/E/E-ssssssssssssssssssssssssssssssssssssss.png"
+      "name": "E-6",
+      "description": "Drogowskaz do lotniska",
+      "path": "road_sign/E/E-6.png"
     },
     {
-      "name": "E-ssssssssssssssssssssssssssssssssss",
-      "description": "sssssssssssssssssssssssssssssssssssssssssss",
-      "path": "road_sign/E/E-ssssssssssssssssssssssssssssssssssssss.png"
+      "name": "E-6a",
+      "description": "Drogowskaz do dworca lub stacji kolejowej",
+      "path": "road_sign/E/E-6a.png"
     },
     {
-      "name": "E-ssssssssssssssssssssssssssssssssss",
-      "description": "sssssssssssssssssssssssssssssssssssssssssss",
-      "path": "road_sign/E/E-ssssssssssssssssssssssssssssssssssssss.png"
+      "name": "E-6b",
+      "description": "Drogowskaz do dworca autobusowego",
+      "path": "road_sign/E/E-6b.png"
     },    {
-      "name": "E-ssssssssssssssssssssssssssssssssss",
-      "description": "sssssssssssssssssssssssssssssssssssssssssss",
-      "path": "road_sign/E/E-ssssssssssssssssssssssssssssssssssssss.png"
+      "name": "E-6c",
+      "description": "Drogowskaz do przystani promowej",
+      "path": "road_sign/E/E-6c.png"
     },
     {
-      "name": "E-ssssssssssssssssssssssssssssssssss",
-      "description": "sssssssssssssssssssssssssssssssssssssssssss",
-      "path": "road_sign/E/E-ssssssssssssssssssssssssssssssssssssss.png"
+      "name": "E-7",
+      "description": "Drogowskaz do przystani wodnej lub żeglugi",
+      "path": "road_sign/E/E-7.png"
     },    {
-      "name": "E-ssssssssssssssssssssssssssssssssss",
-      "description": "sssssssssssssssssssssssssssssssssssssssssss",
-      "path": "road_sign/E/E-ssssssssssssssssssssssssssssssssssssss.png"
+      "name": "E-8",
+      "description": "Drogowskaz do plaży lub miejsca kąpielowego",
+      "path": "road_sign/E/E-8.png"
     },
     {
-      "name": "E-ssssssssssssssssssssssssssssssssss",
-      "description": "sssssssssssssssssssssssssssssssssssssssssss",
-      "path": "road_sign/E/E-ssssssssssssssssssssssssssssssssssssss.png"
+      "name": "E-9",
+      "description": "Drogowskaz do muzeum",
+      "path": "road_sign/E/E-9.png"
     },
     {
-      "name": "E-ssssssssssssssssssssssssssssssssss",
-      "description": "sssssssssssssssssssssssssssssssssssssssssss",
-      "path": "road_sign/E/E-ssssssssssssssssssssssssssssssssssssss.png"
+      "name": "E-10",
+      "description": "Drogowskaz do zabytku jako dobra kultury",
+      "path": "road_sign/E/E-10.png"
     },
     {
-      "name": "E-ssssssssssssssssssssssssssssssssss",
-      "description": "sssssssssssssssssssssssssssssssssssssssssss",
-      "path": "road_sign/E/E-ssssssssssssssssssssssssssssssssssssss.png"
+      "name": "E-11",
+      "description": "Drogowskaz do zabytku przyrody",
+      "path": "road_sign/E/E-11.png"
     },    {
-      "name": "E-ssssssssssssssssssssssssssssssssss",
-      "description": "sssssssssssssssssssssssssssssssssssssssssss",
-      "path": "road_sign/E/E-ssssssssssssssssssssssssssssssssssssss.png"
+      "name": "E-12",
+      "description": "Drogowskaz do punktu widokowego",
+      "path": "road_sign/E/E-12.png"
     },
     {
-      "name": "E-ssssssssssssssssssssssssssssssssss",
-      "description": "sssssssssssssssssssssssssssssssssssssssssss",
-      "path": "road_sign/E/E-ssssssssssssssssssssssssssssssssssssss.png"
+      "name": "E-12a",
+      "description": "Drogowskaz do szlaku rowerowego",
+      "path": "road_sign/E/E-12a.png"
     },    {
-      "name": "E-ssssssssssssssssssssssssssssssssss",
-      "description": "sssssssssssssssssssssssssssssssssssssssssss",
-      "path": "road_sign/E/E-ssssssssssssssssssssssssssssssssssssss.png"
+      "name": "E-13",
+      "description": "Tablica kierunkowa",
+      "path": "road_sign/E/E-13.png"
     },
     {
-      "name": "E-ssssssssssssssssssssssssssssssssss",
-      "description": "sssssssssssssssssssssssssssssssssssssssssss",
-      "path": "road_sign/E/E-ssssssssssssssssssssssssssssssssssssss.png"
+      "name": "E-14",
+      "description": "Tablica szlaku drogowego",
+      "path": "road_sign/E/E-14.png"
     },
     {
-      "name": "E-ssssssssssssssssssssssssssssssssss",
-      "description": "sssssssssssssssssssssssssssssssssssssssssss",
-      "path": "road_sign/E/E-ssssssssssssssssssssssssssssssssssssss.png"
+      "name": "E-14a",
+      "description": "Tablica szlaku drogowego na autostradzie",
+      "path": "road_sign/E/E-14a.png"
     },
     {
-      "name": "E-ssssssssssssssssssssssssssssssssss",
-      "description": "sssssssssssssssssssssssssssssssssssssssssss",
-      "path": "road_sign/E/E-ssssssssssssssssssssssssssssssssssssss.png"
+      "name": "E-15a",
+      "description": "Numer drogi krajowej",
+      "path": "road_sign/E/E-15a.png"
     },    {
-      "name": "E-ssssssssssssssssssssssssssssssssss",
-      "description": "sssssssssssssssssssssssssssssssssssssssssss",
-      "path": "road_sign/E/E-ssssssssssssssssssssssssssssssssssssss.png"
+      "name": "E-15b",
+      "description": "Numer drogi wojewódzkiej",
+      "path": "road_sign/E/E-15b.png"
     },
     {
-      "name": "E-ssssssssssssssssssssssssssssssssss",
-      "description": "sssssssssssssssssssssssssssssssssssssssssss",
-      "path": "road_sign/E/E-ssssssssssssssssssssssssssssssssssssss.png"
+      "name": "E-15c",
+      "description": "Numer autostrady",
+      "path": "road_sign/E/E-15c.png"
     },    {
-      "name": "E-ssssssssssssssssssssssssssssssssss",
-      "description": "sssssssssssssssssssssssssssssssssssssssssss",
-      "path": "road_sign/E/E-ssssssssssssssssssssssssssssssssssssss.png"
+      "name": "E-15d",
+      "description": "Numer drogi ekspresowej",
+      "path": "road_sign/E/E-15d.png"
     },
     {
-      "name": "E-ssssssssssssssssssssssssssssssssss",
-      "description": "sssssssssssssssssssssssssssssssssssssssssss",
-      "path": "road_sign/E/E-ssssssssssssssssssssssssssssssssssssss.png"
+      "name": "E-16",
+      "description": "Numer szlaku międzynarodowego",
+      "path": "road_sign/E/E-16.png"
     },
     {
-      "name": "E-ssssssssssssssssssssssssssssssssss",
-      "description": "sssssssssssssssssssssssssssssssssssssssssss",
-      "path": "road_sign/E/E-ssssssssssssssssssssssssssssssssssssss.png"
+      "name": "E-17a",
+      "description": "Miejscowość",
+      "path": "road_sign/E/E-17a.png"
     },
     {
-      "name": "E-ssssssssssssssssssssssssssssssssss",
-      "description": "sssssssssssssssssssssssssssssssssssssssssss",
-      "path": "road_sign/E/E-ssssssssssssssssssssssssssssssssssssss.png"
+      "name": "E-18a",
+      "description": "Koniec miejscowości",
+      "path": "road_sign/E/E-18a.png"
     },    {
-      "name": "E-ssssssssssssssssssssssssssssssssss",
-      "description": "sssssssssssssssssssssssssssssssssssssssssss",
-      "path": "road_sign/E/E-ssssssssssssssssssssssssssssssssssssss.png"
+      "name": "E-19a",
+      "description": "Obwodnica",
+      "path": "road_sign/E/E-19a.png"
     },
     {
-      "name": "E-ssssssssssssssssssssssssssssssssss",
-      "description": "sssssssssssssssssssssssssssssssssssssssssss",
-      "path": "road_sign/E/E-ssssssssssssssssssssssssssssssssssssss.png"
+      "name": "E-20",
+      "description": "Tablica węzła drogowego na autostradzie",
+      "path": "road_sign/E/E-20.png"
     },    {
-      "name": "E-ssssssssssssssssssssssssssssssssss",
-      "description": "sssssssssssssssssssssssssssssssssssssssssss",
-      "path": "road_sign/E/E-ssssssssssssssssssssssssssssssssssssss.png"
+      "name": "E-20a",
+      "description": "Tablica węzła drogowego na autostradzie",
+      "path": "road_sign/E/E-20a.png"
     },
     {
-      "name": "E-ssssssssssssssssssssssssssssssssss",
-      "description": "sssssssssssssssssssssssssssssssssssssssssss",
-      "path": "road_sign/E/E-ssssssssssssssssssssssssssssssssssssss.png"
+      "name": "E-21",
+      "description": "Dzielnica (osiedle)",
+      "path": "road_sign/E/E-21.png"
     },
     {
-      "name": "E-ssssssssssssssssssssssssssssssssss",
-      "description": "sssssssssssssssssssssssssssssssssssssssssss",
-      "path": "road_sign/E/E-ssssssssssssssssssssssssssssssssssssss.png"
+      "name": "E-22a",
+      "description": "Samochodowy szlak turystyczny",
+      "path": "road_sign/E/E-22a.png"
     },
     {
-      "name": "E-ssssssssssssssssssssssssssssssssss",
-      "description": "sssssssssssssssssssssssssssssssssssssssssss",
-      "path": "road_sign/E/E-ssssssssssssssssssssssssssssssssssssss.png"
+      "name": "E-22b",
+      "description": "Obiekt na samochodowym szlaku turystycznym",
+      "path": "road_sign/E/E-22b.png"
     },    {
-      "name": "E-ssssssssssssssssssssssssssssssssss",
-      "description": "sssssssssssssssssssssssssssssssssssssssssss",
-      "path": "road_sign/E/E-ssssssssssssssssssssssssssssssssssssss.png"
-    },
-    {
-      "name": "E-ssssssssssssssssssssssssssssssssss",
-      "description": "sssssssssssssssssssssssssssssssssssssssssss",
-      "path": "road_sign/E/E-ssssssssssssssssssssssssssssssssssssss.png"
-    },    {
-      "name": "E-ssssssssssssssssssssssssssssssssss",
-      "description": "sssssssssssssssssssssssssssssssssssssssssss",
-      "path": "road_sign/E/E-ssssssssssssssssssssssssssssssssssssss.png"
-    },
-    {
-      "name": "E-ssssssssssssssssssssssssssssssssss",
-      "description": "sssssssssssssssssssssssssssssssssssssssssss",
-      "path": "road_sign/E/E-ssssssssssssssssssssssssssssssssssssss.png"
-    },
-    {
-      "name": "E-ssssssssssssssssssssssssssssssssss",
-      "description": "sssssssssssssssssssssssssssssssssssssssssss",
-      "path": "road_sign/E/E-ssssssssssssssssssssssssssssssssssssss.png"
-    },
-    {
-      "name": "E-ssssssssssssssssssssssssssssssssss",
-      "description": "sssssssssssssssssssssssssssssssssssssssssss",
-      "path": "road_sign/E/E-ssssssssssssssssssssssssssssssssssssss.png"
-    },    {
-      "name": "E-ssssssssssssssssssssssssssssssssss",
-      "description": "sssssssssssssssssssssssssssssssssssssssssss",
-      "path": "road_sign/E/E-ssssssssssssssssssssssssssssssssssssss.png"
-    },
-    {
-      "name": "E-ssssssssssssssssssssssssssssssssss",
-      "description": "sssssssssssssssssssssssssssssssssssssssssss",
-      "path": "road_sign/E/E-ssssssssssssssssssssssssssssssssssssss.png"
-    },    {
-      "name": "E-ssssssssssssssssssssssssssssssssss",
-      "description": "sssssssssssssssssssssssssssssssssssssssssss",
-      "path": "road_sign/E/E-ssssssssssssssssssssssssssssssssssssss.png"
+      "name": "E-22c",
+      "description": "Informacja o obiektach turystycznych",
+      "path": "road_sign/E/E-22c.png"
     }
   ]
 }
