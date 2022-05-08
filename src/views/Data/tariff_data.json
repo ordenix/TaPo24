@@ -691,7 +691,12 @@
         "1": "art. 86b § 2 KW Kto dopuszcza się wykroczenia określonego w § 1, prowadząc inny pojazd\nniż określony w tym przepisie,\npodlega karze grzywny albo karze nagany",
         "2": "art. 86b § 1 pkt. 5 KW Kto na drodze publicznej, w strefie zamieszkania lub strefie ruchu,\nprowadząc pojazd mechaniczny narusza zakaz jazdy wzdłuż po chodniku lub przejściu dla pieszych"
       },
-      "paragraph": "art. 26 ust. 3 pkt. 2 PRD Kierującemu pojazdem zabrania się omijania pojazdu, który jechał w tym samym kierunku, lecz zatrzymał się w celu ustąpienia pierwszeństwa pieszemu",
+      "paragraph_sub": {
+        "1": "art. 26 ust. 3 pkt.3 PRD Kierującemu pojazdem zabrania się jazdy wzdłuż po chodniku lub przejściu dla pieszych, z zastrzeżeniem art. 33 ust. 6, art. 33a ust. 2 oraz art. 33b ust. 2",
+        "2": "art. 33 ust. 6 PRD Kierujący rowerem, korzystając z chodnika albo drogi dla pieszych, jest obowiązany jechać z prędkością zbliżoną do prędkości pieszego, zachować szczególną ostrożność, ustępować pierwszeństwa pieszemu oraz nie utrudniać jego ruchu",
+        "3": "art. 33a ust. 2 PRD Korzystanie z chodnika lub drogi dla pieszych przez kierującego hulajnogą elektryczną jest dozwolone wyjątkowo, gdy chodnik jest usytuowany wzdłuż jezdni, po której ruch pojazdów jest dozwolony z prędkością większą niż 30 km/h, i brakuje wydzielonej drogi dla rowerów oraz pasa ruchu dla rowerów",
+        "4": "art. 33b ust. 2 PRD Korzystanie z chodnika lub drogi dla pieszych przez kierującego urządzeniem transportu osobistego jest dozwolone wyjątkowo, gdy brakuje wydzielonej drogi dla rowerów"
+      },
       "path": null
     },
     {
