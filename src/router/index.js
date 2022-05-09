@@ -29,6 +29,7 @@ import DrivingLicenceCountry from '@/views/RoadsModule/Driving_Licence_Country'
 import RequiredDocuments from '@/views/Road_Transport/RequiredDocuments'
 import RoadTransportHome from '@/views/Road_Transport/Home'
 import SpeedCalc from '@/views/HelpersModule/SpeedCalc'
+import DrunkCalc from '@/views/HelpersModule/DrunkCalc'
 import Alcohol from '@/views/RoadsModule/Alcohol'
 import Homeless from '@/views/RoadsModule/HomelessAlco'
 Vue.use(VueRouter)
@@ -178,6 +179,11 @@ const routes = [
     path: '/SpeedCalc/',
     name: 'SpeedCalc',
     component: SpeedCalc
+  },
+  {
+    path: '/DrunkCalc/',
+    name: 'DrunkCalc',
+    component: DrunkCalc
   },
   {
     path: '/Alcohol/:status/',

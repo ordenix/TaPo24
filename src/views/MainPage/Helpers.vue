@@ -41,6 +41,10 @@
         <div class="icon"><i class="fa-solid fa-gauge-high"></i></div>
         <div class="label">Kalkulator prędkości</div>
       </div>
+       <div class="element" @click="globalGoTo('/DrunkCalc/', 'DRUNK CALC')">
+        <div class="icon"><i class="fa-solid fa-watch-calculator"></i></div>
+        <div class="label">Przelicznik mg/l - ‰</div>
+      </div>
       <div class="element" @click="globalGoTo('https://holdtheline.pl/category/blog/','link to htl blog', 'web')">
         <div class="icon"><i class="fa-solid fa-blog"></i></div>
         <div class="label">Blog #HoldTheLine</div>
