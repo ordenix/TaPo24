@@ -11,6 +11,12 @@
         },
         {
           "vehicle": "motorower lub czterokołowiec lekki wraz z przyczepą"
+        },
+        {
+          "vehicle": "rower, wózek rowerowy, hulajnoga elektryczna lub urządzenie transportu osobistego - w przypadku osób, które nie ukończyły 18 lat"
+        },
+        {
+          "vehicle": "pojazd zaprzęgowy - w przypadku osób, które nie ukończyły 18 lat"
         }
       ],
       "requirements": [
@@ -37,6 +43,12 @@
         },
         {
           "vehicle": "zespół pojazdów złożonych z pojazdu określonego dla tej kategorii wraz z przyczepą"
+        },
+        {
+          "vehicle": "rower, wózek rowerowy, hulajnoga elektryczna lub urządzenie transportu osobistego - w przypadku osób, które nie ukończyły 18 lat"
+        },
+        {
+          "vehicle": "pojazd zaprzęgowy - w przypadku osób, które nie ukończyły 18 lat"
         }
       ],
       "requirements": [
@@ -115,6 +127,12 @@
         },
         {
           "vehicle": "czterokołowcem lekkim"
+        },
+        {
+          "vehicle": "rower, wózek rowerowy, hulajnoga elektryczna lub urządzenie transportu osobistego - w przypadku osób, które nie ukończyły 18 lat"
+        },
+        {
+          "vehicle": "pojazd zaprzęgowy - w przypadku osób, które nie ukończyły 18 lat"
         }
       ],
       "requirements": [
@@ -320,6 +338,12 @@
         },
         {
           "vehicle": "czterokołowcem lekkim"
+        },
+        {
+          "vehicle": "rower, wózek rowerowy, hulajnoga elektryczna lub urządzenie transportu osobistego - w przypadku osób, które nie ukończyły 18 lat"
+        },
+        {
+          "vehicle": "pojazd zaprzęgowy - w przypadku osób, które nie ukończyły 18 lat"
         }
       ],
       "requirements": [
