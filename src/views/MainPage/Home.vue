@@ -89,6 +89,7 @@
       <div class="whats_news">Co nowego?</div>
       <p>- Wydanie 1 wersji aplikacji</p>
       <p>- Zaimplementowano moduł taryfikatora</p>
+      <p>- Patronite weryfikacja</p>
       <div class="version">{{ version }}</div>
     </div>
   </div>

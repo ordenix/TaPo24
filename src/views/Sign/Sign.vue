@@ -18,7 +18,7 @@
         <div class="label">Znaki informacyjne (D)</div>
       </div>
       <div class="element" @click="goto('E')">
-        <div class="icon"><img :src="require(`@/assets/road_sign/A/A-30.png`)" alt="Sign"/></div>
+        <div class="icon"><img :src="require(`@/assets/road_sign/E/E-1.png`)" alt="Sign"/></div>
         <div class="label">Znaki kierunku i miejscowości (E)</div>
       </div>
       <div class="element" @click="goto('F')">
@@ -34,15 +34,15 @@
         <div class="label">Sygnały drogowe (S)</div>
       </div>
       <div class="element" @click="goto('T')">
-        <div class="icon"><img :src="require(`@/assets/road_sign/A/A-30.png`)" alt="Sign"/></div>
+        <div class="icon"><img :src="require(`@/assets/road_sign/T/T-1.png`)" alt="Sign"/></div>
         <div class="label">Tabliczki do znaków drogowych (T)</div>
       </div>
       <div class="element" @click="goto('G')">
-        <div class="icon"><img :src="require(`@/assets/road_sign/A/A-30.png`)" alt="Sign"/></div>
+        <div class="icon"><img :src="require(`@/assets/road_sign/G/g-3.png`)" alt="Sign"/></div>
         <div class="label">Znaki dodatkowe (G)</div>
       </div>
       <div class="element" @click="goto('R')">
-        <div class="icon"><img :src="require(`@/assets/road_sign/A/A-30.png`)" alt="Sign"/></div>
+        <div class="icon"><img :src="require(`@/assets/road_sign/R/R-1.png`)" alt="Sign"/></div>
         <div class="label">Dodatkowe znaki szlaków rowerowych (R)</div>
       </div>
       <div class="element" @click="goto('W')">
@@ -50,7 +50,7 @@
         <div class="label">Dodatkowe znaki dla kierujących pojazdami wojskowymi (W)</div>
       </div>
       <div class="element" @click="goto('ATBT')">
-        <div class="icon"><img :src="require(`@/assets/road_sign/A/A-30.png`)" alt="Sign"/></div>
+        <div class="icon"><img :src="require(`@/assets/road_sign/ATBT/BT-3.png`)" alt="Sign"/></div>
         <div class="label">Dodatkowe znaki dla kierujących tramwajami (ATBT)</div>
       </div>
     </div>

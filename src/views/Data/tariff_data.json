@@ -4568,7 +4568,7 @@
     },
     {
       "category": "accident",
-      "name": "Niezachowanie należytej ostrożności na drodze publicznej, w strefie zamieszkania lub strefie ruchu i spowodowanie zagrożenia bezpieczeństwa w ruchu drogowym przez kierującego pojazdem mechanicznym",
+      "name": "Niezachowanie należytej ostrożności na drodze publicznej, w strefie zamieszkania lub strefie ruchu i spowodowanie zagrożenia bezpieczeństwa w ruchu drogowym przez kierującego pojazdem mechanicznym [kolizja drogowa]",
       "text": "art. 86 §1 KW",
       "tax": "kwota za naruszenie + 1000",
       "points": 6,
@@ -4602,7 +4602,7 @@
       "text": "art. 86 §1a KW",
       "tax": "1500/[3000]",
       "points": 6,
-      "code": "A02",
+      "code": "A 02",
       "law_sub": {
         "1": "art. 86 §1 KW Kto na drodze publicznej, w strefie zamieszkania lub strefie ruchu,\nnie zachowując należytej ostrożności, powoduje zagrożenie bezpieczeństwa w ruchu\ndrogowym,\npodlega karze grzywny",
         "2": "art. 86 §1a KW Jeżeli następstwem wykroczenia, o którym mowa w § 1, jest\nspowodowanie naruszenia czynności narządu ciała lub rozstrój zdrowia innej osoby,\nsprawca\npodlega karze grzywny",
@@ -6208,6 +6208,21 @@
       "points": 0,
       "code": "Z 01",
       "law": "art. 98 KW Kto, prowadząc pojazd poza drogą publiczną, strefą zamieszkania lub strefą ruchu, nie zachowuje należytej ostrożności, czym zagraża bezpieczeństwu innej osoby,\npodlega karze grzywny albo karze nagany",
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "category": "accident",
+      "name": "Niezachowanie należytej ostrożności na drodze publicznej, w strefie zamieszkania lub strefie ruchu i spowodowanie zagrożenia bezpieczeństwa w ruchu drogowym przez kierującego pojazdem mechanicznym [innego niż kolizja]",
+      "text": "art. 86 §1 KW",
+      "tax": "kwota za naruszenie + 1000",
+      "points": 6,
+      "code": "A 06",
+      "law_sub": {
+        "1": "art. 86 §1 KW Kto na drodze publicznej, w strefie zamieszkania lub strefie ruchu,\nnie zachowując należytej ostrożności, powoduje zagrożenie bezpieczeństwa w ruchu\ndrogowym,\npodlega karze grzywny",
+        "3": "art. 86 §2 KW Kto dopuszcza się wykroczenia określonego w § 1, znajdując się w stanie po\nużyciu alkoholu lub podobnie działającego środka,\npodlega karze aresztu, ograniczenia wolności albo grzywny w wysokości nie\nniższej niż 2500 złotych",
+        "2": "art. 86 §3 KW W razie popełnienia wykroczenia określonego w § 1 przez osobę\nprowadzącą pojazd można orzec zakaz prowadzenia pojazdów"
+      },
       "paragraph": "",
       "path": null
     },
