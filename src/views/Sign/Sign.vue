@@ -47,11 +47,11 @@
       </div>
       <div class="element" @click="goto('W')">
         <div class="icon"><img :src="require(`@/assets/road_sign/W/W-5.png`)" alt="Sign"/></div>
-        <div class="label">Dodatkowe znaki dla kierujących pojazdami wojskowymi (W)</div>
+        <div class="label">Znaki (W)</div>
       </div>
       <div class="element" @click="goto('ATBT')">
         <div class="icon"><img :src="require(`@/assets/road_sign/ATBT/BT-3.png`)" alt="Sign"/></div>
-        <div class="label">Dodatkowe znaki dla kierujących tramwajami (ATBT)</div>
+        <div class="label">Znaki (ATBT)</div>
       </div>
     </div>
   </div>
