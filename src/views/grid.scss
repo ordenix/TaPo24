@@ -1,5 +1,5 @@
 #main {
-  padding: 10px 10px;
+  padding: 30px 10px;
 }
 
 .container {
@@ -7,8 +7,12 @@
   grid-template-columns: repeat(3, minmax(0, 1fr));
   grid-template-rows: auto;
   grid-gap: 6px;
+  max-width: 1080px;
+  margin: 0 auto !important;
+  float: none !important;
 }
 .element {
+  color: #000000;
   background-color: #EE6C4D;
   height: 100px;
   padding: 3px 3px;
@@ -20,7 +24,8 @@
   font-family: 'Readex Pro', sans-serif;
 }
 .element:hover {
-  background-color: #98C1D9;
+  background-color: #3d5a80;
+  transform: scale(0.95);
 }
 .icon {
   font-size: 30px;

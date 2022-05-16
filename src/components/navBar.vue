@@ -1,33 +1,110 @@
 <template>
-  <div class="test">
-  <div class="navbar">
-    <router-link :to="{name: 'Home'}"><div class="desktop"><div :class="[$route.name==='Home' ? 'nav_element_selected' : 'nav_element']"><div class="icon"><i class="fas fa-home"></i></div> Home</div></div></router-link>
-    <router-link :to="{path: '/tariff/'}"><div :class="[$route.name==='Tariff' ? 'nav_element_selected' : 'nav_element']"><div class="icon"><i class="fas fa-book-reader"></i></div>Taryfikator</div></router-link>
-    <router-link :to="{path: '/road/'}"><div :class="[$route.name==='Road' ? 'nav_element_selected' : 'nav_element']"><div class="icon"><i class="fas fa-road"></i></div>Droga</div></router-link>
-    <router-link :to="{path: '/law'}"><div :class="[$route.name==='Law' ? 'nav_element_selected' : 'nav_element']"><div class="icon"><i class="fas fa-gavel"></i></div>Przepisy</div></router-link>
-    <router-link :to="{path: '/helpers/'}"><div :class="[$route.name==='Helpers' ? 'nav_element_selected' : 'nav_element']"><div class="icon"><i class="far fa-life-ring"></i></div>Pomoce</div></router-link>
-    <router-link :to="{path: '/about/'}"><div class="desktop"><div :class="[$route.name==='About' ? 'nav_element_selected' : 'nav_element']"><div class="icon"><i class="fas fa-info"></i></div> Aplikacji</div></div></router-link>
-  </div>
+  <div class="navBar2">
+    <div class="header">
+      <div class="ico_logo">
+          <div class="tapo" @click="globalGoTo('https://tapo24.pl','link to tapo', 'web')">
+        <img :src="require(`../assets/others/tapo24.png`)" style="padding: 5px; width: 84px; height: 84px;" alt="Sign"/>
+      </div>
+      <ul class="social">
+      <div class="social facebook" @click="globalGoTo('https://www.facebook.com/TaPo24/','link to fb', 'web')">
+       <li class="icon social facebook"><span><i class="fab fa-facebook-f"></i></span></li>
+      </div>
+       <div class="social instagram" @click="globalGoTo('https://www.instagram.com/tapo24.pl/','link to ig', 'web')">
+        <li class="icon social instagram"><span><i class="fab fa-instagram"></i></span></li>
+      </div>
+      </ul>
+      </div>
+      <div class="htl" @click="globalGoTo('https://holdtheline.pl/','link to htl', 'web')">
+        <img :src="require(`../assets/others/logo-kolor2.png`)" style="" alt="Sign"/>
+      </div>
+      <div class="right_slot" @click="click_on_settings">
+        <div class="dropdown">
+          <div class="avatar">
+            <i class="fa-solid fa-gear" style="height: 25px; padding: 0 10px 0 0"></i>
+          </div>
+          <div>
+            <div id="dropdown-content">
+              <router-link :to="{name: 'InstallationInfo'}"><div class="setting_item">Info. o wersji aplikacji</div></router-link>
+              <router-link :to="{name: 'About'}"><div class="setting_item">Kontakt</div></router-link>
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="routeBar" v-if="true">
+      <router-link :to="{name: 'Home'}" class="desktop"><div class="desktop"><div :class="[$route.name==='Home' ? 'nav_element_selected' : 'nav_element']"><div class="icon"><i class="fas fa-home"></i></div> Home</div></div></router-link>
+      <router-link :to="{path: '/tariff/'}"><div :class="[$route.name==='Tariff' ? 'nav_element_selected' : 'nav_element']"><div class="icon"><i class="fas fa-book-reader"></i></div>Taryfikator</div></router-link>
+      <router-link :to="{path: '/road/'}"><div :class="[$route.name==='Road' ? 'nav_element_selected' : 'nav_element']"><div class="icon"><i class="fas fa-road"></i></div>Droga</div></router-link>
+      <router-link :to="{path: '/law'}"><div :class="[$route.name==='Law' ? 'nav_element_selected' : 'nav_element']"><div class="icon"><i class="fas fa-gavel"></i></div>Przepisy</div></router-link>
+      <router-link :to="{path: '/helpers/'}"><div :class="[$route.name==='Helpers' ? 'nav_element_selected' : 'nav_element']"><div class="icon"><i class="far fa-life-ring"></i></div>Pomoce</div></router-link>
+      <router-link :to="{path: '/about/'}" class="desktop"><div class="desktop"><div :class="[$route.name==='About' ? 'nav_element_selected' : 'nav_element']"><div class="icon"><i class="fas fa-info"></i></div> Aplikacji</div></div></router-link>
+    </div>
   </div>
 </template>
 
 <script>
 export default {
-  name: 'navBar.vue'
+  name: 'navBar.vue',
+  data () {
+    return {
+      timer: null
+    }
+  },
+  methods: {
+    clear_timeout () {
+      window.clearTimeout(this.timer)
+    },
+    goto_web (path) {
+      window.open(path)
+    },
+    click_on_settings () {
+      this.clear_timeout()
+      document.getElementById('dropdown-content').style.transition = 'visibility 0s linear 0s, opacity 300ms'
+      document.getElementById('dropdown-content').style.visibility = 'visible'
+      document.getElementById('dropdown-content').style.opacity = '95%'
+      this.timer = setTimeout(this.hide_drop_down, 2000)
+    },
+    hide_drop_down () {
+      document.getElementById('dropdown-content').style.transition = 'visibility 0s linear 300ms, opacity 300ms'
+      document.getElementById('dropdown-content').style.visibility = 'hidden'
+      document.getElementById('dropdown-content').style.opacity = '0'
+    }
+  }
 }
 </script>
 
 <style scoped>
-.navbar {
+.navbar2 {
   display: flex;
   flex-wrap: wrap;
-  background-color: #3D5A80;
-  padding: 0;
+  padding: 15px 15px 15px;
   justify-content: center;
+  top: 10%;
+  left: 0;
+  width: 100%;
+  height: 102px;
+}
+.navBar2 {
+  display: flex;
+  flex-direction: column;
   top: 0;
   left: 0;
   width: 100%;
-  height: 72px;
+  height: 120px;
+}
+.routeBar {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  grid-template-rows: auto;
+  grid-gap: 5px;
+  justify-content: center;
+  padding: 0;
+  width: 80%;
+  left: 50%;
+  transform: translate(13%, -45%);
+  color: #fffafa;
+  /*height: 72px;*/
 }
 .desktop {
   display: none;
@@ -36,26 +113,45 @@ a {
   color: unset;
   text-decoration: unset;
 }
+.htl > img {
+  margin-top: 33px;
+  width: 150px;
+  height: 39px;
+}
+.ico_logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+.ico_logo > img {
+  width: 30px;
+}
 .tesst{
   position: sticky;
-  top: 0px;
+  top: 0;
   z-index: 10;
 }
 .nav_element {
+  border-radius: 5px;
   background-color: #EE6C4D;
-  margin: 10px 2px;
-  min-width: 10px;
-  padding: 6px 10px;
+  margin: 8px 2px;
+  padding: 6px 5px;
   text-align: center;
   font-family: 'Readex Pro', sans-serif;
+  font-size: 15px;
 }
-.nav_element_selected {
-  background-color: #98C1D9;
-  margin: 10px 2px;
+  .nav_element_selected{
+  background-color: #3d5a80;
+  box-shadow: 0 0 0.3em #ee6c4d;
+  margin: 8px 2px;
   min-width: 10px;
-  padding: 6px 10px;
+  padding: 6px 5px;
+  border-radius: 5px;
   text-align: center;
   font-family: 'Readex Pro', sans-serif;
+  font-size: 15px;
+  transform: scale(0.95);
 }
 .logo {
   left: 0;
@@ -67,10 +163,128 @@ a {
 }
 
 .nav_element:hover {
-  background-color: #e0fbfc;
+  background-color: #3d5a80;
+  transform: scale(1.07);
 }
 .nav_element_selected:hover {
-  background-color: #e0fbfc;
+  background-color: #3d5a80;
+}
+.header {
+  display: grid;
+  grid-template-columns: 1fr 2fr 1fr;
+  grid-template-rows: auto;
+  grid-gap: 3px;
+  justify-content: center;
+  background-color: #3D5A80;
+  padding: 0;
+  border-bottom: solid 2px #ee6c4d;
+  width: 100%;
+}
+.header > div {
+  display: flex;
+  justify-content: center;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+  width: 100%;
+  padding: 5px;
+}
+
+#dropdown-content {
+  display: block;
+  visibility: hidden;
+  position: absolute;
+  background-color: #293241;
+  opacity: 0;
+  width: 200px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 99;
+  border-radius: 5px;
+  right: 0;
+  margin-right: 5px;
+  padding: 10px 0;
+  transition: visibility 0s linear 300ms, opacity 300ms;
+  -webkit-transition: visibility 0s linear 300ms, opacity 300ms;
+}
+.setting_item {
+  color: #e0fbfc;
+  text-align: center;
+  background-color: rgba(61, 90, 128, 0.25);
+  padding: 10px 0;
+  margin: 5px 0;
+}
+.dropdown:hover {
+  cursor: pointer;
+}
+.dropdown:hover #dropdown-content2 {
+  display: block;
+  visibility: visible;
+  opacity: 95%;
+  transition: visibility 0s linear 0s, opacity 300ms;
+  -webkit-transition: visibility 0s linear 0s, opacity 300ms;
+}
+.avatar {
+  font-size: 33px;
+  width: 100%;
+  text-align: center;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  color: #ee6c4d;
+}
+.social{
+  display: inline-flex;
+  list-style: none;
+}
+.social .icon{
+  position: relative;
+  background: #3D5A80;
+  color: #ee6c4d;
+  border-radius: 50%;
+  padding: 5px;
+  width: 15px;
+  height: 15px;
+  font-size: 18px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  box-shadow: 0 10px 10px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+  transition: all 0.2s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+}
+.social .tooltip{
+  position: absolute;
+  margin-top: 15px;
+  font-size: 14px;
+  background: #ffffff;
+  color: #000;
+  padding: 5px 8px;
+  border-radius: 5px;
+  box-shadow: 0 10px 10px rgba(0, 0, 0, 0.1);
+  opacity: 0;
+  pointer-events: none;
+  transition: all 0.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+}
+.social .tooltip:before{
+  position: absolute;
+  content: "";
+  height: 8px;
+  width: 8px;
+  background: transparent;
+  bottom: -3px;
+  left: 50%;
+  transform: translate(-20%) rotate(45deg);
+  transition: all 0.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+}
+.social .icon:hover .tooltip{
+  top: -45px;
+  opacity: 1;
+  visibility: visible;
+  pointer-events: auto;
 }
 @media only screen and (min-width: 560px) {
   .desktop {
@@ -78,18 +292,41 @@ a {
   }
   .nav_element {
     display: flex;
+    align-items: center;
+    justify-content: center;
   }
   .nav_element_selected {
     display: flex;
+    align-items: center;
+    justify-content: center;
   }
   .nav_element > .icon {
-    margin: 0px 5px;
+    margin: 0 5px;
   }
   .nav_element_selected > .icon {
-    margin: 0px 5px;
+    margin: 0 5px;
   }
-  .navbar{
-    height: 52px;
+  .routeBar{
+    grid-template-columns: repeat(6, minmax(0, 1fr));
+  }
+  .navBar2 {
+    height: 90px;
+  }
+}
+@media only screen and (max-width: 580px){
+  .nav_element{
+    font-size: 12px;
+  }
+  .nav_element_selected {
+     font-size: 12px;
+  }
+  .social .icon{
+    left: -115%;
+  }
+}
+@media only screen and (min-width: 680px) {
+  #dropdown-content {
+    width: 100%;
   }
 }
 </style>

@@ -84,9 +84,11 @@ export default {
 <style scoped lang="scss">
 @import "./src/views/main_layout";
 .master_container {
-  width: unset;
   transition: 0.5s;
-  margin: 15px 10px;
+  max-width: 1080px;
+  margin: 10px auto !important;
+  float: none !important;
+  padding: 15px 15px 15px;
 }
 #more_info {
   transition: 0.5s;
@@ -98,6 +100,7 @@ export default {
   font-weight: bold;
   font-size: 40px;
   color: #e0fbfc;
+  float: left;
 }
 .less_info {
   display: flex;
@@ -109,7 +112,9 @@ export default {
   font-family: $text-family;
   display: flex;
   justify-content: flex-end;
-  font-size: 14px;
+  font-size: 12px;
+  float: right;
+  margin-bottom: 5px;
 }
 .title {
   color: #EE6C4D;

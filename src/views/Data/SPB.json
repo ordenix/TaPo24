@@ -1,0 +1,580 @@
+{
+  "spb_array": [
+    {
+      "name": "Siła fizyczna",
+      "used_conditionals": {
+        "1": "Wyegzekwowanie wymaganego prawem zachowania zgodnie z wydanym przez uprawnionego poleceniem",
+        "2": "Odparcie bezpośredniego, bezprawnego zamachu na życie, zdrowie lub wolność uprawnionego lub innej osoby",
+        "3": "Przeciwdziałanie czynnościom zmierzającym bezpośrednio do zamachu na życie, zdrowie lub wolność uprawnionego lub innej osoby",
+        "4": "Przeciwdziałanie naruszeniu porządku lub bezpieczeństwa publicznego",
+        "5": "Przeciwdziałanie bezpośredniemu zamachowi na ochraniane przez uprawnionego obszary, obiekty lub urządzenia",
+        "6": "Ochrona porządku lub bezpieczeństwa na obszarach lub w obiektach chronionych przez uprawnionego",
+        "7": "Przeciwdziałanie zamachowi na nienaruszalność granicy państwowej w rozumieniu art. 1 ustawy z dnia 12 października 1990 r. o ochronie granicy państwowej",
+        "8": "Przeciwdziałanie niszczeniu mienia",
+        "9": "Zapewnienie bezpieczeństwa konwoju lub doprowadzenia",
+        "10": "Ujęcie osoby, udaremnienie jej ucieczki lub pościg za tą osobą",
+        "11": "Zatrzymanie osoby, udaremnienie jej ucieczki lub pościg za tą osobą",
+        "12": "Pokonanie biernego oporu",
+        "13": "Pokonanie czynnego oporu",
+        "14": "Przeciwdziałanie czynnościom zmierzającym do autoagresji"
+      },
+      "exception": {
+        "1": "Używając siły fizycznej lub wykorzystując siłę fizyczną, nie zadaje się uderzeń, chyba że uprawniony działa w celu odparcia zamachu na życie lub zdrowie własne lub innych osób albo na mienie lub przeciwdziała ucieczce",
+        "2": "Wobec kobiet o widocznej ciąży, osób, których wygląd wskazuje na wiek do 13 lat, oraz osób o widocznej niepełnosprawności uprawniony może użyć wyłącznie siły fizycznej w postaci technik obezwładnienia,",
+        "3": "W przypadku, gdy zachodzi konieczność odparcia bezpośredniego, bezprawnego zamachu na życie lub zdrowie uprawnionego lub innej osoby, a użycie siły fizycznej wobec kobiet o widocznej ciąży, osób, których wygląd wskazuje na wiek do 13 lat jest niewystarczające lub niemożliwe, uprawniony może użyć innych środków przymusu bezpośredniego lub broni palnej",
+        "4": "Użycie środka przymusu bezpośredniego w przypadku, o którym mowa wyżej następuje z uwzględnieniem jego właściwości oraz stanu osoby, wobec której ma być użyty"
+      },
+      "path": null
+    },
+    {
+      "name": "Kajdanki",
+      "used_conditionals": {
+        "1": "Wyegzekwowanie wymaganego prawem zachowania zgodnie z wydanym przez uprawnionego poleceniem",
+        "2": "Odparcie bezpośredniego, bezprawnego zamachu na życie, zdrowie lub wolność uprawnionego lub innej osoby",
+        "3": "Przeciwdziałanie czynnościom zmierzającym bezpośrednio do zamachu na życie, zdrowie lub wolność uprawnionego lub innej osoby",
+        "4": "Przeciwdziałanie naruszeniu porządku lub bezpieczeństwa publicznego",
+        "5": "Przeciwdziałanie bezpośredniemu zamachowi na ochraniane przez uprawnionego obszary, obiekty lub urządzenia",
+        "6": "Ochrona porządku lub bezpieczeństwa na obszarach lub w obiektach chronionych przez uprawnionego",
+        "7": "Przeciwdziałanie zamachowi na nienaruszalność granicy państwowej w rozumieniu art. 1 ustawy z dnia 12 października 1990 r. o ochronie granicy państwowej",
+        "8": "Przeciwdziałanie niszczeniu mienia",
+        "9": "Zapewnienie bezpieczeństwa konwoju lub doprowadzenia",
+        "10": "Ujęcie osoby, udaremnienie jej ucieczki lub pościg za tą osobą",
+        "11": "Zatrzymanie osoby, udaremnienie jej ucieczki lub pościg za tą osobą",
+        "12": "Pokonanie czynnego oporu",
+        "13": "Przeciwdziałanie czynnościom zmierzającym do autoagresji"
+      },
+    "exception": {
+      "1": "Kajdanek można użyć także na polecenie sądu lub prokuratora",
+      "2": "Kajdanek używa się w celu częściowego unieruchomienia kończyn",
+      "3": "Kajdanki zakłada się na ręce trzymane z tyłu",
+      "4": "Kajdanek zespolonych lub kajdanek zakładanych na nogi można użyć wyłącznie wobec osób agresywnych, zatrzymanych w związku z podejrzeniem popełnienia przestępstwa z użyciem broni palnej, materiałów wybuchowych lub innego niebezpiecznego narzędzia lub przestępstwa, przestępstwa o charakterze terrorystycznym, zabójstwo, przestępczość zorganizowana, udział w zorganizowanej grupie przestępczej lub pozbawionych wolności",
+      "5": "W przypadku prewencyjnego użycia kajdanek lub gdy w ocenie uprawnionego prawdopodobieństwo podjęcia próby ucieczki, stawiania czynnego oporu lub wystąpienia zachowania mogącego zagrażać życiu, zdrowiu lub mieniu jest nieznaczne, kajdanki można założyć na ręce trzymane z przodu",
+      "6": "Kajdanek zakładanych na nogi używa się równocześnie z kajdankami zakładanymi na ręce"
+    },
+      "path": null
+    },
+    {
+      "name": "Kaftan bezpieczeństwa lub pas obezwładniający",
+      "used_conditionals": {
+        "1": "Przeciwdziałanie czynnościom zmierzającym bezpośrednio do zamachu na życie, zdrowie lub wolność uprawnionego lub innej osoby",
+        "2": "Przeciwdziałanie naruszeniu porządku lub bezpieczeństwa publicznego",
+        "3": "Ochrona porządku lub bezpieczeństwa na obszarach lub w obiektach chronionych przez uprawnionego",
+        "4": "Ujęcie osoby, udaremnienie jej ucieczki lub pościg za tą osobą",
+        "5": "Zatrzymanie osoby, udaremnienie jej ucieczki lub pościg za tą osobą",
+        "6": "Pokonanie czynnego oporu",
+        "7": "Przeciwdziałanie czynnościom zmierzającym do autoagresji"
+      },
+      "exception": {
+        "1": "Kaftan bezpieczeństwa lub pas obezwładniający jednoczęściowy używa się w celu unieruchomienia rąk",
+        "2": "Pas obezwładniający wieloczęściowy używa się w celu unieruchomienia osoby",
+        "3": "Użycie kaftana bezpieczeństwa lub pasa obezwładniającego nie może utrudniać oddychania lub tamować obiegu krwi",
+        "4": "W przypadku użycia kaftana bezpieczeństwa lub pasa obezwładniającego w stosunku do nieletniego lub kobiety o widocznej ciąży, osobie tej należy niezwłocznie zapewnić pomoc medyczną, a dalsze użycie tych środków uzależnia się od opinii osoby udzielającej tej pomocy"
+      },
+      "path": null
+    },
+    {
+      "name": "Kask zabezpieczający",
+      "used_conditionals": {
+        "1": "Przeciwdziałanie czynnościom zmierzającym do autoagresji"
+      },
+      "exception": {
+        "1": "Kasku zabezpieczającego używa się w celu zapobieżenia samookaleczeniu głowy, po uprzednim założeniu pasa obezwładniającego jednoczęściowego lub kaftana bezpieczeństwa albo kajdanek na ręce trzymane z tyłu"
+      },
+      "path": null
+    },
+    {
+      "name": "Siatka obezwładniająca",
+      "used_conditionals": {
+        "1": "Odparcie bezpośredniego, bezprawnego zamachu na życie, zdrowie lub wolność uprawnionego lub innej osoby",
+        "2": "Przeciwdziałanie czynnościom zmierzającym bezpośrednio do zamachu na życie, zdrowie lub wolność uprawnionego lub innej osoby",
+        "3": "Przeciwdziałanie naruszeniu porządku lub bezpieczeństwa publicznego",
+        "4": "Przeciwdziałanie bezpośredniemu zamachowi na ochraniane przez uprawnionego obszary, obiekty lub urządzenia",
+        "5": "Przeciwdziałanie zamachowi na nienaruszalność granicy państwowej w rozumieniu art. 1 ustawy z dnia 12 października 1990 r. o ochronie granicy państwowej",
+        "6": "Ujęcie osoby, udaremnienie jej ucieczki lub pościg za tą osobą",
+        "7": "Zatrzymanie osoby, udaremnienie jej ucieczki lub pościg za tą osobą"
+      },
+      "exception": {
+        "1": "Siatki obezwładniającej używa się w celu unieruchomienia osoby lub wykorzystuje się ją w celu unieruchomienia zwierzęcia",
+        "2": "Siatkę obezwładniającą miota się z broni palnej albo innych urządzeń albo zarzuca się ją ręcznie"
+      },
+      "path": null
+    },
+    {
+      "name": "Pałka służbowa",
+      "used_conditionals": {
+        "1": "Wyegzekwowanie wymaganego prawem zachowania zgodnie z wydanym przez uprawnionego poleceniem",
+        "2": "Odparcie bezpośredniego, bezprawnego zamachu na życie, zdrowie lub wolność uprawnionego lub innej osoby",
+        "3": "Przeciwdziałanie czynnościom zmierzającym bezpośrednio do zamachu na życie, zdrowie lub wolność uprawnionego lub innej osoby",
+        "4": "Przeciwdziałanie naruszeniu porządku lub bezpieczeństwa publicznego",
+        "5": "Przeciwdziałanie bezpośredniemu zamachowi na ochraniane przez uprawnionego obszary, obiekty lub urządzenia",
+        "6": "Ochrona porządku lub bezpieczeństwa na obszarach lub w obiektach chronionych przez uprawnionego",
+        "7": "Przeciwdziałanie zamachowi na nienaruszalność granicy państwowej w rozumieniu art. 1 ustawy z dnia 12 października 1990 r. o ochronie granicy państwowej",
+        "8": "Przeciwdziałanie niszczeniu mienia",
+        "9": "Zapewnienie bezpieczeństwa konwoju lub doprowadzenia",
+        "10": "Ujęcie osoby, udaremnienie jej ucieczki lub pościg za tą osobą",
+        "11": "Zatrzymanie osoby, udaremnienie jej ucieczki lub pościg za tą osobą",
+        "12": "Pokonanie czynnego oporu"
+      },
+      "exception": {
+        "1": "Pałki służbowej nie stosuje się wobec osób w stosunku do których użyto środków przymusu bezpośredniego w postaci kajdanek, kaftana bezpieczeństwa, pasa obezwładniającego, siatki obezwładniającej z wyjątkiem dźwigni transportowych stosowanych przy użyciu pałki służbowej",
+        "2": "Pałki służbowej nie stosuje się wobec osób obezwładnionych wskutek użycia siły fizycznej, przedmiotu przeznaczonego do obezwładniania osób za pomocą energii elektrycznej z wyjątkiem dźwigni transportowych stosowanych przy użyciu pałki służbowej",
+        "3": "Pałki służbowej używa się do obezwładnienia osoby przez zadanie bólu fizycznego lub do zablokowania kończyn albo wykorzystuje się ją w celu obezwładnienia zwierzęcia",
+        "4": "Pałką służbową nie zadaje się uderzeń i pchnięć w głowę, szyję, brzuch i nieumięśnione oraz szczególnie wrażliwe części ciała, z wyjątkiem sytuacji gdy zachodzi konieczność odparcia zamachu stwarzającego bezpośrednie zagrożenie życia lub zdrowia uprawnionego lub innej osoby"
+      },
+      "path": null
+    },
+    {
+      "name": "Wodne środki obezwładniające",
+      "used_conditionals": {
+        "1": "Wyegzekwowanie wymaganego prawem zachowania zgodnie z wydanym przez uprawnionego poleceniem",
+        "2": "Odparcie bezpośredniego, bezprawnego zamachu na życie, zdrowie lub wolność uprawnionego lub innej osoby",
+        "3": "Przeciwdziałanie naruszeniu porządku lub bezpieczeństwa publicznego",
+        "4": "Przeciwdziałanie niszczeniu mienia",
+        "5": "Pokonanie biernego oporu",
+        "6": "Pokonanie czynnego oporu"
+      },
+      "exception": {
+        "1": "Wodnych środków obezwładniających używa się w celu krótkotrwałego obezwładnienia osoby lub wykorzystuje się je w celu krótkotrwałego obezwładnienia zwierzęcia",
+        "2": "Wodnych środków obezwładniających można użyć także z dodatkiem środka łzawiącego lub barwiącego"
+      },
+      "path": null
+    },
+    {
+      "name": "Pies służbowy",
+      "used_conditionals": {
+        "1": "Odparcie bezpośredniego, bezprawnego zamachu na życie, zdrowie lub wolność uprawnionego lub innej osoby",
+        "2": "Przeciwdziałanie bezpośredniemu zamachowi na ochraniane przez uprawnionego obszary, obiekty lub urządzenia",
+        "3": "Ochrona porządku lub bezpieczeństwa na obszarach lub w obiektach chronionych przez uprawnionego",
+        "4": "Przeciwdziałanie zamachowi na nienaruszalność granicy państwowej w rozumieniu art. 1 ustawy z dnia 12 października 1990 r. o ochronie granicy państwowej",
+        "5": "Zapewnienie bezpieczeństwa konwoju lub doprowadzenia",
+        "6": "Ujęcie osoby, udaremnienie jej ucieczki lub pościg za tą osobą",
+        "7": "Zatrzymanie osoby, udaremnienie jej ucieczki lub pościg za tą osobą",
+        "8": "Pokonanie czynnego oporu"
+      },
+      "exception": {
+        "1": "Psa służbowego używa się, gdy ma założony kaganiec, chyba że został wytresowany do działania bez kagańca",
+        "2": "Psa służbowego używa się, gdy ma założony kaganiec, chyba że użycie psa służbowego służy do odparcia zamachu na życie lub zdrowie uprawnionego lub innej osoby",
+        "3": "Psa służbowego używa się, gdy ma założony kaganiec, chyba że wykonywania czynności służbowych wobec osób, w stosunku do których użycie broni palnej jest dopuszczalne w przypadkach, o których mowa w art. 45 pkt 1 lit. a–c, pkt 2 i 3",
+        "4": "Psa służbowego używa się, gdy ma założony kaganiec, chyba że wykonywania czynności służbowych wobec osób, w stosunku do których użycie broni palnej jest dopuszczalne w przypadkach, o których mowa w art. 45 pkt 1 lit. a–c i pkt 2 – gdy uprawnionym jest pracownik ochrony (pracownicy ochrony uprawnieni do użycia lub wykorzystania środków przymusu bezpośredniego lub broni palnej na podstawie przepisów ustawy z dnia 22 sierpnia 1997 r. o ochronie osób i mienia)"
+      },
+      "path": null
+    },
+    {
+      "name": "Koń służbowy",
+      "used_conditionals": {
+        "1": "Odparcie bezpośredniego, bezprawnego zamachu na życie, zdrowie lub wolność uprawnionego lub innej osoby",
+        "2": "Przeciwdziałanie naruszeniu porządku lub bezpieczeństwa publicznego",
+        "3": "Przeciwdziałanie zamachowi na nienaruszalność granicy państwowej w rozumieniu art. 1 ustawy z dnia 12 października 1990 r. o ochronie granicy państwowej",
+        "4": "Przeciwdziałanie niszczeniu mienia",
+        "5": "Pokonanie biernego oporu",
+        "6": "Pokonanie czynnego oporu"
+      },
+      "exception": {
+        "1": "Konia służbowego używa się do kontroli przemieszczania się grupy osób, wykorzystując jego masę"
+      },
+      "path": null
+    },
+    {
+      "name": "Pociski niepenetracyjne miotane z broni palnej lub urządzeń do tego przeznaczonych",
+      "used_conditionals": {
+        "2": "Odparcie bezpośredniego, bezprawnego zamachu na życie, zdrowie lub wolność uprawnionego lub innej osoby",
+        "3": "Przeciwdziałanie czynnościom zmierzającym bezpośrednio do zamachu na życie, zdrowie lub wolność uprawnionego lub innej osoby",
+        "4": "Przeciwdziałanie naruszeniu porządku lub bezpieczeństwa publicznego",
+        "5": "Przeciwdziałanie bezpośredniemu zamachowi na ochraniane przez uprawnionego obszary, obiekty lub urządzenia",
+        "7": "Przeciwdziałanie zamachowi na nienaruszalność granicy państwowej w rozumieniu art. 1 ustawy z dnia 12 października 1990 r. o ochronie granicy państwowej",
+        "8": "Przeciwdziałanie niszczeniu mienia",
+        "9": "Zapewnienie bezpieczeństwa konwoju lub doprowadzenia",
+        "10": "Ujęcie osoby, udaremnienie jej ucieczki lub pościg za tą osobą",
+        "11": "Zatrzymanie osoby, udaremnienie jej ucieczki lub pościg za tą osobą",
+        "13": "Pokonanie czynnego oporu"
+      },
+      "exception": {
+        "1": "W przypadku zbiorowego zakłócenia porządku publicznego użycie pocisków niepenetracyjnych poprzedza się strzałem ostrzegawczym lub salwą ostrzegawczą w bezpiecznym kierunku, z wyjątkiem sytuacji, gdy miałoby to nastąpić w pomieszczeniach, obiektach aresztu śledczego, zakładu karnego, strzeżonego ośrodka lub aresztu w celu wydalenia",
+        "2": "Pocisków niepenetracyjnych używa się w celu obezwładnienia osób lub wykorzystuje się w celu obezwładnienia zwierzęcia przez zadanie bólu fizycznego, przy czym nie celuje się w głowę lub szyję"
+      },
+      "path": null
+    },
+    {
+      "name": "Chemicznych środków obezwładniających w postaci ręcznych miotaczy substancji obezwładniających, plecakowych miotaczy substancji obezwładniających, granatów łzawiących oraz innych urządzeń przeznaczonych do miotania środków obezwładniających",
+      "used_conditionals": {
+        "1": "Wyegzekwowanie wymaganego prawem zachowania zgodnie z wydanym przez uprawnionego poleceniem",
+        "2": "Odparcie bezpośredniego, bezprawnego zamachu na życie, zdrowie lub wolność uprawnionego lub innej osoby",
+        "3": "Przeciwdziałanie czynnościom zmierzającym bezpośrednio do zamachu na życie, zdrowie lub wolność uprawnionego lub innej osoby",
+        "4": "Przeciwdziałanie naruszeniu porządku lub bezpieczeństwa publicznego",
+        "5": "Przeciwdziałanie bezpośredniemu zamachowi na ochraniane przez uprawnionego obszary, obiekty lub urządzenia",
+        "6": "Ochrona porządku lub bezpieczeństwa na obszarach lub w obiektach chronionych przez uprawnionego",
+        "7": "Przeciwdziałanie zamachowi na nienaruszalność granicy państwowej w rozumieniu art. 1 ustawy z dnia 12 października 1990 r. o ochronie granicy państwowej",
+        "8": "Przeciwdziałanie niszczeniu mienia",
+        "9": "Zapewnienie bezpieczeństwa konwoju lub doprowadzenia",
+        "10": "Ujęcie osoby, udaremnienie jej ucieczki lub pościg za tą osobą",
+        "11": "Zatrzymanie osoby, udaremnienie jej ucieczki lub pościg za tą osobą",
+        "12": "Pokonanie biernego oporu",
+        "13": "Pokonanie czynnego oporu"
+      },
+      "exception": {
+        "1": "Chemicznych środków obezwładniających używa się lub wykorzystuje się je w celu krótkotrwałego zakłócenia orientacji przestrzennej lub obezwładnienia",
+        "2": "Chemicznych środków obezwładniających nie używa się wobec osób, w stosunku do których użyto środków przymusu bezpośredniego w postaci kajdanek, kaftana bezpieczeństwa, pasa obezwładniającego, siatki obezwładniającej, przedmiotu przeznaczonego do obezwładniania osób za pomocą energii elektrycznej  "
+      },
+      "path": null
+    },
+    {
+      "name": "Przedmiotów przeznaczonych do obezwładniania osób za pomocą energii elektrycznej",
+      "used_conditionals": {
+        "1": "Odparcie bezpośredniego, bezprawnego zamachu na życie, zdrowie lub wolność uprawnionego lub innej osoby",
+        "2": "Przeciwdziałanie czynnościom zmierzającym bezpośrednio do zamachu na życie, zdrowie lub wolność uprawnionego lub innej osoby",
+        "3": "Przeciwdziałanie bezpośredniemu zamachowi na ochraniane przez uprawnionego obszary, obiekty lub urządzenia",
+        "4": "Przeciwdziałanie zamachowi na nienaruszalność granicy państwowej w rozumieniu art. 1 ustawy z dnia 12 października 1990 r. o ochronie granicy państwowej",
+        "5": "Przeciwdziałanie niszczeniu mienia",
+        "6": "Zapewnienie bezpieczeństwa konwoju lub doprowadzenia",
+        "7": "Ujęcie osoby, udaremnienie jej ucieczki lub pościg za tą osobą",
+        "8": "Zatrzymanie osoby, udaremnienie jej ucieczki lub pościg za tą osobą",
+        "9": "Pokonanie czynnego oporu"
+      },
+      "exception": {
+        "1": "Przedmiotów przeznaczonych do obezwładniania osób za pomocą energii elektrycznej używa się w celu krótkotrwałego obezwładnienia osoby lub wykorzystuje się w celu krótkotrwałego obezwładnienia zwierzęcia, jeżeli użycie innych środków przymusu bezpośredniego jest niemożliwe albo może okazać się nieskuteczne",
+        "2": "Przedmiotów przeznaczonych do obezwładniania osób za pomocą energii elektrycznej nie używa się wobec osób, w stosunku do których użyto następujących środków przymusu bezpośredniego kajdanek, kaftana bezpieczeństwa, pasa obezwładniającego, siatki obezwładniającej",
+        "3": "Używając przedmiotów przeznaczonych do obezwładniania osób za pomocą energii elektrycznej, nie celuje się w głowę",
+        "4": "Użycie lub wykorzystanie przedmiotów przeznaczonych do obezwładniania osób za pomocą energii elektrycznej o średniej wartości prądu w obwodzie przekraczającej 10 mA przez funkcjonariuszy Służby Ochrony Państwa, funkcjonariuszu Straży Marszałkowskiej, funkcjonariuszy Straży Ochrony Kolei, pracownicy ochrony uprawnieni do użycia lub wykorzystania środków przymusu\nbezpośredniego lub broni palnej, inspektorzy Inspekcji Transportu Drogowego wymaga dopuszczenia do posiadania tych przedmiotów, w rozumieniu art. 30 Ustawy o broni i amunicji",
+        "5": ""
+      },
+      "path": null
+    },
+    {
+      "name": "Cela zabezpieczająca",
+      "used_conditionals": {
+        "1": "Wyegzekwowanie wymaganego prawem zachowania zgodnie z wydanym przez uprawnionego poleceniem",
+        "2": "Odparcie bezpośredniego, bezprawnego zamachu na życie, zdrowie lub wolność uprawnionego lub innej osoby",
+        "3": "Przeciwdziałanie czynnościom zmierzającym bezpośrednio do zamachu na życie, zdrowie lub wolność uprawnionego lub innej osoby",
+        "4": "Przeciwdziałanie bezpośredniemu zamachowi na ochraniane przez uprawnionego obszary, obiekty lub urządzenia",
+        "5": "Ochrona porządku lub bezpieczeństwa na obszarach lub w obiektach chronionych przez uprawnionego",
+        "6": "Przeciwdziałanie niszczeniu mienia",
+        "7": "Zapewnienie bezpieczeństwa konwoju lub doprowadzenia",
+        "8": "Pokonanie biernego oporu",
+        "9": "Pokonanie czynnego oporu",
+        "10": "Przeciwdziałanie czynnościom zmierzającym do autoagresji"
+      },
+      "exception": {
+        "1": "W celi zabezpieczającej można umieścić osobę pozbawioną wolności w celu jej czasowego odosobnienia",
+        "2": "Osoba pozbawiona wolności nie może być umieszczona w celi zabezpieczającej na okres dłuższy niż 48 godzin",
+        "3": "W celi zabezpieczającej można umieścić więcej niż jedną osobę pozbawioną wolności tylko w przypadku, gdy bezpieczne odosobnienie tych osób w innych pomieszczeniach jest niemożliwe",
+        "4": "W przypadku braku możliwości umieszczenia osoby pozbawionej wolności w celi zabezpieczającej można tę osobę umieścić w innym pomieszczeniu zapewniającym odosobnienie"
+      },
+      "path": null
+    },
+    {
+      "name": "Izba izolacyjna",
+      "used_conditionals": {
+        "2": "Odparcie bezpośredniego, bezprawnego zamachu na życie, zdrowie lub wolność uprawnionego lub innej osoby",
+        "14": "Przeciwdziałanie czynnościom zmierzającym do autoagresji"
+      },
+      "exception": {
+        "1": "Nieletni nie może być umieszczony w izbie izolacyjnej na okres dłuższy niż 48 godzin, a nieletni, który nie ukończył 14 lat, na okres dłuższy niż 12 godzin",
+        "2": "Izba izolacyjna jest pomieszczeniem dźwiękochłonnym i monitorowanym"
+      },
+      "path": null
+    },
+    {
+      "name": "Pokój izolacyjny",
+      "used_conditionals": {
+        "1": "Przeciwdziałanie czynnościom zmierzającym bezpośrednio do zamachu na życie, zdrowie lub wolność uprawnionego lub innej osoby",
+        "2": "Przeciwdziałanie naruszeniu porządku lub bezpieczeństwa publicznego",
+        "3": "Ochrona porządku lub bezpieczeństwa na obszarach lub w obiektach chronionych przez uprawnionego",
+        "4": "Przeciwdziałanie niszczeniu mienia",
+        "5": "Przeciwdziałanie czynnościom zmierzającym do autoagresji"
+      },
+      "exception": {
+        "1": "W pokoju izolacyjnym można umieścić cudzoziemca przebywającego w strzeżonym ośrodku w celu czasowego odosobnienia tego cudzoziemca",
+        "2": "Cudzoziemiec nie może być umieszczony w pokoju izolacyjnym na okres dłuższy niż 48 godzin"
+      },
+      "path": null
+    },
+    {
+      "name": "Kolczatka drogowa",
+      "used_conditionals": {
+        "1": "Ochrona porządku lub bezpieczeństwa na obszarach lub w obiektach chronionych przez uprawnionego",
+        "2": "Przeciwdziałanie zamachowi na nienaruszalność granicy państwowej w rozumieniu art. 1 ustawy z dnia 12 października 1990 r. o ochronie granicy państwowej",
+        "3": "Ujęcie osoby, udaremnienie jej ucieczki lub pościg za tą osobą",
+        "4": "Zatrzymanie osoby, udaremnienie jej ucieczki lub pościg za tą osobą"
+      },
+      "exception": {
+        "1": "Do kolczatek drogowych nie zalicza się kolczatek drogowych połączonych z gruntem oraz zintegrowanych ze szlabanem, a także innych przedmiotów umożliwiających zatrzymywanie pojazdów wykorzystywanych na obszarach i w obiektach podlegających ochronie",
+        "2": "Środki przymusu bezpośredniego wykorzystuje umundurowany uprawniony w celu zatrzymania pojazdu albo unieruchomienia zatrzymanego pojazdu, gdy zachodzi obawa oddalenia się go z miejsca zatrzymania",
+        "3": "Wykorzystanie środków przymusu bezpośredniego w celu zatrzymania pojazdu poprzedza się sygnałem do zatrzymania pojazdu danym przez umundurowanego uprawnionego w sposób zrozumiały i widoczny dla kierującego zatrzymywanym pojazdem",
+        "4": "Wykorzystanie środków przymusu bezpośredniego w celu zatrzymania pojazdu poprzedza się wstrzymaniem ruchu drogowego w obu kierunkach w odległości nie mniejszej niż 100 m od powyższych środków przymusu bezpośredniego",
+        "5": "W przypadku blokowania drogi oznakowanym pojazdem służbowym można odstąpić od wstrzymania ruchu drogowego",
+        "6": "Kolczatki drogowej nie wykorzystuje się w celu zatrzymania pojazdu jednośladowego"
+      },
+      "path": null
+    },
+    {
+      "name": "Pojazd służbowy",
+      "used_conditionals": {
+        "1": "Odparcie bezpośredniego, bezprawnego zamachu na życie, zdrowie lub wolność uprawnionego lub innej osoby",
+        "2": "Przeciwdziałania czynnościom zmierzającym bezpośrednio do zamachu na życie, zdrowie lub wolność uprawnionego lub innej osoby",
+        "3": "Przeciwdziałanie zamachowi na nienaruszalność granicy państwowej w rozumieniu art. 1 ustawy z dnia 12 października 1990 r. o ochronie granicy państwowej",
+        "4": "Zapewnienie bezpieczeństwa konwoju lub doprowadzenia",
+        "6": "Ujęcie osoby, udaremnienie jej ucieczki lub pościg za tą osobą",
+        "7": "Zatrzymanie osoby, udaremnienie jej ucieczki lub pościg za tą osobą"
+      },
+      "exception": {
+        "1": "Pojazd służbowy można wykorzystać jeżeli porusza się jako pojazd uprzywilejowany, w rozumieniu Ustawy Prawo o Ruchu Drogowym",
+        "2": "Pojazd służbowy można wykorzystać jeżeli porusza się jako pojazd służbowy jadący w kolumnie pojazdów uprzywilejowanych",
+        "3": "Pojazd służbowy wykorzystuje się w celu zatrzymania lub zablokowania innego pojazdu albo pokonania przeszkody"
+      },
+      "path": null
+    },
+    {
+      "name": "Środki przeznaczone do pokonywania zamknięć budowlanych i innych przeszkód, w tym materiały wybuchowe",
+      "used_conditionals": {
+        "1": "Odparcie bezpośredniego, bezprawnego zamachu na życie, zdrowie lub wolność uprawnionego lub innej osoby",
+        "2": "Przeciwdziałanie czynnościom zmierzającym bezpośrednio do zamachu na życie, zdrowie lub wolność uprawnionego lub innej osoby",
+        "3": "Przeciwdziałanie bezpośredniemu zamachowi na ochraniane przez uprawnionego obszary, obiekty lub urządzenia",
+        "4": "Ochrona porządku lub bezpieczeństwa na obszarach lub w obiektach chronionych przez uprawnionego",
+        "5": "Ujęcie osoby, udaremnienie jej ucieczki lub pościg za tą osobą",
+        "6": "Zatrzymanie osoby, udaremnienie jej ucieczki lub pościg za tą osobą",
+        "7": "Przeciwdziałanie czynnościom zmierzającym do autoagresji"
+      },
+      "exception": {
+        "1": "Środki przeznaczone do pokonywania zamknięć budowlanych i innych przeszkód wykorzystuje się w celu umożliwienia uprawnionym wejścia do pomieszczeń lub innych miejsc, jeżeli użycie lub wykorzystanie innych środków przymusu bezpośredniego mogłoby powodować zagrożenie życia lub zdrowia uprawnionego lub innej osoby",
+        "2": "Środki przeznaczone do pokonywania zamknięć budowlanych i innych przeszkód wykorzystuje się w celu umożliwienia uprawnionym wejścia do pomieszczeń lub innych miejsc, jeżeli wejście uprawnionych do pomieszczeń lub innych miejsc jest niemożliwe bez wykorzystania tych środków"
+      },
+      "path": null
+    },
+    {
+      "name": "Środki pirotechniczne o właściwościach ogłuszających lub olśniewających",
+      "used_conditionals": {
+        "1": "Odparcie bezpośredniego, bezprawnego zamachu na życie, zdrowie lub wolność uprawnionego lub innej osoby",
+        "2": "Przeciwdziałanie czynnościom zmierzającym bezpośrednio do zamachu na życie, zdrowie lub wolność uprawnionego lub innej osoby",
+        "3": "Przeciwdziałanie bezpośredniemu zamachowi na ochraniane przez uprawnionego obszary, obiekty lub urządzenia",
+        "4": "Ochrona porządku lub bezpieczeństwa na obszarach lub w obiektach chronionych przez uprawnionego",
+        "5": "Ujęcie osoby, udaremnienie jej ucieczki lub pościg za tą osobą",
+        "6": "Zatrzymanie osoby, udaremnienie jej ucieczki lub pościg za tą osobą",
+        "7": "Przeciwdziałanie czynnościom zmierzającym do autoagresji"
+      },
+      "exception": {
+        "1": "Do środków pirotechnicznych o właściwościach ogłuszających lub olśniewających zalicza się w szczególności granaty hukowo-błyskowe, także z zawartością gazu łzawiącego, petardy oraz granaty dymne",
+        "2": "Środków pirotechnicznych o właściwościach ogłuszających lub olśniewających używa się w celu poprawy bezpieczeństwa podczas wykonywania ustawowych zadań przez uprawnionego, w warunkach stwarzających szczególne zagrożenie życia lub zdrowia uprawnionego lub innej osoby",
+        "3": "Środki pirotechniczne o właściwościach ogłuszających lub olśniewających służą do ograniczania możliwości działania osób zatrzymywanych przez krótkotrwałe zakłócenie ich orientacji przestrzennej lub odwrócenie ich uwagi od działań uprawnionego, gdy istnieje podejrzenie, że osoby te będą stawiać intensywny opór"
+      },
+      "path": null
+    }
+
+  ],
+  "weapon_array_used": [
+    {
+      "name": "Broń palna - użycie",
+      "used_conditionals": {
+        "1": "1a - Konieczność odparcia bezpośredniego, bezprawnego zamachu na życie, zdrowie lub wolność uprawnionego lub innej osoby albo konieczność przeciwdziałania czynnościom zmierzającym bezpośrednio do takiego zamachu",
+        "2": "1b - Konieczność odparcia bezpośredniego, bezprawnego zamachu na ważne obiekty, urządzenia lub obszary albo konieczność przeciwdziałania czynnościom zmierzającym bezpośrednio do takiego zamachu",
+        "3": "1c - Konieczność odparcia bezpośredniego, bezprawnego zamachu na mienie, który stwarza jednocześnie bezpośrednie zagrożenie życia, zdrowia lub wolności uprawnionego lub innej osoby, albo konieczność przeciwdziałania czynnościom zmierzającym bezpośrednio do takiego zamachu",
+        "4": "1d - Konieczność odparcia bezpośredniego, bezprawnego zamachu na nienaruszalność granicy państwowej przez osobę, która wymusza przekroczenie granicy państwowej przy użyciu pojazdu, broni palnej lub innego niebezpiecznego przedmiotu",
+        "5": "1e - Konieczność odparcia bezpośredniego, bezprawnego zamachu na bezpieczeństwo konwoju lub doprowadzenia"
+      },
+      "exception": {
+        "1": "bla bla bla"
+      },
+      "path": null
+    },
+    {
+      "name": "Broń palna - użycie",
+      "used_conditionals": {
+        "1": "2a - Konieczność przeciwstawienia się osobie niepodporządkowującej się wezwaniu do natychmiastowego porzucenia broni, materiału wybuchowego lub innego niebezpiecznego przedmiotu, którego użycie może zagrozić życiu, zdrowiu lub wolności uprawnionego lub innej osoby ",
+        "2": "2b - Konieczność przeciwstawienia się osobie która usiłuje bezprawnie odebrać broń palną uprawnionemu lub innej osobie uprawnionej do jej posiadania "
+      },
+      "exception": {
+        "1": "bla bla bla"
+      },
+      "path": null
+    },
+    {
+      "name": "Broń palna - użycie",
+      "used_conditionals": {
+        "1": "3a - Bezpośredni pościg za osobą, wobec której użycie broni palnej było dopuszczalne w przypadkach określonych w pkt 1 lit. a–d i pkt 2",
+        "2": "3b - Bezpośredni pościg za osobą, wobec której istnieje uzasadnione podejrzenie, że popełniła przestępstwo, o którym mowa w art. 115 § 20 KK (. przestępstwo o charakterze terrorystycznym ), art. 148 KK ( Zabójstwo ) , art. 156 § 1 KK ( ciężki uszczerbek na zdrowiu ), art. 163–165 KK ( zdarzenie, które zagraża życiu lub zdrowiu wielu osób albo mieniu w wielkich rozmiarach, bezpośrednie niebezpieczeństwo zdarzenia określonego w art. 163 § 1 KK, niebezpieczeństwo dla życia lub zdrowia wielu\nosób albo dla mienia w wielkich rozmiarach ), art. 197 KK (doprowadzenie innej osoby do obcowania płciowego) art. 252 KK ( przetrzymywanie zakładnika ), art. 280–282 ( rozbój, kradzież rozbójnicza, wymuszenie rozbójnicze)"
+      },
+      "exception": {
+        "1": "bla bla bla"
+      },
+      "path": null
+    },
+    {
+      "name": "Broń palna - użycie",
+      "used_conditionals": {
+        "1": "4a - Konieczność ujęcia osoby wobec której użycie broni palnej było dopuszczalne w przypadkach określonych w pkt 1 lit. a–d i pkt 2",
+        "2": "4a - Konieczność ujęcia osoby wobec której istnieje uzasadnione podejrzenie, że popełniła przestępstwo, o którym mowa w art. 115 § 20 KK (. przestępstwo o charakterze terrorystycznym ), art. 148 KK ( Zabójstwo ) , art. 156 § 1 KK ( ciężki uszczerbek na zdrowiu ), art. 163–165 KK ( zdarzenie, które zagraża życiu lub zdrowiu wielu osób albo mieniu w wielkich rozmiarach, bezpośrednie niebezpieczeństwo zdarzenia określonego w art. 163 § 1 KK, niebezpieczeństwo dla życia lub zdrowia wielu\nosób albo dla mienia w wielkich rozmiarach ), art. 197 KK (doprowadzenie innej osoby do obcowania płciowego) art. 252 KK ( przetrzymywanie zakładnika ), art. 280–282 ( rozbój, kradzież rozbójnicza, wymuszenie rozbójnicze)",
+        "3": "4a - Konieczność ujęcia osoby dokonującej zamachu, o którym mowa w pkt 1 lit. d lub e",
+        "4": "4a - Konieczność ujęcia osoby jeżeli schroniła się w miejscu trudno dostępnym, a z okoliczności zdarzenia wynika, że może użyć broni palnej lub innego niebezpiecznego przedmiotu",
+        "5": "4b - Konieczność ujęcia lub udaremnienia ucieczki osoby zatrzymanej, tymczasowo aresztowanej lub odbywającej karę pozbawienia wolności, jeżeli ucieczka tej osoby stwarza zagrożenie życia lub zdrowia uprawnionego lub innej osoby",
+        "6": "4b - Konieczność ujęcia lub udaremnienia ucieczki osoby zatrzymanej, tymczasowo aresztowanej lub odbywającej karę pozbawienia wolności, jeżeli istnieje uzasadnione podejrzenie, że osoba ta może użyć materiałów wybuchowych, broni palnej lub innego niebezpiecznego przedmiotu",
+        "7": "4b - Konieczność ujęcia lub udaremnienia ucieczki osoby zatrzymanej, tymczasowo aresztowanej lub odbywającej karę pozbawienia wolności, jeżeli pozbawienie wolności nastąpiło w związku z uzasadnionym podejrzeniem lub stwierdzeniem popełnienia przestępstwa, o którym mowa w art. 115 § 20 KK (. przestępstwo o charakterze terrorystycznym ), art. 148 KK ( Zabójstwo ) , art. 156 § 1 KK ( ciężki uszczerbek na zdrowiu ), art. 163–165 KK ( zdarzenie, które zagraża życiu lub zdrowiu wielu osób albo mieniu w wielkich rozmiarach, bezpośrednie niebezpieczeństwo zdarzenia określonego w art. 163 § 1 KK, niebezpieczeństwo dla życia lub zdrowia wielu\nosób albo dla mienia w wielkich rozmiarach ), art. 197 KK (doprowadzenie innej osoby do obcowania płciowego) art. 252 KK ( przetrzymywanie zakładnika ), art. 280–282 ( rozbój, kradzież rozbójnicza, wymuszenie rozbójnicze)",
+        "8": "4c - Konieczność ujęcia lub udaremnienia ucieczki osoby zatrzymanej, tymczasowo aresztowanej lub odbywającej karę pozbawienia wolności w związku z uzasadnionym podejrzeniem lub stwierdzeniem popełnienia lub przygotowania do popełnienia przestępstwa, o którym mowa w art. 5 ust. 1 pkt 2 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2018 r. poz. 2387, z późn. zm.3)),",
+        "9": "4c - Konieczność ujęcia lub udaremnienia ucieczki osoby zatrzymanej, tymczasowo aresztowanej lub odbywającej karę pozbawienia wolności w związku z uzasadnionym podejrzeniem lub stwierdzeniem popełnienia lub przygotowania do popełnienia przestępstwa, o którym mowa w art. 2 ust. 1 pkt 1 ustawy z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym (Dz. U. z 2019 r. poz. 1921 i 2020)",
+        "10": "4c - Konieczność ujęcia lub udaremnienia ucieczki osoby zatrzymanej, tymczasowo aresztowanej lub odbywającej karę pozbawienia wolności w związku z uzasadnionym podejrzeniem lub stwierdzeniem popełnienia lub przygotowania do popełnienia przestępstwa, o którym mowa w art. 5 ust. 1 pkt 1 ustawy z dnia 9 czerwca 2006 r. o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego (Dz. U. z 2019 r. poz. 687)"
+      },
+      "exception": {
+        "1": "bla bla bla"
+      },
+      "path": null
+    },
+    {
+      "name": "Broń palna - użycie",
+      "used_conditionals": {
+        "1": "5 - Konieczność udaremnienia ucieczki osoby pozbawionej wolności z aresztu śledczego lub zakładu karnego oraz osoby konwojowanej lub doprowadzanej, a także pościg za tą osobą"
+      },
+      "exception": {
+        "1": "bla bla bla"
+      },
+      "path": null
+    }
+  ],
+  "weapon_list": [
+    {
+      "name": "Broń palna - wykorzystanie",
+      "used_conditionals": {
+        "1": "Zatrzymanie pojazdu, jeżeli jego działanie zagraża życiu lub zdrowiu uprawnionego lub innej osoby lub stwarza zagrożenie dla ważnych obiektów, urządzeń lub obszarów",
+        "2": "Pokonanie przeszkody uniemożliwiającej lub utrudniającej ujęcie osoby albo ratowanie życia lub zdrowia uprawnionego, innej osoby lub ratowanie mienia",
+        "3": "Pokonanie przeszkody w przypadku naruszenia porządku lub bezpieczeństwa publicznego przez osobę pozbawioną wolności, zatrzymaną lub umieszczoną w strzeżonym ośrodku albo areszcie w celu wydalenia",
+        "4": "Zaalarmowanie lub wezwanie pomocy",
+        "5": "Neutralizacja przedmiotów lub urządzeń mogących stwarzać niebezpieczeństwo wybuchu, powodujących jednocześnie bezpośrednie zagrożenie zdrowia lub życia uprawnionego lub innej osoby",
+        "6": "Unieszkodliwienie zwierzęcia, którego zachowanie zagraża bezpośrednio życiu lub zdrowiu uprawnionego lub innej osoby",
+        "7": "Oddanie strzału ostrzegawczego",
+        "8": "Zniszczenia lub unieruchomienia bezzałogowego statku powietrznego, w przypadkach określonych w ustawie z dnia 3 lipca 2002 r. – Prawo lotnicze"
+      },
+      "path": null
+    }
+  ],
+  "help": [
+    {
+      "paragraph": "Art. 36 ust. 1",
+      "law": "W przypadku gdy w wyniku użycia lub wykorzystania środków przymusu\nbezpośredniego nastąpiło zranienie osoby lub wystąpiły inne widoczne objawy zagrożenia życia\nlub zdrowia tej osoby, uprawniony udziela jej niezwłocznie pierwszej pomocy, a w razie potrzeby\nzapewnia wezwanie kwalifikowanej pierwszej pomocy lub podmiotów świadczących medyczne\nczynności ratunkowe."
+    },
+    {
+      "paragraph": "Art. 36 ust. 2",
+      "law": "Uprawniony może odstąpić od udzielenia pierwszej pomocy, w przypadku gdy\nzachodzi jedna z następujących okoliczności:",
+      "sub_law": {
+        "1": "1) udzielenie tej pomocy może zagrozić życiu, zdrowiu lub bezpieczeństwu uprawnionego lub\ninnej osoby",
+        "2": "2) udzielenie tej pomocy spowodowałoby konieczność zaniechania przez uprawnionego\nczynności ochronnych wobec osób, ważnych obiektów, urządzeń lub obszarów lub w ramach\nkonwoju lub doprowadzenia",
+        "3": "3) udzielenie pomocy osobie poszkodowanej zostało zapewnione przez inne osoby lub podmioty\nzobowiązane do jej udzielenia"
+      }
+    },
+    {
+      "paragraph": "Art. 36 ust. 3",
+      "law": "W przypadku odstąpienia od udzielenia pierwszej pomocy lub gdy osoba\nposzkodowana sprzeciwia się udzieleniu tej pomocy uprawniony zapewnia wezwanie\nkwalifikowanej pierwszej pomocy lub podmiotów świadczących medyczne czynności ratunkowe."
+    },
+    {
+      "paragraph": "Art. 36 ust. 4",
+      "law": "Uprawniony nie może odstąpić od zapewnienia udzielenia medycznych czynności\nratunkowych kobiecie ciężarnej, wobec której użyto środków przymusu bezpośredniego."
+    },
+    {
+      "paragraph": "Art. 36 ust. 5",
+      "law": "W przypadku, o którym mowa w ust. 1 (zranienie osoby lub inne objawy zagrożenia\nżycia lub zdrowia tej osoby) uprawniony, o którym mowa w art. 2 ust. 1 pkt 20 albo ust. 2 pkt 1,\nnie może odstąpić od udzielenia pierwszej pomocy, chyba że zachodzi jedna z okoliczności, o\nktórych mowa w ust. 2 pkt 1 lub 3."
+    }
+  ],
+  "use": [
+    {
+      "paragraph": "Art. 37 ust. 1.",
+      "law": "1. W przypadku gdy w wyniku użycia lub wykorzystania środków przymusu\nbezpośredniego nastąpiło zranienie osoby lub wystąpiły inne widoczne objawy zagrożenia życia\nlub zdrowia tej osoby albo nastąpiła jej śmierć, zranienie albo śmierć zwierzęcia albo zniszczenie\nmienia, uprawniony:",
+      "sub_law": {
+        "1": "1) zabezpiecza miejsce zdarzenia, także przed dostępem osób postronnych",
+        "2": "2) ustala świadków zdarzenia",
+        "3": "3) powiadamia o zdarzeniu właściwego przełożonego lub osobę pełniącą służbę dyżurną"
+      }
+    },
+    {
+      "paragraph": "Art. 37 ust. 2",
+      "law": "Przepisów ust. 1 pkt 1 i 2:",
+      "sub_law": {
+        "1": "1) nie stosuje się w przypadku zniszczenia mienia na terenie jednostki organizacyjnej Służby\nWięziennej;",
+        "2": "2) a. można nie stosować, w przypadku gdy zagroziłoby to życiu, zdrowiu lub bezpieczeństwu uprawnionego lub innej osoby",
+        "3": "2) b. można nie stosować, w przypadku gdy spowodowałoby to konieczność zaniechania przez uprawnionego czynności ochronnych\nwobec osób, ważnych obiektów, urządzeń lub obszarów lub w ramach konwoju lub\ndoprowadzenia – do czasu ustania tego zagrożenia lub tej konieczności"
+      }
+    },
+    {
+      "paragraph": "Art.49 ust. 1",
+      "law": "Do postępowania po użyciu lub wykorzystaniu broni palnej stosuje się przepisy art.\n\n36 ust. 1–4, art. 37 ust. 1 i 2 pkt 2, oraz art. 39."
+    }
+  ],
+  "supervisor": [
+    {
+      "paragraph": "Art. 39 ust. 1",
+      "law": "W przypadku gdy w wyniku użycia lub wykorzystania środków przymusu\nbezpośredniego wystąpiły objawy uzasadniające konieczność udzielenia osobie kwalifikowanej\npierwszej pomocy lub medycznych czynności ratunkowych albo nastąpiła śmierć tej osoby lub\nwyrządzona została szkoda w mieniu znacznej wartości, właściwy przełożony lub osoba pełniąca\nsłużbę dyżurną niezwłocznie:",
+      "sub_law": {
+        "1": "1) zapewnia w razie potrzeby wezwanie kwalifikowanej pierwszej pomocy lub podmiotów\nświadczących medyczne czynności ratunkowe osobom poszkodowanym",
+        "2": "2) zapewnia zabezpieczenie śladów i dowodów użycia lub wykorzystania środków przymusu\nbezpośredniego",
+        "3": "3) informuje o tym zdarzeniu właściwą miejscowo jednostkę organizacyjną Policji, a w\nprzypadku gdy środków przymusu bezpośredniego użył uprawniony będący żołnierzem\nwłaściwą miejscowo jednostkę organizacyjną Żandarmerii Wojskowej"
+      }
+    },
+    {
+      "paragraph": "Art.39 ust. 2",
+      "law": "Przełożony uprawnionego, o którym mowa w art. 2 ust. 1 pkt 1, 5, 9, 14 albo 19, lub\nosoba pełniąca służbę dyżurną powiadamia o zdarzeniu, o którym mowa w ust. 1, właściwego\nmiejscowo prokuratora."
+    },
+    {
+      "paragraph": "Art. 39 ust. 3",
+      "law": "Niezależnie od obowiązków, o których mowa w ust. 1, przełożony:",
+      "sub_law": {
+        "1": "1) ustala, czy użycie lub wykorzystanie środków przymusu bezpośredniego nastąpiło\nzgodnie z prawem",
+        "2": "2) niezwłoczne powiadamia właściwego przełożonego"
+      }
+    },
+    {
+      "paragraph": "Art.49 ust. 1",
+      "law": "Do postępowania po użyciu lub wykorzystaniu broni palnej stosuje się przepisy art.\n\n36 ust. 1–4, art. 37 ust. 1 i 2 pkt 2, oraz art. 39."
+    }
+  ],
+  "before_gun": [
+    {
+      "paragraph": "Art. 48 ust. 1",
+      "law": "Przed użyciem broni palnej uprawniony podejmuje następujące działania:",
+      "sub_law": {
+        "1": "1) identyfikuje swoją formację albo służbę okrzykiem przez wskazanie jej pełnej nazwy\nlub ustawowego skrótu, a w przypadku uprawnionego, o którym mowa w art. 2 ust. 1\npkt 20 – okrzykiem: „POLICJA!”;",
+        "2": "2) wzywa osobę do zachowania zgodnego z prawem, a w szczególności do:",
+        "3": " a) natychmiastowego porzucenia broni lub innego niebezpiecznego przedmiotu, którego\nużycie może zagrozić życiu, zdrowiu lub wolności uprawnionego lub innej osoby,",
+        "4": " b) zaniechania ucieczki",
+        "5": " c) odstąpienia od użycia przemocy."
+      }
+    },
+    {
+      "paragraph": "Art. 48 ust. 2",
+      "law": "W przypadku niepodporządkowania się wezwaniom, o których mowa w ust. 1 pkt 2,\nuprawniony uprzedza o użyciu broni palnej okrzykiem: „Stój, bo strzelam!”, a jeżeli wezwanie to\nokaże się nieskuteczne, oddaje strzał ostrzegawczy w bezpiecznym kierunku."
+    },
+    {
+      "paragraph": "Art. 48 ust. 3",
+      "law": "Od procedury, o której mowa w ust. 1 i 2, lub jej poszczególnych elementów, w szczególności\nod oddania strzału ostrzegawczego, można odstąpić, jeżeli:",
+      "sub_law": {
+        "1": "1) ich zrealizowanie groziłoby bezpośrednim niebezpieczeństwem dla życia lub zdrowia\nuprawnionego lub innej osoby lub",
+        "2": "2) jest to niezbędne dla zapobieżenia wystąpieniu zdarzenia o charakterze terrorystycznym, o\nktórym mowa w art. 2 pkt 7 ustawy z dnia 10 czerwca 2016 r. o działaniach antyterrorystycznych\n(Dz. U. z 2019 r. poz. 796), a inne środki ze względu na okoliczności mogłyby okazać się\nniewystarczające"
+      }
+    },
+    {
+      "paragraph": "Art. 48 ust. 4",
+      "law": "Przed rozpoczęciem konwoju lub doprowadzenia uprawniony uprzedza osobę pozbawioną\nwolności, w stosunku do której zgodnie z art. 45 pkt 4 lit. b i c możliwe jest użycie broni palnej, o\nmożliwości użycia w stosunku do niej broni palnej w przypadku podjęcia przez nią próby\nucieczki."
+    }
+  ],
+  "help_gun": [
+    {
+      "paragraph": "Art. 49 ust. 1",
+      "law": "Do postępowania po użyciu lub wykorzystaniu broni palnej stosuje się przepisy art.\n36 ust. 1–4, art. 37 ust. 1 i 2 pkt 2, oraz art. 39."
+    },
+    {
+      "paragraph": "Art. 36 ust. 1",
+      "law": "W przypadku gdy w wyniku użycia lub wykorzystania środków przymusu\nbezpośredniego nastąpiło zranienie osoby lub wystąpiły inne widoczne objawy zagrożenia życia\nlub zdrowia tej osoby, uprawniony udziela jej niezwłocznie pierwszej pomocy, a w razie potrzeby\nzapewnia wezwanie kwalifikowanej pierwszej pomocy lub podmiotów świadczących medyczne\nczynności ratunkowe."
+    },
+    {
+      "paragraph": "Art. 36 ust. 2",
+      "law": "Uprawniony może odstąpić od udzielenia pierwszej pomocy, w przypadku gdy\nzachodzi jedna z następujących okoliczności:",
+      "sub_law": {
+        "1": "1) udzielenie tej pomocy może zagrozić życiu, zdrowiu lub bezpieczeństwu uprawnionego lub\ninnej osoby",
+        "2": "2) udzielenie tej pomocy spowodowałoby konieczność zaniechania przez uprawnionego\nczynności ochronnych wobec osób, ważnych obiektów, urządzeń lub obszarów lub w ramach\nkonwoju lub doprowadzenia",
+        "3": "3) udzielenie pomocy osobie poszkodowanej zostało zapewnione przez inne osoby lub podmioty\nzobowiązane do jej udzielenia"
+      }
+    },
+    {
+      "paragraph": "Art. 36 ust. 3",
+      "law": "W przypadku odstąpienia od udzielenia pierwszej pomocy lub gdy osoba\nposzkodowana sprzeciwia się udzieleniu tej pomocy uprawniony zapewnia wezwanie\nkwalifikowanej pierwszej pomocy lub podmiotów świadczących medyczne czynności ratunkowe."
+    },
+    {
+      "paragraph": "Art. 36 ust. 4",
+      "law": "Uprawniony nie może odstąpić od zapewnienia udzielenia medycznych czynności\nratunkowych kobiecie ciężarnej, wobec której użyto środków przymusu bezpośredniego."
+    }
+  ]
+}

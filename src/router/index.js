@@ -1,23 +1,37 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
-import Home from '../views/Home.vue'
-import Tariff from '@/views/Tariff'
-import Law from '@/views/Law'
-import Helpers from '@/views/Helpers'
-import Road from '@/views/Road'
-import Privacy from '@/views/Privacy'
-import PostalCode from '@/views/Postal_code'
+import Home from '../views/MainPage/Home.vue'
+import Tariff from '@/views/MainPage/Tariff'
+import Law from '@/views/MainPage/Law'
+import Helpers from '@/views/MainPage/Helpers'
+import Road from '@/views/MainPage/Road'
+import Privacy from '@/views/MainPage/Privacy'
+import PostalCode from '@/views/HelpersModule/Postal_code'
 import Sign from '@/views/Sign/Sign'
 import FormSigns from '@/views/Sign/Form_signs'
-import InstallIOS from '@/views/instal_iOS'
-import PointsCalc from '@/views/Points_Calc'
-import QualificationsAccident2 from '@/views/Qualifications_Accident2'
-import TypeAccident from '@/views/Type_Accident'
-import ControlList from '@/views/ControlList'
-import DrivingLicence from '@/views/Driving_Licence'
-import DrivingLicenceCode from '@/views/Driving_Licence_Code'
-import DocumentHolding from '@/views/Document_holding'
-import KSIPCode from '@/views/KSIPcode'
+import InstallIOS from '@/views/MainPage/instal_iOS'
+import PointsCalc from '@/views/HelpersModule/Points_Calc'
+import QualificationsAccident2 from '@/views/RoadsModule/Qualifications_Accident2'
+import TypeAccident from '@/views/RoadsModule/Type_Accident'
+import ControlList from '@/views/RoadsModule/ControlList'
+import DrivingLicence from '@/views/RoadsModule/Driving_Licence'
+import DrivingLicenceCode from '@/views/RoadsModule/Driving_Licence_Code'
+import DocumentHolding from '@/views/RoadsModule/Document_holding'
+import KSIPCode from '@/views/RoadsModule/KSIPcode'
+import SignDetails from '@/views/Sign/SignDetails'
+import Lights from '@/views/RoadsModule/Lights'
+import Towing from '@/views/RoadsModule/Towing'
+import Validation from '@/views/HelpersModule/Validation'
+import SPB from '@/views/HelpersModule/SPB'
+import InstallationInfo from '@/views/Settings/InstallationInfo'
+import UTO from '@/views/HelpersModule/UTO'
+import DrivingLicenceCountry from '@/views/RoadsModule/Driving_Licence_Country'
+import RequiredDocuments from '@/views/Road_Transport/RequiredDocuments'
+import RoadTransportHome from '@/views/Road_Transport/Home'
+import SpeedCalc from '@/views/HelpersModule/SpeedCalc'
+import Alcohol from '@/views/RoadsModule/Alcohol'
+import Homeless from '@/views/RoadsModule/HomelessAlco'
+import HomeAlcohol from '@/views/RoadsModule/HomeAlcohol'
 Vue.use(VueRouter)
 
 const routes = [
@@ -112,12 +126,82 @@ const routes = [
     component: KSIPCode
   },
   {
+    path: '/SignDetails/:sign_category/:sign_name/:tariffId',
+    name: 'SignDetails',
+    component: SignDetails
+  },
+  {
+    path: '/Lights/',
+    name: 'Lights',
+    component: Lights
+  },
+  {
+    path: '/Towing/',
+    name: 'Towing',
+    component: Towing
+  },
+  {
+    path: '/Validation/',
+    name: 'Validation',
+    component: Validation
+  },
+  {
+    path: '/SPB/:status/',
+    name: 'SPB',
+    component: SPB
+  },
+  {
+    path: '/InstallationInfo/',
+    name: 'InstallationInfo',
+    component: InstallationInfo
+  },
+  {
+    path: '/UTO/:status/',
+    name: 'UTO',
+    component: UTO
+  },
+  {
+    path: '/DrivingLicenceCountry/',
+    name: 'DrivingLicenceCountry',
+    component: DrivingLicenceCountry
+  },
+  {
+    path: '/RoadTransportHome/',
+    name: 'RoadTransportHome',
+    component: RoadTransportHome
+  },
+  {
+    path: '/RequiredDocuments/',
+    name: 'RequiredDocuments',
+    component: RequiredDocuments
+  },
+  {
+    path: '/SpeedCalc/',
+    name: 'SpeedCalc',
+    component: SpeedCalc
+  },
+  {
+    path: '/Alcohol//',
+    name: 'Alcohol',
+    component: Alcohol
+  },
+  {
+    path: '/Homeless/',
+    name: 'Homeless',
+    component: Homeless
+  },
+  {
+    path: '/HomeAlcohol/',
+    name: 'HomeAlcohol',
+    component: HomeAlcohol
+  },
+  {
     path: '/about',
     name: 'About',
     // route level code-splitting
     // this generates a separate chunk (about.[hash].js) for this route
     // which is lazy-loaded when the route is visited.
-    component: () => import(/* webpackChunkName: "about" */ '../views/About.vue')
+    component: () => import(/* webpackChunkName: "about" */ '../views/MainPage/About.vue')
   }
 ]
 

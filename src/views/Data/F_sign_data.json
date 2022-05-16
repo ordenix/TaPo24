@@ -1,0 +1,171 @@
+{
+  "sign_array": [
+    {
+      "name": "F-1",
+      "description": "przejście graniczne",
+      "path": "road_sign/F/F-1.png"
+    },
+    {
+      "name": "F-2",
+      "description": "przekraczanie granicy zabronione",
+      "path": "road_sign/F/F-2.png"
+    },
+    {
+      "name": "F-2a",
+      "description": "granica państwa",
+      "path": "road_sign/F/F-2a.png"
+    },
+    {
+      "name": "F-3",
+      "description": " granica obszaru administracyjnego na granicy województwa",
+      "path": "road_sign/F/F-3.png"
+    },
+    {
+      "name": "F-3a",
+      "description": "granica obszaru administracyjnego na granicy powiatu",
+      "path": "road_sign/F/F-3a.png"
+    },
+    {
+      "name": "F-3b",
+      "description": "granica obszaru administracyjnego na granicy gminy",
+      "path": "road_sign/F/F-3b.png"
+    },
+    {
+      "name": "F-3c",
+      "description": "granica obszaru administracyjnego miasta na prawach powiatu",
+      "path": "road_sign/F/F-3c.png"
+    },
+    {
+      "name": "F-4",
+      "description": "nazwa rzeki",
+      "path": "road_sign/F/F-4.png"
+    },
+    {
+      "name": "F-5",
+      "description": "uprzedzenie o zakazie",
+      "path": "road_sign/F/F-5.png"
+    },
+    {
+      "name": "F-6",
+      "description": "Znak uprzedzający umieszczany przed skrzyżowaniem",
+      "path": "road_sign/F/F-6.png"
+    },
+    {
+      "name": "F-6a",
+      "description": "wariant znaku uprzedzającego",
+      "path": "road_sign/F/F-6a.png"
+    },
+    {
+      "name": "F-7",
+      "description": "sposób jazdy w związku z zakazem skręcania w lewo",
+      "path": "road_sign/F/F-7.png"
+    },
+    {
+      "name": "F-8",
+      "description": "objazd w związku z zamknięciem drogi",
+      "path": "road_sign/F/F-8.png"
+    },
+    {
+      "name": "F-9",
+      "description": "znak prowadzący na drodze objazdowej",
+      "path": "road_sign/F/F-9.png"
+    },
+    {
+      "name": "F-10",
+      "description": "kierunki na pasach ruchu",
+      "path": "road_sign/F/F-10.png",
+      "link_id": 290
+    },
+    {
+      "name": "F-11",
+      "description": "kierunki na pasie ruchu",
+      "path": "road_sign/F/F-11.png",
+      "link_id": 290
+    },
+    {
+      "name": "F-12",
+      "description": "znak wskazujący przejazd tranzytowy umieszczany przed skrzyżowaniem",
+      "path": "road_sign/F/F-12a.png"
+    },
+    {
+      "name": "F-13",
+      "description": "przejazd tranzytowy",
+      "path": "road_sign/F/F-13a.png"
+    },
+    {
+      "name": "F-14a",
+      "description": "tablica wskaźnikowa na autostradzie umieszczana w odległości 300 m przed pasem wyłączania",
+      "path": "road_sign/F/F-14a.png"
+    },
+    {
+      "name": "F-14b",
+      "description": "tablica wskaźnikowa na autostradzie umieszczana w odległości 200 m przed pasem wyłączania",
+      "path": "road_sign/F/F-14b.png"
+    },
+    {
+      "name": "F-14c",
+      "description": "tablica wskaźnikowa na autostradzie umieszczana w odległości 100 m przed pasem wyłączania",
+      "path": "road_sign/F/F-14c.png"
+    },
+    {
+      "name": "F-14d",
+      "description": "tablica wskaźnikowa na drodze ekspresowej umieszczana w odległości 300 m przed pasem wyłączania",
+      "path": "road_sign/F/F-14d.png"
+    },
+    {
+      "name": "F-14e",
+      "description": "tablica wskaźnikowa na drodze ekspresowej umieszczana w odległości 200 m przed pasem wyłączania",
+      "path": "road_sign/F/F-14e.png"
+    },
+    {
+      "name": "F-14f",
+      "description": "tablica wskaźnikowa na drodze ekspresowej umieszczana w odległości 100 m przed pasem wyłączania",
+      "path": "road_sign/F/F-14f.png"
+    },
+    {
+      "name": "F-15",
+      "description": "niesymetryczny podział jezdni dla przeciwnych kierunków ruchu",
+      "path": "road_sign/F/F-15a.png",
+      "link_id":  402
+    },
+    {
+      "name": "F-16",
+      "description": "koniec pasa ruchu na jezdni dwukierunkowej",
+      "path": "road_sign/F/F-16.png",
+      "link_id": 402
+    },
+    {
+      "name": "F-17",
+      "description": "koniec pasa ruchu na jezdni jednokierunkowej",
+      "path": "road_sign/F/F-17.png",
+      "link_id": 402
+    },
+    {
+      "name": "F-18",
+      "description": "przeciwny kierunek dla określonych pojazdów",
+      "path": "road_sign/F/F-18.png",
+      "link_id": 402
+    },
+    {
+      "name": "F-19",
+      "description": "pas ruchu dla określonych pojazdów",
+      "path": "road_sign/F/F-19.png",
+      "link_id": 402
+    },
+    {
+      "name": "F-20",
+      "description": "część drogi (pas ruchu) dla określonych pojazdów",
+      "path": "road_sign/F/F-20.png"
+    },
+    {
+      "name": "F-21",
+      "description": "ruch skierowany na sąsiednią jezdnię",
+      "path": "road_sign/F/F-21.png"
+    },
+    {
+      "name": "F-22",
+      "description": "ograniczenia na pasie ruchu",
+      "path": "road_sign/F/F-22.png"
+    }
+  ]
+}

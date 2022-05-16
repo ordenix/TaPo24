@@ -44,7 +44,7 @@ select {
   font-size: 20px;
 }
 .small_main_container { /* like points calc postal code etc */
-  margin: 80px 10px;
+  margin: 150px 10px;
   background-color: #3D5A80;
   border-radius: 8px;
   padding: 20px 10px;
@@ -60,5 +60,6 @@ select {
   }
   .small_main_container {
     min-width: 400px;
+    margin: 0px 10px;
   }
 }

@@ -1,0 +1,39 @@
+{
+  "sign_array": [
+    {
+      "name": "W-1",
+      "description": "Klasa obciążenia mostu o ruchu jednokierunkowym",
+      "path": "road_sign/W/W-1.png"
+    },
+    {
+      "name": "W-2",
+      "description": "Klasa obciążenia mostu o ruchu dwukierunkowym",
+      "path": "road_sign/W/W-2.png"
+    },
+    {
+      "name": "W-3",
+      "description": "Klasa obciążenia mostu o ruchu jednokierunkowym dla pojazdów kołowych i gąsienicowych",
+      "path": "road_sign/W/W-3.png"
+    },
+    {
+      "name": "W-4",
+      "description": "Klasa obciążenia mostu o ruchu dwukierunkowym dla pojazdów kołowych",
+      "path": "road_sign/W/W-4.png"
+    },
+    {
+      "name": "W-5",
+      "description": "Klasa obciążenia mostu o ruchu dwukierunkowym dla pojazdów gąsienicowych",
+      "path": "road_sign/W/W-5.png"
+    },
+    {
+      "name": "W-6",
+      "description": "Szerokość mostu lub środka przeprawowego",
+      "path": "road_sign/W/W-6.png"
+    },
+    {
+      "name": "W-7",
+      "description": "Wysokość skrajni pionowej na moście lub w tunelu",
+      "path": "road_sign/W/W-7.png"
+    }
+  ]
+}

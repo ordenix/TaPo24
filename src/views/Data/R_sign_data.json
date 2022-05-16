@@ -1,0 +1,54 @@
+{
+  "sign_array": [
+    {
+      "name": "R-1",
+      "description": "Szlak rowerowy lokalny",
+      "path": "road_sign/R/R-1.png"
+    },
+    {
+      "name": "R-1a",
+      "description": "Początek (koniec) szlaku rowerowego lokalnego",
+      "path": "road_sign/R/R-1a.png"
+    },
+    {
+      "name": "R-1b",
+      "description": "Zmiana kierunku szlaku rowerowego lokalnego",
+      "path": "road_sign/R/R-1b.png"
+    },
+    {
+      "name": "R-3",
+      "description": "Tablica szlaku rowerowego lokalnego",
+      "path": "road_sign/R/R-3.png"
+    },
+    {
+      "name": "R-4",
+      "description": "Informacja o szlaku rowerowym",
+      "path": "road_sign/R/R-4.png"
+    },
+    {
+      "name": "R-4a",
+      "description": "Informacja o rzeczywistym przebiegu szlaku rowerowego",
+      "path": "road_sign/R/R-4a.png"
+    },
+    {
+      "name": "R-4b",
+      "description": "Zmiana kierunku szlaku rowerowego",
+      "path": "road_sign/R/R-4b.png"
+    },
+    {
+      "name": "R-4c",
+      "description": "Drogowskaz tablicowy szlaku rowerowego",
+      "path": "road_sign/R/R-4c.png"
+    },
+    {
+      "name": "R-4d",
+      "description": "Drogowskaz szlaku rowerowego w kształcie strzały podający odległość",
+      "path": "road_sign/R/R-4d.png"
+    },
+    {
+      "name": "R-4e",
+      "description": "Tablica przeddrogowskazowa szlaku rowerowego",
+      "path": "road_sign/R/R-4e.png"
+    }
+  ]
+}

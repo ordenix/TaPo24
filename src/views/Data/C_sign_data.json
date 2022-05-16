@@ -1,0 +1,122 @@
+{
+  "sign_array": [
+    {
+      "name": "C-1",
+      "description": "nakaz jazdy w prawo przed znakiem",
+      "path": "road_sign/C/C-1.png",
+      "link_id": 303
+    },
+    {
+      "name": "C-2",
+      "description": "nakaz jazdy w prawo za znakiem",
+      "path": "road_sign/C/C-2.png",
+      "link_id": 304
+    },
+    {
+      "name": "C-3",
+      "description": "nakaz jazdy w lewo przed znakiem",
+      "path": "road_sign/C/C-3.png",
+      "link_id": 305
+    },
+    {
+      "name": "C-4",
+      "description": "nakaz jazdy w lewo za znakiem",
+      "path": "road_sign/C/C-4.png",
+      "link_id": 306
+    },
+    {
+      "name": "C-5",
+      "description": "nakaz jazdy prosto",
+      "path": "road_sign/C/C-5.png",
+      "link_id": 307
+    },
+    {
+      "name": "C-6",
+      "description": "nakaz jazdy prosto lub w prawo",
+      "path": "road_sign/C/C-6.png",
+      "link_id":308
+    },
+    {
+      "name": "C-7",
+      "description": "nakaz jazdy prosto lub w lewo",
+      "path": "road_sign/C/C-7.png",
+      "link_id": 309
+    },
+    {
+      "name": "C-8",
+      "description": "nakaz jazdy w prawo lub w lewo",
+      "path": "road_sign/C/C-8.png",
+      "link_id": 310
+    },
+    {
+      "name": "C-9",
+      "description": "nakaz jazdy z prawej strony znaku",
+      "path": "road_sign/C/C-9.png",
+      "link_id": 311
+    },
+    {
+      "name": "C-10",
+      "description": "nakaz jazdy z lewej strony znaku",
+      "path": "road_sign/C/C-10.png",
+      "link_id": 312
+    },
+    {
+      "name": "C-11",
+      "description": "nakaz jazdy z prawej lub lewej strony znaku",
+      "path": "road_sign/C/C-1.png",
+      "link_id": 313
+    },
+    {
+      "name": "C-12",
+      "description": "ruch okrężny",
+      "path": "road_sign/C/C-12.png",
+      "link_id": 258
+    },    {
+      "name": "C-13",
+      "description": "droga dla rowerów",
+      "path": "road_sign/C/C-13.png",
+      "link_id": 270
+    },
+    {
+      "name": "C-13a",
+      "description": "koniec drogi dla rowerów",
+      "path": "road_sign/C/C-13a.png"
+    },    {
+      "name": "C-14",
+      "description": "prędkość minimalna",
+      "path": "road_sign/C/C-14.png",
+      "link_id": 271
+    },
+    {
+      "name": "C-15",
+      "description": "koniec minimalnej prędkości",
+      "path": "road_sign/C/C-15.png"
+    },
+    {
+      "name": "C-16",
+      "description": "droga dla pieszych",
+      "path": "road_sign/C/C-16.png",
+      "link_id": 19
+    },    {
+      "name": "C-16a",
+      "description": "koniec drogi dla pieszych",
+      "path": "road_sign/C/C-16a.png"
+    },    {
+      "name": "C-17",
+      "description": "nakazany kierunek jazdy dla pojazdów z towarami niebezpiecznymi",
+      "path": "road_sign/C/C-17.png",
+      "link_id": 272
+    },
+    {
+      "name": "C-18",
+      "description": "nakaz używania łańcuchów przeciwpoślizgowych",
+      "path": "road_sign/C/C-18.png",
+      "link_id": 280
+    },
+    {
+      "name": "C-19",
+      "description": "koniec nakazu używania łańcuchów przeciwpoślizgowych",
+      "path": "road_sign/C/C-19.png"
+    }
+  ]
+}

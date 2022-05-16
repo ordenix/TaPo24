@@ -1,0 +1,222 @@
+{
+  "sign_array": [
+    {
+      "name": "P-1a",
+      "description": "linia pojedyncza przerywana-długa",
+      "path": "road_sign/P/P-1.png"
+    },
+    {
+      "name": "P-1b",
+      "description": "linia pojedyncza przerywana-krótka",
+      "path": "road_sign/P/P-1b.png"
+    },
+    {
+      "name": "P-1c",
+      "description": "linia pojedyncza przerywana-wydzielająca",
+      "path": "road_sign/P/P-1c.png"
+    },
+    {
+      "name": "P-1d",
+      "description": "linia pojedyncza przerywana-prowadząca wąska",
+      "path": "road_sign/P/P-1d.png"
+    },
+    {
+      "name": "P-1e",
+      "description": "linia pojedyncza przerywana-prowadząca szeroka",
+      "path": "road_sign/P/P-1e.png"
+    },
+    {
+      "name": "P-2a",
+      "description": " linia pojedyncza ciągła-wąska",
+      "path": "road_sign/P/P-2.png"
+    },
+    {
+      "name": "P-2b",
+      "description": "linia pojedyncza ciągła-szeroka",
+      "path": "road_sign/P/P-2b.png"
+    },
+    {
+      "name": "P-3a",
+      "description": "linia jednostronnie przekraczalna-długa",
+      "path": "road_sign/P/P-3.png",
+      "link_id": 276
+    },
+    {
+      "name": "P-3b",
+      "description": "linia jednostronnie przekraczalna-krótka",
+      "path": "road_sign/P/P-3b.png",
+      "link_id": 276
+    },
+    {
+      "name": "P-4",
+      "description": "linia podwójna ciągła",
+      "path": "road_sign/P/P-4.png",
+      "link_id": 277
+    },
+    {
+      "name": "P-5",
+      "description": "linia podwójna przerywana",
+      "path": "road_sign/P/P-5.png"
+    },
+    {
+      "name": "P-6",
+      "description": "linia ostrzegawcza",
+      "path": "road_sign/P/P-6.png"
+    },
+    {
+      "name": "P-6a",
+      "description": "linia ostrzegawcza-naprowadzająca",
+      "path": "road_sign/P/P-6a.png"
+    },
+    {
+      "name": "P-7a",
+      "description": "linia krawędziowa-przerywana szeroka",
+      "path": "road_sign/P/P-7a.png"
+    },
+    {
+      "name": "P-7b",
+      "description": "linia krawędziowa ciągła",
+      "path": "road_sign/P/P-7b.png",
+      "link_id": 278
+    },
+    {
+      "name": "P-7c",
+      "description": "linia krawędziowa-przerywana wąska",
+      "path": "road_sign/P/P-7c.png"
+    },
+    {
+      "name": "P-7d",
+      "description": "Linia krawędziowa ciągła wąska",
+      "path": "road_sign/P/P-7d.png"
+    },
+    {
+      "name": "P-8a",
+      "description": "strzałka kierunkowa na wprost",
+      "path": "road_sign/P/P-8a.png",
+      "link_id": 290
+    },
+    {
+      "name": "P-8b",
+      "description": "strzałka kierunkowa w lewo",
+      "path": "road_sign/P/P-8b.png",
+      "link_id": 290
+    },
+    {
+      "name": "P-8c",
+      "description": "strzałka kierunkowa do zawracania",
+      "path": "road_sign/P/P-8c.png",
+      "link_id": 290
+    },
+    {
+      "name": "P-8d",
+      "description": "strzałka kierunkowa w prawo",
+      "path": "road_sign/P/P-8d.png"
+    },
+    {
+      "name": "P-9a",
+      "description": "strzałka naprowadzająca w lewo",
+      "path": "road_sign/P/P-9.png"
+    },
+    {
+      "name": "P-9b",
+      "description": "strzałka naprowadzająca w prawo",
+      "path": "road_sign/P/P-9b.png"
+    },
+    {
+      "name": "P-10",
+      "description": "przejście dla pieszych",
+      "path": "road_sign/P/P-10.png"
+    },
+    {
+      "name": "P-11",
+      "description": "przejazd dla rowerzystów",
+      "path": "road_sign/P/P-11.png"
+    },
+    {
+      "name": "P-12",
+      "description": "linia bezwzględnego zatrzymania - stop",
+      "path": "road_sign/P/P-12.png"
+    },
+    {
+      "name": "P-13",
+      "description": "linia warunkowego zatrzymania złożona z trójkątów",
+      "path": "road_sign/P/P-13.png"
+    },
+    {
+      "name": "P-14",
+      "description": "linia warunkowego zatrzymania złożona z prostokątów",
+      "path": "road_sign/P/P-14.png"
+    },
+    {
+      "name": "P-15",
+      "description": "trójkąt podporządkowania",
+      "path": "road_sign/P/P-15.png"
+    },
+    {
+      "name": "P-16",
+      "description": "napis stop",
+      "path": "road_sign/P/P-16.png"
+    },
+    {
+      "name": "P-17",
+      "description": "linia przystankowa",
+      "path": "road_sign/P/P-17.png",
+      "link_id": 279
+    },
+    {
+      "name": "P-18",
+      "description": "stanowisko postojowe",
+      "path": "road_sign/P/P-18.png",
+      "link_id": 288
+    },
+    {
+      "name": "P-19",
+      "description": "linia wyznaczająca pas postojowy",
+      "path": "road_sign/P/P-19.png",
+      "link_id": 292
+    },
+    {
+      "name": "P-20",
+      "description": "koperta",
+      "path": "road_sign/P/P-20.png",
+      "link_id": 293
+    },
+    {
+      "name": "P-21",
+      "description": "powierzchnia wyłączona",
+      "path": "road_sign/P/P-21.png",
+      "link_id": 281
+    },
+    {
+      "name": "P-22",
+      "description": "BUS",
+      "path": "road_sign/P/P-22.png",
+      "link_id": 359
+    },
+    {
+      "name": "P-23",
+      "description": "rower",
+      "path": "road_sign/P/P-23.png"
+    },
+    {
+      "name": "P-24",
+      "description": "miejsce dla pojazdu osoby niepełnosprawnej",
+      "path": "road_sign/P/P-24.png"
+    },
+    {
+      "name": "P-25",
+      "description": "próg zwalniający",
+      "path": "road_sign/P/P-25.png"
+    },
+    {
+      "name": "P-26",
+      "description": "piesi",
+      "path": "road_sign/P/P-26.png"
+    },
+    {
+      "name": "P-27",
+      "description": "kierunek i tor ruchu roweru",
+      "path": "road_sign/P/P-27.png"
+    }
+  ]
+}

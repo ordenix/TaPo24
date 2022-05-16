@@ -1,0 +1,49 @@
+{
+  "sign_array": [
+    {
+      "name": "G-1a",
+      "description": "Słupek wskaźnikowy z trzema kreskami umieszczany po prawej stronie jezdni",
+      "path": "road_sign/G/g-1a.png"
+    },
+    {
+      "name": "G-1b",
+      "description": "Słupek wskaźnikowy z dwiema kreskami umieszczany po prawej stronie jezdni",
+      "path": "road_sign/G/g-1b.png"
+    },
+    {
+      "name": "G-1c",
+      "description": "Słupek wskaźnikowy z jedną kreską umieszczany po prawej stronie jezdni",
+      "path": "road_sign/G/g-1c.png"
+    },
+    {
+      "name": "G-1d",
+      "description": "Słupek wskaźnikowy z trzema kreskami umieszczany po lewej stronie jezdni",
+      "path": "road_sign/G/g-1d.png"
+    },
+    {
+      "name": "G-1e",
+      "description": "Słupek wskaźnikowy z dwiema kreskami umieszczany po lewej stronie jezdni",
+      "path": "road_sign/G/g-1e.png"
+    },
+    {
+      "name": "G-1f",
+      "description": "Słupek wskaźnikowy z jedną kreską umieszczany po lewej stronie jezdni",
+      "path": "road_sign/G/g-1f.png"
+    },
+    {
+      "name": "G-2",
+      "description": "Sieć pod napięciem",
+      "path": "road_sign/G/g-2.png"
+    },
+    {
+      "name": "G-3",
+      "description": "Krzyż św. Andrzeja przed przejazdem kolejowo-drogowym jednotorowym",
+      "path": "road_sign/G/g-3.png"
+    },
+    {
+      "name": "G-4",
+      "description": "Krzyż św. Andrzeja przed przejazdem kolejowo-drogowym wielotorowym",
+      "path": "road_sign/G/g-4.png"
+    }
+  ]
+}

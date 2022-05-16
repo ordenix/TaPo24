@@ -1,0 +1,274 @@
+{
+  "sign_array": [
+    {
+      "name": "T-1",
+      "description": "Tabliczka wskazująca odległość znaku ostrzegawczego od miejsca niebezpiecznego",
+      "path": "road_sign/T/T-1.png"
+    },
+    {
+      "name": "T-1a",
+      "description": "Tabliczka wskazująca odległość znaku informacyjnego od początku (końca) drogi lub pasa ruchu",
+      "path": "road_sign/T/T-1a.png"
+    },
+    {
+      "name": "T-1b",
+      "description": "Tabliczka wskazująca długość tunelu lub odcinek drogi do końca tunelu",
+      "path": "road_sign/T/T-1b.png"
+    },
+    {
+      "name": "T-2",
+      "description": "Tabliczka wskazująca długość odcinka drogi, na którym powtarza się lub występuje niebezpieczeństwo",
+      "path": "road_sign/T/T-2.png"
+    },
+    {
+      "name": "T-3",
+      "description": "Tabliczka wskazująca koniec odcinka, na którym powtarza się lub występuje niebezpieczeństwo",
+      "path": "road_sign/T/T-3.png"
+    },
+    {
+      "name": "T-4",
+      "description": "Tabliczka wskazująca koniec miejsca przeznaczonego na postój",
+      "path": "road_sign/T/T-4.png"
+    },
+    {
+      "name": "T-5",
+      "description": "Tabliczka wskazująca liczbę zakrętów",
+      "path": "road_sign/T/T-5.png"
+    },
+    {
+      "name": "T-6a",
+      "description": "Tabliczka wskazująca początek drogi krętej",
+      "path": "road_sign/T/T-6a.png"
+    },
+    {
+      "name": "T-6b",
+      "description": "Tabliczka wskazująca rzeczywisty przebieg drogi z pierwszeństwem przez skrzyżowanie (umieszczana na drodze z pierwszeństwem)",
+      "path": "road_sign/T/T-6b.png"
+    },
+    {
+      "name": "T-6c",
+      "description": "Tabliczka wskazująca układ dróg podporządkowanych (umieszczana na drodze z pierwszeństwem)",
+      "path": "road_sign/T/T-6c.png"
+    },
+    {
+      "name": "T-6d",
+      "description": "Tabliczka wskazująca rzeczywisty przebieg drogi z pierwszeństwem przez skrzyżowanie (umieszczana na drodze podporządkowanej)",
+      "path": "road_sign/T/T-6d.png"
+    },
+    {
+      "name": "T-7",
+      "description": "Tabliczka wskazująca układ torów i drogi na przejeździe",
+      "path": "road_sign/T/T-7.png"
+    },
+    {
+      "name": "T-8",
+      "description": "Tabliczka wskazująca miejsce, w którym ruch pojazdów został skierowany na tory tramwajowe",
+      "path": "road_sign/T/T-8.png"
+    },
+    {
+      "name": "T-9",
+      "description": "Tabliczka wskazująca rzeczywistą wielkość spadku lub wzniesienia drogi",
+      "path": "road_sign/T/T-9.png"
+    },
+    {
+      "name": "T-10",
+      "description": "Tabliczka wskazująca bocznicę kolejową lub tor o podobnym charakterze",
+      "path": "road_sign/T/T-10.png"
+    },
+    {
+      "name": "T-11",
+      "description": "Tabliczka wskazująca przeprawę promową",
+      "path": "road_sign/T/T-11.png"
+    },
+    {
+      "name": "T-12",
+      "description": "Tabliczka wskazująca podłużny uskok nawierzchni",
+      "path": "road_sign/T/T-12.png"
+    },
+    {
+      "name": "T-13",
+      "description": "Tabliczka wskazująca odcinek drogi, na którym występują deformacje nawierzchni w postaci kolein",
+      "path": "road_sign/T/T-13.png"
+    },
+    {
+      "name": "T-14",
+      "description": "Tabliczka wskazująca miejsce częstych wypadków o charakterze wskazanym na tabliczce",
+      "path": "road_sign/T/T-14.png"
+    },
+    {
+      "name": "T-15",
+      "description": "Tabliczka wskazująca miejsce częstych wypadków spowodowanych śliską nawierzchnią jezdni ze względu na opady deszczu",
+      "path": "road_sign/T/T-15.png"
+    },
+    {
+      "name": "T-16",
+      "description": "Tabliczka wskazująca miejsce wyjazdu pojazdów uprzywilejowanych wskazanych na tabliczce",
+      "path": "road_sign/T/T-16.png"
+    },
+    {
+      "name": "T-17",
+      "description": "Tabliczka wskazująca granicę państwa",
+      "path": "road_sign/T/T-17.png"
+    },
+    {
+      "name": "T-18",
+      "description": "Tabliczka wskazująca nieoczekiwaną zmianę kierunku ruchu o przebiegu wskazanym na tabliczce",
+      "path": "road_sign/T/T-18.png"
+    },
+    {
+      "name": "T-18a",
+      "description": "Tabliczka wskazująca nieoczekiwaną zmianę kierunku ruchu o przebiegu najpierw w prawo, a potem w lewo",
+      "path": "road_sign/T/T-18a.png"
+    },
+    {
+      "name": "T-18b",
+      "description": "Tabliczka wskazująca nieoczekiwaną zmianę kierunku ruchu o przebiegu w lewo",
+      "path": "road_sign/T/T-18b.png"
+    },
+    {
+      "name": "T-18c",
+      "description": "Tabliczka wskazująca nieoczekiwaną zmianę kierunku ruchu o przebiegu w prawo",
+      "path": "road_sign/T/T-18c.png"
+    },
+    {
+      "name": "T-19",
+      "description": "Tabliczka wskazująca na malowanie znaków poziomych",
+      "path": "road_sign/T/T-19.png"
+    },
+    {
+      "name": "T-20",
+      "description": "Tabliczka wskazująca długość odcinka jezdni, na którym zakaz obowiązuje",
+      "path": "road_sign/T/T-20.png"
+    },
+    {
+      "name": "T-21",
+      "description": "Tabliczka wskazująca odległość znaku od miejsca, od którego lub w którym zakaz obowiązuje",
+      "path": "road_sign/T/T-21.png"
+    },
+    {
+      "name": "T-22",
+      "description": "Tabliczka wskazująca, że znak nie dotyczy rowerów jednośladowych",
+      "path": "road_sign/T/T-22.png"
+    },
+    {
+      "name": "T-23a",
+      "description": "Tabliczka wskazująca motocykle",
+      "path": "road_sign/T/T-23a.png"
+    },
+    {
+      "name": "T-23b",
+      "description": "Tabliczka wskazująca samochody ciężarowe, pojazdy specjalne, pojazdy używane do celów specjalnych, o dopuszczalnej masie całkowitej przekraczającej 3,5 t, oraz ciągniki samochodowe",
+      "path": "road_sign/T/T-23b.png"
+    },
+    {
+      "name": "T-23c",
+      "description": "Tabliczka wskazująca ciągniki rolnicze i pojazdy wolnobieżne",
+      "path": "road_sign/T/T-23c.png"
+    },
+    {
+      "name": "T-23d",
+      "description": "Tabliczka wskazująca pojazdy silnikowe z przyczepą, z wyjątkiem pojazdów z przyczepą jednoosiową lub naczepą",
+      "path": "road_sign/T/T-23d.png"
+    },
+    {
+      "name": "T-23e",
+      "description": "Tabliczka wskazująca pojazdy z przyczepą kempingową",
+      "path": "road_sign/T/T-23e.png"
+    },
+    {
+      "name": "T-23f",
+      "description": "Tabliczka wskazująca autobusy",
+      "path": "road_sign/T/T-23f.png"
+    },
+    {
+      "name": "T-23g",
+      "description": "Tabliczka wskazująca trolejbusy",
+      "path": "road_sign/T/T-23g.png"
+    },
+    {
+      "name": "T-23h",
+      "description": "Tabliczka wskazująca pojazdy z towarami niebezpiecznymi",
+      "path": "road_sign/T/T-23h.png"
+    },
+    {
+      "name": "T-23i",
+      "description": "Tabliczka wskazująca pojazdy z towarami wybuchowymi lub łatwo zapalnymi",
+      "path": "road_sign/T/T-23i.png"
+    },
+    {
+      "name": "T-23j",
+      "description": "Tabliczka wskazująca pojazdy z towarami, które mogą skazić wodę",
+      "path": "road_sign/T/T-23j.png"
+    },
+    {
+      "name": "T-24",
+      "description": "Tabliczka wskazująca, że pozostawiony pojazd zostanie usunięty na koszt właściciela",
+      "path": "road_sign/T/T-24.png"
+    },
+    {
+      "name": "T-25a",
+      "description": "Tabliczka wskazująca początek zakazu postoju lub zatrzymywania",
+      "path": "road_sign/T/T-25a.png"
+    },
+    {
+      "name": "T-25b",
+      "description": "Tabliczka wskazująca kontynuację zakazu postoju lub zatrzymywania",
+      "path": "road_sign/T/T-25b.png"
+    },
+    {
+      "name": "T-25c",
+      "description": "Tabliczka wskazująca odwołanie zakazu postoju lub zatrzymywania",
+      "path": "road_sign/T/T-25c.png"
+    },
+    {
+      "name": "T-26",
+      "description": "Tabliczka wskazująca, że zakaz postoju lub zatrzymywania dotyczy strony placu",
+      "path": "road_sign/T/T-26.png"
+    },
+    {
+      "name": "T-27",
+      "description": "Tabliczka wskazująca, że przejście dla pieszych jest szczególnie uczęszczane przez dzieci",
+      "path": "road_sign/T/T-27.png"
+    },
+    {
+      "name": "T-28",
+      "description": "Tabliczka wskazująca, że za przejazd drogą pobierana jest opłata",
+      "path": "road_sign/T/T-28.png"
+    },
+    {
+      "name": "T-28a",
+      "description": "„Tabliczka wskazująca koniec odcinka drogi, za przejazd którym pobierana jest opłata",
+      "path": "road_sign/T/T-28b.png"
+    },
+    {
+      "name": "T-29",
+      "description": "Tabliczka informująca o miejscu przeznaczonym dla pojazdu samochodowego osób, o których mowa w art. 8 ust. 1 i 2 ustawy",
+      "path": "road_sign/T/T-29.png"
+    },
+    {
+      "name": "T-30a",
+      "description": "Tabliczka wskazująca sposób ustawienia pojazdu względem krawędzi jezdni",
+      "path": "road_sign/T/T-30a.png"
+    },
+    {
+      "name": "T-31a",
+      "description": "Tabliczka wskazująca kategorię tunelu",
+      "path": "road_sign/T/T-31a.png"
+    },
+    {
+      "name": "T-32",
+      "description": "Tabliczka wskazująca minimalny odstęp od poprzedzającego pojazdu",
+      "path": "road_sign/T/T-32.png"
+    },
+    {
+      "name": "T-33",
+      "description": "Tabliczka wskazująca umieszczenie w zatoce telefonu alarmowego i gaśnicy",
+      "path": "road_sign/T/T-33.png"
+    },
+    {
+      "name": "T-34",
+      "description": "Tabliczka wskazująca pobór opłaty elektronicznej za przejazd drogą publiczną",
+      "path": "road_sign/T/T-34.png"
+    }
+  ]
+}

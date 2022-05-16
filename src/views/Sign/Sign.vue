@@ -17,6 +17,10 @@
         <div class="icon"><img :src="require(`@/assets/road_sign/D/D-34.png`)" alt="Sign"/></div>
         <div class="label">Znaki informacyjne (D)</div>
       </div>
+      <div class="element" @click="goto('E')">
+        <div class="icon"><img :src="require(`@/assets/road_sign/E/E-1.png`)" alt="Sign"/></div>
+        <div class="label">Znaki kierunku i miejscowości (E)</div>
+      </div>
       <div class="element" @click="goto('F')">
         <div class="icon"><img :src="require(`@/assets/road_sign/F/F-11.png`)" alt="Sign"/></div>
         <div class="label">Znaki uzupełniające (F)</div>
@@ -28,6 +32,26 @@
       <div class="element" @click="goto('S')">
         <div class="icon"><img :src="require(`@/assets/road_sign/S/S-4.png`)" alt="Sign"/></div>
         <div class="label">Sygnały drogowe (S)</div>
+      </div>
+      <div class="element" @click="goto('T')">
+        <div class="icon"><img :src="require(`@/assets/road_sign/T/T-1.png`)" alt="Sign"/></div>
+        <div class="label">Tabliczki do znaków drogowych (T)</div>
+      </div>
+      <div class="element" @click="goto('G')">
+        <div class="icon"><img :src="require(`@/assets/road_sign/G/g-3.png`)" alt="Sign"/></div>
+        <div class="label">Znaki dodatkowe (G)</div>
+      </div>
+      <div class="element" @click="goto('R')">
+        <div class="icon"><img :src="require(`@/assets/road_sign/R/R-1.png`)" alt="Sign"/></div>
+        <div class="label">Dodatkowe znaki szlaków rowerowych (R)</div>
+      </div>
+      <div class="element" @click="goto('W')">
+        <div class="icon"><img :src="require(`@/assets/road_sign/W/W-5.png`)" alt="Sign"/></div>
+        <div class="label">Znaki (W)</div>
+      </div>
+      <div class="element" @click="goto('ATBT')">
+        <div class="icon"><img :src="require(`@/assets/road_sign/ATBT/BT-3.png`)" alt="Sign"/></div>
+        <div class="label">Znaki (ATBT)</div>
       </div>
     </div>
   </div>
@@ -45,8 +69,8 @@ export default {
 </script>
 
 <style scoped lang="scss">
-@import "src/views/grid";
-@import "src/views/main_layout.scss";
+@import "../grid";
+@import "../main_layout";
 img {
   width: 40px;
   height: 40px;
