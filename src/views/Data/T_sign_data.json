@@ -27,17 +27,17 @@
     },
     {
       "name": "T-4",
-      "description": "Tabliczka wskazująca koniec miejsca przeznaczonego na postój",
+      "description": "Tabliczka wskazująca liczbę zakrętów",
       "path": "road_sign/T/T-4.png"
     },
     {
       "name": "T-5",
-      "description": "Tabliczka wskazująca liczbę zakrętów",
+      "description": "Tabliczka wskazująca początek drogi krętej",
       "path": "road_sign/T/T-5.png"
     },
     {
       "name": "T-6a",
-      "description": "Tabliczka wskazująca początek drogi krętej",
+      "description": "Tabliczka wskazująca rzeczywisty przebieg drogi z pierwszeństwem przez skrzyżowanie (umieszczana na drodze z pierwszeństwem)",
       "path": "road_sign/T/T-6a.png"
     },
     {
@@ -47,7 +47,7 @@
     },
     {
       "name": "T-6c",
-      "description": "Tabliczka wskazująca układ dróg podporządkowanych (umieszczana na drodze z pierwszeństwem)",
+      "description": "Tabliczka wskazująca układ dróg podporządkowanych (umieszczana na drodze podporządkowanej)",
       "path": "road_sign/T/T-6c.png"
     },
     {
