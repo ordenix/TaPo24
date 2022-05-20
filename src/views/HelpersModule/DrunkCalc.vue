@@ -37,7 +37,7 @@
         <div class="over_drunk">Wartość miligramów w organizmie wynosi {{prms}} mg/l</div>
          <div v-if="prms > '0.25'">
         <hr style="border: 1px solid #EE6C4D;">
-        <div class="info">Jeśli badany kierujący pojazdem mechanicznym - przestępstwo art. 178A KK - czynności procesowe</div>
+        <div class="info">Jeśli badany to kierujący pojazdem mechanicznym - przestępstwo art. 178A KK - czynności procesowe</div>
          </div>
           <div v-else-if="prms < '0.10'">
          <hr style="border: 1px solid #EE6C4D;">
