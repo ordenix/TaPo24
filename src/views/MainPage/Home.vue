@@ -2,16 +2,6 @@
   <div class="view2">
     <div class="home">
       <div class="title"> TAryfikator POlicyjny24 </div>
-      <div class="date">2022-02-23</div>
-      <div class="whats_news">Co nowego?</div>
-      <p>- Implementacja dynamicznego silnika wyszukiwania taryfikatora</p>
-      <div class="whats_news">INFORMACJE</div>
-      <p>- Nowy silnik działa tylko z połączeniem internetowym, spowodowane jest to tym, że urządzenie mobilne nie posiada wymaganej mocy obliczeniowej</p>
-      <p>- Aby zwiększyć trafność wyników prosimy aby po znalezieniu szukanego wykroczenia kliknąć na kafelek z wykroczeniem ponieważ wtedy do silnika zostaje wysłana informacja o trafieniu i w procesie uczenia maszynowego następne wyniki wyszukiwania będą trafniejsze</p>
-      <div class="version">{{ version }}</div>
-    </div>
-    <div class="home">
-      <div class="title"> TAryfikator POlicyjny24 </div>
       <div class="whats_news">Instalacja</div>
       <p>Aplikacja umożliwia zainstalowanie jej na urządzeniach mobilnych oraz oferuje pełną funkcjonalność działania jako strona internetowa.</p>
       <div class="install_container">
@@ -30,9 +20,7 @@
       <p>Aplikacja Tapo24.pl jest aplikacją w fazie produkcji</p>
       <p>Aktualnie aplikacja posiada moduł taryfikatora, wyszukiwarki kodów pocztowych oraz przepisów </p>
       <p>Docelowo mają być zaimplementowane dodatkowe moduły i pomoce:</p>
-      <p>- kody usterek</p>
       <p>- szczegółowe opisy znaków i sygnałów drogowych</p>
-      <p>- krótkie opisy podstaw zatrzymania dowodów rejestracyjnych oraz praw jazdy</p>
       <p>- oraz wiele innych pomocy wykorzystywanych w codziennych czynnościach "na drodze"</p>
       <br>
       <p>Aplikacja w fazie beta, ewentualne napotkane błędy proszę zgłaszać za pomocą e-mail  jakubdrzmala95@gmail.com</p>
@@ -41,55 +29,10 @@
     </div>
     <div class="home">
       <div class="title"> TAryfikator POlicyjny24 </div>
-      <div class="date">2022-01-12</div>
+      <div class="date">2022-06-18</div>
       <div class="whats_news">Co nowego?</div>
-      <p>- Dodanie znaków poziomych (P)</p>
-      <p>- Dodanie kalkulatora punktów</p>
-      <p>- Dodanie sygnałów</p>
-      <p>- Korekta błędów merytorycznych</p>
-      <div class="version">{{ version }}</div>
-    </div>
-    <div class="home">
-      <div class="title"> TAryfikator POlicyjny24 </div>
-      <div class="date">2022-01-09</div>
-      <div class="whats_news">Co nowego?</div>
-      <p>- Dodanie znaków informacyjnych (D)</p>
-      <p>- Dodanie możliwości wyszukiwania po kodzie (np z 01)</p>
-      <p>- Korekta błędów merytorycznych</p>
-      <div class="version">{{ version }}</div>
-    </div>
-    <div class="home">
-      <div class="title"> TAryfikator POlicyjny24 </div>
-      <div class="date">2022-01-09</div>
-      <div class="whats_news">Co nowego?</div>
-      <p>- Dodanie znaków ostrzegawczych (A)</p>
-      <p>- Dodanie znaków nakazu (C)</p>
-      <div class="version">{{ version }}</div>
-    </div>
-    <div class="home">
-      <div class="title"> TAryfikator POlicyjny24 </div>
-      <div class="date">2022-01-09</div>
-      <div class="whats_news">Co nowego?</div>
-      <p>- Implementacja sekcji droga (dodanie znaków)</p>
-      <p>- Dodanie znaków zakazu (B)</p>
-      <div class="version">{{ version }}</div>
-    </div>
-    <div class="home">
-      <div class="title"> TAryfikator POlicyjny24 </div>
-      <div class="date">2022-01-07</div>
-      <div class="whats_news">Co nowego?</div>
-      <p>- Implementacja sekcji przepisy</p>
-      <p>- Dodanie wyszukiwarki kodów pocztowych (tylko on-line)</p>
-      <p>- Możliwość wyszukiwania kodów w formacie XX-XXX lub XXXXX (41-100 41100)</p>
-      <div class="version">{{ version }}</div>
-    </div>
-    <div class="home">
-      <div class="title"> TAryfikator POlicyjny24 </div>
-      <div class="date">2022-01-02</div>
-      <div class="whats_news">Co nowego?</div>
-      <p>- Wydanie 1 wersji aplikacji</p>
-      <p>- Zaimplementowano moduł taryfikatora</p>
-      <p>- Patronite weryfikacja</p>
+      <p>- Dodanie modułu śpb</p>
+      <p>- Poprawki w wyświetlaniu znaków</p>
       <div class="version">{{ version }}</div>
     </div>
   </div>
