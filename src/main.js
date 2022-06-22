@@ -89,6 +89,7 @@ new Vue({
   router,
   store,
   created () {
+    this.$store.commit('GET_PERMISSIONS')
     this.$store.commit('EXECUTE_OFFLINE_STACK_MODULE_NAME')
     const favoritesData = localStorage.getItem('favorites_array')
     if (favoritesData) {

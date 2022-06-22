@@ -30,7 +30,8 @@ export default {
   },
   computed: {
     ...mapState([
-      'block_ini_logo'
+      'block_ini_logo',
+      'permissions'
     ])
   },
   created () {
@@ -38,9 +39,21 @@ export default {
     this.$store.commit('GET_INSTALLATION_PARAM')
   },
   mounted () {
-    if (this.block_ini_logo) {
-      this.show_app()
-    } else setTimeout(this.show_app, 4001)
+    let permissions = localStorage.getItem('PERMISSIONS')
+    if (permissions) {
+      permissions = JSON.parse(permissions)
+      if (permissions.skipIntro === true) {
+        this.show_app()
+      } else {
+        if (this.block_ini_logo) {
+          this.show_app()
+        } else setTimeout(this.show_app, 4001)
+      }
+    } else {
+      if (this.block_ini_logo) {
+        this.show_app()
+      } else setTimeout(this.show_app, 4001)
+    }
     const nav = document.querySelector('.navbar')
     const searchBox = document.querySelector('#search_top_bar2')
     let lastScrollY = window.scrollY
