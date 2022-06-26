@@ -17,6 +17,10 @@
         <div class="icon"><i class="fas fa-history"></i></div>
         <div class="label">Link do historii pojazdu</div>
       </div>
+      <div class="element2" @click="globalGoTo('https://patronite.pl/tapo24', 'patronite', 'web')">
+        <img :src="require(`/src/assets/others/patronite.png`)" class="img2" alt="Sign"/>
+        <div class="label2">Wesprzyj nas</div>
+      </div>
       <div class="element" @click="globalGoTo('/Validation/', null)">
         <div class="icon"><i class="fas fa-clipboard-check"></i></div>
         <div class="label">Kontrola autentyczności dokumentów</div>
@@ -93,5 +97,25 @@ export default {
 @import "src/views/grid";
 img {
   width: 80px;
+}
+.img2 {
+  width: 120px;
+}
+.label2 {
+  font-size: 15px;
+  text-align: center;
+  font-weight: bold;
+}
+.element2 {
+  color: #0e0e0e;
+  background-color: rgb(253, 210, 60);
+  height: 100px;
+  padding: 3px 3px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 2px;
+  font-family: 'Readex Pro', sans-serif;
 }
 </style>

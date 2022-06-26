@@ -67,6 +67,31 @@ export default {
     localStorage.removeItem('BLOCKING')
     state.block_ini_logo = false
   },
+  GET_PERMISSIONS (state) {
+    const UID = localStorage.getItem('UID')
+    const headers = {
+      'Content-Type': 'application/json'
+    }
+    if (UID) {
+      if (navigator.onLine) {
+        const payload = {
+          uid: JSON.parse(UID)
+        }
+        axios
+          .post(state.path_api + '/installation/get_permissions', payload, { headers })
+          .then(response => {
+            state.permissions = response.data
+            localStorage.removeItem('PERMISSIONS')
+            localStorage.setItem('PERMISSIONS', JSON.stringify(state.permissions))
+          })
+      } else {
+        const permissions = localStorage.getItem('PERMISSIONS')
+        if (permissions) {
+          state.permissions = JSON.parse(permissions)
+        }
+      }
+    }
+  },
   GET_INSTALLATION_PARAM (state) {
     const UID = localStorage.getItem('UID')
     const headers = {
