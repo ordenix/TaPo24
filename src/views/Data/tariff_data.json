@@ -5456,7 +5456,7 @@
       "code": "H 05",
       "law_sub": {
         "1": "art. 94§1 KW Kto na drodze publicznej, w strefie zamieszkania lub strefie ruchu\nprowadzi pojazd mechaniczny, nie mając do tego uprawnienia,\npodlega karze aresztu, ograniczenia wolności albo grzywny nie niższej niż\n1500 złotych",
-        "2": "art. 94§2 KW Tej samej karze podlega, kto prowadzi na drodze publicznej, w strefie\nzamieszkania lub strefie ruchu pojazd pomimo braku dopuszczenia pojazdu do ruchuKW"
+        "2": "art. 94§2 KW Tej samej karze podlega, kto prowadzi na drodze publicznej, w strefie\nzamieszkania lub strefie ruchu pojazd pomimo braku dopuszczenia pojazdu do ruchu"
       },
       "paragraph_sub": {
         "1": "art. 71 ust. 1 PRD Dokumentem stwierdzającym dopuszczenie do ruchu pojazdu samochodowego, ciągnika rolniczego, pojazdu wolnobieżnego wchodzącego w skład kolejki turystycznej, motoroweru lub przyczepy jest dowód rejestracyjny albo pozwolenie czasowe. Przepis ten nie dotyczy pojazdów, o których mowa w ust. 3",
@@ -6302,7 +6302,7 @@
     {
       "info_tab_a_lp": "5",
       "category": "prevention",
-      "name": "Niezachowanie zwykłych lub nakazanych środków ostrożności przy trzyma-niu zwierzęcia",
+      "name": "Niezachowanie zwykłych lub nakazanych środków ostrożności przy trzymaniu zwierzęcia",
       "text": "art. 77 § 1 KW",
       "tax": "50-250",
       "points": null,
@@ -6321,7 +6321,7 @@
       "code": "null",
       "law_sub": {
         "1": "art. 77 § 1 KW Kto nie zachowuje zwykłych lub nakazanych środków ostrożności przy trzymaniu zwierzęcia,\npodlega karze ograniczenia wolności, grzywny do 1000 złotych albo karze nagany",
-        "2": "art. 77 § 1 KW Kto dopuszcza się czynu określonego w § 1 przy trzymaniu zwierzęcia, które swoim zachowaniem stwarza niebezpieczeństwo dla życia lub zdrowia człowieka,\npodlega karze ograniczenia wolności, grzywny albo karze nagany"
+        "2": "art. 77 § 2 KW Kto dopuszcza się czynu określonego w § 1 przy trzymaniu zwierzęcia, które swoim zachowaniem stwarza niebezpieczeństwo dla życia lub zdrowia człowieka,\npodlega karze ograniczenia wolności, grzywny albo karze nagany"
       },
       "paragraph": "",
       "path": null
@@ -7680,6 +7680,36 @@
         "15": "art. 14 ust. 4 u.w.t.p.a. Zabrania się sprzedaży i podawania napojów zawierających więcej niż 18%\nalkoholu w domach wypoczynkowych",
         "16": "art. 14 ust. 5 u.w.t.p.a. Sprzedaż, podawanie i spożywanie napojów zawierających więcej niż 4,5%\nalkoholu może się odbywać na imprezach na otwartym powietrzu oraz na\nstadionach i innych obiektach sportowych tylko za zezwoleniem i tylko\nw miejscach do tego wyznaczonych",
         "17": "art. 14 ust. 6 u.w.t.p.a. W innych niewymienionych miejscach, obiektach lub na określonych\nobszarach gminy, ze względu na ich charakter, rada gminy może wprowadzić\nczasowy lub stały zakaz sprzedaży, podawania, spożywania oraz wnoszenia\nnapojów alkoholowych"
+      },
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "category": "prevention",
+      "name": "Szalbierstwo ",
+      "text": "art. 121 KW",
+      "tax": "20-500",
+      "points": null,
+      "code": "null",
+      "law_sub": {
+        "1": "art. 121 § 1 KW Kto, pomimo nieuiszczenia dwukrotnie nałożonej na niego kary pieniężnej określonej w taryfie, po raz trzeci w ciągu roku bez zamiaru uiszczenia należności wyłudza przejazd koleją lub innym środkiem lokomocji,\npodlega karze aresztu, ograniczenia wolności albo grzywny",
+        "2": "art. 121 § 2 KW Tej samej karze podlega, kto bez zamiaru uiszczenia należności wyłudza pożywienie lub napój w zakładzie żywienia zbiorowego, przejazd środkiem lokomocji należącym do przedsiębiorstwa niedysponującego karami pieniężnymi określonymi w taryfie, wstęp na imprezę artystyczną, rozrywkową lub sportową, działanie automatu lub inne podobne świadczenie, o którym wie, że jest płatne.",
+        "3": "art. 121 § 3 KW W razie popełnienia wykroczenia określonego w § 2 można orzec obowiązek zapłaty równowartości wyłudzonego mienia."
+      },
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "category": "prevention",
+      "name": "Utrudnianie lub uniemożliwianie korzystania z urządzeń użytku publicznego",
+      "text": "art. 143 KW",
+      "tax": "20-500",
+      "points": null,
+      "code": "null",
+      "law_sub": {
+        "1": "art. 143 § 1 Kto ze złośliwości lub swawoli utrudnia lub uniemożliwia korzystanie z urządzeń przeznaczonych do użytku publicznego, a w szczególności uszkadza lub usuwa przyrząd alarmowy, instalację oświetleniową, zegar, automat, telefon, oznaczenie nazwy miejscowości, ulicy, placu lub nieruchomości, urządzenie służące do utrzymania czystości lub ławkę,\npodlega karze aresztu, ograniczenia wolności albo grzywny",
+        "2": "art. 143 § 2 W razie popełnienia wykroczenia można orzec obowiązek zapłaty równowartości wyrządzonej szkody albo obowiązek przywrócenia do stanu poprzedniego."
+
       },
       "paragraph": "",
       "path": null

@@ -149,10 +149,13 @@
           "vehicle": "pojazdem samochodowym o dopuszczalnej masie całkowitej nieprzekraczającej 3,5 t, z wyjątkiem autobusu i motocykla"
         },
         {
-          "vehicle": "zespołem pojazdów złożonym z pojazdu samochodowego o dopuszczalnej masie całkowitej nieprzekraczającej 3,5 t, z wyjątkiem autobusu i motocykla oraz z przyczepy lekkiej"
+          "vehicle": "zespołem pojazdów składających się z pojazdu samochodowego do 3,5 t (z wyjątkiem autobusu i motocykla) oraz przyczepy lekkiej (do 750 kg) o ile dmc nie przekracza 4250kg"
         },
         {
-          "vehicle": "zespołem pojazdów złożonym z pojazdu samochodowego o dopuszczalnej masie całkowitej nieprzekraczającej 3,5 t, z wyjątkiem autobusu i motocykla oraz z przyczepy innej niż lekka, o ile łączna dopuszczalna masa całkowita zespołu tych pojazdów nie przekracza 4250 kg o ile posiada zdaną część praktyczną egzaminu państwowego, potwierdzoną wpisem do prawa jazdy (kod 96)"
+          "vehicle": "zespołem pojazdów składających się z pojazdu samochodowego (z wyjątkiem autobusu i motocykla) oraz przyczepy innej niż lekka o ile dmc nie przekracza 3500kg"
+        },
+        {
+          "vehicle": "zespołem pojazdów składających się z pojazdu samochodowego (z wyjątkiem autobusu i motocykla) oraz przyczepy innej niż lekka jeżeli dmc przekracza 3500kg KOD 96 (do 4250kg)"
         },
         {
           "vehicle": "motorowerem"
