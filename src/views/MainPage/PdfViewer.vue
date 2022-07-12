@@ -1,6 +1,7 @@
 <template>
   <div>
     {{$route.params.pdf_name}}
+    {{master_path + $route.params.pdf_path}}
     <div id="pdf_container">
       <div class="top_bar">
         <div class="close" @click="close_pdf">Zamknij <i class="fas fa-times"></i></div>

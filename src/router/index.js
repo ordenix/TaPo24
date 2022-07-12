@@ -197,7 +197,7 @@ const routes = [
     component: HomeAlcohol
   },
   {
-    path: '/PdfViewer/:pdf_name/:pdf_patch',
+    path: '/PdfViewer/:pdf_name/:pdf_path',
     name: 'PdfViewer',
     component: PdfViewer
   },

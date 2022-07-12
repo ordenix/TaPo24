@@ -97,7 +97,7 @@ export default {
       this.$store.state.open_pdf = false
     },
     gen_pdf (path, fileName) {
-      this.$router.push({ name: 'PdfViewer', params: { pdf_name: fileName, pdf_patch: path } })
+      this.$router.push({ name: 'PdfViewer', params: { pdf_name: fileName, pdf_path: path } })
     },
     gen_pdf2 (path, fileName) {
       if (navigator.onLine) {
