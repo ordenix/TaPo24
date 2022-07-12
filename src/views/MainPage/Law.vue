@@ -42,8 +42,6 @@
 
 <script>
 
-import axios from 'axios'
-
 export default {
   name: 'Law.vue',
   components: {
@@ -64,8 +62,6 @@ export default {
   },
   data () {
     return {
-      adobe_key: '2023be3e7c604da78217a23dda3c8229',
-      adobeApiReady: false,
       law_list: [
         { name: 'Prawo o ruchu drogowym', path: 'PRD.pdf', icon: 'fas fa-car', short: 'PRD' },
         { name: 'Kodeks Wykroczeń', path: 'KW.pdf', icon: 'fas fa-gavel', short: 'KW' },
@@ -86,49 +82,17 @@ export default {
         { name: 'Kodeks postępowania o wykr.', path: 'KPOW.pdf', icon: 'fas fa-book', short: 'KPOW' },
         { name: 'Kodeks postępowania karnego', path: 'KPA.pdf', icon: 'fas fa-book', short: 'KPK' }
       ],
-      master_path: 'https://tapo24.pl/static/',
       serach_text: ''
     }
   },
   methods: {
-    // TODO create new viewer in other page
     close_pdf () {
       document.getElementById('pdf_container').style.visibility = 'hidden'
       this.$store.state.open_pdf = false
     },
     gen_pdf (path, fileName) {
       this.$router.push({ name: 'PdfViewer', params: { pdf_name: fileName, pdf_path: path } })
-    },
-    gen_pdf2 (path, fileName) {
-      if (navigator.onLine) {
-        const headers = {
-          'Content-Type': 'application/json'
-        }
-        const data = {
-          moduleName: path
-        }
-        axios
-          .post(this.$store.state.path_api + '/module_clicked', data, { headers })
-      } else {
-        this.$store.commit('ADD_TO_OFFLINE_STACK_MODULE_NAME', path)
-      }
-      this.$router.push({ name: 'PdfViewer', params: { pdf_name: fileName, pdf_patch: path } })
-      this.adobeDCView = new window.AdobeDC.View({ clientId: this.adobe_key, divId: 'adobe-dc-view' })
-      this.adobeDCView.previewFile({
-        content: { location: { url: this.master_path + path } },
-        metaData: { fileName: fileName }
-      }, { embedMode: 'FULL_WINDOW', showLeftHandPanel: true })
-      document.getElementById('pdf_container').style.visibility = 'visible'
-      this.$store.state.open_pdf = true
     }
-  },
-  mounted () {
-    const AdobeDC = document.createElement('script')
-    AdobeDC.setAttribute('src', 'https://documentcloud.adobe.com/view-sdk/main.js')
-    document.head.appendChild(AdobeDC)
-    document.addEventListener('adobe_dc_view_sdk.ready', () => {
-      this.adobeApiReady = true
-    })
   }
 }
 </script>
