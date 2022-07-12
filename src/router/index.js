@@ -32,6 +32,7 @@ import SpeedCalc from '@/views/HelpersModule/SpeedCalc'
 import Alcohol from '@/views/RoadsModule/Alcohol'
 import Homeless from '@/views/RoadsModule/HomelessAlco'
 import HomeAlcohol from '@/views/RoadsModule/HomeAlcohol'
+import PdfViewer from '@/views/MainPage/PdfViewer'
 Vue.use(VueRouter)
 
 const routes = [
@@ -194,6 +195,11 @@ const routes = [
     path: '/HomeAlcohol/',
     name: 'HomeAlcohol',
     component: HomeAlcohol
+  },
+  {
+    path: '/PdfViewer/:pdf_name/:pdf_patch',
+    name: 'PdfViewer',
+    component: PdfViewer
   },
   {
     path: '/about',

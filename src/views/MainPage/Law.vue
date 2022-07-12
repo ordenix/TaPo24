@@ -109,6 +109,7 @@ export default {
       } else {
         this.$store.commit('ADD_TO_OFFLINE_STACK_MODULE_NAME', path)
       }
+      this.$router.push({ name: 'PdfViewer', params: { pdf_name: fileName, pdf_patch: path } })
       this.adobeDCView = new window.AdobeDC.View({ clientId: this.adobe_key, divId: 'adobe-dc-view' })
       this.adobeDCView.previewFile({
         content: { location: { url: this.master_path + path } },
