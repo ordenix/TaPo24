@@ -95,6 +95,9 @@ export default {
     }
   },
   created () {
+    document.addEventListener('select', () => {
+      console.log('on_change')
+    })
     if (!navigator.onLine) this.new_search = false
     // const log = document.getElementById('buttonIn')
     // document.addEventListener('keyup', () => {

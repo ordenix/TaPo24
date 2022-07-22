@@ -7707,8 +7707,69 @@
       "points": null,
       "code": "null",
       "law_sub": {
-        "1": "art. 143 § 1 Kto ze złośliwości lub swawoli utrudnia lub uniemożliwia korzystanie z urządzeń przeznaczonych do użytku publicznego, a w szczególności uszkadza lub usuwa przyrząd alarmowy, instalację oświetleniową, zegar, automat, telefon, oznaczenie nazwy miejscowości, ulicy, placu lub nieruchomości, urządzenie służące do utrzymania czystości lub ławkę,\npodlega karze aresztu, ograniczenia wolności albo grzywny",
-        "2": "art. 143 § 2 W razie popełnienia wykroczenia można orzec obowiązek zapłaty równowartości wyrządzonej szkody albo obowiązek przywrócenia do stanu poprzedniego."
+        "1": "art. 143 § 1 KW Kto ze złośliwości lub swawoli utrudnia lub uniemożliwia korzystanie z urządzeń przeznaczonych do użytku publicznego, a w szczególności uszkadza lub usuwa przyrząd alarmowy, instalację oświetleniową, zegar, automat, telefon, oznaczenie nazwy miejscowości, ulicy, placu lub nieruchomości, urządzenie służące do utrzymania czystości lub ławkę,\npodlega karze aresztu, ograniczenia wolności albo grzywny",
+        "2": "art. 143 § 2 KW W razie popełnienia wykroczenia można orzec obowiązek zapłaty równowartości wyrządzonej szkody albo obowiązek przywrócenia do stanu poprzedniego."
+
+      },
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "category": "prevention",
+      "name": "Niszczenie lub uszkadzanie roślinności na terenach przeznaczonych do użytku publicznego",
+      "text": "art. 144 KW",
+      "tax": "20-500",
+      "points": null,
+      "code": "null",
+      "law_sub": {
+        "1": "art. 144 § 1 KW Kto na terenach przeznaczonych do użytku publicznego niszczy lub uszkadza roślinność lub też dopuszcza do niszczenia roślinności przez zwierzęta znajdujące się pod jego nadzorem albo na terenach przeznaczonych do użytku publicznego depcze trawnik lub zieleniec w miejscach innych niż wyznaczone dla celów rekreacji przez właściwego zarządcę terenu,\npodlega karze grzywny do 1.000 złotych albo karze nagany",
+        "2": "art. 144 § 2 KW Kto usuwa, niszczy lub uszkadza drzewa lub krzewy stanowiące zadrzewienie przydrożne lub ochronne albo żywopłot przydrożny,\npodlega karze aresztu, ograniczenia wolności albo grzywny",
+        "3": "art. 144 § 3 KW W razie popełnienia wykroczenia określonego w § 1 lub 2 można orzec nawiązkę do wysokości 500 złotych"
+
+      },
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "category": "prevention",
+      "name": "Nieuprawniony wjazd pojazdem do lasu",
+      "text": "art. 161 KW",
+      "tax": "20-500",
+      "points": null,
+      "code": "null",
+      "law_sub": {
+        "1": "art. 161 KW Kto, nie będąc do tego uprawniony albo bez zgody właściciela lub posiadacza lasu, wjeżdża pojazdem silnikowym, zaprzęgowym lub motorowerem do nienależącego do niego lasu w miejscu, w którym jest to niedozwolone, albo pozostawia taki pojazd w lesie w miejscu do tego nieprzeznaczonym,\npodlega karze grzywny."
+
+      },
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "category": "prevention",
+      "name": "Zanieczyszczanie lasu",
+      "text": "art. 162 KW",
+      "tax": "20-500",
+      "points": null,
+      "code": "null",
+      "law_sub": {
+        "1": "art. 162 § 1  KW Kto w lasach zanieczyszcza glebę lub wodę albo wyrzuca do lasu kamienie, śmieci, złom, padlinę lub inne nieczystości, albo w inny sposób zaśmieca las,\npodlega karze grzywny albo karze nagany",
+        "2": "art. 162 § 2  KW Jeżeli czyn sprawcy polega na zakopywaniu, zatapianiu, odprowadzaniu do gruntu w lasach lub w inny sposób składowaniu w lesie odpadów, sprawca\npodlega karze aresztu albo grzywny.",
+        "3": "art. 162 § 3  KW W razie popełnienia wykroczenia określonego w § 1 można orzec nawiązkę, a w razie popełnienia wykroczenia określonego w § 2 orzeka się nawiązkę - do wysokości równej kosztom rekultywacji gleby, oczyszczenia wody, wydobycia, wykopania, usunięcia z lasu, a także zniszczenia lub neutralizacji odpadów"
+
+      },
+      "paragraph": "",
+      "path": null
+    },
+    {
+      "visible": false,
+      "category": "prevention",
+      "name": "xxxxxxxxxxxxxxxxxx",
+      "text": "art. xxxxxxxxxxxxxxxxx KW",
+      "tax": "20-500",
+      "points": null,
+      "code": "null",
+      "law_sub": {
+        "1": "art. xxxxxxxxxxxxx § xxxxxxxxxxx  KW"
 
       },
       "paragraph": "",
