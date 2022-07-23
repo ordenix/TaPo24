@@ -80,7 +80,13 @@ export default {
         { name: 'Rozp. ws. badań alk. w organizmie', path: 'AL.pdf', icon: 'fas fa-glass-cheers', short: 'alko' },
         { name: 'Rozp. ws. badań na substancje', path: 'KRNARK.pdf', icon: 'fas fa-cannabis', short: 'narko' },
         { name: 'Kodeks postępowania o wykr.', path: 'KPOW.pdf', icon: 'fas fa-book', short: 'KPOW' },
-        { name: 'Kodeks postępowania karnego', path: 'KPA.pdf', icon: 'fas fa-book', short: 'KPK' }
+        { name: 'Kodeks postępowania karnego', path: 'KPA.pdf', icon: 'fas fa-book', short: 'KPK' },
+        { name: 'Ustawa o bezp. imprez masowych', path: 'UOBIM.pdf', icon: 'fa-solid fa-calendar-check', short: 'UOBIA' },
+        { name: 'Ustawa o [...] wyrobów tytoniowych ', path: 'UOZPNUTWT.pdf', icon: 'fa-solid fa-smoking', short: 'Ustawa o ochronie zdrowia przed następstwami używania tytoniu i wyrobów tytoniowych' },
+        { name: 'Ustawa o [...] alkoholizmowi', path: 'UWTPA.pdf', icon: 'fa-solid fa-champagne-glasses', short: 'Ustawa o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi UWTPA' },
+        { name: 'Ustawa o ochronie zwierząt', path: 'UOOZ.pdf', icon: 'fa-solid fa-dog', short: 'zzzzzzzzzzzzz' },
+        { name: 'Ustawa o broni i amunicji', path: 'UOBIA.pdf', icon: 'fa-solid fa-gun', short: 'zzzzzzzzzzzzz' },
+        { name: 'Ustawa o przeciwdział. narkomanii', path: 'UOPDN.pdf', icon: 'fa-solid fa-pills', short: 'Ustawa o przeciwdziałaniu narkomanii' }
       ],
       serach_text: ''
     }

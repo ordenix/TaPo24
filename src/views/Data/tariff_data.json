@@ -6238,6 +6238,21 @@
       "path": null
     },
     {
+      "category": "others",
+      "name": "Brak nalepki kontrolnej",
+      "text": "art.97 KW w zw. z § 40 Rozporządzenia Ministra Infrastruktury i Budownictwa z dnia 11 grudnia 2017 r. w sprawie rejestracji i oznaczania pojazdów oraz wymagań dla tablic rejestracyjnych",
+      "tax": "20-3000",
+      "points": 0,
+      "code": "Z 01",
+      "law": "art. 97 KW Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. –Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie,podlega karze grzywny do 3000 złotych albo karze nagany",
+      "paragraph_sub": {
+        "1": "Rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 11 grudnia 2017 r. w sprawie rejestracji i oznaczania pojazdów oraz wymagań dla tablic rejestracyjnych",
+        "2": "§ 40. 1. Pojazd samochodowy, z wyjątkiem motocykla, oznacza się nalepką kontrolną, na której jest umieszczony numer rejestracyjny pojazdu.",
+        "3": "§ 40. 2. Właściciel pojazdu umieszcza nalepkę kontrolną wewnątrz pojazdu w prawym dolnym rogu przedniej szyby."
+      },
+      "path": null
+    },
+    {
       "info_tab_a_lp": "1",
       "category": "prevention",
       "name": "Zakłócenie spokoju, porządku publicznego, spoczynku nocnego albo wywoływanie\nzgorszenia w miejscu publicznym",

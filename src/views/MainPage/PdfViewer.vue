@@ -17,9 +17,9 @@ export default {
   name: 'PdfViewer',
   data () {
     return {
-      adobe_key: '7c43e907d7a144f181e76e77153f738b',
+      adobe_key: '2023be3e7c604da78217a23dda3c8229',
       adobeApiReady: false,
-      master_path: 'https://beta.tapo24.pl/static/'
+      master_path: 'https://tapo24.pl/static/'
     }
   },
   methods: {
