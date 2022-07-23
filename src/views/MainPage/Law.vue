@@ -42,8 +42,6 @@
 
 <script>
 
-import axios from 'axios'
-
 export default {
   name: 'Law.vue',
   components: {
@@ -64,8 +62,6 @@ export default {
   },
   data () {
     return {
-      adobe_key: '2023be3e7c604da78217a23dda3c8229',
-      adobeApiReady: false,
       law_list: [
         { name: 'Prawo o ruchu drogowym', path: 'PRD.pdf', icon: 'fas fa-car', short: 'PRD' },
         { name: 'Kodeks Wykroczeń', path: 'KW.pdf', icon: 'fas fa-gavel', short: 'KW' },
@@ -84,47 +80,25 @@ export default {
         { name: 'Rozp. ws. badań alk. w organizmie', path: 'AL.pdf', icon: 'fas fa-glass-cheers', short: 'alko' },
         { name: 'Rozp. ws. badań na substancje', path: 'KRNARK.pdf', icon: 'fas fa-cannabis', short: 'narko' },
         { name: 'Kodeks postępowania o wykr.', path: 'KPOW.pdf', icon: 'fas fa-book', short: 'KPOW' },
-        { name: 'Kodeks postępowania karnego', path: 'KPA.pdf', icon: 'fas fa-book', short: 'KPK' }
+        { name: 'Kodeks postępowania karnego', path: 'KPA.pdf', icon: 'fas fa-book', short: 'KPK' },
+        { name: 'Ustawa o bezp. imprez masowych', path: 'UOBIM.pdf', icon: 'fa-solid fa-calendar-check', short: 'UOBIA' },
+        { name: 'Ustawa o [...] wyrobów tytoniowych ', path: 'UOZPNUTWT.pdf', icon: 'fa-solid fa-smoking', short: 'Ustawa o ochronie zdrowia przed następstwami używania tytoniu i wyrobów tytoniowych' },
+        { name: 'Ustawa o [...] alkoholizmowi', path: 'UWTPA.pdf', icon: 'fa-solid fa-champagne-glasses', short: 'Ustawa o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi UWTPA' },
+        { name: 'Ustawa o ochronie zwierząt', path: 'UOOZ.pdf', icon: 'fa-solid fa-dog', short: 'zzzzzzzzzzzzz' },
+        { name: 'Ustawa o broni i amunicji', path: 'UOBIA.pdf', icon: 'fa-solid fa-gun', short: 'zzzzzzzzzzzzz' },
+        { name: 'Ustawa o przeciwdział. narkomanii', path: 'UOPDN.pdf', icon: 'fa-solid fa-pills', short: 'Ustawa o przeciwdziałaniu narkomanii' }
       ],
-      master_path: 'https://tapo24.pl/static/',
       serach_text: ''
     }
   },
   methods: {
-    // TODO create new viewer in other page
     close_pdf () {
       document.getElementById('pdf_container').style.visibility = 'hidden'
       this.$store.state.open_pdf = false
     },
     gen_pdf (path, fileName) {
-      if (navigator.onLine) {
-        const headers = {
-          'Content-Type': 'application/json'
-        }
-        const data = {
-          moduleName: path
-        }
-        axios
-          .post(this.$store.state.path_api + '/module_clicked', data, { headers })
-      } else {
-        this.$store.commit('ADD_TO_OFFLINE_STACK_MODULE_NAME', path)
-      }
-      this.adobeDCView = new window.AdobeDC.View({ clientId: this.adobe_key, divId: 'adobe-dc-view' })
-      this.adobeDCView.previewFile({
-        content: { location: { url: this.master_path + path } },
-        metaData: { fileName: fileName }
-      }, { embedMode: 'FULL_WINDOW', showLeftHandPanel: true })
-      document.getElementById('pdf_container').style.visibility = 'visible'
-      this.$store.state.open_pdf = true
+      this.$router.push({ name: 'PdfViewer', params: { pdf_name: fileName, pdf_path: path } })
     }
-  },
-  mounted () {
-    const AdobeDC = document.createElement('script')
-    AdobeDC.setAttribute('src', 'https://documentcloud.adobe.com/view-sdk/main.js')
-    document.head.appendChild(AdobeDC)
-    document.addEventListener('adobe_dc_view_sdk.ready', () => {
-      this.adobeApiReady = true
-    })
   }
 }
 </script>

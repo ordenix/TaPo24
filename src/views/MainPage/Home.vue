@@ -21,6 +21,7 @@
       <p>Aktualnie aplikacja posiada moduł taryfikatora, wyszukiwarki kodów pocztowych oraz przepisów </p>
       <p>Docelowo mają być zaimplementowane dodatkowe moduły i pomoce:</p>
       <p>- szczegółowe opisy znaków i sygnałów drogowych</p>
+      <p>- kalkulator trzeźwości</p>
       <p>- oraz wiele innych pomocy wykorzystywanych w codziennych czynnościach "na drodze"</p>
       <br>
       <p>Aplikacja w fazie beta, ewentualne napotkane błędy proszę zgłaszać za pomocą e-mail  jakubdrzmala95@gmail.com</p>
@@ -29,10 +30,13 @@
     </div>
     <div class="home">
       <div class="title"> TAryfikator POlicyjny24 </div>
-      <div class="date">2022-06-18</div>
+      <div class="date">2022-07-19</div>
       <div class="whats_news">Co nowego?</div>
-      <p>- Dodanie modułu śpb</p>
-      <p>- Poprawki w wyświetlaniu znaków</p>
+      <p>- Dodanie modułu szybkiego notatnika</p>
+      <p>- Poprawki w wyświetlaniu plików pdf</p>
+      <p>- Dodanie nowych ustaw i rozporządzeń</p>
+      <p>- Dodanie nowych wykroczeń porządkowych</p>
+      <p>- Bieżące poprawki</p>
       <div class="version">{{ version }}</div>
     </div>
   </div>
